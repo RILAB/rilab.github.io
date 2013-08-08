@@ -1,4 +1,8 @@
- **Pyh\"aj\"arvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**$^\S$ (2013) Complex patterns of local adaptation in teosinte. textsc{Genome Biology and Evolution** \emph{In Press: Online Early Access** 
+---------
+title: Publications
+---------
+
+**Pyh\"aj\"arvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**$^\S$ (2013) Complex patterns of local adaptation in teosinte. textsc{Genome Biology and Evolution** \emph{In Press: Online Early Access** 
 %Preprint: \emph{http://arxiv.org/abs/1208.0634**
 
  Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) From many, one: genetic control of prolificacy during maize domestication. \textsc{PLoS Genetics** 9(6): e1003604. %Preprint: \emph{http://arxiv.org/abs/1303.0882**
