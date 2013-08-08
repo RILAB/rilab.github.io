@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: This will be used as the title-tag of the page head
 ---
 
 **Pyh\"aj\"arvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**$^\S$ (2013) Complex patterns of local adaptation in teosinte. textsc{Genome Biology and Evolution** \emph{In Press: Online Early Access** 
