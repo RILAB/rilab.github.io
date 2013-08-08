@@ -5,27 +5,27 @@ title: Publications
 **Pyh\"aj\"arvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**$^\S$ (2013) Complex patterns of local adaptation in teosinte. textsc{Genome Biology and Evolution** \emph{In Press: Online Early Access** 
 %Preprint: \emph{http://arxiv.org/abs/1208.0634**
 
- Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) From many, one: genetic control of prolificacy during maize domestication. \textsc{PLoS Genetics** 9(6): e1003604. %Preprint: \emph{http://arxiv.org/abs/1303.0882**
+Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) From many, one: genetic control of prolificacy during maize domestication. \textsc{PLoS Genetics** 9(6): e1003604. %Preprint: \emph{http://arxiv.org/abs/1303.0882**
 
- McCouch S, Baute GJ, Bradeen J, Bramel P, Bretting PK, Buckler E, Burke JM, Charest D, Cloutier S, Cole G, Dempewolf H, Dingkuhn M, Feuillet C, Gepts, P, Grattapaglia D, Guarino L, Jackson S, Knapp S, Langridge P, Lawton-Rauh A, Lijua Q, Lusty C, Michael T, Myles S, Naito K, Nelson RL, Pontarollo R, Richards CM, Rieseberg L, **Ross-Ibarra J**, Rounsley S, Hamilton RS, Schurr U, Stein N, Tomooka N, van der Knaap E, van Tassel D, Toll J, Valls J, Varshney RK, Ward J, Waugh R, Wenzl P, Zamir. (2013) Agriculture: Feeding the future. \textsc{Nature** 499:23-24
+McCouch S, Baute GJ, Bradeen J, Bramel P, Bretting PK, Buckler E, Burke JM, Charest D, Cloutier S, Cole G, Dempewolf H, Dingkuhn M, Feuillet C, Gepts, P, Grattapaglia D, Guarino L, Jackson S, Knapp S, Langridge P, Lawton-Rauh A, Lijua Q, Lusty C, Michael T, Myles S, Naito K, Nelson RL, Pontarollo R, Richards CM, Rieseberg L, **Ross-Ibarra J**, Rounsley S, Hamilton RS, Schurr U, Stein N, Tomooka N, van der Knaap E, van Tassel D, Toll J, Valls J, Varshney RK, Ward J, Waugh R, Wenzl P, Zamir. (2013) Agriculture: Feeding the future. \textsc{Nature** 499:23-24
 
- **Hufford MB**, Lubinsky P, **Pyh\"aj\"arvi T**, **Devengenzo MT**$^\ddagger$, Ellstrand NC, **Ross-Ibarra J**$^\S$ (2013) The genomic signature of crop-wild introgression in maize. \textsc{PLoS Genetics** 9(5): e1003477. %Preprint: \emph{http://arxiv.org/abs/1208.3894**
+**Hufford MB**, Lubinsky P, **Pyh\"aj\"arvi T**, **Devengenzo MT**$^\ddagger$, Ellstrand NC, **Ross-Ibarra J**$^\S$ (2013) The genomic signature of crop-wild introgression in maize. \textsc{PLoS Genetics** 9(5): e1003477. %Preprint: \emph{http://arxiv.org/abs/1208.3894**
 
- **Provance MC**$^\S$, Garcia Ruiz I, **Thommes C**$^\ddagger$, **Ross-Ibarra J** (2013) Population Studies of \emph{Diospyros riojae** (Ebenaceae), an endangered fruit crop from Mexico. \textsc{Genetic Resources and Crop Evolution** \emph{In Press**.
+**Provance MC**$^\S$, Garcia Ruiz I, **Thommes C**$^\ddagger$, **Ross-Ibarra J** (2013) Population Studies of \emph{Diospyros riojae** (Ebenaceae), an endangered fruit crop from Mexico. \textsc{Genetic Resources and Crop Evolution** \emph{In Press**.
 %Preprint: \emph{http://dx.doi.org/10.6084/m9.figshare.105841**
 
- Melters DP$^*$, Bradnam KR$^*$, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**$^\S$, Korf IF$^\S$, Chan SW-L. (2013) Patterns of centromere tandem repeat evolution in 282 animal and plant genomes. \textsc{Genome Biology** 14:R10 
+Melters DP$^*$, Bradnam KR$^*$, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**$^\S$, Korf IF$^\S$, Chan SW-L. (2013) Patterns of centromere tandem repeat evolution in 282 animal and plant genomes. \textsc{Genome Biology** 14:R10 
 %Preprint: \emph{http://arxiv.org/abs/1209.4967**
 
- Kanizay LB, **Pyh\"aj\"arvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in \emph{Zea mays**. \textsc{Heredity** 110: 570-577.
+Kanizay LB, **Pyh\"aj\"arvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in \emph{Zea mays**. \textsc{Heredity** 110: 570-577.
 
- **Hufford MB**, **Bilinski P**, **Pyh\"aj\"arvi T**, **Ross-Ibarra J**$^\S$ (2012) Teosinte as a model system for population and ecological genomics. \textsc{Trends in Genetics** 12:606-615$^\dagger$
+**Hufford MB**, **Bilinski P**, **Pyh\"aj\"arvi T**, **Ross-Ibarra J**$^\S$ (2012) Teosinte as a model system for population and ecological genomics. \textsc{Trends in Genetics** 12:606-615$^\dagger$
 
- Mu\~{n**oz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI (2012) Using nextgen sequencing to investigate genome size variation and transposable element content.  \emph{In** \textsc{Topics in Current Genetics: Plant Transposable Elements - Impact on Genome Structure \& Function**. \emph{In press**
+Mu\~{n**oz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI (2012) Using nextgen sequencing to investigate genome size variation and transposable element content.  \emph{In** \textsc{Topics in Current Genetics: Plant Transposable Elements - Impact on Genome Structure \& Function**. \emph{In press**
 
-  **van Heerwaarden J**$^\S$, **Hufford MB**, **Ross-Ibarra J**$^\S$ (2012) Historical genomics of North American maize. \textsc{PNAS** 109: 12420-12425
+**van Heerwaarden J**$^\S$, **Hufford MB**, **Ross-Ibarra J**$^\S$ (2012) Historical genomics of North American maize. \textsc{PNAS** 109: 12420-12425
 
- Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM.  Reshaping of the maize transcriptome by domestication. (2012) \textsc{PNAS**  109: 11878-11883
+Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM.  Reshaping of the maize transcriptome by domestication. (2012) \textsc{PNAS**  109: 11878-11883
 
  **Hufford MB**$^*$, Xun X$^*$, **van Heerwaarden J**$^*$, **Pyh\"aj\"arvi T**$^*$, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES$^\S$, Yang S$^\S$, **Ross-Ibarra J**$^\S$ (2012) Comparative population genomics of maize domestication and improvement. \textsc{Nature Genetics** 44:808-811$^\dagger$
 
