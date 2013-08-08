@@ -1,6 +1,6 @@
----------
+---
 title: Publications
----------
+---
 
 **Pyh\"aj\"arvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**$^\S$ (2013) Complex patterns of local adaptation in teosinte. textsc{Genome Biology and Evolution** \emph{In Press: Online Early Access** 
 %Preprint: \emph{http://arxiv.org/abs/1208.0634**
