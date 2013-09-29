@@ -58,16 +58,5 @@ title: Publications and Data
 
 * Whitney KD, Baack EJ, Hamrick JL, Godt, MJW, Barringer BC, Bennet MD, Eckert CG, Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J** (2010) A role for nonadaptive processes in plant genome size evolution? *Evolution* 64: 2097-2109
 
-* **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) Fine scale genetic structure in the wild ancestor of maize (*Zea mays* ssp. *parviglumis*). *Molecular Ecology** 19: 1162-1173
-
-* Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* 8: e1000327
-
-* Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants. *Molecular Biology and Evolution* 27: 409-416
-
-* **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) Genetic diversity in a crop metapopulation. *Heredity** 104: 28-39
-
-###2009
-
-* Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. *Science 326**: 1115-1117
 
 
