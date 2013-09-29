@@ -52,8 +52,6 @@ title: Publications and Data
 
 ###2010
 
-* Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB (2010) Patterns of population structure and environmental associations to aridity across the range of loblolly pine ( *Pinus taeda* L, Pinaceae ). *Genetics* 185: 969-982
-
 * Fuchs EJ, **Ross-Ibarra J**, Barrantes G (2010) Reproductive biology of *Macleania rupestris* (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica. *Journal of Tropical Ecology* 26: 351-354
 
 * Whitney KD, Baack EJ, Hamrick JL, Godt, MJW, Barringer BC, Bennet MD, Eckert CG, Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J** (2010) A role for nonadaptive processes in plant genome size evolution? *Evolution* 64: 2097-2109
