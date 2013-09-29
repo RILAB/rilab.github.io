@@ -72,37 +72,3 @@ title: Publications and Data
 
 * **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. *PLoS ONE* 4: e8346
 
-* Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) Selection on grain shattering genes and rates of rice domestication. *New Phytologist* 184: 708-720
-
-* **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea. *Genetics* 181: 1399-1413
-
-###2008
-
-* **Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS (2008) Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*. *PLoS ONE* 3: e2411
-
-* Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*. PNAS 105: 13965-13970
-
-* **Ross-Ibarra J**, Gaut BS (2008) Multiple domestications do not appear monophyletic. PNAS 105: E105
-
-* Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. *Science* 320: 484-486
-
-###2007
-
-* **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* 104 Suppl 1: 8641-8648
-
-* **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. *Journal of Evolutionary Biology* 20: 800-806
-
-###2001-2006
-
-* Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ (2006) Mitochondrial DNA and population size. *Science* 314: 1388-90
-
-* **Ross-Ibarra J** (2005) Quantitative trait loci and the study of plant domestication. *Genetica** 123: 197-204
-
-* **Ross-Ibarra J** (2004) The evolution of recombination under domestication: a test of two hypotheses. *American Naturalist* 163: 105-112
-
-* **Ross-Ibarra J** (2003) Origin and domestication of chaya (*Cnidoscolus aconitifolius* Mill I. M. Johnst): Mayan spinach. *Mexican Studies* 19: 287-302
-
-* **Ross-Ibarra J**, Molina-Cruz A (2002) The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable. *Economic Botany* 56: 350-365.
-
-* Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum* (Polygonaceae). *American Journal of Botany* 88: 1214-1222
-
