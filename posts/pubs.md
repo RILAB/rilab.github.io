@@ -70,5 +70,4 @@ title: Publications and Data
 
 * Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. *Science 326**: 1115-1117
 
-* **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. *PLoS ONE* 4: e8346
 
