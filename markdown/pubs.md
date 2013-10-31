@@ -38,13 +38,13 @@
 
 * **Hufford MB**, Lubinsky P, **Pyhajarvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477). *PLoS Genetics* 9(5): e1003477 
 
-	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div>
+	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
-* **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gómez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
+* **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
 
 	[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)
 
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
+	<div class="impactstory-embed" data-id="10.1007/s10722-013-0015-z" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
 
 * Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. (2013) [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10). *Genome Biology* 14: R10 
@@ -109,12 +109,9 @@
 
 	<div class="impactstory-embed" data-id="21070423" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
-
 * Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** (2011) Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*. *Genome Biology and Evolution* 3: 219-229
 
 	<div class="impactstory-embed" data-id="21296765" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
-
-
 
 ### 2010
 
@@ -140,12 +137,9 @@
 
 	<div class="impactstory-embed" data-id="20163543" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
-
-
 * Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* 8: e1000327
 
 	<div class="impactstory-embed" data-id="20231874" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
-
 
 * Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants. *Molecular Biology and Evolution* 27: 409-416
 
@@ -229,15 +223,15 @@
 
 * **Ross-Ibarra J** (2004) The evolution of recombination under domestication: a test of two hypotheses. *American Naturalist* 163: 105-112
 
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
+	<div class="impactstory-embed" data-id="14767840" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
 * **Ross-Ibarra J** (2003) Origin and domestication of chaya (*Cnidoscolus aconitifolius* Mill I. M. Johnst): Mayan spinach. *Mexican Studies* 19: 287-302
   
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
+	<div class="impactstory-embed" data-id="10.1525/msem.2003.19.2.287" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
 * **Ross-Ibarra J**, Molina-Cruz A (2002) The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable. *Economic Botany* 56: 350-365.
 
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
+	<div class="impactstory-embed" data-id="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
 * Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum* (Polygonaceae). *American Journal of Botany* 88: 1214-1222
 
