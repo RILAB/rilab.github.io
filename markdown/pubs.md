@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
+
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
 <br>
 
@@ -12,6 +14,10 @@
 ### In Press
 
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://arxiv.org/abs/1307.7678). *PNAS* *In Press*
+
+<div class="impactstory-embed" data-id="19210768" data-id-type="pmid" data-api-key="API-DOCS">
+   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
+</div>
 
 ### 2013
 
