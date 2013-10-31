@@ -21,7 +21,7 @@
 
 	- [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)<br><br>  
 
-<br><div class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS">
+<br><div class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
    <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
 </div><br>
 
@@ -30,11 +30,19 @@
 
 	- [data](http://figshare.com/articles/Wills_et_al_2013/775358)<br><br>
 
+<br><div class="impactstory-embed" data-id="23825971" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
+   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
+</div><br>
+
 * McCouch S, Baute GJ, Bradeen J, Bramel P, Bretting PK, Buckler E, Burke JM, Charest D, Cloutier S, Cole G, Dempewolf H, Dingkuhn M, Feuillet C, Gepts, P, Grattapaglia D, Guarino L, Jackson S, Knapp S, Langridge P, Lawton-Rauh A, Lijua Q, Lusty C, Michael T, Myles S, Naito K, Nelson RL, Pontarollo R, Richards CM, Rieseberg L, **Ross-Ibarra J**, Rounsley S, Hamilton RS, Schurr U, Stein N, Tomooka N, van der Knaap E, van Tassel D, Toll J, Valls J, Varshney RK, Ward J, Waugh R, Wenzl P, Zamir. (2013) [Agriculture: Feeding the future](http://www.nature.com/nature/journal/v499/n7456/full/499023a.html). *Nature* 499:23-24
 
     - [pdf](pdfs/McCouch2013.pdf)<br><br>
 
 * **Hufford MB**, Lubinsky P, **Pyhajarvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477). *PLoS Genetics* 9(5): e1003477 
+
+<br><div class="impactstory-embed" data-id="23671421" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
+   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
+</div><br>
 
 * **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gómez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
 	- [preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)<br><br>
@@ -86,6 +94,10 @@
 * **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) Fine scale genetic structure in the wild ancestor of maize (*Zea mays* ssp. *parviglumis*). *Molecular Ecology** 19: 1162-1173
 
 * Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* 8: e1000327
+
+<br><div class="impactstory-embed" data-id="20231874" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
+   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
+</div><br>
 
 * Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants. *Molecular Biology and Evolution* 27: 409-416
 
