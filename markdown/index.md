@@ -2,4 +2,6 @@
 <br>
 # Ross-Ibarra Lab
 
-Welcome to the Ross-Ibara Lab Page. We're currently under heavy construction, so please excuse the mess! Check back soon for updates. Last update:Thu Oct 31 13:03:18 PDT 2013
+Welcome to the Ross-Ibara Lab Page. We're currently under heavy construction, so please excuse the mess! Check back soon for updates. Last update:
+
+Thu Oct 31 13:10:14 PDT 2013
