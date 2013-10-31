@@ -15,15 +15,16 @@
 
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://arxiv.org/abs/1307.7678). *PNAS* *In Press*
 
-<div class="impactstory-embed" data-id="19210768" data-id-type="pmid" data-api-key="API-DOCS">
-   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
-</div>
-
 ### 2013
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
 	- [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)<br><br>  
+
+<br><div class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS">
+   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
+</div><br>
+
 	  
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 
