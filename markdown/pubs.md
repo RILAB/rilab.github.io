@@ -1,4 +1,7 @@
-# Publications
+####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
+<br>
+
+## Publications
 
 ### In Review
 
@@ -14,21 +17,22 @@
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
-	- [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)  
+	- [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)<br><br>  
 	  
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 
-	- [fasta alignment](http://figshare.com/articles/Wills_et_al_2013/775358)
+	- [data](http://figshare.com/articles/Wills_et_al_2013/775358)<br><br>
 
 * McCouch S, Baute GJ, Bradeen J, Bramel P, Bretting PK, Buckler E, Burke JM, Charest D, Cloutier S, Cole G, Dempewolf H, Dingkuhn M, Feuillet C, Gepts, P, Grattapaglia D, Guarino L, Jackson S, Knapp S, Langridge P, Lawton-Rauh A, Lijua Q, Lusty C, Michael T, Myles S, Naito K, Nelson RL, Pontarollo R, Richards CM, Rieseberg L, **Ross-Ibarra J**, Rounsley S, Hamilton RS, Schurr U, Stein N, Tomooka N, van der Knaap E, van Tassel D, Toll J, Valls J, Varshney RK, Ward J, Waugh R, Wenzl P, Zamir. (2013) [Agriculture: Feeding the future](http://www.nature.com/nature/journal/v499/n7456/full/499023a.html). *Nature* 499:23-24
 
-    - [pdf](pdfs/McCouch2013.pdf)
+    - [pdf](pdfs/McCouch2013.pdf)<br><br>
+
 * **Hufford MB**, Lubinsky P, **Pyhajarvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477). *PLoS Genetics* 9(5): e1003477 
 
 * **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gómez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
-	- [preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)
+	- [preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)<br><br>
 
-* Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. (2013) Patterns of centromere tandem repeat evolution in 282 animal and plant genomes. *Genome Biology* 14: R10 
+* Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. (2013) [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10). *Genome Biology* 14: R10 
 
 * Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*. *Heredity* 110: 570-577
 
