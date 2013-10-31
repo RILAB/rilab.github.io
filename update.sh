@@ -7,3 +7,6 @@ for i in *.md;
 do
 	pandoc -o ../${i//md/html} $i	
 done
+
+git commit -am "update"; 
+git push
