@@ -5,7 +5,7 @@
 
 #### PI
 
-Jeffrey Ross-Ibarra
+Jeffrey Ross-Ibarra • [CV](https://github.com/rossibarra/CV)
 
 #### Postdoctoral Scholars
 
@@ -27,7 +27,7 @@ Laura Vann
 
 #### Staff
 
-Vince Buffalo
+[Vince Buffalo](http://www.vincebuffalo.com/)
 
 Anne Lorant
 
