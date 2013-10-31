@@ -17,20 +17,21 @@
 
 ### 2013
 
-* **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
+<tr>
+<td> **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609 </td> <td> <div class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-badge-palette="grayscale"></td> </tr>
+   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
+</div>
 
 	- [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)<br><br>  
 
-<br><div class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
-   <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
-</div><br>
+<br><br>
 
 	  
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 
 	- [data](http://figshare.com/articles/Wills_et_al_2013/775358)<br><br>
 
-<br><div class="impactstory-embed" data-id="23825971" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
+<br><div class="impactstory-embed" data-id="23825971" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-badge-palette="grayscale">
    <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
 </div><br>
 
@@ -40,7 +41,7 @@
 
 * **Hufford MB**, Lubinsky P, **Pyhajarvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477). *PLoS Genetics* 9(5): e1003477 
 
-<br><div class="impactstory-embed" data-id="23671421" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
+<br><div class="impactstory-embed" data-id="23671421" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-badge-palette="grayscale">
    <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
 </div><br>
 
@@ -95,7 +96,7 @@
 
 * Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* 8: e1000327
 
-<br><div class="impactstory-embed" data-id="20231874" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-show-logo="grayscale">
+<br><div class="impactstory-embed" data-id="20231874" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" data-badge-palette="grayscale">
    <span class="loading"><img src="http://impactstory.org/loading.gif" />loading data...</span>
 </div><br>
 
