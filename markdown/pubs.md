@@ -17,10 +17,7 @@
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
-	[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)
-
-	<div class="impactstory-embed" data-id="23902747" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
-
+	[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1) <div class="impactstory-embed" data-id="23902747" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 	  
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 
@@ -97,9 +94,10 @@
 
 	<div class="impactstory-embed" data-id="22207165" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
 
-* Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) Identification of a functional transposon insertion in the maize domestication gene*tb1**. *Nature Genetics** 43:1160-1163.
+* Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html). *Nature Genetics* 43:1160-1163.
 
-	<div class="impactstory-embed" data-id="21946354" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br>
+	[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)
+	[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data) <div class="impactstory-embed" data-id="21946354" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. PNAS 108: 1088-1092
 
