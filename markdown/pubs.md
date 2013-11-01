@@ -43,8 +43,6 @@
 
 	<div class="impactstory-embed" data-id="23443059" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-### 2012
-
 * **Hufford MB**, **Bilinski P**, **Pyhajarvi T**, **Ross-Ibarra J** (2012) Teosinte as a model system for population and ecological genomics. *Trends in Genetics* 12: 606-615
 
 	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
@@ -76,8 +74,6 @@
 * Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA (2012) Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels. *Plant Physiology* 158: 824-834
 
 	<div class="impactstory-embed" data-id="22135431" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
-
-### 2011
 
 * Morrell PL, Buckler ES, **Ross-Ibarra J** (2012) Crop genomics: advances and applications. *Nature Reviews Genetics* 13:85-96
 
