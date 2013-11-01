@@ -9,6 +9,8 @@
 
 * **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://arxiv.org/abs/1308.0380).
 
+<div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. [The genomic impacts of drift and selection for hybrid performance in maize](http://arxiv.org/abs/1307.7313)  
 
 ### In Press
