@@ -1,4 +1,4 @@
-####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
+####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)
 
 ##R.E.H.A.B. 
 
