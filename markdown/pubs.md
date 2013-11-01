@@ -9,8 +9,6 @@
 
 * **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://arxiv.org/abs/1308.0380).
 
-<div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
-
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. [The genomic impacts of drift and selection for hybrid performance in maize](http://arxiv.org/abs/1307.7313)  
 
 ### In Press
@@ -49,11 +47,11 @@
 
 * **Hufford MB**, **Bilinski P**, **Pyhajarvi T**, **Ross-Ibarra J** (2012) Teosinte as a model system for population and ecological genomics. *Trends in Genetics* 12: 606-615
 
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	<div class="impactstory-embed" data-id="23021022" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI (2012) Using nextgen sequencing to investigate genome size variation and transposable element content. *Topics in Current Genetics: Plant Transposable Elements - Impact on Genome Structure & Function*
 
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	<div class="impactstory-embed" data-id="22802642" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * **van Heerwaarden J**, **Hufford MB**, **Ross-Ibarra J** (2012) [Historical genomics of North American maize](http://www.pnas.org/content/early/2012/07/12/1209275109). *PNAS* 109: 12420-12425
 
