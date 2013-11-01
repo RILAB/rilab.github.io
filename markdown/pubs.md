@@ -1,7 +1,6 @@
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
 
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
-<br>
 
 ## Publications
 

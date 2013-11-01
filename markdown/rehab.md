@@ -1,5 +1,4 @@
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
-<br>
 
 ##R.E.H.A.B. 
 
@@ -9,7 +8,7 @@ We meet Fridays at [3rd and U](http://daviswiki.org/3rd_&_U_Cafe) at about 4:15 
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
 
-And no, I won’t tell you what R.E.H.A.B. stands for, so don’t ask. 
+And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 #### November 2013
 

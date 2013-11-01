@@ -1,11 +1,10 @@
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
-<br>
 
 ## People
 
 #### PI
 
-Jeffrey Ross-Ibarra • [CV](https://github.com/rossibarra/CV)
+Jeffrey Ross-Ibarra [CV](https://github.com/rossibarra/CV)
 
 #### Postdoctoral Scholars
 
