@@ -51,7 +51,7 @@
 
 * Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI (2012) Using nextgen sequencing to investigate genome size variation and transposable element content. *Topics in Current Genetics: Plant Transposable Elements - Impact on Genome Structure & Function*
 
-	<div class="impactstory-embed" data-id="22802642" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	<div class="impactstory-embed" data-id="10.1007/978-3-642-31842-9_3" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * **van Heerwaarden J**, **Hufford MB**, **Ross-Ibarra J** (2012) [Historical genomics of North American maize](http://www.pnas.org/content/early/2012/07/12/1209275109). *PNAS* 109: 12420-12425
 
@@ -107,11 +107,11 @@
 
 * Fuchs EJ, **Ross-Ibarra J**, Barrantes G (2010) Reproductive biology of *Macleania rupestris* (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica. *Journal of Tropical Ecology* 26: 351-354
 
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	<div class="impactstory-embed" data-id="10.1017/S0266467410000064" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * Whitney KD, Baack EJ, Hamrick JL, Godt, MJW, Barringer BC, Bennet MD, Eckert CG, Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J** (2010) A role for nonadaptive processes in plant genome size evolution? *Evolution* 64: 2097-2109
 
-	<div class="impactstory-embed" data-id="" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	<div class="impactstory-embed" data-id="20148953" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) Fine scale genetic structure in the wild ancestor of maize (*Zea mays* ssp. *parviglumis*). *Molecular Ecology** 19: 1162-1173
 
