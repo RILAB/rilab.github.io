@@ -4,4 +4,4 @@
 
 Welcome to the Ross-Ibara Lab Page. We're currently under heavy construction, so please excuse the mess! Check back soon for updates. Last update:
 
-Thu Oct 31 23:48:40 PDT 2013
+Fri Nov  1 23:41:11 CDT 2013
