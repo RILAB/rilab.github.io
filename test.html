@@ -1,6 +1,59 @@
-<p>function setHeader() { var rand = Math.floor(Math.random() * 10); switch (rand) { case 0: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image01.jpg)&quot;; break; case 1: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image02.jpg)&quot;; break; case 2: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image03.jpg)&quot;; break; case 3: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image04.jpg)&quot;; break; case 4: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image04.jpg)&quot;; break; case 5: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image05.jpg)&quot;; break; case 6: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image06.jpg)&quot;; break; case 7: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image07.jpg)&quot;; break; case 8: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image08.jpg)&quot;; break; case 9: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image09.jpg)&quot;; break; default: document.getElementById(&quot;pageHeader&quot;).style.backgroundImage = &quot;url(http://www.rilab.org/images/image10.jpg)&quot;; } }</p>
-<p>addLoadEvent(setHeader);</p>
-<p>function addLoadEvent(func) { var oldonload = window.onload; if (typeof window.onload != 'function') { window.onload = func; } else { window.onload = function() { if (oldonload) { oldonload(); } func(); } } }</p>
+<script>
+function setHeader() {
+var rand = Math.floor(Math.random() * 10);
+switch (rand) {
+case 0:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image01.jpg)";
+break;
+case 1:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image02.jpg)";
+break;
+case 2:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image03.jpg)";
+break;
+case 3:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
+break;
+case 4:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
+break;
+case 5:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image05.jpg)";
+break;
+case 6:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image06.jpg)";
+break;
+case 7:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image07.jpg)";
+break;
+case 8:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image08.jpg)";
+break;
+case 9:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image09.jpg)";
+break;
+default:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image10.jpg)";
+}
+}
+
+addLoadEvent(setHeader);
+
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+</script>
+
 <h2 id="stuff">Stuff</h2>
 <ul>
 <li><p>Other stuff</p></li>

@@ -1,5 +1,5 @@
 
-
+<script>
 function setHeader() {
 var rand = Math.floor(Math.random() * 10);
 switch (rand) {
@@ -53,6 +53,7 @@ function addLoadEvent(func) {
     }
   }
 }
+</script>
 
 ## Stuff
 
