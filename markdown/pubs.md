@@ -1,4 +1,6 @@
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<img src="http://www.rilab.org/images/image01.jpg" style="width: 850px;"/>
 
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
 
@@ -28,7 +30,7 @@
 
 * **Hufford MB**, Lubinsky P, **Pyhajarvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477). *PLoS Genetics* 9(5): e1003477 
 
-	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br> <div class='altmetric-embed' data-badge-type='donut' data-pmid="23671421"></div>
 
 * **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
 
@@ -40,11 +42,11 @@
 
 * Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*. *Heredity* 110: 570-577
 
-	<div class="impactstory-embed" data-id="23443059" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[preprint](http://arxiv.org/abs/1209.5466) <div class="impactstory-embed" data-id="23443059" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 ### 2012
 
-* **Hufford MB**, **Bilinski P**, **Pyhajarvi T**, **Ross-Ibarra J** (2012) Teosinte as a model system for population and ecological genomics. *Trends in Genetics* 12: 606-615
+* **Hufford MB**, **Bilinski P**, **Pyhajarvi T**, **Ross-Ibarra J** (2012) [Teosinte as a model system for population and ecological genomics. *Trends in Genetics*](http://www.cell.com/trends/genetics/abstract/S0168-9525(12)00139-4) 12: 606-615
 
 	<div class="impactstory-embed" data-id="23021022" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
