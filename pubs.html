@@ -1,62 +1,33 @@
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <p><img src="http://www.rilab.org/images/image01.jpg" style="width: 850px;"/></p>
-<script type='text/javascript'>
-function setHeader() {
-var rand = Math.floor(Math.random() * 10);
-switch (rand) {
-case 0:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image01.jpg)";
-break;
-case 1:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image02.jpg)";
-break;
-case 2:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image03.jpg)";
-break;
-case 3:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
-break;
-case 4:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
-break;
-case 5:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image05.jpg)";
-break;
-case 6:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image06.jpg)";
-break;
-case 7:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image07.jpg)";
-break;
-case 8:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image08.jpg)";
-break;
-case 9:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image09.jpg)";
-break;
-default:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image10.jpg)";
-}
-}
+<head>
+<SCRIPT LANGUAGE="JavaScript">
 
-addLoadEvent(setHeader);
+var theImages = new Array() 
 
-function addLoadEvent(func) {
-  var oldonload = window.onload;
-  if (typeof window.onload != 'function') {
-    window.onload = func;
-  } else {
-    window.onload = function() {
-      if (oldonload) {
-        oldonload();
-      }
-      func();
-    }
-  }
+theImages[0] = '<img class="atvi-image-image" alt=""src="http://www.rilab.org/images/image01.jpg" title="" height="150">'
+theImages[1] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image02.jpg" title="" height="150">'
+theImages[2] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image03.jpg" title="" height="150">'
+theImages[3] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image04.jpg" title="" height="150">'
+
+
+var j = 0
+var p = theImages.length;
+var preBuffer = new Array()
+for (i = 0; i < p; i++){
+preBuffer[i] = new Image()
+preBuffer[i].src = theImages[i]
 }
-></script>
-
+var whichImage = Math.round(Math.random()*(p-1));
+function showImage(){
+document.write(theImages[whichImage]);
+}
+</script>
+</head>
+<body>
+<SCRIPT LANGUAGE="JavaScript">
+showImage();
+</script>
 
 <h4 id="home-publications-research-people-lab-docs-r.e.h.a.b."><a href="index.html">Home</a> || <a href="pubs.html">Publications</a> || <a href="research.html">Research</a> || <a href="people.html">People</a> || <a href="https://github.com/RILAB/lab-docs">Lab Docs</a> || <a href="rehab.html">R.E.H.A.B.</a></h4>
 <h2 id="publications">Publications</h2>
@@ -88,9 +59,6 @@ function addLoadEvent(func) {
 <p><br></p></li>
 <li><p><strong>Hufford MB</strong>, Lubinsky P, <strong>Pyhajarvi T</strong>, <strong>Devengenzo MT</strong>, Ellstrand NC, <strong>Ross-Ibarra J</strong> (2013) <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477">The genomic signature of crop-wild introgression in maize</a>. <em>PLoS Genetics</em> 9(5): e1003477</p>
 <div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false">
-
-</div>
-<div class="altmetric-embed" data-badge-type="4" data-hide-no-mentions="true" data-badge-popover="right" data-pmid="23671421">
 
 </div>
 <p><br></p></li>
@@ -137,9 +105,6 @@ function addLoadEvent(func) {
 <p><br></p></li>
 <li><p><strong>Hufford MB</strong>, Xun X, <strong>van Heerwaarden J</strong>, <strong>Pyhajarvi T</strong>, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, <strong>Ross-Ibarra J</strong> (2012) Comparative population genomics of maize domestication and improvement. <em>Nature Genetics</em> 44:808-811</p>
 <div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false">
-
-</div>
-<div class="altmetric-embed" data-badge-type="4" data-hide-no-mentions="true" data-badge-popover="right" data-pmid="22660546">
 
 </div>
 <p><br></p></li>
@@ -212,9 +177,6 @@ function addLoadEvent(func) {
 <p><br></p></li>
 <li><p>Shi J, Wolf S, Burke J, Presting G, <strong>Ross-Ibarra J</strong>, Dawe RK (2010) High frequency gene conversion in centromere cores. <em>PLoS Biology</em> 8: e1000327</p>
 <div class="impactstory-embed" data-id="20231874" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false">
-
-</div>
-<div class="altmetric-embed" data-badge-type="4" data-hide-no-mentions="true" data-badge-popover="right" data-pmid="20231874">
 
 </div>
 <p><br></p></li>
