@@ -1,64 +1,36 @@
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <img src="http://www.rilab.org/images/image01.jpg" style="width: 850px;"/>
 
 
-<script type='text/javascript'>
-function setHeader() {
-var rand = Math.floor(Math.random() * 10);
-switch (rand) {
-case 0:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image01.jpg)";
-break;
-case 1:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image02.jpg)";
-break;
-case 2:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image03.jpg)";
-break;
-case 3:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
-break;
-case 4:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
-break;
-case 5:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image05.jpg)";
-break;
-case 6:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image06.jpg)";
-break;
-case 7:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image07.jpg)";
-break;
-case 8:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image08.jpg)";
-break;
-case 9:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image09.jpg)";
-break;
-default:
-document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image10.jpg)";
-}
-}
 
-addLoadEvent(setHeader);
+<head>
+<SCRIPT LANGUAGE="JavaScript">
 
-function addLoadEvent(func) {
-  var oldonload = window.onload;
-  if (typeof window.onload != 'function') {
-    window.onload = func;
-  } else {
-    window.onload = function() {
-      if (oldonload) {
-        oldonload();
-      }
-      func();
-    }
-  }
+var theImages = new Array() 
+
+theImages[0] = '<img class="atvi-image-image" alt=""src="http://www.rilab.org/images/image01.jpg" title="" height="150">'
+theImages[1] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image02.jpg" title="" height="150">'
+theImages[2] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image03.jpg" title="" height="150">'
+theImages[3] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image04.jpg" title="" height="150">'
+
+
+var j = 0
+var p = theImages.length;
+var preBuffer = new Array()
+for (i = 0; i < p; i++){
+preBuffer[i] = new Image()
+preBuffer[i].src = theImages[i]
 }
-></script>
-
+var whichImage = Math.round(Math.random()*(p-1));
+function showImage(){
+document.write(theImages[whichImage]);
+}
+</script>
+</head>
+<body>
+<SCRIPT LANGUAGE="JavaScript">
+showImage();
+</script>
 
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) 
 
@@ -88,7 +60,7 @@ function addLoadEvent(func) {
 
 * **Hufford MB**, Lubinsky P, **Pyhajarvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477). *PLoS Genetics* 9(5): e1003477 
 
-	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <div data-badge-type='4' class='altmetric-embed' data-hide-no-mentions='true' data-badge-popover='right' data-pmid='23671421'></div> <br> 
+	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 	
 
 * **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
@@ -123,7 +95,7 @@ function addLoadEvent(func) {
 
 * **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhajarvi T**, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, **Ross-Ibarra J** (2012) Comparative population genomics of maize domestication and improvement. *Nature Genetics* 44:808-811
 
-	<div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <div data-badge-type='4' class='altmetric-embed' data-hide-no-mentions='true' data-badge-popover='right' data-pmid='22660546'></div> <br> 
+	<div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 
 
 * Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) Capturing extant variation from a genome in flux: maize HapMap II. *Nature Genetics* 44:803-807
@@ -180,7 +152,7 @@ function addLoadEvent(func) {
 
 * Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* 8: e1000327
 
-	<div class="impactstory-embed" data-id="20231874" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <div data-badge-type='4' class='altmetric-embed' data-hide-no-mentions='true' data-badge-popover='right' data-pmid='20231874'></div> <br> 
+	<div class="impactstory-embed" data-id="20231874" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 
 * Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants. *Molecular Biology and Evolution* 27: 409-416
 
