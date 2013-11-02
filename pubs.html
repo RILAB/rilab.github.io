@@ -1,6 +1,63 @@
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <p><img src="http://www.rilab.org/images/image01.jpg" style="width: 850px;"/></p>
+<script type='text/javascript'>
+function setHeader() {
+var rand = Math.floor(Math.random() * 10);
+switch (rand) {
+case 0:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image01.jpg)";
+break;
+case 1:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image02.jpg)";
+break;
+case 2:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image03.jpg)";
+break;
+case 3:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
+break;
+case 4:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image04.jpg)";
+break;
+case 5:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image05.jpg)";
+break;
+case 6:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image06.jpg)";
+break;
+case 7:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image07.jpg)";
+break;
+case 8:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image08.jpg)";
+break;
+case 9:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image09.jpg)";
+break;
+default:
+document.getElementById("pageHeader").style.backgroundImage = "url(http://www.rilab.org/images/image10.jpg)";
+}
+}
+
+addLoadEvent(setHeader);
+
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+></script>
+
+
 <h4 id="home-publications-research-people-lab-docs-r.e.h.a.b."><a href="index.html">Home</a> || <a href="pubs.html">Publications</a> || <a href="research.html">Research</a> || <a href="people.html">People</a> || <a href="https://github.com/RILAB/lab-docs">Lab Docs</a> || <a href="rehab.html">R.E.H.A.B.</a></h4>
 <h2 id="publications">Publications</h2>
 <h3 id="in-review">In Review</h3>
