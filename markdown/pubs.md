@@ -65,7 +65,7 @@
 
 * **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhajarvi T**, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, **Ross-Ibarra J** (2012) Comparative population genomics of maize domestication and improvement. *Nature Genetics* 44:808-811
 
-	<div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <div data-badge-type='4' class='altmetric-embed' data-hide-no-mentions='true' data-badge-popover='right' data-pmid='21771119'></div> <br> 
+	<div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <div data-badge-type='4' class='altmetric-embed' data-hide-no-mentions='true' data-badge-popover='right' data-pmid='22660546'></div> <br> 
 
 
 * Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) Capturing extant variation from a genome in flux: maize HapMap II. *Nature Genetics* 44:803-807
