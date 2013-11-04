@@ -84,9 +84,9 @@ showImage();
 
 	<div class="impactstory-embed" data-id="23021022" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI (2012) Using nextgen sequencing to investigate genome size variation and transposable element content. *Topics in Current Genetics: Plant Transposable Elements - Impact on Genome Structure & Function*
+* Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI (2012) [Using nextgen sequencing to investigate genome size variation and transposable element content](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%252F978-3-642-31842-9_3&ei=ufZ2UsAqhIuMAsOpgJAD&usg=AFQjCNEELwUpThvqvbVPHHU_wqep39i8fg&sig2=6BtfatHSPnIgyW6gUGYjfA&bvm=bv.55819444,d.cGE). *Topics in Current Genetics: Plant Transposable Elements - Impact on Genome Structure & Function*
 
-	<div class="impactstory-embed" data-id="10.1007/978-3-642-31842-9_3" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](pdfs/Munoz_Diez_R1-1.pdf) <div class="impactstory-embed" data-id="10.1007/978-3-642-31842-9_3" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * **van Heerwaarden J**, **Hufford MB**, **Ross-Ibarra J** (2012) [Historical genomics of North American maize](http://www.pnas.org/content/early/2012/07/12/1209275109). *PNAS* 109: 12420-12425
 
@@ -96,42 +96,42 @@ showImage();
 
 	<div class="impactstory-embed" data-id="22753482" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhajarvi T**, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, **Ross-Ibarra J** (2012) Comparative population genomics of maize domestication and improvement. *Nature Genetics* 44:808-811
+* **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhajarvi T**, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, **Ross-Ibarra J** (2012) [Comparative population genomics of maize domestication and improvement](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fng%2Fjournal%2Fv44%2Fn7%2Ffull%2Fng.2309.html&ei=t_d2Uvi0DKO0iQKDmICQBA&usg=AFQjCNF4IbGZ207sbrCczzFWyqEQxIkeFA&sig2=E51yK2Pw3-5nyGArwGx4hQ&bvm=bv.55819444,d.cGE). *Nature Genetics* 44:808-811
 
-	<div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
+	[pdf](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf) [data](http://figshare.com/articles/new_fileset/757736) [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) <div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 
 
 * Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) Capturing extant variation from a genome in flux: maize HapMap II. *Nature Genetics* 44:803-807
 
-	<div class="impactstory-embed" data-id="22660545" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[data](http://www.panzea.org/lit/data_sets.html#HapMapV2) [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) <div class="impactstory-embed" data-id="22660545" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Fang Z, **Pyhajarvi T**, Weber AL, Dawe RK, Glaubitz JC, Sianchez Gonzalez J, **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J** (2012) Megabase-scale inversion polymorphism in the wild ancestor of maize. *Genetics* 191:883-894 
+* Fang Z, **Pyhajarvi T**, Weber AL, Dawe RK, Glaubitz JC, Sianchez Gonzalez J, **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J** (2012) [Megabase-scale inversion polymorphism in the wild ancestor of maize](http://www.genetics.org/content/191/3/883.abstract). *Genetics* 191:883-894 
 
-	<div class="impactstory-embed" data-id="22542971" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[data](http://figshare.com/articles/Fang_et_al_2012/840519) <div class="impactstory-embed" data-id="22542971" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA (2012) Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels. *Plant Physiology* 158: 824-834
+* Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA (2012) [Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels](http://www.plantphysiol.org/content/158/2/824.full). *Plant Physiology* 158: 824-834
 
 	<div class="impactstory-embed" data-id="22135431" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 ### 2011
 
-* Morrell PL, Buckler ES, **Ross-Ibarra J** (2012) Crop genomics: advances and applications. *Nature Reviews Genetics* 13:85-96
+* Morrell PL, Buckler ES, **Ross-Ibarra J** (2012) [Crop genomics: advances and applications](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fnrg%2Fjournal%2Fv13%2Fn2%2Ffull%2Fnrg3097.html&ei=m_t2Upj4EoOziwKQ44GoBg&usg=AFQjCNFOI1oE_6V4ALeyXs6OzWZJtYIMHw&sig2=bAOadiv3Eem6P-teBBeJbA&bvm=bv.55819444,d.cGE). *Nature Reviews Genetics* 13:85-96
 
-	<div class="impactstory-embed" data-id="22207165" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.panzea.org/pdf/Ross-Ibarra_etal_2007_PNAS_140_8641.pdf) <div class="impactstory-embed" data-id="22207165" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html). *Nature Genetics* 43:1160-1163.
 
 	[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf) [data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data) <div class="impactstory-embed" data-id="21946354" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. PNAS 108: 1088-1092
+* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://www.pnas.org/content/108/3/1088.long). PNAS 108: 1088-1092
 
 	<div class="impactstory-embed" data-id="21189301" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Hufford MB**, Gepts P, **Ross-Ibarra J** (2011) Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (*Zea mays* ssp. *parviglumis*). *Molecular Ecology* 20: 46-55
+* **Hufford MB**, Gepts P, **Ross-Ibarra J** (2011) [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (*Zea mays* ssp. *parviglumis*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04924.x/abstract). *Molecular Ecology* 20: 46-55
 
-	<div class="impactstory-embed" data-id="21070423" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](pdfs/Hufford-et-al-2011.pdf) <div class="impactstory-embed" data-id="21070423" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** (2011) Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*. *Genome Biology and Evolution* 3: 219-229
+* Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** (2011) [Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](http://gbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=21296765). *Genome Biology and Evolution* 3: 219-229
 
 	<div class="impactstory-embed" data-id="21296765" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
