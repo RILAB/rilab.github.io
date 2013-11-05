@@ -1,4 +1,4 @@
-[![tedomestication](images/domestication.jpg)](research.html#domestication)![corn](images/corn.jpg)![csomes](images/csomes.jpg)![teo](images/teosinte.jpg)[![TE](images/tes.jpg)](research.html#tes)![other](images/trees.jpg)
+[![tedomestication](images/domestication.jpg)](research.html#domestication)[![corn](images/corn.jpg)](research.html#corn)[![csomes](images/csomes.jpg)](research.html#centromeres)[![teo](images/teosinte.jpg)](research.html#teosinte)[![TE](images/tes.jpg)](research.html#tes)[![other](images/trees.jpg)](research.html#trees)
 
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
 
@@ -6,7 +6,7 @@
 
 ## Research
 
-![](images/teosinte.jpg) 
+![](images/teosinte.jpg) <a name="teosinte"></a>
 
 ### Evolutonary Genetics of Teosinte
 
@@ -38,9 +38,9 @@
 
 	[pdf](pdfs/Hufford-et-al-2011.pdf) <div class="impactstory-embed" data-id="21070423" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/domestication.jpg) 
+![](images/domestication.jpg) <a name="domestication"></a>
 
-### Maize Domestication and Adaptation <a name="domestication"></a>
+### Maize Domestication and Adaptation 
 
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 
@@ -71,7 +71,7 @@
 
 	<div class="impactstory-embed" data-id="19153259" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/corn.jpg) 
+![](images/corn.jpg) <a name="corn"></a>
 
 ### Genetics of Maize Breeding
 
@@ -101,9 +101,9 @@
 
 	[cover](http://www.sciencemag.org/content/326/5956.cover-expansion) <div class="impactstory-embed" data-id="19965431" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/tes.jpg) 
+![](images/tes.jpg) <a name="tes"></a>
 
-### Transposable Elements <a name="tes"></a>
+### Transposable Elements 
 
 * Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) [Maize HapMap2 identifies extant variation from a genome in flux](http://www.nature.com/ng/journal/v44/n7/full/ng.2313.html). *Nature Genetics* 44:803-807
 
@@ -121,7 +121,7 @@
 
 	<div class="impactstory-embed" data-id="18772373" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/csomes.jpg) 
+![](images/csomes.jpg) <a name="centromeres"></a>
 
 ### Centromere Biology
 
@@ -137,7 +137,7 @@
 
 	<div class="impactstory-embed" data-id="20231874" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 
-![](images/trees.jpg) 
+![](images/trees.jpg) <a name="trees"></a>
 
 ### Evolution & Genetics of Woody Perennials
 

@@ -1,4 +1,4 @@
-[![tedomestication](images/domestication.jpg)](research.html#domestication)![corn](images/corn.jpg)![csomes](images/csomes.jpg)![teo](images/teosinte.jpg)[![TE](images/tes.jpg)](research.html#tes)![other](images/trees.jpg)
+[![tedomestication](images/domestication.jpg)](research.html#domestication)[![corn](images/corn.jpg)](research.html#corn)[![csomes](images/csomes.jpg)](research.html#centromeres)[![teo](images/teosinte.jpg)](research.html#teosinte)[![TE](images/tes.jpg)](research.html#tes)[![other](images/trees.jpg)](research.html#trees)
 
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)<br>
 
@@ -6,4 +6,4 @@
 
 Welcome to the Ross-Ibara Lab Page. We're currently under heavy construction, so please excuse the mess! Check back soon for updates. Last update:
 
-Tue Nov  5 12:48:39 PST 2013
+Tue Nov  5 12:58:55 PST 2013
