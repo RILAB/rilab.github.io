@@ -1,38 +1,6 @@
+[![tedomestication](images/domestication.pdf)](research.html#domestication)![corn](images/corn.pdf)![csomes](images/csomes.pdf)![teo](images/teosinte.pdf)[![TE](images/tes.pdf)](research.html#tes)![other](images/trees.pdf)
+
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
-
-<head>
-<SCRIPT LANGUAGE="JavaScript">
-
-var theImages = new Array() 
-
-theImages[0] = '<img class="atvi-image-image" alt=""src="http://www.rilab.org/images/image01.jpg" title="" height="150">'
-theImages[1] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image02.jpg" title="" height="150">'
-theImages[2] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image03.jpg" title="" height="150">'
-theImages[3] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image04.jpg" title="" height="150">'
-theImages[4] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image05.jpg" title="" height="150">'
-theImages[5] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image06.jpg" title="" height="150">'
-theImages[6] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image07.jpg" title="" height="150">'
-theImages[7] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image08.jpg" title="" height="150">'
-theImages[8] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image09.jpg" title="" height="150">'
-theImages[9] = '<img class="atvi-image-image" alt="" src="http://www.rilab.org/images/image011.jpg" title="" height="150">'
-
-var j = 0
-var p = theImages.length;
-var preBuffer = new Array()
-for (i = 0; i < p; i++){
-preBuffer[i] = new Image()
-preBuffer[i].src = theImages[i]
-}
-var whichImage = Math.round(Math.random()*(p-1));
-function showImage(){
-document.write(theImages[whichImage]);
-}
-</script>
-</head>
-<body>
-<SCRIPT LANGUAGE="JavaScript">
-showImage();
-</script>
 
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)
 
@@ -101,9 +69,9 @@ showImage();
 	[pdf](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf) [data](http://figshare.com/articles/new_fileset/757736) [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) <div class="impactstory-embed" data-id="22660546" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 
 
-* Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) Capturing extant variation from a genome in flux: maize HapMap II. *Nature Genetics* 44:803-807
+* Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) [Maize HapMap2 identifies extant variation from a genome in flux](http://www.nature.com/ng/journal/v44/n7/full/ng.2313.html). *Nature Genetics* 44:803-807
 
-	[data](http://www.panzea.org/lit/data_sets.html#HapMapV2) [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) <div class="impactstory-embed" data-id="22660545" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.panzea.org/pdf/Chia_etal_2012_NatGenet_44_803.pdf) [data](http://www.panzea.org/lit/data_sets.html#HapMapV2) [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) <div class="impactstory-embed" data-id="22660545" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * Fang Z, **Pyhajarvi T**, Weber AL, Dawe RK, Glaubitz JC, Sianchez Gonzalez J, **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J** (2012) [Megabase-scale inversion polymorphism in the wild ancestor of maize](http://www.genetics.org/content/191/3/883.abstract). *Genetics* 191:883-894 
 
@@ -137,7 +105,7 @@ showImage();
 
 ### 2010
 
-* Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB (2010) Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda* L, Pinaceae). *Genetics* 185: 969-982
+* Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB (2010) [Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda* L, Pinaceae)](http://www.genetics.org/content/185/3/969.abstract). *Genetics* 185: 969-982
 
 	<div class="impactstory-embed" data-id="20439779" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
