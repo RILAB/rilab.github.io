@@ -13,7 +13,7 @@
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. [The genomic impacts of drift and selection for hybrid performance in maize](http://arxiv.org/abs/1307.7313)  
 
-### In Press
+### Published
 
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://arxiv.org/abs/1307.7678). *PNAS* *In Press*
 
@@ -33,7 +33,6 @@
 
 	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 	
-
 * **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
 
 	[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841) <div class="impactstory-embed" data-id="10.1007/s10722-013-0015-z" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
