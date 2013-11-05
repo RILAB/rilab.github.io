@@ -8,6 +8,7 @@
 
 <a name="teosinte"></a>
 ![](images/teosinte.jpg)
+
 ### Evolutonary Genetics of Teosinte
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
