@@ -6,8 +6,8 @@
 
 ## Research
 
-![](images/teosinte.jpg) <a name="teosinte"></a>
-
+<a name="teosinte"></a>
+![](images/teosinte.jpg)
 ### Evolutonary Genetics of Teosinte
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
@@ -38,7 +38,8 @@
 
 	[pdf](pdfs/Hufford-et-al-2011.pdf) <div class="impactstory-embed" data-id="21070423" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/domestication.jpg) <a name="domestication"></a>
+<a name="domestication"></a>
+![](images/domestication.jpg) 
 
 ### Maize Domestication and Adaptation 
 
@@ -71,7 +72,8 @@
 
 	<div class="impactstory-embed" data-id="19153259" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/corn.jpg) <a name="corn"></a>
+<a name="corn"></a>
+![](images/corn.jpg) 
 
 ### Genetics of Maize Breeding
 
@@ -101,7 +103,8 @@
 
 	[cover](http://www.sciencemag.org/content/326/5956.cover-expansion) <div class="impactstory-embed" data-id="19965431" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/tes.jpg) <a name="tes"></a>
+<a name="tes"></a>
+![](images/tes.jpg) 
 
 ### Transposable Elements 
 
@@ -121,7 +124,8 @@
 
 	<div class="impactstory-embed" data-id="18772373" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-![](images/csomes.jpg) <a name="centromeres"></a>
+<a name="centromeres"></a>
+![](images/csomes.jpg) 
 
 ### Centromere Biology
 
@@ -137,7 +141,8 @@
 
 	<div class="impactstory-embed" data-id="20231874" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 
-![](images/trees.jpg) <a name="trees"></a>
+<a name="trees"></a>
+![](images/trees.jpg) 
 
 ### Evolution & Genetics of Woody Perennials
 
