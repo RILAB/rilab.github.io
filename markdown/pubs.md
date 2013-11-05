@@ -1,4 +1,4 @@
-[![tedomestication](images/domestication.pdf)](research.html#domestication)![corn](images/corn.pdf)![csomes](images/csomes.pdf)![teo](images/teosinte.pdf)[![TE](images/tes.pdf)](research.html#tes)![other](images/trees.pdf)
+[![tedomestication](images/domestication.jpg)](research.html#domestication)![corn](images/corn.jpg)![csomes](images/csomes.jpg)![teo](images/teosinte.jpg)[![TE](images/tes.jpg)](research.html#tes)![other](images/trees.jpg)
 
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
 
