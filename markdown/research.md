@@ -1,4 +1,15 @@
-[![tedomestication](images/domestication.jpg)](research.html#domestication)[![corn](images/corn.jpg)](research.html#corn)[![csomes](images/csomes.jpg)](research.html#centromeres)[![teo](images/teosinte.jpg)](research.html#teosinte)[![TE](images/tes.jpg)](research.html#tes)[![other](images/trees.jpg)](research.html#trees)
+<a href="research.html#corn">
+<img src="http://www.rilab.org/images/corn.jpg" style="width: 100px;"></a>
+<a href="research.html#csomes">
+<img src="http://www.rilab.org/images/csomes.jpg" style="width: 100px;"></a>
+<a href="research.html#teosinte">
+<img src="http://www.rilab.org/images/teosinte.jpg" style="width: 100px;"></a>
+<a href="research.html#domestication">
+<img src="http://www.rilab.org/images/domestication.jpg" style="width: 100px;"></a>
+<a href="research.html#tes">
+<img src="http://www.rilab.org/images/tes.jpg" style="width: 100px;"></a>
+<a href="research.html#trees">
+<img src="http://www.rilab.org/images/trees.jpg" style="width: 100px;"></a>
 
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
 
