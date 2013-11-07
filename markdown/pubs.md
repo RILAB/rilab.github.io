@@ -18,22 +18,23 @@
 
 ## Publications
 
-### In Review
-
-* **Mezmouk S**, **Ross-Ibarra J**. The pattern and distribution of deleterious mutations in maize.
-
-    [preprint](http://arxiv.org/abs/1308.0380) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+### In Review ([lab alert level](http:www.rilab.org/images/alert.jpg))
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize
 
     [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>  
     
-### 2013
+### In Press
 
+* **Mezmouk S**, **Ross-Ibarra J**. The pattern and distribution of deleterious mutations in maize. *G3* *Accepted with minor revisions*
+
+    [preprint](http://arxiv.org/abs/1308.0380) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+    
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. Conservation and divergence of imprinting in maize. *PNAS* *In Press*
 
     [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
-
+    
+### 2013
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
