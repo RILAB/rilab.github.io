@@ -16,7 +16,7 @@
 ####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)
 
 
-## Publications
+## Publications ([Scholar](http://scholar.google.com/citations?user=5SzRq1oAAAAJ) | [ISI](http://www.researcherid.com/rid/D-7782-2011) | [PubMed](http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=DetailsSearch&term=Ross-Ibarra))
 
 ### In Review ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
