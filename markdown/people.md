@@ -17,7 +17,9 @@
 
 #### PI
 
-Jeffrey Ross-Ibarra [CV](https://github.com/rossibarra/CV)
+Jeffrey Ross-Ibarra
+
+* [CV](https://github.com/rossibarra/CV)
 
 #### Postdoctoral Scholars
 

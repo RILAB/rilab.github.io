@@ -25,17 +25,21 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### November 2013
 
+* Fri Nov 15 2013 (JRI)
+
+    **[Kijima and Innan 2013](http://www.genetics.org/content/early/2013/08/26/genetics.113.150292.full.pdf). Population Genetics and Molecular Evolution of DNA Sequences in Transposable Elements. I. A Simulation Framework**
+
 * Fri Nov 08 2013 (JRI)
 
 	**Review! Pick up hard copy in 262 Robbins.**
 
-* Fri Nov 08 2013 (JRI)
+* Fri Nov 01 2013 (JRI)
 
 	**[Lohmueller 2013](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC4QFjAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1306.5261&ei=UURzUrfOGqW-igLBtoCAAg&usg=AFQjCNFoh5KxhwcrmuKZP1UM3xQN2xk0ug). The impact of population demography and selection on the genetic architecture of complex traits**
 
 #### October 2013
 
-* Fri Oct 25 2013
+* Fri Oct 25 2013 (OA)
 
 	**[Parker et al. 2013](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv502%2Fn7470%2Ffull%2Fnature12511.html&ei=PkRzUpb-NYWdiAKQqYG4CQ&usg=AFQjCNGhGBxb-ICUpfOeut7Iq-CNBcmT0Q&bvm=bv.55819444,d.cGE). Genome-wide signatures of convergent evolution in echolocating mammals**
 	
