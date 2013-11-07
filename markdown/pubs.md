@@ -20,13 +20,20 @@
 
 ### In Review
 
-* **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://arxiv.org/abs/1308.0380).
+* **Mezmouk S**, **Ross-Ibarra J**. The pattern and distribution of deleterious mutations in maize.
 
-* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. [The genomic impacts of drift and selection for hybrid performance in maize](http://arxiv.org/abs/1307.7313)  
+    [preprint](http://arxiv.org/abs/1308.0380) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
+* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize
+
+    [preprint](http://arxiv.org/abs/1307.7313) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>  
+    
 ### Published
 
-* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://arxiv.org/abs/1307.7678). *PNAS* *In Press*
+* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. Conservation and divergence of imprinting in maize. *PNAS* *In Press*
+
+    [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
@@ -42,7 +49,7 @@
 
 * **Hufford MB**, Lubinsky P, **Pyhajarvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477). *PLoS Genetics* 9(5): e1003477 
 
-	<div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
+	[data](http://figshare.com/articles/Hufford_et_al_2013/766356) <div class="impactstory-embed" data-id="23671421" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div> <br> 
 	
 * **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
 
