@@ -18,7 +18,7 @@
 
 ## Publications
 
-### In Review ([lab alert level](http:www.rilab.org/images/alert.jpg))
+### In Review ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize
 
