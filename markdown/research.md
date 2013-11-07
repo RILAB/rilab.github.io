@@ -136,7 +136,7 @@
 
 	<div class="impactstory-embed" data-id="18772373" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-<a name="centromeres"></a>
+<a name="csomes"></a>
 ![](images/csomes.jpg) 
 
 ### Centromere Biology
