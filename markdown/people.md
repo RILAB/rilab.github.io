@@ -20,7 +20,7 @@
 
 **Paul Bilinski**
 
-* Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*
+* Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
 **Anna O'Brien**
 
@@ -32,7 +32,7 @@
 
 **Dianne Velasco**
 
-* Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*
+* Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
 **Laura Vann**
 
@@ -50,7 +50,7 @@
 
 ### Undergraduate Students
 
-**Arun Durvasula**
+[**Arun Durvasula**](https://github.com/arundurvasula)
 
 * Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
 
