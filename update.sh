@@ -5,7 +5,7 @@ cat <(cat construction.md) <(date) > index.md
 
 for i in *.md; 
 do
-	pandoc -S -s -c ../pandoc.css -o ../${i//md/html} $i	
+	pandoc -S -s -c ../style.css -o ../${i//md/html} $i	
 	#pandoc -S -s -c ../pygment_trac.css -c ../styles.css -o ../${i//md/html} $i	
 done
 
