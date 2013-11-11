@@ -264,7 +264,7 @@ ol[type=i] {
 #sidebar
 {
     float: left;
-    width: 250px;
+    width: 150px;
     background: #ccc;
     min-height: 100%;
 }
