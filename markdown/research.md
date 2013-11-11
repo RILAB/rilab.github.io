@@ -137,7 +137,7 @@
 	<div class="impactstory-embed" data-id="18772373" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 <a name="csomes"></a>
-<img src="www.rilab.org/images/csomes.jpg" alt="FISH of repeats in multiple teosinte populations" align="left"> The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. 
+<img src="http://www.rilab.org/images/csomes.jpg" alt="FISH of repeats in multiple teosinte populations" align="left"> The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. 
 
 ### Centromere Biology
 
