@@ -84,6 +84,7 @@ Maize was domesticated 9,000 years ago in southwest Mexico from its wild ancesto
 <hr>
 <a name="csomes"></a>
 ![](images/csomes.jpg)
+
 ### Centromere Biology
 
 The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. 
