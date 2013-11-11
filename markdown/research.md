@@ -90,10 +90,10 @@
 * Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*. PNAS 105: 13965-13970
 
 <a name="csomes"></a>
-
+<img src="http://www.rilab.org/images/csomes.jpg" alt="FISH of repeats in multiple teosinte populations" align="left">
 ### Centromere Biology
 
-<img src="http://www.rilab.org/images/csomes.jpg" style="padding:30px;" alt="FISH of repeats in multiple teosinte populations" align="left"> The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. 
+The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. 
 
 * Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. (2013) [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10). *Genome Biology* 14: R10 
 
