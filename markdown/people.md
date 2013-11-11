@@ -36,7 +36,7 @@
  
 **Laura Vann**
 
-* Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the molecular ecology of Joshua Trees and teosinte.
+* Laura is a 5th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the molecular ecology of Joshua Trees and teosinte.
 
 ### Staff
 
