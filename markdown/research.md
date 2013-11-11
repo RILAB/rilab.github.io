@@ -137,9 +137,10 @@
 	<div class="impactstory-embed" data-id="18772373" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 <a name="csomes"></a>
-<img src="http://www.rilab.org/images/csomes.jpg" alt="FISH of repeats in multiple teosinte populations" align="left"> The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. 
 
 ### Centromere Biology
+
+<img src="http://www.rilab.org/images/csomes.jpg" alt="FISH of repeats in multiple teosinte populations" align="left"> The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. <br><br><br>
 
 * Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. (2013) [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10). *Genome Biology* 14: R10 
 
