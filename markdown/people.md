@@ -15,13 +15,13 @@
 
 ## People
 
-#### PI
+### PI
 
 **Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))**
 
 * Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009.
 
-#### Postdoctoral Scholars
+### Postdoctoral Scholars
 
 **Sofiane Mezmouk**
 
@@ -31,7 +31,7 @@
 
 * Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
-#### Graduate Students
+### Graduate Students
 
 **Paul Bilinski**
 
@@ -53,7 +53,7 @@
 
 * Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the molecular ecology of Joshua Trees and teosinte.
 
-#### Staff
+### Staff
 
 [**Vince Buffalo**](http://www.vincebuffalo.com/)
 
@@ -63,7 +63,7 @@
 
 * Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
 
-#### Undergraduate Students
+### Undergraduate Students
 
 **Arun Durvasula**
 
