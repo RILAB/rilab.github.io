@@ -1,18 +1,3 @@
-<a href="research.html#corn">
-<img src="http://www.rilab.org/images/corn.jpg" style="width: 100px;"></a>
-<a href="research.html#csomes">
-<img src="http://www.rilab.org/images/csomes.jpg" style="width: 100px;"></a>
-<a href="research.html#teosinte">
-<img src="http://www.rilab.org/images/teosinte.jpg" style="width: 100px;"></a>
-<a href="research.html#domestication">
-<img src="http://www.rilab.org/images/domestication.jpg" style="width: 100px;"></a>
-<a href="research.html#tes">
-<img src="http://www.rilab.org/images/tes.jpg" style="width: 100px;"></a>
-<a href="research.html#trees">
-<img src="http://www.rilab.org/images/trees.jpg" style="width: 100px;"></a>
-
-####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)
-
 ##R.E.H.A.B. 
 
 Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed.  Anybody is welcome to [suggest a paper](mailto:rossibarra@ucdavis.edu), but your initials will be stuck up with it for eternity. There is no email list; articles are posted below along with the date. An RSS feed is also available.

@@ -1,5 +1,5 @@
 ## Research
-
+<hr>
 <a name="teosinte"></a>
 ![](images/teosinte.jpg)
 
@@ -19,6 +19,7 @@
 
 * **Hufford MB**, Gepts P, **Ross-Ibarra J** (2011) [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (*Zea mays* ssp. *parviglumis*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04924.x/abstract). *Molecular Ecology* 20: 46-55
 
+<hr>
 <a name="domestication"></a>
 ![](images/domestication.jpg) 
 
@@ -40,6 +41,7 @@
 
 * **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea. *Genetics* 181: 1399-1413
 
+<hr>
 <a name="corn"></a>
 ![](images/corn.jpg) 
 
@@ -61,6 +63,7 @@
 
 * Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. *Science 326*: 1115-1117
 
+<hr>
 <a name="tes"></a>
 ![](images/tes.jpg) 
 
@@ -74,8 +77,9 @@
 
 * Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*. PNAS 105: 13965-13970
 
+<hr>
 <a name="csomes"></a>
-<img src="http://www.rilab.org/images/csomes.jpg" alt="FISH of repeats in multiple teosinte populations" align="left">
+![](images/csomes.jpg)
 ### Centromere Biology
 
 The genus Zea is an excellent study system for investigating what is known as the “Centromere Paradox.”  The paradox lies in centromeres serving an essential and conserved function while showing evidence of rapid evolution across taxa.  Current work in the lab includes investigation of the comparative genomics and population biology of centromere repeats in maize, phylogenetics of repeat and kinetochore protein evolution, and collaboration to sequence an entire maize centromere. 
@@ -86,6 +90,7 @@ The genus Zea is an excellent study system for investigating what is known as th
 
 * Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* 8: e1000327
 
+<hr>
 <a name="trees"></a>
 ![](images/trees.jpg) 
 
@@ -102,3 +107,5 @@ The genus Zea is an excellent study system for investigating what is known as th
 * **Ross-Ibarra J** (2003) Origin and domestication of chaya (*Cnidoscolus aconitifolius* Mill I. M. Johnst): Mayan spinach. *Mexican Studies* 19: 287-302
   
 * **Ross-Ibarra J**, Molina-Cruz A (2002) The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable. *Economic Botany* 56: 350-365.
+
+<hr>

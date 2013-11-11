@@ -261,3 +261,10 @@ ol[type=i] {
     list-style-type:lower-roman;
 }
 
+#sidebar
+{
+    float: left;
+    width: 250px;
+    background: #ccc;
+    min-height: 100%;
+}
