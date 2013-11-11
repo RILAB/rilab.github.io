@@ -8,7 +8,17 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
+### December 2013
+
+##### Fri Dec 6 2013 
+
+[Teng et al. 2013](http://www.sciencedirect.com/science/article/pii/S109727651300748X). Genome-wide Consequences of Deleting Any Single Gene
+
 ### November 2013
+
+##### Fri Nov 29 2013 
+
+No R.E.H.A.B., but to go along with all your TurkeyDay related activities: [Seidel et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.575/full). Influence of translocations on eastern wild turkey population genetics in Texas
 
 ##### Fri Nov 22 2013 (JRI)
 
