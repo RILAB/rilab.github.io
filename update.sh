@@ -5,7 +5,7 @@ cat <(cat construction.md) <(date) > index.md
 
 for i in *.md; 
 do
-	pandoc -o ../${i//md/html} $i	
+	pandoc --toc -S -s -c ../pandoc.css -o ../${i//md/html} $i	
 done
 
 git commit -am "update"; 
