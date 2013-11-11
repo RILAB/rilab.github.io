@@ -5,6 +5,8 @@
 
 ### Evolutonary Genetics of Teosinte
 
+Natural population of the wild relatives of maize, the teosintes, are found throughout Mexico and Central America growing in a divers array of environments. Populations exhibit differing morphologies, ecologies, life histories, and genetics. Current interests in the lab include hybridization between maize and teosinte, coevolution of teosinte and mycorrhizae, evolutionary dynamics of a domestication gene in natural populations, evolution of genome size, population differences in recombination, and the population genetics of inversion polymorphisms.
+
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
 * Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*. *Heredity* 110: 570-577
@@ -24,6 +26,8 @@
 ![](images/domestication.jpg) 
 
 ### Maize Domestication and Adaptation 
+
+Maize was domesticated 9,000 years ago in southwest Mexico from its wild ancestor teosinte. After domestication, maize spread rapidly, adapting to a number of different environments across the Americas and much of the rest of the world. THe lab is interested in better understanding the genetics of maize domestication and its subsequent adaptation to new environments. Ongoing projects in the lab include parallel adaptation of maize to high-altitude environments in Mexico and South America, and a reassessment of the demography of maize domestication. 
 
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 	
