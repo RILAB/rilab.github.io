@@ -11,10 +11,4 @@
 <a href="research.html#trees">
 <img src="http://www.rilab.org/images/trees.jpg" style="width: 100px;"></a>
 
-####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)<br>
-
-# Ross-Ibarra Lab
-
-Welcome to the Ross-Ibara Lab Page. We're currently under heavy construction, so please excuse the mess! Check back soon for updates. Last update:
-
-Sun Nov 10 23:57:44 PST 2013
+####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)
