@@ -1,5 +1,9 @@
 ## News
 
+### Nov. 15, 2013
+
+Waters et. al. is now [online at PNAS](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)!
+
 ### Nov. 14, 2013
 
 Anna O'Brien passed her qualifying exam and advances to candidacy!

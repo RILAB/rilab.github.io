@@ -13,7 +13,7 @@
 
     [preprint](http://arxiv.org/abs/1308.0380) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
     
-* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. Conservation and divergence of imprinting in maize. *PNAS* *In Press*
+* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf). *PNAS* *In Press*
 
     [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
     
