@@ -20,9 +20,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### December 2013
 
-##### Fri Dec. 20 2013 ()
+##### Fri Dec. 20 2013 (DV)
 
-TBA
+[Rettelbach et al. 2013](http://www.jstor.org/stable/full/10.1086/673488). Three modes of adaptive speciation in spatially structured populations
 
 ##### Fri Dec. 13 2013 (VB)
 
