@@ -1,5 +1,9 @@
 ## News
 
+### Nov. 14, 2013
+
+Anna O'Brien advances to candidacy! 
+
 ### Nov. 7, 2013
 
 Sofiane's [manuscript](http://arxiv.org/abs/1308.0380) on deleterious alleles and hybrid vigor in maize accepted in [G3](http://www.g3journal.org/)! 
