@@ -10,13 +10,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### December 2013
 
-##### Fri Dec. 13 2013 (JRI)
+##### Fri Dec. 20 2013 (JRI)
 
 [Bauer et al. 2013](http://genomebiology.com/2013/14/9/R103). Intraspecific variation of recombination rate in maize
 
-##### Fri Dec 6 2013 (VB)
+##### Fri Dec. 13 2013 (VB)
 
 [Teng et al. 2013](http://www.sciencedirect.com/science/article/pii/S109727651300748X). Genome-wide Consequences of Deleting Any Single Gene
+
+##### Fri Dec 6 2013 (AO)
+
+[Karhunen et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/evo.12268/abstract). Bringing habitat information into statistical tests of local adaptation in quantitative traits: a case study of nine-spined sticklebacks.
 
 ### November 2013
 
@@ -24,7 +28,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 No R.E.H.A.B., but to go along with all your TurkeyDay related activities: [Seidel et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.575/full). Influence of translocations on eastern wild turkey population genetics in Texas
 
-##### Fri Nov 22 2013 (VB)
+##### Fri Nov 22 2013 (VB,DV)
 
 [Thallmann et al. 2012](http://www.sciencemag.org/content/342/6160/871.full.pdf). Complete Mitochondrial Genomes of Ancient Canids Suggest a European Origin of Domestic Dogs
 
