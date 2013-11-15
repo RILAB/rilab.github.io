@@ -8,19 +8,29 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
+## 2014
+
+### January 2014
+
+##### Fri Jan. 3 2014 (AO)
+
+[Karhunen et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/evo.12268/abstract). Bringing habitat information into statistical tests of local adaptation in quantitative traits: a case study of nine-spined sticklebacks.
+
+## 2013
+
 ### December 2013
 
-##### Fri Dec. 20 2013 (JRI)
+##### Fri Dec. 20 2013 ()
 
-[Bauer et al. 2013](http://genomebiology.com/2013/14/9/R103). Intraspecific variation of recombination rate in maize
+TBA
 
 ##### Fri Dec. 13 2013 (VB)
 
 [Teng et al. 2013](http://www.sciencedirect.com/science/article/pii/S109727651300748X). Genome-wide Consequences of Deleting Any Single Gene
 
-##### Fri Dec 6 2013 (AO)
+##### Fri Dec 6 2013 (JRI)
 
-[Karhunen et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/evo.12268/abstract). Bringing habitat information into statistical tests of local adaptation in quantitative traits: a case study of nine-spined sticklebacks.
+[Bauer et al. 2013](http://genomebiology.com/2013/14/9/R103). Intraspecific variation of recombination rate in maize
 
 ### November 2013
 
