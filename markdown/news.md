@@ -2,7 +2,7 @@
 
 ### Nov. 14, 2013
 
-Anna O'Brien advances to candidacy! 
+Anna O'Brien passed her qualifying exam and advances to candidacy!
 
 ### Nov. 7, 2013
 
