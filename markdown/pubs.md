@@ -92,9 +92,9 @@
 
 	[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf) [data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data) <div class="impactstory-embed" data-id="21946354" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://www.pnas.org/content/108/3/1088.long). PNAS 108: 1088-1092
+* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://www.pnas.org/content/108/3/1088.long). *PNAS* 108: 1088-1092
 
-	[data](http://figshare.com/articles/new_fileset/757735)[commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/) <div class="impactstory-embed" data-id="21189301" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[data](http://figshare.com/articles/new_fileset/757735) [commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/) <div class="impactstory-embed" data-id="21189301" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * **Hufford MB**, Gepts P, **Ross-Ibarra J** (2011) [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (*Zea mays* ssp. *parviglumis*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04924.x/abstract). *Molecular Ecology* 20: 46-55
 
@@ -118,7 +118,7 @@
 
 	[pdf](http://www.rilab.org/pdfs/Whitney-et-al-2010-402.pdf) <div class="impactstory-embed" data-id="20148953" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) [Fine scale genetic structure in the wild ancestor of maize (*Zea mays* ssp. *parviglumis*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04559.x/full). *Molecular Ecology** 19: 1162-1173
+* **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) [Fine scale genetic structure in the wild ancestor of maize (*Zea mays* ssp. *parviglumis*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04559.x/full). *Molecular Ecology* 19: 1162-1173
 
 	[pdf](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf) <div class="impactstory-embed" data-id="20163543" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
@@ -158,11 +158,11 @@
 
 	<div class="impactstory-embed" data-id="18545707" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Lockton S, **Ross-Ibarra J**, Gaut BS (2008) [Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*](http://www.pnas.org/content/105/37/13965.short). PNAS 105: 13965-13970
+* Lockton S, **Ross-Ibarra J**, Gaut BS (2008) [Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*](http://www.pnas.org/content/105/37/13965.short). *PNAS* 105: 13965-13970
 
 	<div class="impactstory-embed" data-id="18772373" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J**, Gaut BS (2008) [Multiple domestications do not appear monophyletic](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/). PNAS 105: E105
+* **Ross-Ibarra J**, Gaut BS (2008) [Multiple domestications do not appear monophyletic](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/). *PNAS* (Letter) 105: E105
 
 	<div class="impactstory-embed" data-id="19057016" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
@@ -172,35 +172,35 @@
 
 ### 2007
 
-* **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* 104 Suppl 1: 8641-8648
+* **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/). *PNAS* 104 Suppl 1: 8641-8648
 
 	<div class="impactstory-embed" data-id="17494757" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. *Journal of Evolutionary Biology* 20: 800-806
+* **Ross-Ibarra J** (2007) [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract). *Journal of Evolutionary Biology* 20: 800-806
 
 	<div class="impactstory-embed" data-id="17305845" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 ### 2001-2006
 
-* Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ (2006) Mitochondrial DNA and population size. *Science* 314: 1388-90
+* Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ (2006) [Mitochondrial DNA and population size](http://www.sciencemag.org/content/314/5804/1388.full.pdf). *Science* (Letter) 314: 1388-90
 
-	<div class="impactstory-embed" data-id="17144000" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf) <div class="impactstory-embed" data-id="17144000" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J** (2005) Quantitative trait loci and the study of plant domestication. *Genetica* 123: 197-204
+* **Ross-Ibarra J** (2005) [Quantitative trait loci and the study of plant domestication](http://link.springer.com/chapter/10.1007%2F1-4020-3836-4_18). *Genetica* 123: 197-204
 
-	<div class="impactstory-embed" data-id="15881692" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf) <div class="impactstory-embed" data-id="15881692" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J** (2004) The evolution of recombination under domestication: a test of two hypotheses. *American Naturalist* 163: 105-112
+* **Ross-Ibarra J** (2004) [The evolution of recombination under domestication: a test of two hypotheses](http://www.jstor.org/discover/10.1086/380606?uid=3739560&uid=2129&uid=2131&uid=2&uid=70&uid=4&uid=3739256&sid=21102939627737). *American Naturalist* 163: 105-112
 
-	<div class="impactstory-embed" data-id="14767840" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf‎) <div class="impactstory-embed" data-id="14767840" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J** (2003) Origin and domestication of chaya (*Cnidoscolus aconitifolius* Mill I. M. Johnst): Mayan spinach. *Mexican Studies* 19: 287-302
+* **Ross-Ibarra J** (2003) [Origin and domestication of chaya (*Cnidoscolus aconitifolius* Mill I. M. Johnst): Mayan spinach](http://www.jstor.org/discover/10.1525/msem.2003.19.2.287?uid=3739560&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21102939627737). *Mexican Studies* 19: 287-302
   
-	<div class="impactstory-embed" data-id="10.1525/msem.2003.19.2.287" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf) <div class="impactstory-embed" data-id="10.1525/msem.2003.19.2.287" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J**, Molina-Cruz A (2002) The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable. *Economic Botany* 56: 350-365.
+* **Ross-Ibarra J**, Molina-Cruz A (2002) [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://link.springer.com/article/10.1663/0013-0001(2002)056%5B0350:TEOCCA%5D2.0.CO%3B2). *Economic Botany* 56: 350-365.
 
-	<div class="impactstory-embed" data-id="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf) <div class="impactstory-embed" data-id="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) [Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum* (Polygonaceae)](http://www.amjbot.org/content/88/7/1214.abstract). *American Journal of Botany* 88: 1214-1222
 
