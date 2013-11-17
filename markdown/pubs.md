@@ -5,7 +5,7 @@
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize
 
-    [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>  
+    [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div>
     
 ### In Press
 
@@ -15,7 +15,7 @@
     
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf). *PNAS* *In Press*
 
-    [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+    [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div>
     
 ### 2013
 
@@ -45,7 +45,7 @@
 
 * Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html). *Heredity* 110: 570-577
 
-	[preprint](http://arxiv.org/abs/1209.5466) <div class="impactstory-embed" data-id="23443059" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[preprint](http://arxiv.org/abs/1209.5466) <div class="impactstory-embed" data-id="23443059" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div>
 
 ### 2012
 
@@ -112,15 +112,15 @@
 
 * Fuchs EJ, **Ross-Ibarra J**, Barrantes G (2010) [Reproductive biology of *Macleania rupestris* (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDMQFjAB&url=http%3A%2F%2Fjournals.cambridge.org%2Fproduction%2Faction%2FcjoGetFulltext%3Ffulltextid%3D7452428&ei=Zdt7UqT5OsiXigKs_oHQAg&usg=AFQjCNFR8XzVKt0urqS4VkAkCvFAbpEMWw&sig2=hynKttr3330sUNH9qW62zQ&bvm=bv.56146854,d.cGE). *Journal of Tropical Ecology* 26: 351-354
 
-	<div class="impactstory-embed" data-id="10.1017/S0266467410000064" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf) <div class="impactstory-embed" data-id="10.1017/S0266467410000064" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * Whitney KD, Baack EJ, Hamrick JL, Godt, MJW, Barringer BC, Bennet MD, Eckert CG, Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J** (2010) [A role for nonadaptive processes in plant genome size evolution?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&ved=0CEYQFjAC&url=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1558-5646.2010.00967.x%2Fsuppinfo&ei=1uB7UuarDqe7iwKn1oEg&usg=AFQjCNF3H4kJN5Bmm9ErTSFaIBfDNszNew&sig2=DJdwdPr27pMBzn76LyNTZQ&bvm=bv.56146854,d.cGE) *Evolution* 64: 2097-2109
 
-	<div class="impactstory-embed" data-id="20148953" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Whitney-et-al-2010-402.pdf) <div class="impactstory-embed" data-id="20148953" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) [Fine scale genetic structure in the wild ancestor of maize (*Zea mays* ssp. *parviglumis*)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04559.x/full). *Molecular Ecology** 19: 1162-1173
 
-	<div class="impactstory-embed" data-id="20163543" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf) <div class="impactstory-embed" data-id="20163543" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 * Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) [High frequency gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327). *PLoS Biology* 8: e1000327
 
@@ -144,7 +144,7 @@
 
 	<div class="impactstory-embed" data-id="20041136" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) Selection on grain shattering genes and rates of rice domestication. *New Phytologist* 184: 708-720
+* Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) [Selection on grain shattering genes and rates of rice domestication](http://www.ncbi.nlm.nih.gov/pubmed/19674325). *New Phytologist* 184: 708-720
 
 	<div class="impactstory-embed" data-id="19674325" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
@@ -158,17 +158,17 @@
 
 	<div class="impactstory-embed" data-id="18545707" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*. PNAS 105: 13965-13970
+* Lockton S, **Ross-Ibarra J**, Gaut BS (2008) [Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*](http://www.pnas.org/content/105/37/13965.short). PNAS 105: 13965-13970
 
 	<div class="impactstory-embed" data-id="18772373" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J**, Gaut BS (2008) Multiple domestications do not appear monophyletic. PNAS 105: E105
+* **Ross-Ibarra J**, Gaut BS (2008) [Multiple domestications do not appear monophyletic](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/). PNAS 105: E105
 
 	<div class="impactstory-embed" data-id="19057016" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. *Science* 320: 484-486
+* Gaut BS, **Ross-Ibarra J** (2008) [Selection on major components of angiosperm genomes](http://www.sciencemag.org/content/320/5875/484.short). *Science* 320: 484-486
 
-	<div class="impactstory-embed" data-id="18436777" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[odf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf) <div class="impactstory-embed" data-id="18436777" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 ### 2007
 
