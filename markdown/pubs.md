@@ -5,7 +5,7 @@
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize
 
-    [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div>
+    [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>  
     
 ### In Press
 
@@ -15,7 +15,7 @@
     
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf). *PNAS* *In Press*
 
-    [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div>
+    [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
     
 ### 2013
 
@@ -45,7 +45,7 @@
 
 * Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html). *Heredity* 110: 570-577
 
-	[preprint](http://arxiv.org/abs/1209.5466) <div class="impactstory-embed" data-id="23443059" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div>
+	[preprint](http://arxiv.org/abs/1209.5466) <div class="impactstory-embed" data-id="23443059" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 ### 2012
 
@@ -148,13 +148,13 @@
 
 	<div class="impactstory-embed" data-id="19674325" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea. *Genetics* 181: 1399-1413
+* **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract). *Genetics* 181: 1399-1413
 
 	<div class="impactstory-embed" data-id="19153259" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 ### 2008
 
-* **Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS (2008) Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*. *PLoS ONE* 3: e2411
+* **Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS (2008) [Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*](http://dx.doi.org/10.1371%2Fjournal.pone.0002411). *PLoS ONE* 3: e2411
 
 	<div class="impactstory-embed" data-id="18545707" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
@@ -168,7 +168,7 @@
 
 * Gaut BS, **Ross-Ibarra J** (2008) [Selection on major components of angiosperm genomes](http://www.sciencemag.org/content/320/5875/484.short). *Science* 320: 484-486
 
-	[odf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf) <div class="impactstory-embed" data-id="18436777" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf) <div class="impactstory-embed" data-id="18436777" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
 ### 2007
 
@@ -202,6 +202,6 @@
 
 	<div class="impactstory-embed" data-id="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-badge-type="icon" data-id-type="doi" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 
-* Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum* (Polygonaceae). *American Journal of Botany* 88: 1214-1222
+* Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) [Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum* (Polygonaceae)](http://www.amjbot.org/content/88/7/1214.abstract). *American Journal of Botany* 88: 1214-1222
 
 	<div class="impactstory-embed" data-id="11454621" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
