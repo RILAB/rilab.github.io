@@ -30,7 +30,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri Dec 6 2013 (JRI)
 
-[Bauer et al. 2013](http://genomebiology.com/2013/14/9/R103). Intraspecific variation of recombination rate in maize
+[Chapman et al. 2013](http://mbe.oxfordjournals.org/content/30/12/2553). Genomic Divergence during Speciation Driven by Adaptation to Altitude
 
 ### November 2013
 
