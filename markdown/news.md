@@ -1,5 +1,9 @@
 ## News
 
+### Nov. 26, 2013
+
+[Mezmouk et al.](http://m.g3journal.org/content/early/2013/11/18/g3.113.008870.full.pdf) now online at G3
+
 ### Nov. 15, 2013
 
 Waters et. al. is now [online at PNAS](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)!
