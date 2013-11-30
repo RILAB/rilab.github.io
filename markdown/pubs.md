@@ -9,7 +9,7 @@
     
 ### In Press
 
-* **Mezmouk S**, **Ross-Ibarra J**. The pattern and distribution of deleterious mutations in maize. *G3* *Accepted with minor revisions*
+* **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract). *G3* *In Press*
 
     [preprint](http://arxiv.org/abs/1308.0380) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
     
