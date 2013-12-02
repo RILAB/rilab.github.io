@@ -21,7 +21,7 @@
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
-	[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1) [preprint](http://arxiv.org/abs/1208.0634) <div class="impactstory-embed" data-id="23902747" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
+	[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg) [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1) [preprint](http://arxiv.org/abs/1208.0634) <div class="impactstory-embed" data-id="23902747" data-badge-type="icon" data-id-type="pmid" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
 	  
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 
