@@ -12,6 +12,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### January 2014
 
+##### Fri Jan. 17 2014 (JRI)
+
+[Chapman et al. 2013](http://mbe.oxfordjournals.org/content/30/12/2553). Genomic Divergence during Speciation Driven by Adaptation to Altitude
+
+##### Fri Jan. 3 2014 ()
+
+TBA
+
 ##### Fri Jan. 3 2014 (AO)
 
 [Karhunen et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/evo.12268/abstract). Bringing habitat information into statistical tests of local adaptation in quantitative traits: a case study of nine-spined sticklebacks.
@@ -24,13 +32,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Rettelbach et al. 2013](http://www.jstor.org/stable/full/10.1086/673488). Three modes of adaptive speciation in spatially structured populations
 
-##### Fri Dec. 13 2013 (VB)
+##### Fri Dec. 13 2013 (JRI)
+
+[Korneliussen et al. 2013](http://www.biomedcentral.com/content/pdf/1471-2105-14-289.pdf). Calculation of Tajima's D and other neutrality test statistics from low depth next-generation sequencing data
+
+##### Fri Dec 6 2013 (VB)
 
 [Teng et al. 2013](http://www.sciencedirect.com/science/article/pii/S109727651300748X). Genome-wide Consequences of Deleting Any Single Gene
-
-##### Fri Dec 6 2013 (JRI)
-
-[Chapman et al. 2013](http://mbe.oxfordjournals.org/content/30/12/2553). Genomic Divergence during Speciation Driven by Adaptation to Altitude
 
 ### November 2013
 
