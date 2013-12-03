@@ -7,17 +7,17 @@
 
     [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>  
     
-### In Press
-
+### 2014
+    
 * **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract). *G3* *In Press*
 
     [preprint](http://arxiv.org/abs/1308.0380) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
-    
+
+### 2013
+
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf). *PNAS* *In Press*
 
     [preprint](http://arxiv.org/abs/1307.7678) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>
-    
-### 2013
 
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 

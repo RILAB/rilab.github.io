@@ -51,6 +51,8 @@ Maize was domesticated 9,000 years ago in southwest Mexico from its wild ancesto
 
 ### Genetics of Maize Breeding
 
+Maize is an enormously important crop, and understanding the genetic diversity of maize and how that diversity has been shaped by modern breeding will be important for continued efforts to improve maize.  In addition to characterizing the functional diversity in maize, we seek to understand how population genetic processes like drift and selection have impacted the maize genome.
+
 * **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://arxiv.org/abs/1308.0380).
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. [The genomic impacts of drift and selection for hybrid performance in maize](http://arxiv.org/abs/1307.7313)  
@@ -72,6 +74,8 @@ Maize was domesticated 9,000 years ago in southwest Mexico from its wild ancesto
 ![](images/tes.jpg) 
 
 ### Transposable Elements 
+
+The majority of plant DNA consists of transposable elements (TEs). The maize genome, though smaller than the average angiosperm at only 2.9Gb, is 85% TEs. While there are numerous examples of the functional consequences of TEs in maize and other plants, we still know very little about TEs.  We look to investigate a number of TE-related questions, including: what keeps them in check? what proportion have functional consequences? how do they impact the genome? 
 
 * Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) [Maize HapMap2 identifies extant variation from a genome in flux](http://www.nature.com/ng/journal/v44/n7/full/ng.2313.html). *Nature Genetics* 44:803-807
 
@@ -100,6 +104,8 @@ The genus Zea is an excellent study system for investigating what is known as th
 ![](images/trees.jpg) 
 
 ### Evolution & Genetics of Woody Perennials
+
+In addition to maize, the lab has worked on questions of evolution and domestication of several woody perennials, including oaks, Joshua Trees, peach/almond, persimmon, and chaya.
 
 * **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) [Population genetics and ethnobotany of cultivated *Diospyros riojae* Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico](http://link.springer.com/article/10.1007/s10722-013-0015-z). *Genetic Resources and Crop Evolution* 
 
