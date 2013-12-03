@@ -3,19 +3,15 @@
 
 ### In Review ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize
-
-    [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br><br/>  
+* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br><br>  
     
 ### 2014
     
-* **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract). *G3* *In Press*
-
-    [preprint](http://arxiv.org/abs/1308.0380) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
+* **Mezmouk S**, **Ross-Ibarra J**. [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract). *G3* *In Press* [preprint](http://arxiv.org/abs/1308.0380) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br><br>
 
 ### 2013
 
-* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and spanergence of imprinting in maize](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf). *PNAS* *In Press*
+* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf). *PNAS* *In Press*
 
     [preprint](http://arxiv.org/abs/1307.7678) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
   
@@ -50,7 +46,7 @@
 
 	[preprint](http://arxiv.org/abs/1209.4967) <span class="impactstory-embed" data-id="23363705" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
-* Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) [spanersity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html). *Heredity* 110: 570-577
+* Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html). *Heredity* 110: 570-577
 
 	[preprint](http://arxiv.org/abs/1209.5466) <span class="impactstory-embed" data-id="23443059" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
@@ -72,9 +68,7 @@
 
 	<span class="impactstory-embed" data-id="22753482" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
-* **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhajarvi T**, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, **Ross-Ibarra J** (2012) [Comparative population genomics of maize domestication and improvement](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fng%2Fjournal%2Fv44%2Fn7%2Ffull%2Fng.2309.html&ei=t_d2Uvi0DKO0iQKDmICQBA&usg=AFQjCNF4IbGZ207sbrCczzFWyqEQxIkeFA&sig2=E51yK2Pw3-5nyGArwGx4hQ&bvm=bv.55819444,d.cGE). *Nature Genetics* 44:808-811
-
-	[commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html) [pdf](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf) [data](http://figshare.com/articles/new_fileset/757736) [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) <span class="impactstory-embed" data-id="22660546" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span> <br> 
+* **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhajarvi T**, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, **Ross-Ibarra J** (2012) [Comparative population genomics of maize domestication and improvement](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fng%2Fjournal%2Fv44%2Fn7%2Ffull%2Fng.2309.html&ei=t_d2Uvi0DKO0iQKDmICQBA&usg=AFQjCNF4IbGZ207sbrCczzFWyqEQxIkeFA&sig2=E51yK2Pw3-5nyGArwGx4hQ&bvm=bv.55819444,d.cGE). *Nature Genetics* 44:808-811 [commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html) [pdf](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf) [data](http://figshare.com/articles/new_fileset/757736) [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) <span class="impactstory-embed" data-id="22660546" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span> <br><br> 
 
 
 * Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhajarvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) [Maize HapMap2 identifies extant variation from a genome in flux](http://www.nature.com/ng/journal/v44/n7/full/ng.2313.html). *Nature Genetics* 44:803-807
@@ -137,7 +131,7 @@
 
 	<span class="impactstory-embed" data-id="19825943" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
-* **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) [Genetic spanersity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html). *Heredity* 104: 28-39
+* **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html). *Heredity* 104: 28-39
 
 	<span class="impactstory-embed" data-id="19738636" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
@@ -155,7 +149,7 @@
 
 	<span class="impactstory-embed" data-id="19674325" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
-* **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) [Historical spanergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract). *Genetics* 181: 1399-1413
+* **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract). *Genetics* 181: 1399-1413
 
 	<span class="impactstory-embed" data-id="19153259" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
@@ -165,7 +159,7 @@
 
 	<span class="impactstory-embed" data-id="18545707" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
-* Lockton S, **Ross-Ibarra J**, Gaut BS (2008) [Demography and weak selection drive patterns of transposable element spanersity in natural populations of *Arabidopsis lyrata*](http://www.pnas.org/content/105/37/13965.short). *PNAS* 105: 13965-13970
+* Lockton S, **Ross-Ibarra J**, Gaut BS (2008) [Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*](http://www.pnas.org/content/105/37/13965.short). *PNAS* 105: 13965-13970
 
 	<span class="impactstory-embed" data-id="18772373" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
