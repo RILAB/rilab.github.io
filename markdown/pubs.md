@@ -5,7 +5,7 @@
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize
 
-    [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br>  
+    [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <div class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-badge-type="icon" data-id-type="url" data-api-key="API-DOCS" data-show-logo="false" ></div><br><br/>  
     
 ### 2014
     
