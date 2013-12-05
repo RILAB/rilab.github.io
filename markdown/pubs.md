@@ -64,7 +64,7 @@
 
 	[data](http://figshare.com/articles/van_Heerwaarden_et_al_2012/757738) <span class="impactstory-embed" data-id="22802642" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 
-* Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM. [Reshaping of the maize transcriptome by domestication](http://www.pnas.org/content/early/2012/06/28/1201961109.abstract). (2012)*PNAS* 109: 11878-11883
+* Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM. [Reshaping of the maize transcriptome by domestication](http://www.pnas.org/content/early/2012/06/28/1201961109.abstract). (2012) *PNAS* 109: 11878-11883
 
 	<span class="impactstory-embed" data-id="22753482" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
 

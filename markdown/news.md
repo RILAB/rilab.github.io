@@ -1,5 +1,9 @@
 ## News
 
+### Dec. 3, 2013
+
+[Pyhäjärvi et al.](http://gbe.oxfordjournals.org/content/5/9/1594) featured on the [cover](http://gbe.oxfordjournals.org/content/5/12.toc) of this months Genome Biology and Evolution.
+
 ### Nov. 26, 2013
 
 [Mezmouk et al.](http://m.g3journal.org/content/early/2013/11/18/g3.113.008870.full.pdf) now online at G3
