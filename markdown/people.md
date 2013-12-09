@@ -5,8 +5,8 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 ### PI
 
-**Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))** <img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 20px;"></a>
-<a href="https://twitter.com/jrossibarra">
+**Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))** <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+
 
 * Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. His latest musings can be followed on [twitter](https://twitter.com/jrossibarra).
 
