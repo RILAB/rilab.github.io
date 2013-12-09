@@ -8,7 +8,7 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 **Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))** <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 
-* Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. His latest musings can be followed on [twitter](https://twitter.com/jrossibarra).
+* Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. 
 
 ### Postdoctoral Scholars
 
@@ -35,7 +35,7 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 * Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
 
-**Dianne Velasco**
+**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
@@ -45,7 +45,7 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 ### Staff
 
-[**Vince Buffalo**](http://www.vincebuffalo.com/)
+[**Vince Buffalo**](http://www.vincebuffalo.com/) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Vince is a bioinformatician and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
 
@@ -55,7 +55,7 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 ### Undergraduate Students
 
-[**Arun Durvasula**](https://github.com/arundurvasula)
+[**Arun Durvasula**](https://github.com/arundurvasula) <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
 
