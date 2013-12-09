@@ -2,9 +2,10 @@
 
 ### PI
 
-**Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))**
+**Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))** <a href="https://twitter.com/jrossibarra" class="twitter-follow-button" data-show-count="false"></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-* Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009.
+* Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. His latest musings can be followed on [twitter](https://twitter.com/jrossibarra).
 
 ### Postdoctoral Scholars
 
