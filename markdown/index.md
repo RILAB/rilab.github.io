@@ -1,8 +1,9 @@
 # Ross-Ibarra Lab
 
-Welcome to the Ross-Ibara Lab Page. We're currently under heavy construction, so please excuse the mess! Check back soon for updates. 
-
-Last update:
+Welcome to the Ross-Ibara Lab in the [Dept. of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) at the [University of California Davis](http://www.ucdavis.edu).
 
 
-Wed Dec  4 18:19:09 PST 2013
+<img src="http://www.rilab.org/images/GC.png" style="width: 100px;"></a>
+<a href="http://www.genomecenter.ucdavis.edu">
+
+

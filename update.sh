@@ -1,7 +1,6 @@
 #! /bin/zsh
 
 cd markdown
-cat <(cat construction.md) <(date) > index.md
 
 for i in *.md; 
 do

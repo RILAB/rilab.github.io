@@ -10,7 +10,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
-### January 2014
+### January 2014 
+
+##### Fri. Jan 31 2014 (VB)
+
+[Nadachowska-Brzyska et al.](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003942?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+plosgenetics%2FNewArticles+%28PLOS+Genetics+-+New+Articles%29). Demographic Divergence History of Pied Flycatcher and Collared Flycatcher Inferred from Whole-Genome Re-sequencing Data
+
+##### Fri. Jan 24 2014 (VB)
+
+[Scally et al. 2012](http://www.nature.com/nature/journal/v483/n7388/full/nature10842.html%3FWT.ec_id%3DNATURE-20120308). Insights into hominid evolution from the gorilla genome sequence
 
 ##### Fri Jan. 17 2014 (JRI)
 
