@@ -1,9 +1,12 @@
 ## People
 
+Please read for information on [joining the lab](www.rilab.org/prosp.html)
+
+
 ### PI
 
-**Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))** <a href="https://twitter.com/jrossibarra" class="twitter-follow-button" data-show-count="false"></a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+**Jeffrey Ross-Ibarra ([CV](https://github.com/rossibarra/CV))** <img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 20px;"></a>
+<a href="https://twitter.com/jrossibarra">
 
 * Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. His latest musings can be followed on [twitter](https://twitter.com/jrossibarra).
 
@@ -18,6 +21,7 @@
 * Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
 ### Graduate Students
+
 
 **Paul Bilinski**
 
