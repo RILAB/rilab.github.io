@@ -3,7 +3,7 @@
 
 ### In Review ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br><br>  
+* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [preprint](http://arxiv.org/abs/1307.7313) [blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br></br>  
     
 ### 2014
     
@@ -11,21 +11,10 @@
 
 ### 2013
 
-* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. [Conservation and divergence of imprinting in maize](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf). *PNAS* *In Press*
-
-    [preprint](http://arxiv.org/abs/1307.7678) <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
-  
-  
+* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. Conservation and divergence of imprinting in maize. [*PNAS* *In Press*]((http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf) [[preprint](http://arxiv.org/abs/1307.7678)] [<span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>]<br>
     
-* **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
-
-	[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg) [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1) [preprint](http://arxiv.org/abs/1208.0634) <span class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
-	
-	  
-	    
-	    
-		
-	  
+* **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte]. *Genome Biology and Evolution* [5:1594-1609](http://gbe.oxfordjournals.org/content/5/9/1594) [[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg) [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)] [<span class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>]
+		  
 * Wills DM, Whipple C, **Takuno S**, Kursela LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604). *PLoS Genetics* 9(6): e1003604.
 
 	[data](http://figshare.com/articles/Wills_et_al_2013/775358) [preprint](http://arxiv.org/abs/1303.0882) <span class="impactstory-embed" data-id="23825971" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span><br>
