@@ -1,5 +1,9 @@
 ## News
 
+### Dec. 11, 2013
+
+Lab collaborations on the [Wills et al.](http://f1000.com/prime/718032804) and [Waters et al.](http://f1000.com/prime/718173166) manuscripts have been written up for F1000.
+
 ### Dec. 3, 2013
 
 [Pyhäjärvi et al.](http://gbe.oxfordjournals.org/content/5/9/1594) featured on the [cover](http://gbe.oxfordjournals.org/content/5/12.toc) of this months Genome Biology and Evolution.
