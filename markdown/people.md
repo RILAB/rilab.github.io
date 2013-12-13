@@ -60,3 +60,44 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 **Sid Bhadra-Lobo**
 
 * Sid is working on mapping centromere repeat abundance across a panel of maize lines.
+
+### Lab Alums
+
+[Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) <a href="https://twitter.com/mbhufford"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2013
+
+[Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392) <a href="https://twitter.com/PyhaTanja"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2012
+
+[Shohei Takuno](https://sites.google.com/site/shoheitakuno/) <a href="https://twitter.com/ShoheiTakuno"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2012-2013
+
+[Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm) Postdoc 2009-2011
+
+### Current Collaborators
+
+**Biology of rare alleles in maize and teosinte**
+
+* [Ed Buckler](http://www.maizegenetics.net)
+* [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
+* [Jim Holland](http://www4.ncsu.edu/~jholland/homepage.htm)
+* [Qi Sun](http://vivo.cornell.edu/display/individual24418)
+* [Doreen Ware](http://warelab.org)
+
+**Functional genomics of maize centromeres**
+
+* Jim Birchler
+* Kelly Dawe
+* Jiming Jiang
+* Gernot Presting
+
+**Evolutionary genetics of highland adaptation in maize**
+
+* [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
+* [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
+* [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165)
+
+**Genetic assimilation in teosinte**
+
+* [Dolores Piperno](http://www.stri.si.edu/english/scientific_staff/staff_scientist/scientist.php?id=26)
+
+**Genomics of maize breeding populations**
+
+* [Mike McMullen](http://ipg.missouri.edu/faculty/mcmullen.cfm)
