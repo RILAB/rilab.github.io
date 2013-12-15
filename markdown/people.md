@@ -76,6 +76,7 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 **Biology of rare alleles in maize and teosinte**
 
 * [Ed Buckler](http://www.maizegenetics.net)
+* [John Doebley](http://teosinte.wisc.edu)
 * [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
 * [Jim Holland](http://www4.ncsu.edu/~jholland/homepage.htm)
 * [Qi Sun](http://vivo.cornell.edu/display/individual24418)
@@ -83,10 +84,10 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 **Functional genomics of maize centromeres**
 
-* Jim Birchler
-* Kelly Dawe
-* Jiming Jiang
-* Gernot Presting
+* [Jim Birchler](http://ipg.missouri.edu/faculty/birchler.cfm)
+* [Kelly Dawe](http://www.dawelab.org)
+* [Jiming Jiang](http://genetics.wisc.edu/Jiang.htm)
+* [Gernot Presting](http://genomics.hawaii.edu/prestinglab/)
 
 **Evolutionary genetics of highland adaptation in maize**
 
@@ -98,6 +99,12 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 * [Dolores Piperno](http://www.stri.si.edu/english/scientific_staff/staff_scientist/scientist.php?id=26)
 
-**Genomics of maize breeding populations**
+**Teosinte-mycorrhiza coevolution**
+
+* [Sharon Strauss](http://sharonstrauss.wordpress.com)
+
+**Population genetics of maize breeding**
 
 * [Mike McMullen](http://ipg.missouri.edu/faculty/mcmullen.cfm)
+* [Justin Gerke](http://www.linkedin.com/pub/justin-gerke/11/ab4/312)
+* Oscar (Howie) Smith
