@@ -1,5 +1,9 @@
 ## News
 
+### Dec. 17, 2013
+
+Anna O'Brien receives UCMEXUS funding for her dissertation project "Do environmental gradients drive adaptation in mutualisms? A study of teosinte and mycorrhizae".
+
 ### Dec. 11, 2013
 
 Lab collaborations on the [Wills et al.](http://f1000.com/prime/718032804) and [Waters et al.](http://f1000.com/prime/718173166) manuscripts have been written up for F1000.
