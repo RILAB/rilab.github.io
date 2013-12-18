@@ -2,6 +2,8 @@
 
 ### Dec. 17, 2013
 
+Dianne Velasco passees her QE exams! Congrats D!
+
 Anna O'Brien receives UCMEXUS funding for her dissertation project "Do environmental gradients drive adaptation in mutualisms? A study of teosinte and mycorrhizae".
 
 ### Dec. 11, 2013
