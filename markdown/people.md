@@ -61,6 +61,12 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 * Sid is working on mapping centromere repeat abundance across a panel of maize lines.
 
+### Visiting Scientists
+
+[**Peter Tiffin**](http://www.cbs.umn.edu/lab/tiffin)  
+
+* Peter is an Associate Professor at U. Minnesota on sabbatical at UCD visiting the Ross-Ibarra and [Coop](http://gcbias.org) labs.
+
 ### Lab Alums
 
 [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) <a href="https://twitter.com/mbhufford"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2013
