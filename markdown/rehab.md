@@ -24,7 +24,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Chapman et al. 2013](http://mbe.oxfordjournals.org/content/30/12/2553). Genomic Divergence during Speciation Driven by Adaptation to Altitude
 
-##### Fri Jan. 3 2014 (DV)
+##### Fri Jan. 10 2014 (DV)
 
 [Han et al. 2013](http://mbe.oxfordjournals.org/content/early/2013/11/27/molbev.mst229.abstract). Characterizing bias in population genetic inferences from low coverage sequencing data
 
