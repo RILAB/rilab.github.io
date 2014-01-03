@@ -14,7 +14,7 @@
 
 ### 2013
 
-* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. Conservation and divergence of imprinting in maize. [*PNAS* *In Press*]((http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf) [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
+* Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM. Conservation and divergence of imprinting in maize. [*PNAS* *In Press*](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf) [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7678" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
     
 * **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) Complex patterns of local adaptation in teosinte. *Genome Biology and Evolution* [5:1594-1609](http://gbe.oxfordjournals.org/content/5/9/1594) [[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg) [data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)] <span class="impactstory-embed" data-id="23902747" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
 		  
