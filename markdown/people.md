@@ -53,13 +53,17 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 ### Undergraduate Students
 
-[**Arun Durvasula**](https://github.com/arundurvasula) <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
-* Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
-
 **Sid Bhadra-Lobo**
 
 * Sid is working on mapping centromere repeat abundance across a panel of maize lines.
+
+**Nivaz Brar**
+
+* Nivaz is working on identifying recessive lethal mutations in a mu trasnposon insertion line.
+
+[**Arun Durvasula**](https://github.com/arundurvasula) <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+
+* Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
 
 ### Visiting Scientists
 
