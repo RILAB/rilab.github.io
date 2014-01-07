@@ -57,7 +57,7 @@ Please read for information on [joining the lab](www.rilab.org/prosp.html)
 
 * Sid is working on mapping centromere repeat abundance across a panel of maize lines.
 
-**Nivaz Brar** a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Nivaz is working on identifying recessive lethal mutations in a mu trasnposon insertion line.
 
