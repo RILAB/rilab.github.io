@@ -1,6 +1,6 @@
 ## People
 
-Please read for information on [joining the lab](www.rilab.org/prosp.html)
+Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 ### PI
 
