@@ -65,6 +65,10 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 * Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
 
+**Chris Fiscus** 
+
+* Chris is working on GWAS of repeat abundance in maize.
+
 ### Visiting Scientists
 
 [**Peter Tiffin**](http://www.cbs.umn.edu/lab/tiffin)  
