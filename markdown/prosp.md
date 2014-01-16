@@ -2,7 +2,7 @@
 
 ### Prospective Grad Students
 
-I am currently accepting graduate students through the [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), and (soon) [Ecology](http://ecology.ucdavis.edu) graduate groups. If you're interested in joining my lab, see my [advice for gard school](http://www.slideshare.net/jrossibarra/forgradschool), read a few of our papers, and then contact me and send along a CV. 
+I am currently accepting graduate students through the [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), and (soon) [Ecology](http://ecology.ucdavis.edu) graduate groups. If you're interested in joining my lab, see my [advice for grad school](http://www.slideshare.net/jrossibarra/forgradschool), read a few of our papers, and then contact me and send along a CV. 
 
 ### Prospective PostDocs
 
