@@ -2,7 +2,7 @@
 
 ### Jan. 17, 2014
 
-Happy to announce that [Tim Beissinger]i(http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en) will be joining the lab as a postdoc in Summer 2014!
+Happy to announce that [Tim Beissinger](http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en) will be joining the lab as a postdoc in Summer 2014!
 
 ### Jan. 14, 2014
 
