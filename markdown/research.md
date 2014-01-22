@@ -7,7 +7,7 @@
 
 Natural population of the wild relatives of maize, the teosintes, are found throughout Mexico and Central America growing in a divers array of environments. Populations exhibit differing morphologies, ecologies, life histories, and genetics. Current interests in the lab include hybridization between maize and teosinte, coevolution of teosinte and mycorrhizae, evolutionary dynamics of a domestication gene in natural populations, evolution of genome size, population differences in recombination, and the population genetics of inversion polymorphisms.
 
-* **Pyhajarvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
+* **Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594). *Genome Biology and Evolution* 5:1594-1609
 
 * Kanizay LB, **Pyhajarvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*. *Heredity* 110: 570-577
 
