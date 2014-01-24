@@ -55,7 +55,7 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 **[Sid Bhadra-Lobo](https://github.com/sidbhadra-lobo)** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-* Sid is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
+* Sid is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
 **Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -67,11 +67,11 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 **Chris Fiscus** 
 
-* Chris is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
+* Chris is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
 **Tyler Kent**
 
-* Tyler is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
+* Tyler is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
 **Ali Khavari** 
 
@@ -79,7 +79,7 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 **Timothy Yang**
 
-* Tim is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
+* Tim is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
 ### Visiting Scientists
 
