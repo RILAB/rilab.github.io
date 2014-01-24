@@ -79,7 +79,7 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 **Timothy Yang**
 
-* Tyler is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
+* Tim is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
 
 ### Visiting Scientists
 
