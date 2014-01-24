@@ -53,9 +53,9 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 ### Undergraduate Students
 
-**Sid Bhadra-Lobo**
+**[Sid Bhadra-Lobo](https://github.com/sidbhadra-lobo)** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-* Sid is working on mapping centromere repeat abundance across a panel of maize lines.
+* Sid is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
 
 **Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -67,7 +67,19 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 **Chris Fiscus** 
 
-* Chris is working on GWAS of repeat abundance in maize.
+* Chris is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
+
+**Tyler Kent**
+
+* Tyler is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
+
+**Ali Khavari** 
+
+* Ali is working to test methods of detecting de novo transposable element insertions in maize.
+
+**Timothy Yang**
+
+* Tyler is part of a team inestigating the evidence of centromere drive from next-gen sequence data in maize.
 
 ### Visiting Scientists
 
