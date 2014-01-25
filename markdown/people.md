@@ -71,7 +71,7 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 **Tyler Kent** <a href="https://twitter.com/tvkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-* Tyler is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize. Also, apparently, his corn is unstoppable.
+* Tyler is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize. Also, claims to have unstoppable corn.
 
 **Ali Khavari** 
 
