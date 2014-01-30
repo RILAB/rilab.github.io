@@ -1,5 +1,5 @@
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
-## Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a><a href="http://impactstory.org/user51627"><img src="http://impactstory.org/static/img/impactstory-logo-no-type.png" style="width: 20px;"></a> 
+## Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a> &nbsp; <a href="http://impactstory.org/user51627"><img src="http://impactstory.org/static/img/impactstory-logo-no-type.png" style="width: 20px;"></a> 
 
 
 
