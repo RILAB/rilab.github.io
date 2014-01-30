@@ -1,5 +1,5 @@
 <script type="text/javascript" src="http://impactstory.org/embed/v1/impactstory.js"></script>
-## Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a> <a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=DetailsSearch&term=Ross-Ibarra"><img src="http://www.rilab.org/images/ncbi.jpeg" style="width: 18px;"></a> <a href="http://www.researcherid.com/rid/D-7782-2011"><img src="http://www.rilab.org/images/badge_sm.gif" style="width: 23px;"></a>
+## Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a><a href="http://impactstory.org/user51627"><img src="http://impactstory.org/static/img/impactstory-logo-no-type.png" style="width: 50px;"></a> 
 
 
 
