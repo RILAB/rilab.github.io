@@ -10,6 +10,24 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### February 2014
+
+##### Fri Feb. 28 2014 
+
+[TBA](https://tba.com)
+
+##### Fri Feb. 21 2014 (PB)
+
+[Elhaik et al. 2014](http://www.nature.com/ejhg/journal/vaop/ncurrent/abs/ejhg2013303a.html). The ‘extremely ancient’ chromosome that isn’t: a forensic bioinformatic investigation of Albert Perry’s X-degenerate portion of the Y chromosome 
+
+##### Fri Feb. 14 2014 (DV)
+
+[Han et al. 2013](http://mbe.oxfordjournals.org/content/early/2013/11/27/molbev.mst229.abstract). Characterizing bias in population genetic inferences from low coverage sequencing data
+
+##### Fri. Feb. 7 2014 (JRI)
+
+[Sankararaman et al. 2014](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12961.pdf). The genomic landscape of Neanderthal ancestry in present-day humans
+
 ### January 2014 
 
 ##### Fri. Jan 31 2014 (VB)
@@ -24,9 +42,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Chapman et al. 2013](http://mbe.oxfordjournals.org/content/30/12/2553). Genomic Divergence during Speciation Driven by Adaptation to Altitude
 
-##### Fri Jan. 10 2014 (DV)
+##### Fri Jan. 3 2014 (AO)
 
-[Han et al. 2013](http://mbe.oxfordjournals.org/content/early/2013/11/27/molbev.mst229.abstract). Characterizing bias in population genetic inferences from low coverage sequencing data
+<CANCELED> -- There's a first time for everything. (Translation: "CANCELLED" for our British and Candian friends)
 
 ##### Fri Jan. 3 2014 (AO)
 
