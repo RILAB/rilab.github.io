@@ -44,7 +44,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri Jan. 3 2014 (AO)
 
-<CANCELED> -- There's a first time for everything. (Translation: "CANCELLED" for our British and Candian friends)
+\<CANCELED\> -- There's a first time for everything. (Translation: "CANCELLED" for our British and Canadian friends)
 
 ##### Fri Jan. 3 2014 (AO)
 
