@@ -69,7 +69,7 @@ Please read for information on [joining the lab](http:/www.rilab.org/prosp.html)
 
 * Chris is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
-**Tyler Kent** <a href="https://twitter.com/tvkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Tyler is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize. Also, claims to have unstoppable corn.
 
