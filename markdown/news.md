@@ -1,5 +1,9 @@
 ## News
 
+### Feb. 5, 2014
+
+[My seminar](http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement) at U of Guelph. 
+
 ### Jan. 17, 2014
 
 Happy to announce that [Tim Beissinger](http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en) will be joining the lab as a postdoc in Summer 2014!
