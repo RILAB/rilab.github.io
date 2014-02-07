@@ -2,7 +2,7 @@
 
 ### Feb. 5, 2014
 
-[My seminar](http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement) at U of Guelph. 
+My seminar [slide](http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement) and [video](https://t.co/89X0DTkGKD) at Dept. of Plant Ag. at U of Guelph. 
 
 ### Jan. 17, 2014
 
