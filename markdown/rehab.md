@@ -12,9 +12,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### March 2014
 
-##### Fri Mar. 4 2014 
+##### Fri Mar. 4 2014 (SM)
 
-[TBA](https://tba.com)
+[Peiffer et al. 2014](http://www.genetics.org/content/early/2014/02/06/genetics.113.159152.full.pdf). The genetic architecture of maize height
 
 ### February 2014
 
