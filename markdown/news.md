@@ -1,8 +1,12 @@
 ## News
 
+### Feb. 26, 2014
+
+[Video](http://tinyurl.com/esebvideo/?id=Dbj4Lv4QXlo) of [Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392) presenting a seminar on her [postdoc work](http://gbe.oxfordjournals.org/content/5/9/1594) in the lab at ESEB.
+
 ### Feb. 5, 2014
 
-My seminar [slide](http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement) and [video](https://t.co/89X0DTkGKD) at Dept. of Plant Ag. at U of Guelph. 
+My seminar [slides](http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement) and [video](https://t.co/89X0DTkGKD) at Dept. of Plant Ag. at U of Guelph. 
 
 ### Jan. 17, 2014
 
