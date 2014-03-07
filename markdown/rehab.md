@@ -12,19 +12,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### March 2014
 
-##### Fri Mar. 28 2014
-
-[TBA](http://en.wikipedia.org/wiki/To_be_announced)
-
-##### Fri Mar. 21 2014 (JRI)
-
-RNA! Two papers on the maize transcriptome.
+##### Fri Mar. 28 2014 (JRI)
 
 [Hirsch et al. 2014](http://www.ncbi.nlm.nih.gov/pubmed/24488960). Insights into the maize pan-genome and pan-transcriptome.
  
-**and**
+##### Fri Mar. 21 2014 (SM)
 
-[Fu et al. 2014](http://www.nature.com/ncomms/2013/131217/ncomms3832/full/ncomms3832.html). RNA sequencing reveals the complex regulatory network in the maize kernel
+[Piepho and Möhring 2007](http://www.genetics.org/content/177/3/1881). Computing Heritability and Selection Response From Unbalanced Plant Breeding Trials
 
 ##### Fri Mar. 14 2014 (DV)
 
