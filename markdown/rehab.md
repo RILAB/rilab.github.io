@@ -10,6 +10,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### April 2014
+
+##### Fri. April 4, 2014 (JRI)
+
+[Campos et al. 2014](http://mbe.oxfordjournals.org/content/31/4/1010). The Relation between Recombination Rate and Patterns of Molecular Evolution and Variation in Drosophila melanogaster.
+
 ### March 2014
 
 ##### Fri Mar. 28 2014 (JRI)
