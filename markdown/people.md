@@ -10,16 +10,11 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 
 ### Postdoctoral Scholars
 
-**Sofiane Mezmouk**
-
-* Sofiane joined the lab in early 2012 after doing a PhD at INRA and Biogemma, where he worked on maize association mapping.  He is work focuses on genetic load and the basis of heterosis.  Sofiane is also the resident quantitative geneticist, leading or collaborating on several mapping projects in the lab. 
-
 **Sayuri Tsukahara**
 
 * Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
 ### Graduate Students
-
 
 **Paul Bilinski**
 
@@ -88,6 +83,8 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 * Peter is an Associate Professor at U. Minnesota on sabbatical at UCD visiting the Ross-Ibarra and [Coop](http://gcbias.org) labs.
 
 ### Lab Alums
+
+[Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
 
 [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) <a href="https://twitter.com/mbhufford"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2013
 
