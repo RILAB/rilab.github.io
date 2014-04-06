@@ -12,6 +12,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### April 2014
 
+##### Fri. April 11, 2014 (JRI)
+
+[Nabholz et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12738/abstract). Transcriptome population genomics reveals severe bottleneck and domestication cost in the African rice (O. glaberrima)
+
+*JRI's review available in Lab Share folder on Dropbox*
+
 ##### Fri. April 4, 2014 (JRI)
 
 [Campos et al. 2014](http://mbe.oxfordjournals.org/content/31/4/1010). The Relation between Recombination Rate and Patterns of Molecular Evolution and Variation in Drosophila melanogaster.

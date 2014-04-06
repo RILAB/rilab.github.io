@@ -1,5 +1,13 @@
 ## News
 
+### Apr. 4, 2014
+
+Congratulations to Anna O'Brien for being awarded a three year Plant Sciences graduate student research assistantship! 
+
+### Mar. 20, 2014
+
+A fond \emph{au revoir} to [Dr. Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34), who leaves the lab for a position as a research scientist at [KWS](http://www.kws.de/ca/fh/thd/).
+
 ### Feb. 26, 2014
 
 [Video](http://tinyurl.com/esebvideo/?id=Dbj4Lv4QXlo) of [Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392) presenting a seminar on her [postdoc work](http://gbe.oxfordjournals.org/content/5/9/1594) in the lab at ESEB.
