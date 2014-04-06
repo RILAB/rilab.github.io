@@ -2,7 +2,7 @@
 
 Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed.  Anybody is welcome to [suggest a paper](mailto:rossibarra@ucdavis.edu), but your initials will be stuck up with it for eternity. There is no email list; articles are posted below along with the date. An RSS feed is also available.
    
-We meet Fridays at [3rd and U](http://daviswiki.org/3rd_&_U_Cafe) at about 4:15 (on rare occasions when 3rd and U is closed we improvise; email or call to find out the location). 
+We meet Fridays at [de Vere's Irish Pub](http://daviswiki.org/de_Vere's_Irish_Pub) at about 4:15 (on rare occasions when the pub is closed we improvise; email or call to find out the location). 
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
 
@@ -16,7 +16,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Nabholz et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12738/abstract). Transcriptome population genomics reveals severe bottleneck and domestication cost in the African rice (O. glaberrima)
 
-*JRI's review available in Lab Share folder on Dropbox*
+*JRI's review (molecol.tex) available in Lab Share folder on Dropbox*
 
 ##### Fri. April 4, 2014 (JRI)
 
