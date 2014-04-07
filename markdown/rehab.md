@@ -12,6 +12,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### April 2014
 
+##### Fri. April 18, 2014 (VB)
+
+[Li 2014](http://arxiv.org/abs/1404.0929). Towards Better Understanding of Artifacts in Variant Calling from High-Coverage Samples. 
+
+\emph{Also see [slides](http://lyonlab.cshl.edu/Journal%20Club/JC20140407.pdf)}
+
 ##### Fri. April 11, 2014 (JRI)
 
 [Nabholz et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12738/abstract). Transcriptome population genomics reveals severe bottleneck and domestication cost in the African rice (O. glaberrima)
