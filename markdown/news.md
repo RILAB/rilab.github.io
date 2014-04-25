@@ -6,7 +6,7 @@ Congratulations to Anna O'Brien for being awarded a three year Plant Sciences gr
 
 ### Mar. 20, 2014
 
-A fond \emph{au revoir} to [Dr. Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34), who leaves the lab for a position as a research scientist at [KWS](http://www.kws.de/ca/fh/thd/).
+A fond au revoir to [Dr. Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34), who leaves the lab for a position as a research scientist at [KWS](http://www.kws.de/ca/fh/thd/).
 
 ### Feb. 26, 2014
 

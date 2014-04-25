@@ -10,6 +10,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### May 2014
+
+##### Fri. May 2, 2014 (JRI)
+
+[Do et al. 2014](http://arxiv.org/abs/1402.4896). No evidence that natural selection has been less effective at removing deleterious mutations in Europeans than in West Africans
+
 ### April 2014
 
 ##### Fri. April 25, 2014 (VB)
