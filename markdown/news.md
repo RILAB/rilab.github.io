@@ -1,5 +1,9 @@
 ## News
 
+### Apr 25, 2014
+
+Reacting to an [urgent call for bioinformatics acronyms](http://www.acgt.me/blog/2014/4/25/acgttgca-has-every-possible-dna-based-initialism-been-used-by-the-bioinformatics/genomics-community?utm_content=bufferd1dd5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) and I are proud to annoucne the formation of the Corn Transcriptome Analysis Group, or CTAG. Because we have some RNA-seq data and can run [EdgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html), that's why.
+
 ### Apr. 4, 2014
 
 Congratulations to Anna O'Brien for being awarded a three year Plant Sciences graduate student research assistantship! 
