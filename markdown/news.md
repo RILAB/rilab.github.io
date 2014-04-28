@@ -2,7 +2,7 @@
 
 ### Apr 28, 2014
 
-RILAB student Nivaz Brar presents [a poster](nivaz.jpg) on her hunt for an embryo lethal TE insertion in maize at the [UC Davis Undergraduate Research Conference](http://undergraduateresearch.ucdavis.edu/urcConf/).
+RILAB student Nivaz Brar presents [a poster](http://www.rilab.org/images/nivaz.jpg) on her hunt for an embryo lethal TE insertion in maize at the [UC Davis Undergraduate Research Conference](http://undergraduateresearch.ucdavis.edu/urcConf/).
 
 ### Apr 25, 2014
 
