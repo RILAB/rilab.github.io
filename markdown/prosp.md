@@ -6,5 +6,5 @@ I am currently accepting graduate students through the [Plant Biology](http://bi
 
 ### Prospective PostDocs
 
-I'm always interested in recruiting talented postdoctoral candidates. In particular, I encourage people to contact me about writing postdoc fellowship proposals for [NSF](http://www.nsf.gov/funding/education.jsp?fund_type=3), [USDA](http://www.csrees.usda.gov/fo/fellowshipsgrantprogramafri.cfm), [CPB](http://cpb.ucdavis.edu/CPB%20Postdoc%20Fellowship.html), or any of [a number of other fellowship opportunities](http://mathbionerd.blogspot.com/2014/04/some-postdoctoral-fellowships-in-biology.html). Please email me with your CV, and I'd be happy to discuss fellowship possibilities. 
+I'm always interested in recruiting talented postdoctoral candidates. In particular, I encourage people to contact me about writing postdoc fellowship proposals for [NSF](http://www.nsf.gov/funding/education.jsp?fund_type=3), [USDA](http://www.csrees.usda.gov/fo/fellowshipsgrantprogramafri.cfm), [CPB](http://cpb.ucdavis.edu/CPB%20Postdoc%20Fellowship.html), [UC MEXUS](http://www.ucmexus.ucr.edu/funding/fellowship_post_doc.html), or any of [a number of other fellowship opportunities](http://mathbionerd.blogspot.com/2014/04/some-postdoctoral-fellowships-in-biology.html). Please email me with your CV, and I'd be happy to discuss fellowship possibilities. 
 
