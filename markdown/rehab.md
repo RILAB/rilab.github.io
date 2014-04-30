@@ -12,6 +12,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### May 2014
 
+##### Fri. May 9, 2014 (JRI)
+
+[Hawkins et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12537/abstract). Variation in allelic expression associated with a recombination hotspot in Zea mays
+
 ##### Fri. May 2, 2014 (JRI)
 
 [Do et al. 2014](http://arxiv.org/abs/1402.4896). No evidence that natural selection has been less effective at removing deleterious mutations in Europeans than in West Africans
