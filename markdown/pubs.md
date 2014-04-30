@@ -95,15 +95,13 @@
 
 * **Ross-Ibarra J**, Gaut BS (2008) Multiple domestications do not appear monophyletic. *PNAS* (Letter) [105: E105](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) <span class="impactstory-embed" data-id="19057016" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
 
-* Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. *Science* [320: 484-486](http://www.sciencemag.org/content/320/5875/484.short)
-
-	[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf) <span class="impactstory-embed" data-id="18436777" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
+* Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. *Science* [320: 484-486](http://www.sciencemag.org/content/320/5875/484.short)	[[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)] <span class="impactstory-embed" data-id="18436777" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
 
 ### 2007
 
 * **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] <span class="impactstory-embed" data-id="17494757" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
 
-* **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. *Journal of Evolutionary Biology* [20: 800-806](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) <span class="impactstory-embed" data-id="17305845" data-id-type="pmid" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
+* **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. *Journal of Evolutionary Biology* [20: 800-806](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) [[pdf](http://onlinelibrary.wiley.com/store/10.1111/j.1420-9101.2006.01275.x/asset/j.1420-9101.2006.01275.x.pdf?v=1&t=hum6oom0&s=20d44a6b666698515639b4c3648b03ee748292af)] 
 
 ### 2001-2006
 
