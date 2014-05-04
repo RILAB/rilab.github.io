@@ -5,6 +5,8 @@
 
 ### Submitted ( [lab alert level](http://www.rilab.org/images/alert.jpg) )
 
+* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome.
+
 * Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT. The origin and evolution of maize in the American Southwest
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [[preprint](http://arxiv.org/abs/1307.7313)] [[blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
