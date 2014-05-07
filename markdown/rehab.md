@@ -12,6 +12,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### May 2014
 
+##### Fri. May 16, 2014 (VB)
+
+[Rogers et al. 2014](http://arxiv.org/abs/1405.0518). Tandem duplications and the limits of natural selection in Drosophila yakuba and Drosophila simulans
+
 ##### Fri. May 9, 2014 (JRI)
 
 [Hawkins et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12537/abstract). Variation in allelic expression associated with a recombination hotspot in Zea mays
