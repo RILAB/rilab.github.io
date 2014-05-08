@@ -2,7 +2,7 @@
 
 ### May 8, 2014
 
-[Awesome corn goodies](www.rilab.org/images/conrsticks.jpg) mysteriously show up in the lab, coincidentally timed perfectly with Jeff's absence.
+[Awesome corn goodies](www.rilab.org/images/cornsticks.jpg) mysteriously show up in the lab, coincidentally timed perfectly with Jeff's absence.
 
 ### Apr 28, 2014
 
