@@ -1,5 +1,9 @@
 ## News
 
+### May 8, 2014
+
+[Awesome corn goodies](www.rilab.org/images/conrsticks.jpg) mysteriously show up in the lab, coincidentally timed perfectly with Jeff's absence.
+
 ### Apr 28, 2014
 
 RILAB student Nivaz Brar presents [a poster](http://www.rilab.org/images/nivaz.jpg) on her hunt for an embryo lethal TE insertion in maize at the [UC Davis Undergraduate Research Conference](http://undergraduateresearch.ucdavis.edu/urcConf/).
