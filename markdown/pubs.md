@@ -5,7 +5,7 @@
 
 ### Submitted ( [lab alert level](http://www.rilab.org/images/alert.jpg) )
 
-* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome.
+* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome. [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]
 
 * Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT. The origin and evolution of maize in the American Southwest
 
