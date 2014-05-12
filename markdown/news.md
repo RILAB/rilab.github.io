@@ -1,5 +1,9 @@
 ## News
 
+### May 12, 2014
+
+Paul Bilinski's first dissertation chapter, submitted and now online as a [preprint](http://biorxiv.org/content/early/2014/05/12/005058). Congrats Paul!
+
 ### May 8, 2014
 
 [Awesome corn goodies](http://www.rilab.org/images/cornsticks.jpg) mysteriously show up in the lab, coincidentally timed perfectly with Jeff's absence.
