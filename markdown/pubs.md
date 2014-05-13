@@ -5,7 +5,7 @@
 
 ### Submitted ( [lab alert level](http://www.rilab.org/images/alert.jpg) )
 
-* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements Contribute to Activation of Genes in Response to Abiotic Stress
+* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress
 
 * **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome. [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]
 
