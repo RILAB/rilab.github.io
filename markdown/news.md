@@ -1,5 +1,9 @@
 ## News
 
+### May 13, 2014
+
+Happy to announce [Simon Renny-Byfield](http://webspace.qmul.ac.uk/sbyfield/Simon_Renny-Byfield/Welcome.html) will be joining the lab as a postdoc for Summer/Fall 2014 to work on our rare alleles project.
+
 ### May 12, 2014
 
 Paul Bilinski's first dissertation chapter, submitted for publication and now online as a [preprint](http://biorxiv.org/content/early/2014/05/12/005058). Congrats Paul!
