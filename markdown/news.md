@@ -2,7 +2,9 @@
 
 ### May 12, 2014
 
-Paul Bilinski's first dissertation chapter, submitted and now online as a [preprint](http://biorxiv.org/content/early/2014/05/12/005058). Congrats Paul!
+Paul Bilinski's first dissertation chapter, submitted for publication and now online as a [preprint](http://biorxiv.org/content/early/2014/05/12/005058). Congrats Paul!
+
+Future R-I Lab postdoc Tim Beissinger succesfully defended his PhD thesis today. Congrats Tim!
 
 ### May 8, 2014
 
