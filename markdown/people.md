@@ -10,13 +10,17 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 
 ### Postdoctoral Scholars
 
+**[Tim Beissinger](http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en)** <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+
+* Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work included work on selection scans in experimental evolution populations in maize.
+
 **Sayuri Tsukahara**
 
 * Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
 ### Graduate Students
 
-**Paul Bilinski**
+**Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
