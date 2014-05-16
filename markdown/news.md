@@ -2,7 +2,7 @@
 
 ### May 16, 2014
 
-Jeff has been admitted officially to the [Ecology Graduate Group](http://ecology.ucdavis.edu)
+Jeff has been admitted officially to the [Ecology Graduate Group](http://ecology.ucdavis.edu)!
 
 ### May 13, 2014
 
