@@ -10,7 +10,25 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### June 2014
+
+##### Fri. June 13, 2014
+
+[Balick et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
+
+##### Fri. June 16, 2014
+
+TBA
+
 ### May 2014
+
+##### Fri. May 30, 2014
+
+TBA
+
+##### Fri. May 23, 2014 (JRI)
+
+[Soria-Carrasco et al. 2014](http://www.sciencemag.org/content/344/6185/738.abstract). Stick Insect Genomes Reveal Natural Selection’s Role in Parallel Speciation
 
 ##### Fri. May 16, 2014 (VB)
 
