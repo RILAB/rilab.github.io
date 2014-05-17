@@ -34,7 +34,7 @@ TBA
 
 [Rogers et al. 2014](http://arxiv.org/abs/1405.0518). Tandem duplications and the limits of natural selection in Drosophila yakuba and Drosophila simulans
 
-[blog post](blogs/16052014.md)
+[blog post](blogs/16052014.html)
 
 ##### Fri. May 9, 2014 (JRI)
 
