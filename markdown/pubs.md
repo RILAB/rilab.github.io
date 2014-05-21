@@ -3,19 +3,19 @@
 
 
 
-### Submitted ( [lab alert level](http://www.rilab.org/images/alert.jpg) )
+### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 * Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress
 
-* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome. [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]
+* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome. [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[blog: HS](http://t.co/tzLQJCk8d5)]
 
 * Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT. The origin and evolution of maize in the American Southwest
 
-* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [[preprint](http://arxiv.org/abs/1307.7313)] [[blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] <span class="impactstory-embed" data-id="http://arxiv.org/abs/1307.7313" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
+* Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [[preprint](http://arxiv.org/abs/1307.7313)] [[blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] 
     
 ### 2014
     
-* **Mezmouk S**, **Ross-Ibarra J**. The pattern and distribution of deleterious mutations in maize. *G3* [*In Press*](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]<span class="impactstory-embed" data-id="http://arxiv.org/abs/1308.0380" data-id-type="url" data-api-key="API-DOCS" data-badge-size="small" data-show-logo="false" ></span>
+* **Mezmouk S**, **Ross-Ibarra J**. The pattern and distribution of deleterious mutations in maize. *G3* [*In Press*](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
 
 ### 2013
 
