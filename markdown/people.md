@@ -98,6 +98,16 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 
 [Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm) Postdoc 2009-2011
 
+### Visiting Scholar: for >100 hours of scholastic visitation
+
+* Eric Fuchs
+* Peter Morrell
+* Rute Fonseca
+
+### Fellow: for >500 hours of scholastic fellowship
+
+* Peter Tiffin
+
 ### Current Collaborators
 
 **Biology of rare alleles in maize and teosinte**
