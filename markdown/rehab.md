@@ -12,19 +12,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### June 2014
 
-##### Fri. June 13, 2014
+##### Fri. June 6, 2014
 
 [Balick et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
 
-##### Fri. June 16, 2014
-
-TBA
-
 ### May 2014
 
-##### Fri. May 30, 2014
+##### Fri. May 30, 2014 (JRI)
 
-TBA
+[Nadeau et al. 2014](http://genome.cshlp.org/content/early/2014/05/13/gr.169292.113.abstract). Population genomics of parallel hybrid zones in the mimetic butterflies, H. melpomene and H. erato
 
 ##### Fri. May 23, 2014 (JRI)
 
