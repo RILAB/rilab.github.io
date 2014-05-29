@@ -26,6 +26,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Soria-Carrasco et al. 2014](http://www.sciencemag.org/content/344/6185/738.abstract). Stick Insect Genomes Reveal Natural Selection’s Role in Parallel Speciation
 
+[blog post](blogs/23052014.html)
+
 ##### Fri. May 16, 2014 (VB)
 
 [Rogers et al. 2014](http://arxiv.org/abs/1405.0518). Tandem duplications and the limits of natural selection in Drosophila yakuba and Drosophila simulans
