@@ -4,6 +4,8 @@ Science and beer on a Friday afternoon seem to make a good combination.  Nobody 
    
 We meet Fridays at [de Vere's Irish Pub](http://daviswiki.org/de_Vere%27s_Irish_Pub) at about 4:15 (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. 
 
+We now also blog our thoughts on the papers we read. One or more of the people present usually volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publicationa) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
+
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
@@ -21,6 +23,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ##### Fri. May 30, 2014 (JRI)
 
 [Nadeau et al. 2014](http://genome.cshlp.org/content/early/2014/05/13/gr.169292.113.abstract). Population genomics of parallel hybrid zones in the mimetic butterflies, H. melpomene and H. erato
+
+[blog post](blogs/30052014.html)
 
 ##### Fri. May 23, 2014 (JRI)
 
