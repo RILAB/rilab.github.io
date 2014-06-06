@@ -36,10 +36,6 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 
 * Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
-**Laura Vann**
-
-* Laura is a 5th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the molecular ecology of Joshua Trees and teosinte.
-
 ### Staff
 
 [**Vince Buffalo**](http://www.vincebuffalo.com/) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>

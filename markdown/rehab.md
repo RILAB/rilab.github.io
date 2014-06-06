@@ -14,6 +14,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### June 2014
 
+##### Fri. June 20, 2014
+
+[Yeaman 2013](http://www.pnas.org/content/110/19/E1743.full?sid=bfb4a537-ab08-4c97-811f-cd0b63ba9e9a). Genomic rearrangements and the evolution of clusters of locally adaptive loci
+
 ##### Fri. June 13, 2014
 
 [Chari and Dworkin 2013](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003661). The Conditional Nature of Genetic Interactions: The Consequences of Wild-Type Backgrounds on Mutational Interactions in a Genome-Wide Modifier Screen
