@@ -4,7 +4,7 @@
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* **Vann LE**, **Kono T|**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. Natural variation in teosinte at the domestication locus teosinte branched1 (tb1). [[preprint](http://biorxiv.org/content/early/2014/06/03/005819)] [[github](https://github.com/lvann/tb1)] 
+* **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. Natural variation in teosinte at the domestication locus teosinte branched1 (tb1). [[preprint](http://biorxiv.org/content/early/2014/06/03/005819)] [[github](https://github.com/lvann/tb1)] 
 
 * Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress
 
