@@ -14,31 +14,35 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### June 2014
 
-##### Fri. June 6, 2014
+##### Fri. June 13, 2014
+
+[Chari and Dworkin 2013](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003661). The Conditional Nature of Genetic Interactions: The Consequences of Wild-Type Backgrounds on Mutational Interactions in a Genome-Wide Modifier Screen
+
+##### Fri. June 6, 2014 
 
 [Balick et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
 
 ### May 2014
 
-##### Fri. May 30, 2014 (JRI)
+##### Fri. May 30, 2014 
 
 [Nadeau et al. 2014](http://genome.cshlp.org/content/early/2014/05/13/gr.169292.113.abstract). Population genomics of parallel hybrid zones in the mimetic butterflies, H. melpomene and H. erato
 
 [blog post](blogs/30052014.html)
 
-##### Fri. May 23, 2014 (JRI)
+##### Fri. May 23, 2014 
 
 [Soria-Carrasco et al. 2014](http://www.sciencemag.org/content/344/6185/738.abstract). Stick Insect Genomes Reveal Natural Selection’s Role in Parallel Speciation
 
 [blog post](blogs/23052014.html)
 
-##### Fri. May 16, 2014 (VB)
+##### Fri. May 16, 2014 
 
 [Rogers et al. 2014](http://arxiv.org/abs/1405.0518). Tandem duplications and the limits of natural selection in Drosophila yakuba and Drosophila simulans
 
 [blog post](blogs/16052014.html)
 
-##### Fri. May 9, 2014 (JRI)
+##### Fri. May 9, 2014 
 
 [Hawkins et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12537/abstract). Variation in allelic expression associated with a recombination hotspot in Zea mays
 
