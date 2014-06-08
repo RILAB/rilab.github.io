@@ -14,6 +14,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### June 2014
 
+##### Fri. June 27, 2014
+
+[Matuszewski et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/evo.12465/abstract). Fisher's geometic model with a moving optimum.
+
 ##### Fri. June 20, 2014
 
 [Yeaman 2013](http://www.pnas.org/content/110/19/E1743.full?sid=bfb4a537-ab08-4c97-811f-cd0b63ba9e9a). Genomic rearrangements and the evolution of clusters of locally adaptive loci
@@ -49,6 +53,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ##### Fri. May 9, 2014 
 
 [Hawkins et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12537/abstract). Variation in allelic expression associated with a recombination hotspot in Zea mays
+
+[blog post](blogs/09052014.html)
 
 ##### Fri. May 2, 2014 (JRI)
 
