@@ -1,5 +1,13 @@
 ## News
 
+### June 5, 2014
+
+Paul Bilinski awarded a summer GSR position in computation biology. Congrats Paul!
+
+### June 2, 2014
+
+Our paper on tb1 in natural populations of teosinte submitted and online as [preprint](http://biorxiv.org/content/early/2014/06/03/005819).
+
 ### May 16, 2014
 
 Jeff has been admitted officially to the [Ecology Graduate Group](http://ecology.ucdavis.edu)!
