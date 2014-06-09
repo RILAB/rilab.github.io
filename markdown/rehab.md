@@ -14,9 +14,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### June 2014
 
+##### Fri. July 4, 2014
+
+No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) instead!
+
 ##### Fri. June 27, 2014
 
-[Matuszewski et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/evo.12465/abstract). Fisher's geometic model with a moving optimum.
+[Ho and Zhang 2014](http://mbe.oxfordjournals.org/content/31/6/1568). The Genotype–Phenotype Map of Yeast Complex Traits: Basic Parameters and the Role of Natural Selection
 
 ##### Fri. June 20, 2014
 
