@@ -81,6 +81,7 @@
 * Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants]. *Molecular Biology and Evolution* [27: 409-416](http://mbe.oxfordjournals.org/content/27/2/409.abstract) 
 
 * **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) Genetic diversity in a crop metapopulation]. *Heredity* [104: 28-39](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) 	
+
 ### 2009
 
 * Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. *Science 326*: [1115-1117](http://www.sciencemag.org/content/326/5956/1115) [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] 
