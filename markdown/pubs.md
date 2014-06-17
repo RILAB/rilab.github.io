@@ -95,13 +95,12 @@
 ### 2008
 
 * **Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS (2008) Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*. *PLoS ONE* [3: e2411](http://dx.doi.org/10.1371%2Fjournal.pone.0002411) [[F1000](http://f1000.com/prime/1120459)] 
-* 
+ 
 * Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of *Arabidopsis lyrata*. *PNAS* [105: 13965-13970](http://www.pnas.org/content/105/37/13965.short) 
 
 * **Ross-Ibarra J**, Gaut BS (2008) Multiple domestications do not appear monophyletic. *PNAS* (Letter) [105: E105](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) 
 
 * Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. *Science* [320: 484-486](http://www.sciencemag.org/content/320/5875/484.short)	[[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)] 
-
 ### 2007
 
 * **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] 
