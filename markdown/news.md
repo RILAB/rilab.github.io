@@ -1,5 +1,9 @@
 ## News
 
+### June 16, 2014
+
+Michelle Stitzer passes her first-year population biology comprehensive exam. Woot!
+
 ### June 5, 2014
 
 Paul Bilinski awarded a summer GSR position in computation biology. Congrats Paul!
