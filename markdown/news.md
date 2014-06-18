@@ -1,5 +1,9 @@
 ## News
 
+### June 17, 2014
+
+Michelle Stitzer is awarded a Jastro research grant for her work on nonautonomous TEs.
+
 ### June 16, 2014
 
 Michelle Stitzer passes her first-year population biology comprehensive exam. Woot!
