@@ -76,12 +76,6 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 
 * Tim is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
-### Visiting Scientists
-
-[**Peter Tiffin**](http://www.cbs.umn.edu/lab/tiffin)  
-
-* Peter is an Associate Professor at U. Minnesota on sabbatical at UCD visiting the Ross-Ibarra and [Coop](http://gcbias.org) labs.
-
 ### Lab Alums
 
 [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
