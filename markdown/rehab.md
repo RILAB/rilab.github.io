@@ -12,11 +12,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
-### June 2014
+### July 2014
+
+##### Fri. July 11, 2014
+
+[Macadangdang et al. 2014](http://elifesciences.org/content/early/2014/06/17/eLife.02792). Evolution of histone 2A for chromatin compaction in eukaryotes
 
 ##### Fri. July 4, 2014
 
 No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) instead!
+
+### June 2014
 
 ##### Fri. June 27, 2014
 
