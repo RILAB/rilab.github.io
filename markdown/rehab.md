@@ -30,6 +30,8 @@ No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) in
 
 [Chari and Dworkin 2013](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003661). The Conditional Nature of Genetic Interactions: The Consequences of Wild-Type Backgrounds on Mutational Interactions in a Genome-Wide Modifier Screen
 
+[blog post](blogs/13062014.html)
+
 ##### Fri. June 6, 2014 
 
 [Balick et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
