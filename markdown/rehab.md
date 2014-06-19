@@ -16,7 +16,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. July 18, 2014
 
-*Special double genome delux!* [Myburg et al. 2014](http://www.nature.com/nature/journal/v510/n7505/full/nature13308.html). The genome of Eucalyptus grandis *and* [Schmutz et al. 2014](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3008.html) A reference genome for common bean and genome-wide analysis of dual domestications
+**Special double genome delux!** [Myburg et al. 2014](http://www.nature.com/nature/journal/v510/n7505/full/nature13308.html). The genome of Eucalyptus grandis **and** [Schmutz et al. 2014](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3008.html) A reference genome for common bean and genome-wide analysis of dual domestications
 
 ##### Fri. July 11, 2014
 
