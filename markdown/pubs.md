@@ -54,9 +54,9 @@
 
 * Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA (2012) Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels. *Plant Physiology* [158: 824-834](http://www.plantphysiol.org/content/158/2/824.full) 
 
-### 2011
-
 * Morrell PL, Buckler ES, **Ross-Ibarra J** (2012) Crop genomics: advances and applications. *Nature Reviews Genetics* [13:85-96](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fnrg%2Fjournal%2Fv13%2Fn2%2Ffull%2Fnrg3097.html&ei=m_t2Upj4EoOziwKQ44GoBg&usg=AFQjCNFOI1oE_6V4ALeyXs6OzWZJtYIMHw&sig2=bAOaspan3Eem6P-teBBeJbA&bvm=bv.55819444,d.cGE) [[cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html)] [[pdf](http://www.panzea.org/pdf/Morrell_etal_2012_NatureRevGenet_13_85.pdf)] 
+
+### 2011
 
 * Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) Identification of a functional transposon insertion in the maize domestication gene *tb1*. *Nature Genetics* [43:1160-1163](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html) [[F1000](http://f1000.com/prime/13357167)] [[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] 
 
