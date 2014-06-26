@@ -36,6 +36,8 @@ No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) in
 
 [Yeaman 2013](http://www.pnas.org/content/110/19/E1743.full?sid=bfb4a537-ab08-4c97-811f-cd0b63ba9e9a). Genomic rearrangements and the evolution of clusters of locally adaptive loci
 
+[blog post](blogs/20062014.html)
+
 ##### Fri. June 13, 2014
 
 [Chari and Dworkin 2013](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003661). The Conditional Nature of Genetic Interactions: The Consequences of Wild-Type Backgrounds on Mutational Interactions in a Genome-Wide Modifier Screen
