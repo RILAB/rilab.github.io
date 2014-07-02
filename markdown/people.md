@@ -69,7 +69,9 @@ Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci
 <div style="float: left">
 <img src="http://www.rilab.org/images/buffalo.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Vince Buffalo** <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://www.vincebuffalo.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 30px;"></a>
+**Vince Buffalo** <a href="http://www.vincebuffalo.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width:15px;"></a><a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/vsbuffalo"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+
+
 
 Vince is a bioinformatician, [author](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372), and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
 
