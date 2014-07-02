@@ -67,13 +67,13 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 ### Staff
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/buffalo.jpg" style="border:10px solid white"; width=100px">
 </div>
 [**Vince Buffalo**](http://www.vincebuffalo.com/) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Vince is a bioinformatician, [author](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372), and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
 
-<br>
+<br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
 </div>
