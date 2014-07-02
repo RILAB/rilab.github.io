@@ -5,7 +5,7 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 ### PI
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/rossibarra.jpg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/rossibarra.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -15,15 +15,15 @@ Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC 
 ### Postdoctoral Scholars
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/beissinger.jpg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/beissinger.jpg" style="border:10px solid white"; width=100px>
 </div>
-**[Tim Beissinger](http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en)** <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Tim Beissinger** <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work included work on selection scans in experimental evolution populations in maize.
 
 <br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/tsukahara.JPG" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/tsukahara.JPG" style="border:10px solid white"; width=100px>
 </div>
 **Sayuri Tsukahara**
 
@@ -33,7 +33,7 @@ Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in 
 ### Graduate Students
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/bilinski.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/bilinski.png" style="border:10px solid white"; width=100px>
 </div>
 **Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -41,7 +41,7 @@ Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGro
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/obrien.jpg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/obrien.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Anna O'Brien**
 
@@ -49,33 +49,33 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/stitzer.jpg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/stitzer.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Michelle Stitzer**
 
-* Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
+Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/velasco.jpeg" style="border:10px solid white"; width=100px>
 </div>
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-* Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
+Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
 <br><br>
 ### Staff
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/buffalo.jpg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/buffalo.jpg" style="border:10px solid white"; width=100px>
 </div>
-[**Vince Buffalo**](http://www.vincebuffalo.com/) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Vince Buffalo** <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://www.vincebuffalo.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 30px;"></a>
 
 Vince is a bioinformatician, [author](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372), and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
 
 <br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
 **Anne Lorant**
 
@@ -85,7 +85,7 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 ### Undergraduate Students
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/bhadralobo.jpeg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/bhadralobo.jpeg" style="border:10px solid white"; width=100px>
 </div>
 **[Sid Bhadra-Lobo](https://github.com/sidbhadra-lobo)** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -93,7 +93,7 @@ Sid is part of a team investigating the evidence of centromere drive from next-g
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
 **Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -101,7 +101,7 @@ Nivaz is working on identifying recessive lethal mutations in a mu trasnposon in
 
 <br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/durvasula.jpeg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/durvasula.jpeg" style="border:10px solid white"; width=100px>
 </div>
 [**Arun Durvasula**](https://github.com/arundurvasula) <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -109,7 +109,7 @@ Arun is working on simulation approaches to reassessing the maize domestication 
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
 **Chris Fiscus** <a href="https://twitter.com/cjfiscu"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> 
 
@@ -117,7 +117,7 @@ Chris is part of a team investigating the evidence of centromere drive from next
 
 <br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/kent.jpeg" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/kent.jpeg" style="border:10px solid white"; width=100px>
 </div>
 **Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -125,7 +125,7 @@ Tyler is working to impute genotypes in maize association mapping panels. Also, 
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
 **Ali Khavari** 
 
@@ -133,7 +133,7 @@ Ali is working to test methods of detecting de novo transposable element inserti
 
 <br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
 **Timothy Yang**
 
