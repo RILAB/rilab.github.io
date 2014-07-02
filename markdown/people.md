@@ -64,6 +64,7 @@ Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.ed
 Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
 <br><br><br>
+
 ### Staff
 
 <div style="float: left">
@@ -99,7 +100,7 @@ Sid is part of a team investigating the evidence of centromere drive from next-g
 
 Nivaz is working on identifying recessive lethal mutations in a mu trasnposon insertion line.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/durvasula.jpeg" style="border:10px solid white"; width=100px>
 </div>
@@ -115,7 +116,7 @@ Arun is working on simulation approaches to reassessing the maize domestication 
 
 Chris is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/kent.jpeg" style="border:10px solid white"; width=100px>
 </div>
@@ -131,7 +132,7 @@ Tyler is working to impute genotypes in maize association mapping panels. Also, 
 
 Ali is working to test methods of detecting de novo transposable element insertions in maize.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
