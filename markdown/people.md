@@ -85,13 +85,13 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 ### Undergraduate Students
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
+<img src="http://www.rilab.org/images/bhadralobo.jpeg" style="border:10px solid white"; width=100px">
 </div>
 **[Sid Bhadra-Lobo](https://github.com/sidbhadra-lobo)** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Sid is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
 </div>
@@ -123,7 +123,7 @@ Chris is part of a team investigating the evidence of centromere drive from next
 
 Tyler is working to impute genotypes in maize association mapping panels. Also, claims to have unstoppable corn.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
 </div>
