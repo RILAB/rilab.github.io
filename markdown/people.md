@@ -12,6 +12,7 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. 
 
 <br><br><br>
+
 ### Postdoctoral Scholars
 
 <div style="float: left">
@@ -30,6 +31,7 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
 <br><br>
+
 ### Graduate Students
 
 <div style="float: left">
@@ -83,6 +85,7 @@ Vince is a computational biologist, [author](http://www.amazon.com/Bioinformatic
 Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
 
 <br><br>
+
 ### Undergraduate Students
 
 <div style="float: left">
@@ -141,6 +144,7 @@ Ali is working to test methods of detecting de novo transposable element inserti
 Tim is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
 <br><br><br>
+
 ### Lab Alums
 
 [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
