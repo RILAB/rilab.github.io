@@ -78,7 +78,7 @@ Vince is a computational biologist, [author](http://www.amazon.com/Bioinformatic
 
 <br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
+<img src="http://www.rilab.org/images/lorant.png" style="border:10px solid white"; width=100px>
 </div>
 **Anne Lorant**
 
