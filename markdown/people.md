@@ -7,7 +7,7 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 <div style="float: left">
 <img src="http://www.rilab.org/images/rossibarra.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a> 
 
 Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. 
 
@@ -35,7 +35,7 @@ Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in 
 <div style="float: left">
 <img src="http://www.rilab.org/images/bilinski.png" style="border:10px solid white"; width=100px>
 </div>
-**Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/paulbilinski"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=c03DwHkAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
@@ -59,21 +59,19 @@ Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.ed
 <div style="float: left">
 <img src="http://www.rilab.org/images/velasco.jpeg" style="border:10px solid white"; width=100px>
 </div>
-**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
-<br><br>
+<br><br><br>
 ### Staff
 
 <div style="float: left">
 <img src="http://www.rilab.org/images/buffalo.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Vince Buffalo** <a href="http://www.vincebuffalo.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width:15px;"></a><a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/vsbuffalo"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Vince Buffalo** <a href="http://www.vincebuffalo.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width:18px;"></a><a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/vsbuffalo"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=7w_tyXUAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-
-
-Vince is a bioinformatician, [author](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372), and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
+Vince is a computational biologist, [author](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372), and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
 
 <br><br>
 <div style="float: left">
@@ -83,13 +81,13 @@ Vince is a bioinformatician, [author](http://www.amazon.com/Bioinformatics-Data-
 
 Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
 
-<br><br><br>
+<br><br>
 ### Undergraduate Students
 
 <div style="float: left">
 <img src="http://www.rilab.org/images/bhadralobo.jpeg" style="border:10px solid white"; width=100px>
 </div>
-**[Sid Bhadra-Lobo](https://github.com/sidbhadra-lobo)** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Sid Bhadra-Lobo** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/sidbhadra-lobo"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Sid is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
@@ -105,7 +103,7 @@ Nivaz is working on identifying recessive lethal mutations in a mu trasnposon in
 <div style="float: left">
 <img src="http://www.rilab.org/images/durvasula.jpeg" style="border:10px solid white"; width=100px>
 </div>
-[**Arun Durvasula**](https://github.com/arundurvasula) <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Arun Durvasula** <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/arundurvasula"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
 
@@ -113,7 +111,7 @@ Arun is working on simulation approaches to reassessing the maize domestication 
 <div style="float: left">
 <img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
-**Chris Fiscus** <a href="https://twitter.com/cjfiscu"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> 
+**Chris Fiscus** <a href="https://twitter.com/cjfiscu"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/cjfiscus"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Chris is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
@@ -121,7 +119,7 @@ Chris is part of a team investigating the evidence of centromere drive from next
 <div style="float: left">
 <img src="http://www.rilab.org/images/kent.jpeg" style="border:10px solid white"; width=100px>
 </div>
-**Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/tvkent"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Tyler is working to impute genotypes in maize association mapping panels. Also, claims to have unstoppable corn.
 
