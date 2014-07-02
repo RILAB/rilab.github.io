@@ -20,7 +20,7 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 
 ### Graduate Students
 
-**Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/bilinski.png" style="width: 15px;"></a> **Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
