@@ -4,60 +4,62 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 
 ### PI
 
+<div style="float: left">
+<img src="http://www.rilab.org/images/rossibarra.jpg" style="border:10px solid white"; width=100px">
+</div>
 **Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-* Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. 
+Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC Davis in 2009. 
 
+<br><br><br>
 ### Postdoctoral Scholars
 
-**[Tim Beissinger](http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en)** <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/beissinger.jpg" style="width: 100px;"></a>
+<img src="http://www.rilab.org/images/beissinger.jpg" style="border:10px solid white"; width=100px">
 </div>
+**[Tim Beissinger](http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en)** <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work included work on selection scans in experimental evolution populations in maize.
 
-<br><br><br>**Sayuri Tsukahara**
-
+<br><br>
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
+<img src="http://www.rilab.org/images/tsukahara.JPG" style="border:10px solid white"; width=100px">
 </div>
+**Sayuri Tsukahara**
 
 Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
-<br><br><br>
+<br><br>
 ### Graduate Students
 
-**Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/bilinski.png" style="width: 100px;"></a>
+<img src="http://www.rilab.org/images/bilinski.png" style="border:10px solid white"; width=100px">
 </div>
+**Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
-<br><br><br><br>**Anna O'Brien**
-
+<br><br><br>
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
+<img src="http://www.rilab.org/images/obrien.jpg" style="border:10px solid white"; width=100px">
 </div>
+**Anna O'Brien**
 
 Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza.
 
-<br><br><br>**Michelle Stitzer**
-
+<br><br><br>
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
 </div>
+**Michelle Stitzer**
 
 * Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
 
-<br><br><br>**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
+<br><br><br>
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px">
 </div>
+**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 * Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
