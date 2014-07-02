@@ -13,19 +13,20 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 **[Tim Beissinger](http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en)** <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/beissiner.jpg" style="width: 100px;"></a>
+    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/beissinger.jpg" style="width: 100px;"></a>
 </div>
 
 Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work included work on selection scans in experimental evolution populations in maize.
 
-<br><br><br><br><br>**Sayuri Tsukahara**
+<br><br><br>**Sayuri Tsukahara**
 
 <div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/bilinski.png" style="width: 100px;"></a>
+    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
 </div>
 
 Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
+<br><br><br>
 ### Graduate Students
 
 **Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
@@ -36,7 +37,7 @@ Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in 
 
 Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
-<br><br><br><br><br>**Anna O'Brien**
+<br><br><br><br>**Anna O'Brien**
 
 <div style="float: left">
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
@@ -44,7 +45,7 @@ Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGro
 
 Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza.
 
-**Michelle Stitzer**
+<br><br><br>**Michelle Stitzer**
 
 <div style="float: left">
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
@@ -52,7 +53,7 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 
 * Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
 
-**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<br><br><br>**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 <div style="float: left">
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
@@ -60,6 +61,7 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 
 * Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
+<br><br><br>
 ### Staff
 
 [**Vince Buffalo**](http://www.vincebuffalo.com/) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
@@ -70,7 +72,7 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 
 * Vince is a bioinformatician and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
 
-**Anne Lorant**
+<br><br>**Anne Lorant**
 
 <div style="float: left">
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
@@ -78,6 +80,7 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 
 * Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
 
+<br><br><br>
 ### Undergraduate Students
 
 **[Sid Bhadra-Lobo](https://github.com/sidbhadra-lobo)** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
@@ -86,52 +89,57 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
 </div>
 
-* Sid is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
+Sid is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
-**Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
-<div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
-</div>
-
-* Nivaz is working on identifying recessive lethal mutations in a mu trasnposon insertion line.
-
-[**Arun Durvasula**](https://github.com/arundurvasula) <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
-* Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
-
-**Chris Fiscus** <a href="https://twitter.com/cjfiscu"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> 
+<br><br><br>**Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 <div style="float: left">
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
 </div>
 
-* Chris is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
+Nivaz is working on identifying recessive lethal mutations in a mu trasnposon insertion line.
 
-**Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
-<div style="float: left">
-    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
-</div>
-
-* Tyler is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize. Also, claims to have unstoppable corn.
-
-**Ali Khavari** 
+<br><br><br>[**Arun Durvasula**](https://github.com/arundurvasula) <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 <div style="float: left">
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
 </div>
 
-* Ali is working to test methods of detecting de novo transposable element insertions in maize.
+Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
 
-**Timothy Yang**
+<br><br><br>**Chris Fiscus** <a href="https://twitter.com/cjfiscu"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> 
 
 <div style="float: left">
     <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
 </div>
 
-* Tim is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
+Chris is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
+<br><br><br>**Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+
+<div style="float: left">
+    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
+</div>
+
+Tyler is working to impute genotypes in maize association mapping panels. Also, claims to have unstoppable corn.
+
+<br><br><br>**Ali Khavari** 
+
+<div style="float: left">
+    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
+</div>
+
+Ali is working to test methods of detecting de novo transposable element insertions in maize.
+
+<br><br><br>**Timothy Yang**
+
+<div style="float: left">
+    <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/cornkey.png" style="width: 100px;"></a>
+</div>
+
+Tim is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
+
+<br><br><br>
 ### Lab Alums
 
 [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
