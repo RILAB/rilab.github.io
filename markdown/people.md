@@ -84,7 +84,7 @@ Vince is a computational biologist, [author](http://www.amazon.com/Bioinformatic
 
 Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
 
-<br><br><br><br>
+<br><br><br>
 
 ### Visiting Students
 
@@ -95,9 +95,14 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 
 Aldo is an undergraduate student at [UNAM](http://www.unam.mx) and is working on GWAS for genome size, and expression analysis of kinetochore proteins.
 
+<br><br>
+<div style="float: left">
+<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
+</div>
 **Antonio Hernández**
 
-<br><br><br>
+Antonio is visiting us from [CIMMYT](http://www.cimmyt.org) and will be working in the lab on studying maize mutants of kinetochore proteins.
+<br><br><br><br><br>
 
 ### Undergraduate Students
 
