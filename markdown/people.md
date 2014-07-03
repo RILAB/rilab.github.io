@@ -89,13 +89,13 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 ### Visiting Students
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
+<img src="http://www.rilab.org/images/carmona.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Aldo Carmona** 
 
 Aldo is an undergraduate student at [UNAM](http://www.unam.mx) and is working on GWAS for genome size, and expression analysis of kinetochore proteins.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
 </div>
