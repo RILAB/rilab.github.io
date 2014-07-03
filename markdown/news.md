@@ -1,5 +1,9 @@
 ## News
 
+### July 2, 2014
+
+Our NSF Catalyzing New International Collaborations grant with [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html), [Angelica Cibrian-Jaramillo](http://www.langebio.cinvestav.mx/?pag=426), [Graham Coop](www.gcbias.org), [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/home.html), and [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165)
+
 ### June 17, 2014
 
 Michelle Stitzer is awarded a Jastro research grant for her work on nonautonomous TEs.
