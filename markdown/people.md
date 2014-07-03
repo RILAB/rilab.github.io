@@ -155,13 +155,13 @@ Ali is working to test methods of detecting de novo transposable element inserti
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
+<img src="http://www.rilab.org/images/yang.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Timothy Yang**
 
 Tim is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
 
-<br><br><br>
+<br><br><br><br>
 
 ### Lab Alums
 
