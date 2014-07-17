@@ -100,8 +100,9 @@
 
 * **Ross-Ibarra J**, Gaut BS (2008) Multiple domestications do not appear monophyletic. *PNAS* (Letter) [105: E105](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) 
 
-* Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. *Science* [320: 484-486](http://www.sciencemag.org/content/320/5875/484.short)	[[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)] 
-### 2007
+* Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. *Science* [320: 484-486](http://www.sciencemag.org/content/320/5875/484.short)	[[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)]
+
+### 2007  
 
 * **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] 
 
