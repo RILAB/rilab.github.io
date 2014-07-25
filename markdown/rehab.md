@@ -22,7 +22,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Macadangdang et al. 2014](http://elifesciences.org/content/early/2014/06/17/eLife.02792). Evolution of histone 2A for chromatin compaction in eukaryotes
 
-[blog post](blogs/18072014.html
+[blog post](blogs/18072014.html)
 
 ##### Fri. July 11, 2014
 
