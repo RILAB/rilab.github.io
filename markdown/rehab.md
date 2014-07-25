@@ -22,6 +22,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Macadangdang et al. 2014](http://elifesciences.org/content/early/2014/06/17/eLife.02792). Evolution of histone 2A for chromatin compaction in eukaryotes
 
+[blog post](blogs/18072014.html
+
 ##### Fri. July 11, 2014
 
 [Guenther et al](http://www.nature.com/ng/journal/v46/n7/full/ng.2991.html?WT.ec_id=NG-201407) A molecular basis for classic blond hair color in Europeans
