@@ -80,7 +80,7 @@
 
 * Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants]. *Molecular Biology and Evolution* [27: 409-416](http://mbe.oxfordjournals.org/content/27/2/409.abstract) 
 
-* **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) Genetic diversity in a crop metapopulation]. *Heredity* [104: 28-39](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) 	
+* **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) Genetic diversity in a crop metapopulation. *Heredity* [104: 28-39](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) 	
 
 ### 2009
 
