@@ -12,6 +12,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### August 2014
+
+##### Fri. Aug 9, 2014
+
+[Comeron 2014](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004434). Background Selection as Baseline for Nucleotide Variation across the Drosophila Genome
+
+##### Fri. Aug 1, 2014
+
+[Arnegard et al. 2014](http://www.nature.com/nature/journal/v511/n7509/full/nature13301.html). Genetics of ecological divergence during speciation
+
 ### July 2014
 
 ##### Fri. July 25, 2014
