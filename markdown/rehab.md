@@ -14,9 +14,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### August 2014
 
-##### Fri. Aug 9, 2014
+##### Fri. Aug 16, 2014
 
 [Comeron 2014](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004434). Background Selection as Baseline for Nucleotide Variation across the Drosophila Genome
+
+##### Fri. Aug 9, 2014
+
+[Enard et al. 2014](http://genome.cshlp.org/content/early/2014/05/02/gr.164822.113.full.pdf). Genome-wide signals of positive selection in human evolution
 
 ##### Fri. Aug 1, 2014
 
