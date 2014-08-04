@@ -42,6 +42,10 @@ Future R-I Lab postdoc Tim Beissinger succesfully defended his PhD thesis today.
 
 [Awesome corn goodies](http://www.rilab.org/images/cornsticks.jpg) mysteriously show up in the lab, coincidentally timed perfectly with Jeff's absence.
 
+### May 1, 2014
+
+Our recently submitted NSF proposal on highland adaptation to the Plant Genome program. With [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html), [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/), [Graham Coop](http://gcbias.org/), [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165), and [Angelica Cibrian](http://www.langebio.cinvestav.mx/?pag=426).
+
 ### Apr 28, 2014
 
 RILAB student Nivaz Brar presents [a poster](http://www.rilab.org/images/nivaz.jpg) on her hunt for an embryo lethal TE insertion in maize at the [UC Davis Undergraduate Research Conference](http://undergraduateresearch.ucdavis.edu/urcConf/).
