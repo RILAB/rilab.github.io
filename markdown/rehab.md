@@ -14,6 +14,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### August 2014
 
+##### Fri. Aug 23, 2014
+
+[Wilson et al. 2014 ](http://www.genetics.org/content/early/2014/07/23/genetics.114.165571.abstract). Soft Selective Sweeps in Complex Demographic Scenarios.
+ 
 ##### Fri. Aug 16, 2014
 
 [Comeron 2014](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004434). Background Selection as Baseline for Nucleotide Variation across the Drosophila Genome
