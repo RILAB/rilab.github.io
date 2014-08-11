@@ -1,5 +1,9 @@
 ## News
 
+### Aug 10, 2014
+
+Paul Bilinksi's paper on centromere repeats in the maize genome is accepted in Chromosoma!
+
 ### Aug 4, 2014
 
 Submitted an [NSF proposal](https://github.com/HuffordLab/NSF_DEB) with [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) on hybridization in *Zea*. Fingers crossed!

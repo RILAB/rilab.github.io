@@ -14,7 +14,7 @@
     
 ### 2014
     
-* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome. *Chromosoma* (accepted pending minor revisions) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[blog: HS](http://t.co/tzLQJCk8d5)]
+* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**. Diversity and evolution of centromere repeats in the maize genome. *Chromosoma* In Press. [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[blog: HS](http://t.co/tzLQJCk8d5)]
 
 * **Mezmouk S**, **Ross-Ibarra J** (2014)The pattern and distribution of deleterious mutations in maize. *G3* [4:163-171](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
 
