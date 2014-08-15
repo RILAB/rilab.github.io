@@ -6,7 +6,7 @@
 
 * **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. Natural variation in teosinte at the domestication locus teosinte branched1 (tb1). [[preprint](http://biorxiv.org/content/early/2014/06/03/005819)] [[github](https://github.com/lvann/tb1)] 
 
-* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress
+* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress. [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
 
 * Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT. The origin and evolution of maize in the American Southwest
 
