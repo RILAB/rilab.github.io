@@ -14,6 +14,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### August 2014
 
+##### Fri. Aug 30, 2014
+
+[Kelley et al. 2014](http://www.nature.com/ncomms/2014/140812/ncomms5611/full/ncomms5611.html) Compact genome of the Antarctic midge is likely an adaptation to an extreme environment.
+
 ##### Fri. Aug 23, 2014
 
 [Wilson et al. 2014 ](http://www.genetics.org/content/early/2014/07/23/genetics.114.165571.abstract). Soft Selective Sweeps in Complex Demographic Scenarios.
