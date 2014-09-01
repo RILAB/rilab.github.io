@@ -12,6 +12,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### September 2014
+
+##### Fri. Sept 12, 2014
+
+[Spenver et al. 2006](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0020148) The Influence of Recombination on Human Genetic Diversity
+
+##### Fri. Sept 5, 2014
+
+[Carneiro et al. 2014](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003519) The Genomic Architecture of Population Divergence between Subspecies of the European Rabbit.
+
 ### August 2014
 
 ##### Fri. Aug 30, 2014

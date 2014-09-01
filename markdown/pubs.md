@@ -60,7 +60,7 @@
 
 * Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) Identification of a functional transposon insertion in the maize domestication gene *tb1*. *Nature Genetics* [43:1160-1163](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html) [[F1000](http://f1000.com/prime/13357167)] [[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] 
 
-* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. *PNAS* [108: 1088-1092](http://www.pnas.org/content/108/3/1088.long) [[data](http://figshare.com/articles/new_fileset/757735)] [[frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] 
+* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. *PNAS* [108: 1088-1092](http://www.pnas.org/content/108/3/1088.long) [[data](http://figshare.com/articles/new_fileset/757735)] [[frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity Blog](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] 
 
 * **Hufford MB**, Gepts P, **Ross-Ibarra J** (2011) Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (*Zea mays* ssp. *parviglumis*). *Molecular Ecology* [20: 46-55](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04924.x/abstract)	[[pdf](pdfs/Hufford-et-al-2011.pdf)] 
 
