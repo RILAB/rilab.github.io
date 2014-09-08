@@ -12,11 +12,26 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+
+### October 2014
+##### Fri. Oct. 3, 2014
+
+[Huber et al. 2014](http://www.ncbi.nlm.nih.gov/pubmed/25158800) Keeping it Local: Evidence for Positive Selection in Swedish Arabidopsis thaliana.
+
 ### September 2014
+
+##### Fri. Sept. 26, 2014
+
+TBA
+
+##### Fri. Sept. 19, 2014
+
+[Brawand et al. 2014](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13726.html) The genomic substrate for adaptive radiation in African cichlid fish
+
 
 ##### Fri. Sept 12, 2014
 
-[Spenver et al. 2006](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0020148) The Influence of Recombination on Human Genetic Diversity
+[Spencer et al. 2006](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0020148) The Influence of Recombination on Human Genetic Diversity
 
 ##### Fri. Sept 5, 2014
 
