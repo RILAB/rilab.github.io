@@ -1,5 +1,9 @@
 ## News
 
+### Sept 17, 2014
+
+Rute Fonseca's paper on ancient maize DNA in the US Southwest was accepted at Nature Plant!
+
 ### Aug 15, 2014
 
 Our new preprint on TEs and gene expression, a collaboration with the [Springer Lab](http://www.cbs.umn.edu/lab/springer), is no on bioRxiv(http://biorxiv.org/content/early/2014/08/15/008052). Features some great work by Michelle Stitzer identifying novel TE insertions.
