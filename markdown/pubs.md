@@ -11,11 +11,13 @@
 * Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress. [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
 
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [[preprint](http://arxiv.org/abs/1307.7313)] [[blog: HS](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] 
+
+### 2015
     
+* Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT (2014). The origin and evolution of maize in the American Southwest. *Nature Plants* In Press
+
 ### 2014
 
-* Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT (2014). The origin and evolution of maize in the American Southwest. *Nature Plants* In Press
-    
 * **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. *Chromosoma* [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[blog: HS](http://t.co/tzLQJCk8d5)]
 
 * **Mezmouk S**, **Ross-Ibarra J** (2014) The pattern and distribution of deleterious mutations in maize. *G3* [4:163-171](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
