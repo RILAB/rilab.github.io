@@ -22,7 +22,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. Sept. 26, 2014
 
-TBA
+[Romiguier et al. 2014]( http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13685.html?WT.ec_id=NATURE-20140821 ) Comparative population genomics in animals uncovers the determinants of genetic diversity
 
 ##### Fri. Sept. 19, 2014
 
