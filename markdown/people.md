@@ -31,6 +31,15 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
 <br><br>
+<div style="float: left">
+<img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Jinliang Yang**
+
+Jinliang joined the lab in October 2014 to work on the genetics of nitrogen fixation in maize and the quantitative genetics of maize and teosinte.  
+
+<br><br>
+
 
 ### Graduate Students
 
