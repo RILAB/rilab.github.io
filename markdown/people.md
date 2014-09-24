@@ -24,6 +24,14 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 
 <br><br>
 <div style="float: left">
+<img src="http://www.rilab.org/images/rennybyfield.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Simon Renny-Byfield** <a href="https://twitter.com/SimonByfield"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=uZTFIaAAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+
+Simon joined hte lab in October 2014. He is working on structural variation and transposable element variation in landraces and teosinte.
+
+<br><br>
+<div style="float: left">
 <img src="http://www.rilab.org/images/tsukahara.JPG" style="border:10px solid white"; width=100px>
 </div>
 **Sayuri Tsukahara**
@@ -34,7 +42,7 @@ Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in 
 <div style="float: left">
 <img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jinliang Yang**
+**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Jinliang joined the lab in October 2014 to work on the genetics of nitrogen fixation in maize and the quantitative genetics of maize and teosinte.  
 
