@@ -86,7 +86,6 @@ Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci
 
 ### Staff
 
-<br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/lorant.png" style="border:10px solid white"; width=100px>
 </div>
@@ -103,7 +102,7 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 </div>
 **Sid Bhadra-Lobo** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/sidbhadra-lobo"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Sid is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
+When not using his mad internet search skills for the powers of good, Sid is working on crop-wild introgression in rice and centromere drive in maize.
 
 <br><br><br>
 <div style="float: left">
@@ -123,39 +122,17 @@ Arun is working on simulation approaches to reassessing the maize domestication 
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/fiscus.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Chris Fiscus** <a href="https://twitter.com/cjfiscu"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/cjfiscus"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
-
-Chris is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
-
-<br><br><br>
-<div style="float: left">
 <img src="http://www.rilab.org/images/kent.jpeg" style="border:10px solid white"; width=100px>
 </div>
 **Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/tvkent"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Tyler is working to impute genotypes in maize association mapping panels. Also, claims to have unstoppable corn.
 
-<br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
-</div>
-**Ali Khavari** 
-
-Ali is working to test methods of detecting de novo transposable element insertions in maize.
-
-<br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/yang.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Timothy Yang**
-
-Tim is part of a team investigating the evidence of centromere drive from next-gen sequence data in maize.
-
 <br><br><br><br>
 
 ### Lab Alums
+
+[Vince Buffalo](http://www.vincebuffalo.com) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2013
 
 [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
 
