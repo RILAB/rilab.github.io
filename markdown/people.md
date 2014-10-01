@@ -132,7 +132,7 @@ Tyler is working to impute genotypes in maize association mapping panels. Also, 
 
 ### Lab Alums
 
-[Vince Buffalo](http://www.vincebuffalo.com) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2013
+[Vince Buffalo](http://www.vincebuffalo.com) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Computational Biologist 2013-2014
 
 [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
 
