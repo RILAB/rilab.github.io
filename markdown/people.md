@@ -106,7 +106,7 @@ When not using his mad internet search skills for the powers of good, Sid is wor
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
+<img src="http://www.rilab.org/images/nivaz2.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
