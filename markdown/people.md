@@ -86,13 +86,6 @@ Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci
 
 ### Staff
 
-<div style="float: left">
-<img src="http://www.rilab.org/images/buffalo.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Vince Buffalo** <a href="http://www.vincebuffalo.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width:18px;"></a><a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/vsbuffalo"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=7w_tyXUAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
-
-Vince is a computational biologist, [author](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372), and aspiring evolutionary geneticist who joined the lab in mid 2013 as the lead on our analyses of genome sequences from natural teosinte populations. 
-
 <br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/lorant.png" style="border:10px solid white"; width=100px>
@@ -102,24 +95,6 @@ Vince is a computational biologist, [author](http://www.amazon.com/Bioinformatic
 Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
 
 <br><br><br>
-
-### Visiting Students
-
-<div style="float: left">
-<img src="http://www.rilab.org/images/carmona.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Aldo Carmona** 
-
-Aldo is an undergraduate student at [UNAM](http://www.unam.mx) and is working on GWAS for genome size, and expression analysis of kinetochore proteins.
-
-<br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/cornkey.png" style="border:10px solid white"; width=100px>
-</div>
-**Antonio Hernández**
-
-Antonio is visiting us from [CIMMYT](http://www.cimmyt.org) and will be working in the lab on studying maize mutants of kinetochore proteins.
-<br><br><br><br><br>
 
 ### Undergraduate Students
 
