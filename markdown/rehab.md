@@ -14,6 +14,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 
 ### October 2014
+
+##### Fri. Oct 24, 2014
+
+[Caicedo et al. 2007](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030163). Genome-Wide Patterns of Nucleotide Polymorphism in Domesticated Rice
+
+##### Fri. Oct. 17, 2014
+
+[Crawford et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/10/01/009837.full.pdf) Reticulate speciation and adaptive introgression in the Anopheles gambiae species complex
+
 ##### Fri. Oct. 10, 2014
 
 [Martin et al 2014](http://biorxiv.org/content/early/2014/08/20/001347). Evaluating the use of ABBA-BABA statistics to locate introgressed loci.
