@@ -1,5 +1,9 @@
 ## News
 
+### Oct 1, 2014
+
+Sadly, Vince Buffalo leaves the lab for a PhD in [Graham Coop's lab](www.gcbias.org). On a happy note, Jinliang Yang joins the group to do a postdoc on maize quantitative genetics! Good luck Vince, and welcome Jinliang!
+
 ### Sept 17, 2014
 
 Rute Fonseca's paper on ancient maize DNA in the US Southwest was accepted at Nature Plant!

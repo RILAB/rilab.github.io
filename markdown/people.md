@@ -42,12 +42,10 @@ Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in 
 <div style="float: left">
 <img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.me"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Jinliang joined the lab in October 2014 to work on the genetics of nitrogen fixation in maize and the quantitative genetics of maize and teosinte.  
-
 <br><br>
-
 
 ### Graduate Students
 
@@ -70,7 +68,7 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 <div style="float: left">
 <img src="http://www.rilab.org/images/stitzer.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Michelle Stitzer**
+**Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
 
