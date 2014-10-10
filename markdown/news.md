@@ -1,5 +1,9 @@
 ## News
 
+### Oct 10, 2014
+
+Local adaptation review with [Peter Tiffin](http://www.cbs.umn.edu/lab/tiffin) accepted at Trends in Ecology and Evolution. See the [preprint](https://peerj.com/preprints/488/) here.
+
 ### Oct 1, 2014
 
 Sadly, Vince Buffalo leaves the lab for a PhD in [Graham Coop's lab](www.gcbias.org). On a happy note, Jinliang Yang joins the group to do a postdoc on maize quantitative genetics! Good luck Vince, and welcome Jinliang!

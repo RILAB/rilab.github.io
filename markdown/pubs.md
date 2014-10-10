@@ -4,7 +4,6 @@
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* Tiffin P, **Ross-Ibarra J**. Advances and limits of using population genetics to understand local adaptation. [[Preprint](https://peerj.com/preprints/488/)]
 
 * **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. Natural variation in teosinte at the domestication locus teosinte branched1 (tb1). [[preprint](http://biorxiv.org/content/early/2014/06/03/005819)] [[github](https://github.com/lvann/tb1)] 
 
@@ -17,6 +16,8 @@
 * Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT (2014). The origin and evolution of maize in the American Southwest. *Nature Plants* In Press
 
 ### 2014
+
+* Tiffin P, **Ross-Ibarra J**. Advances and limits of using population genetics to understand local adaptation. *Trends in Ecology and Evolution* In Press [[Preprint](https://peerj.com/preprints/488/)]
 
 * **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. *Chromosoma* [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[blog: HS](http://t.co/tzLQJCk8d5)]
 
