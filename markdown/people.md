@@ -24,7 +24,7 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 
 <br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/crosby.jpy" style="border:10px solid white"; width=100px>
+<img src="http://www.rilab.org/images/crosby.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Kate Crosby** <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
