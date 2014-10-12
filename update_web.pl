@@ -27,7 +27,7 @@ while(<FILE>){
 		my $tempid=$1; 
 		my $citecount=0;
 		foreach(keys(%cites)){ if( $_ ~~ $tempid){ $citecount=$cites{$tempid}; }}
-		$_=~s/CITES:\d+/[[Cited $citecount times](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
+		$_=~s/CITES:\d+/[[$citecount citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 	}
 		
 		print PUBS $_;    
