@@ -1,5 +1,7 @@
 #! /bin/zsh
 
+perl update_web.pl
+
 cd markdown
 
 for i in *.md; 

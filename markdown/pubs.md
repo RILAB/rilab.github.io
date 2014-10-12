@@ -1,5 +1,4 @@
-## Publications <a href="http://impactstory.org/user51627"><img src="http://impactstory.org/static/img/impactstory-logo-no-type.png" style="width: 20px;"></a> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a> 
-
+## Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a> 
 
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
@@ -89,7 +88,7 @@
 
 ### 2009
 
-* Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. *Science 326*: [1115-1117](http://www.sciencemag.org/content/326/5956/1115) [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] 
+* Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. *Science 326*: [1115-1117](http://www.sciencemag.org/content/326/5956/1115) **CITE** [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] 
 
 * **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. *PLoS ONE* [4: e8346](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE) [[blog: NERS](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[blog: GL](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[blog: DNews](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[blog: CNPS](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NY Times](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube parody](http://www.youtube.com/watch?v=nPiiGvvd3lA)] 
 
@@ -109,7 +108,7 @@
 
 ### 2007  
 
-* **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] 
+* **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) **CITE** [[F1000](http://f1000.com/prime/1088796)] 
 
 * **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. *Journal of Evolutionary Biology* [20: 800-806](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) [[pdf](http://onlinelibrary.wiley.com/store/10.1111/j.1420-9101.2006.01275.x/asset/j.1420-9101.2006.01275.x.pdf?v=1&t=hum6oom0&s=20d44a6b666698515639b4c3648b03ee748292af)] 
 
