@@ -19,22 +19,18 @@ while(<CITES>){
 }
 close CITES;
 
-open FILE, "<CV.temp.tex"; 
-open CV, ">CV.tex"; 
-while(<FILE>){ 
-	if($_=~m/^H\-Index/){ 
-		print CV "$h\n"; 
-	} 
-	elsif( $_=~m/CITES/ ){
+open FILE, "<markdown/pubs_temp.txt"; 
+open PUBS, ">markdown/pubs.md"; 
+while(<FILE>){  
+	if( $_=~m/CITES/ ){
 		$_=~m/CITES:(\d+)/;
 		my $tempid=$1; 
 		my $citecount=0;
 		foreach(keys(%cites)){ if( $_ ~~ $tempid){ $citecount=$cites{$tempid}; }}
-		print CV "\\\\Citations: $citecount\\\\\n";
+		$_=~s/CITES:\d+/[[Cited $citecount times](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 	}
-	else{ 
-		print CV $_;
-	}    
+		
+		print PUBS $_;    
 }
-close CV;
+close PUBS;
 close FILE;
