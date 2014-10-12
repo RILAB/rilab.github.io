@@ -12,11 +12,11 @@
 
 ### 2015
     
-* Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT (2014). The origin and evolution of maize in the American Southwest. *Nature Plants* In Press
+* Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT (2014). The origin and evolution of maize in the American Southwest. *Nature Plants (In Press)*
 
 ### 2014
 
-* Tiffin P, **Ross-Ibarra J**. Advances and limits of using population genetics to understand local adaptation. *Trends in Ecology and Evolution* In Press [[Preprint](https://peerj.com/preprints/488/)]
+* Tiffin P, **Ross-Ibarra J**. Advances and limits of using population genetics to understand local adaptation. *Trends in Ecology and Evolution (In Press)* [[Preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist blog](http://t.co/I57EnpO5QN)]
 
 * **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. *Chromosoma* [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[blog: HS](http://t.co/tzLQJCk8d5)]
 
@@ -64,7 +64,7 @@
 
 * Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) Identification of a functional transposon insertion in the maize domestication gene *tb1*. *Nature Genetics* [43:1160-1163](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html) [[89 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )] [[F1000](http://f1000.com/prime/13357167)] [[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] 
 
-* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. *PNAS* [108: 1088-1092](http://www.pnas.org/content/108/3/1088.long) [[88 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624 )] [[data](http://figshare.com/articles/new_fileset/757735)] [[frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity Blog](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] 
+* **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. *PNAS* [108: 1088-1092](http://www.pnas.org/content/108/3/1088.long) [[88 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624 )] [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity Blog](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] 
 
 * **Hufford MB**, Gepts P, **Ross-Ibarra J** (2011) Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (*Zea mays* ssp. *parviglumis*). *Molecular Ecology* [20: 46-55](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04924.x/abstract)	[[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13621041706202411296 )] [[pdf](pdfs/Hufford-et-al-2011.pdf)] 
 
