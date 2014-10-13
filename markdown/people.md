@@ -28,7 +28,7 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 </div>
 **Kate Crosby** <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Kate joined the lab in November 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work included work on selection scans in experimental evolution populations in maize.
+Kate joined the lab in November 2014 to work tracing historical evidence for selection during modern maize breeding.
 
 <br><br>
 <div style="float: left">

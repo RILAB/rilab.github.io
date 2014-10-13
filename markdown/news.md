@@ -1,5 +1,9 @@
 ## News
 
+### Oct 12, 2014
+
+Jeff is quoted in a [story at The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41194/title/360-Degree-View-of-the-Tomato/) on the recent [tomato resequencing paper](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3117.html).
+
 ### Oct 10, 2014
 
 Local adaptation review with [Peter Tiffin](http://www.cbs.umn.edu/lab/tiffin) accepted at Trends in Ecology and Evolution. See the [preprint](https://peerj.com/preprints/488/) here.
