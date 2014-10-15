@@ -26,7 +26,7 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 <div style="float: left">
 <img src="http://www.rilab.org/images/crosby.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Kate Crosby** <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Kate Crosby** <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=yAtU5dgAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Kate joined the lab in November 2014 to apply population genetic methods to identify evidence for selection during modern maize breeding. Her PhD work at Dalhousie U. focused on evolution in wild oat populations.
 
