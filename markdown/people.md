@@ -20,7 +20,7 @@ Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC 
 </div>
 **Tim Beissinger** <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=yAtU5dgAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work included selection scans in experimental evolution populations in maize, tests for epistatic selection, and methods to perform window-based genome scans.
+Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work at U. Wisconsin included selection scans in experimental evolution populations in maize, tests for epistatic selection, and methods to perform window-based genome scans.
 
 <br><br>
 <div style="float: left">
@@ -28,7 +28,7 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 </div>
 **Kate Crosby** <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Kate joined the lab in November 2014 to work tracing historical evidence for selection during modern maize breeding.
+Kate joined the lab in November 2014 to apply population genetic methods to identify evidence for selection during modern maize breeding. Her PhD work at Dalhousie U. focused on evolution in wild oat populations.
 
 <br><br>
 <div style="float: left">
