@@ -15,6 +15,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### October 2014
 
+##### Fri. Oct 31, 2014
+
+[Schiffels & Durbin](http://www.nature.com/ng/journal/v46/n8/pdf/ng.3015.pdf). Inferring human population size and separation history from multiple genome sequences.
+
 ##### Fri. Oct 24, 2014
 
 [Caicedo et al. 2007](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030163). Genome-Wide Patterns of Nucleotide Polymorphism in Domesticated Rice
