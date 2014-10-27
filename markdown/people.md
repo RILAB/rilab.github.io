@@ -62,7 +62,7 @@ Jinliang joined the lab in October 2014 to work on maize quantitative genetics a
 </div>
 **Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/paulbilinski"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=c03DwHkAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
+Paul is a 5th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
 <br><br><br>
 <div style="float: left">
@@ -70,7 +70,7 @@ Paul is a 4th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGro
 </div>
 **Anna O'Brien**
 
-Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza.
+Anna is a 4th year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza.
 
 <br><br><br>
 <div style="float: left">
@@ -78,7 +78,7 @@ Anna is a 3rd year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 </div>
 **Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
+Michelle is a 2nd year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
 
 <br><br><br>
 <div style="float: left">
@@ -86,7 +86,7 @@ Michelle is a 1st year student in [Population Biology](http://www-eve.ucdavis.ed
 </div>
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Dianne is a 4th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
+Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
 <br><br><br>
 
@@ -142,21 +142,21 @@ Tyler is working to impute genotypes in maize association mapping panels. Also, 
 
 [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
 
+[Shohei Takuno](https://sites.google.com/site/shoheitakuno/) <a href="https://twitter.com/ShoheiTakuno"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2012-2013
+
 [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) <a href="https://twitter.com/mbhufford"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2013
 
 [Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392) <a href="https://twitter.com/PyhaTanja"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2012
-
-[Shohei Takuno](https://sites.google.com/site/shoheitakuno/) <a href="https://twitter.com/ShoheiTakuno"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2012-2013
 
 [Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm) Postdoc 2009-2011
 
 ### Visiting Scholar: for >100 hours of scholastic visitation
 
-* Eric Fuchs
-* Peter Morrell
-* Rute Fonseca
+* [Eric Fuchs](https://sites.google.com/site/ejfuchs/)
+* [Peter Morrell](http://faculty.agronomy.cfans.umn.edu/pmorrell/)
+* [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics)
 
-### Fellow: for >500 hours of scholastic fellowship
+### Fellow of the R-I Lab: for >500 hours of scholastic fellowship
 
 * Peter Tiffin
 
@@ -194,6 +194,5 @@ Tyler is working to impute genotypes in maize association mapping panels. Also, 
 
 **Population genetics of maize breeding**
 
-* [Mike McMullen](http://ipg.missouri.edu/faculty/mcmullen.cfm)
 * [Justin Gerke](http://www.linkedin.com/pub/justin-gerke/11/ab4/312)
 * Oscar (Howie) Smith
