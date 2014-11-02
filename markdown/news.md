@@ -1,5 +1,9 @@
 ## News
 
+## Nov 1
+
+Nice [interview](http://www.peoplebehindthescience.com/dr-norman-ellstrand/) with my MS advisor Norm Ellstrand, including a kind reference to the RILAB as one of his "new mentors".
+
 ### Oct 27
 
 Kate Crosby arrives, bringing the lab to a quintessential quintet of quality postdocs. Also, Jeff signs on to be an Associate Editor at [G3](http://www.g3journal.org). 
