@@ -1,11 +1,13 @@
 ## People
 
-Please read for information on [joining the lab](http://www.rilab.org/prosp.html)
 
 <div style="float: left">
 <img src="http://www.rilab.org/images/nov2014.jpg" style="border:10px solid white"; width=100px>
 </div>
-<br><br><br><br>
+
+Please read for information on [joining the lab](http://www.rilab.org/prosp.html)
+
+<br><br><br><br><br><br>
 
 ### PI
 
