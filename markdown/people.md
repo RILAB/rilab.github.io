@@ -2,7 +2,9 @@
 
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/nov2014.jpg" style="border:10px solid white"; width=100px>
+<a href="http://www.rilab.org/images/nov2014.jpg">
+	<img src="http://www.rilab.org/images/nov2014.jpg" style="border:10px solid white"; width=100px>
+	</a>
 </div>
 
 ## R-I Lab members
