@@ -1,5 +1,9 @@
 ## News
 
+## Nov 3
+
+Nice [perspective piece](http://www.nature.com/nature/journal/v514/n7524_supp/full/514S58a.html) on rice domesticaiton in Nature, including comment from Jeff on debating one vs two domestications.
+
 ## Nov 1
 
 Nice [interview](http://www.peoplebehindthescience.com/dr-norman-ellstrand/) with my MS advisor Norm Ellstrand, including a kind reference to the RILAB as one of his "new mentors".

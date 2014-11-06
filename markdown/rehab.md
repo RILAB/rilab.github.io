@@ -12,6 +12,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### November 2014
+
+##### Fri. Nov. 7, 2014
+
+[Hough et al. 2014](http://www.pnas.org/content/111/21/7713.abstract). Genetic degeneration of old and young Y chromosomes in the flowering plant Rumex hastatulus.
 
 ### October 2014
 
