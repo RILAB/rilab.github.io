@@ -1,5 +1,9 @@
 ## News
 
+## Nov 7
+
+Added an [interview](http://www.rilab.org/attachments/Hufford_et_al._12_Nature_Genetics.m4a) with [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) on his 2012 [maize domestication paper](http://www.nature.com/ng/journal/v44/n7/full/ng.2309.html).
+
 ## Nov 3
 
 Nice [perspective piece](http://www.nature.com/nature/journal/v514/n7524_supp/full/514S58a.html) on rice domesticaiton in Nature, including comment from Jeff on debating one vs two domestications.
