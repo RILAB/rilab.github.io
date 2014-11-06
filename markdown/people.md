@@ -8,7 +8,7 @@
 ## R-I Lab members
 Please read for information on [joining the lab](http://www.rilab.org/prosp.html)
 
-<br><br><br>
+<br><br>
 
 ### PI
 
