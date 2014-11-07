@@ -16,6 +16,10 @@ Nice [interview](http://www.peoplebehindthescience.com/dr-norman-ellstrand/) wit
 
 Kate Crosby arrives, bringing the lab to a quintessential quintet of quality postdocs. Also, Jeff signs on to be an Associate Editor at [G3](http://www.g3journal.org). 
 
+### Oct 24
+
+UCD [mentions lab work on adaptation](http://ucdavismagazine.ucdavis.edu/issues/fall14/hot_crops.html).  
+
 ### Oct 12, 2014
 
 Jeff is quoted in a [story at The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41194/title/360-Degree-View-of-the-Tomato/) on the recent [tomato resequencing paper](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3117.html).
