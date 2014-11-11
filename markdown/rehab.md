@@ -14,6 +14,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### November 2014
 
+##### Fri. Nov. 28, 2014
+
+No REHAB. But that doesn't meant you can't get a second helping of [turkey genomics](http://ps.oxfordjournals.org/content/93/2/479.short) should you so desire.
+
+##### Fri. Nov. 21, 2014
+
+[Takuno et al. in prep](https://github.com/rossibarra/hilo_paper/blob/master/HighLow.pdf?raw=true) Independent molecular basis of convergent highland adaptation in maize
+
+##### Fri. Nov. 14, 2014
+
+[Gravel 2014](http://biorxiv.org/content/early/2014/10/30/010934) When is selection effective?
+
 ##### Fri. Nov. 7, 2014
 
 [Hough et al. 2014](http://www.pnas.org/content/111/21/7713.abstract). Genetic degeneration of old and young Y chromosomes in the flowering plant Rumex hastatulus.
