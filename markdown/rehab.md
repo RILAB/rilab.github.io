@@ -1,12 +1,14 @@
 ##R.E.H.A.B. 
 
-Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anybody is welcome to [suggest a paper](mailto:rossibarra@ucdavis.edu), but your initials will be stuck up with it for eternity. There is no email list; articles are posted below along with the date. 
+Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date. 
    
 We meet Fridays at [de Vere's Irish Pub](http://daviswiki.org/de_Vere%27s_Irish_Pub) at about 4:15 (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. 
 
-We now also blog our thoughts on the papers we read. One or more of the people present usually volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publicationa) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
+From time to time we also blog our thoughts on the papers we read. One or more of the people present volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publication) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
+
+We're proud of the fact that a number of journal clubs have now been modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), and [E.H.R.A.B.](http://instagram.com/p/rpHARuKJ7n/).
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
