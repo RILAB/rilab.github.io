@@ -62,7 +62,7 @@
 
 ### 2011
 
-* Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) Identification of a functional transposon insertion in the maize domestication gene *tb1*. *Nature Genetics* [43:1160-1163](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html) [[F1000](http://f1000.com/prime/13357167)] [[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[91 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )]
+* Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) Identification of a functional transposon insertion in the maize domestication gene *tb1*. *Nature Genetics* [43:1160-1163](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html) [[F1000](http://f1000.com/prime/13357167)] [[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] [[91 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )]
 
 * **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. *PNAS* [108: 1088-1092](http://www.pnas.org/content/108/3/1088.long) [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity blog](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] [[89 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624 )]
 
