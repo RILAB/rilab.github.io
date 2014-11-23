@@ -1,5 +1,9 @@
 ## News
 
+## Nov 21
+
+Added an [interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a) on our [2011 paper](http://www.pnas.org/content/108/3/1088.long) on the geography of maize domestication.
+
 ## Nov 7
 
 Added an [interview](http://www.rilab.org/attachments/Hufford_et_al._12_Nature_Genetics.m4a) with [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) on his 2012 [maize domestication paper](http://www.nature.com/ng/journal/v44/n7/full/ng.2309.html).
