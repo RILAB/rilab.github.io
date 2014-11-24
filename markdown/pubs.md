@@ -6,11 +6,11 @@
 
 * **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. Natural variation in teosinte at the domestication locus teosinte branched1 (tb1). [[preprint](http://biorxiv.org/content/early/2014/06/03/005819)] [[github](https://github.com/lvann/tb1)] 
 
-* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress. [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
-
 * Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. The genomic impacts of drift and selection for hybrid performance in maize. [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve blog](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )]
 
 ### 2015
+
+* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM. Mobile elements contribute to activation of genes in response to abiotic stress. *PLoS Genetics (accepted)* [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
     
 * Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT (2014). The origin and evolution of maize in the American Southwest. *Nature Plants (In Press)*
 
