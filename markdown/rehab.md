@@ -14,6 +14,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2014
 
+### December 2014
+
+##### Fri. Dec. 12, 2014
+
+[Poh et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/09/29/009456.full.pdf) On the prospect of identifying adaptive loci in recently bottlenecked populations
+
+##### Fri. Dec. 5, 2014 
+
+[Fu et al. 2014](http://www.sciencedirect.com/science/article/pii/S0002929714003899) Characteristics of Neutral and Deleterious Protein-Coding Variation among Individuals and Populations
+
 ### November 2014
 
 ##### Fri. Nov. 28, 2014
