@@ -1,5 +1,9 @@
 ## News
 
+## Dec. 11
+
+Jeff [joins G3](http://genestogenomes.org/?p=658&preview=1&_ppp=ce3cb6a6ec) as an Associate Editor.
+
 ## Nov 21
 
 Added an [interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a) on our [2011 paper](http://www.pnas.org/content/108/3/1088.long) on the geography of maize domestication.
@@ -38,7 +42,7 @@ Sadly, Vince Buffalo leaves the lab for a PhD in [Graham Coop's lab](www.gcbias.
 
 ### Sept 17, 2014
 
-Rute Fonseca's paper on ancient maize DNA in the US Southwest was accepted at Nature Plant!
+Rute Fonseca's paper on ancient maize DNA in the US Southwest was accepted at Nature Plants!
 
 ### Aug 15, 2014
 
