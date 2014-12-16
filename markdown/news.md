@@ -1,5 +1,13 @@
 ## News
 
+## Dec. 15
+
+Our Plant Genome grant was declined by NSF, but with constructive reviews. You can see reviews and proposal on [github](https://github.com/RILAB/PGRP).
+
+## Dec. 12
+
+Michelle Stitzer awarded a [Gobal Food Initiative Fellowship](http://www.universityofcalifornia.edu/press-room/dozens-uc-students-awarded-global-food-initiative-fellowships) for her work on the maize genome
+
 ## Dec. 11
 
 Jeff [joins G3](http://genestogenomes.org/?p=658&preview=1&_ppp=ce3cb6a6ec) as an Associate Editor.
