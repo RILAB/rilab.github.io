@@ -82,7 +82,7 @@
 
 * **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) Fine scale genetic structure in the wild ancestor of maize (*Zea mays* ssp. *parviglumis*). *Molecular Ecology* [19: 1162-1173](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04559.x/full) [[pdf](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf)] [[18 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=9340353919503578071 )]
 
-* Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* [8: e1000327](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327) [[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)] [[49 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554747939087267209 )]
+* Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. *PLoS Biology* [8: e1000327](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327) [[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)] [[50 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554747939087267209 )]
 
 * Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants]. *Molecular Biology and Evolution* [27: 409-416](http://mbe.oxfordjournals.org/content/27/2/409.abstract) [[19 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1965523728393558029 )]
 

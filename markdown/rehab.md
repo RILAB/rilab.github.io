@@ -12,9 +12,23 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
+## 2015
+
+### January 2015
+
+No R.E.H.A.B., but celebrate the new year in plant genomics by [reading up on cotton](http://www.nespal.org/peng_lab/papers/S1687537008742304.pdf), including the C-genome species that are 2015 megabases in size.
+
 ## 2014
 
 ### December 2014
+
+##### Fri. Dec. 26, 2014
+
+No R.E.H.A.B., but feel free to get your plant genomics fix by reading up on the [Christmas Tree genome](http://www.nature.com/nature/journal/v497/n7451/full/nature12211.html)
+
+##### Fri. Dec. 19, 2014
+
+[Wiser et al. 2013](http://www.sciencemag.org/content/342/6164/1364) Long-Term Dynamics of Adaptation in Asexual Populations
 
 ##### Fri. Dec. 12, 2014
 
