@@ -20,7 +20,7 @@
 
 * Tiffin P, **Ross-Ibarra J**. Advances and limits of using population genetics to understand local adaptation. *Trends in Ecology and Evolution* [29:673-680](http://www.sciencedirect.com/science/article/pii/S0169534714002237) [[Preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist blog](http://t.co/I57EnpO5QN)]
 
-* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. *Chromosoma* [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)]
+* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. *Chromosoma* [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)] CITES:4504435895012493115
 
 * **Mezmouk S**, **Ross-Ibarra J** (2014) The pattern and distribution of deleterious mutations in maize. *G3* [4:163-171](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
 
@@ -113,7 +113,7 @@
 * **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. *PNAS* [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] CITES:4061357872113450280 
 
 * **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. *Journal of Evolutionary Biology* [20: 800-806](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) 
-[[pdf](http://onlinelibrary.wiley.com/store/10.1111/j.1420-9101.2006.01275.x/asset/j.1420-9101.2006.01275.x.pdf?v=1&t=i4kzcidb&s=91f20d793109643c3d031ae4911be19e9f2d0d7e) CITES:684436662966421061 
+[[pdf]](http://onlinelibrary.wiley.com/store/10.1111/j.1420-9101.2006.01275.x/asset/j.1420-9101.2006.01275.x.pdf?v=1&t=i4kzcidb&s=91f20d793109643c3d031ae4911be19e9f2d0d7e) CITES:684436662966421061 
 
 ### 2001-2006
 
