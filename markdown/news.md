@@ -1,5 +1,9 @@
 ## News
 
+## Jan. 6 2015
+
+Smithsonian funds our grant with [Dolores Piperno](http://en.wikipedia.org/wiki/Dolores_Piperno) and [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) entitled "Phenotypes, Environmental Plasticity, and Gene Expression in Teosinte and Maize in Ancient Climates Before and During the Time of Domestication".
+
 ## Dec. 15
 
 Our Plant Genome grant was declined by NSF, but with constructive reviews. You can see reviews and proposal on [github](https://github.com/RILAB/PGRP).
