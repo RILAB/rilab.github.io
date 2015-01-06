@@ -16,9 +16,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### January 2015
 
-##### Fri. Jan 16, 2015 [Wiser et al. 2013](http://www.sciencemag.org/content/342/6164/1364) Long-Term Dynamics of Adaptation in Asexual Populations
+##### Fri. Jan 16, 2015 [Antonovics 1976](http://www.jstor.org/stable/2395303) The nature of limits to natural selection.
 
-##### Fri. Jan 9, 2015 
+##### Fri. Jan 9, 2015 [Wiser et al. 2013](http://www.sciencemag.org/content/342/6164/1364) Long-Term Dynamics of Adaptation in Asexual Populations
 
 ##### Fri. Jan 2, 2015 No R.E.H.A.B., but celebrate the new year in plant genomics by [reading up on cotton](http://www.nespal.org/peng_lab/papers/S1687537008742304.pdf), including the C-genome species that are 2015 megabases in size.
 
