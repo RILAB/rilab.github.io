@@ -1,34 +1,36 @@
 ## News
 
-## Jan. 6 2015
+### Jan. 6 
 
 Smithsonian funds our grant with [Dolores Piperno](http://en.wikipedia.org/wiki/Dolores_Piperno) and [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) entitled "Phenotypes, Environmental Plasticity, and Gene Expression in Teosinte and Maize in Ancient Climates Before and During the Time of Domestication".
 
-## Dec. 15
+##2014
+
+### Dec. 15
 
 Our Plant Genome grant was declined by NSF, but with constructive reviews. You can see reviews and proposal on [github](https://github.com/RILAB/PGRP).
 
-## Dec. 12
+### Dec. 12
 
 Michelle Stitzer awarded a [Gobal Food Initiative Fellowship](http://www.universityofcalifornia.edu/press-room/dozens-uc-students-awarded-global-food-initiative-fellowships) for her work on the maize genome
 
-## Dec. 11
+### Dec. 11
 
 Jeff [joins G3](http://genestogenomes.org/?p=658&preview=1&_ppp=ce3cb6a6ec) as an Associate Editor.
 
-## Nov 21
+### Nov 21
 
 Added an [interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a) on our [2011 paper](http://www.pnas.org/content/108/3/1088.long) on the geography of maize domestication.
 
-## Nov 7
+### Nov 7
 
 Added an [interview](http://www.rilab.org/attachments/Hufford_et_al._12_Nature_Genetics.m4a) with [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) on his 2012 [maize domestication paper](http://www.nature.com/ng/journal/v44/n7/full/ng.2309.html).
 
-## Nov 3
+### Nov 3
 
 Nice [perspective piece](http://www.nature.com/nature/journal/v514/n7524_supp/full/514S58a.html) on rice domesticaiton in Nature, including comment from Jeff on debating one vs two domestications.
 
-## Nov 1
+### Nov 1
 
 Nice [interview](http://www.peoplebehindthescience.com/dr-norman-ellstrand/) with my MS advisor Norm Ellstrand, including a kind reference to the RILAB as one of his "new mentors".
 
@@ -141,6 +143,8 @@ Happy to announce that [Tim Beissinger](http://scholar.google.com/citations?user
 ### Jan. 14, 2014
 
 Jeff's talks from the Plant And Animal Genome conference are online.  [Bottlenecks](http://www.slideshare.net/jrossibarra/bottlenecks-some-ramblings-and-a-bit-of-data-from-maize) and [deleterious alleles](http://www.slideshare.net/jrossibarra/deleterious-alleles-in-maize-for-pagxxii), oh my!
+
+## 2013
 
 ### Dec. 17, 2013
 
