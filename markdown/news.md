@@ -1,5 +1,8 @@
 ## News
 
+### Jan. 8
+Our collaboraton with [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics), [Bruce Smith](http://anthropology.si.edu/archaeobio/smith.html), and [Tom Gilbert](http://geogenetics.ku.dk/research_groups/gilbert_groups/) analyzing ancient maize in the US SW is out in [Nature Plants](http://www.nature.com/articles/nplants20143), with a nice both in [Nature Plants commentary](http://www.nature.com/articles/nplants20149) and a highlight in [Science](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) and a [press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124) by UC Davis.
+
 ### Jan. 6 
 
 Smithsonian funds our grant with [Dolores Piperno](http://en.wikipedia.org/wiki/Dolores_Piperno) and [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) entitled "Phenotypes, Environmental Plasticity, and Gene Expression in Teosinte and Maize in Ancient Climates Before and During the Time of Domestication".
