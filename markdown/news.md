@@ -1,5 +1,9 @@
 ## News
 
+
+### Jan. 8 
+Preprint of Shohei's paper on convergent evolution in the highlands is up on [bioRxiv](http://biorxiv.org/content/early/2015/01/09/013607), and Michelle's work on identifying new TEs as collaboration with [Nathan Springer's group](http://www.cbs.umn.edu/lab/springer) is out at [PLoS Genetics](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)!
+
 ### Jan. 8
 Our collaboraton with [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics), [Bruce Smith](http://anthropology.si.edu/archaeobio/smith.html), and [Tom Gilbert](http://geogenetics.ku.dk/research_groups/gilbert_groups/) analyzing ancient maize in the US SW is out in [Nature Plants](http://www.nature.com/articles/nplants20143), with a nice both in [Nature Plants commentary](http://www.nature.com/articles/nplants20149) and a highlight in [Science](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) and a [press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124) by UC Davis.
 
