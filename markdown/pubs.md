@@ -3,6 +3,7 @@
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+* **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB88, and **Ross-Ibarra J**. Independent molecular basis of convergent highland adaptation in maize. [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
 
 * **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. Natural variation in teosinte at the domestication locus teosinte branched1 (tb1). [[preprint](https://peerj.com/preprints/685/)] [[github](https://github.com/lvann/tb1)] 
 
@@ -14,8 +15,7 @@
 
 * Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J** (2015) Reply to Brush *et al.*: Wake-up call for crop conservation science. *PNAS (Letter)* [Online ahead of print](http://www.pnas.org/content/early/2014/12/25/1422645112.full.pdf+html?sid=21ede9ec-238c-4fb9-8234-bf75ba8e6c39)
 
-* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM (2015) Mobile elements contribute to activation of genes in response to abiotic stress. *PLoS Genetics (accepted)* [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
-    
+* Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM (2015) Mobile elements contribute to activation of genes in response to abiotic stress. *PLoS Genetics* [11(1): e1004915](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
 
 ### 2014
 
