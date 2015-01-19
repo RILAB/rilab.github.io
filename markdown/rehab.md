@@ -18,6 +18,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. Jan 16, 2015 
 
+(Charlesworth 2015)[http://www.pnas.org/content/early/2015/01/07/1423275112.abstract] Causes of natural variation in fitness: Evidence from studies of Drosophila populations
+
+##### Fri. Jan 16, 2015 
+
 [Antonovics 1976](http://www.jstor.org/stable/2395303) The nature of limits to natural selection.
 
 ##### Fri. Jan 9, 2015 
