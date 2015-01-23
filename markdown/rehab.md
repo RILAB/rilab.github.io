@@ -16,9 +16,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### January 2015
 
-##### Fri. Jan 16, 2015 
+##### Fri. Jan 23, 2015 
 
-(Charlesworth 2015)[http://www.pnas.org/content/early/2015/01/07/1423275112.abstract] Causes of natural variation in fitness: Evidence from studies of Drosophila populations
+[Charlesworth 2015](http://www.pnas.org/content/early/2015/01/07/1423275112.abstract) Causes of natural variation in fitness: Evidence from studies of Drosophila populations
 
 ##### Fri. Jan 16, 2015 
 
