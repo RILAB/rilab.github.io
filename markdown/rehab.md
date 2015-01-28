@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### January 2015
 
+##### Fri. Jan 30, 2015
+
+[Brandvain et al. 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004410) Speciation and Introgression between Mimulus nasutus and Mimulus guttatus
+
 ##### Fri. Jan 23, 2015 
 
 [Charlesworth 2015](http://www.pnas.org/content/early/2015/01/07/1423275112.abstract) Causes of natural variation in fitness: Evidence from studies of Drosophila populations
