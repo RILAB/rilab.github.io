@@ -16,6 +16,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### January 2015
 
+##### Fri. Feb. 13, 2015
+
+Romero et al. Flowering time manuscript. (printed version available from JRI).
+
+##### Fri. Feb. 6, 2015
+
+Rodgers-Melnick  et al. Recombination manuscript. (printed version available from JRI).
+
 ##### Fri. Jan 30, 2015
 
 [Brandvain et al. 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004410) Speciation and Introgression between Mimulus nasutus and Mimulus guttatus
