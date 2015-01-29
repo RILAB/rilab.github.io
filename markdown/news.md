@@ -1,5 +1,7 @@
 ## News
 
+### Jan. 28
+Paul Bilinski is chosen to present his work on repeat evolution at the [SMBE Satellite meeting](http://smbeba2015.imag.fr) in Montepllier. Both SMBE and the Dept. of Plant Sciences have agreed to fund his trip!
 
 ### Jan. 9 
 Preprint of Shohei's paper on convergent evolution in the highlands is up on [bioRxiv](http://biorxiv.org/content/early/2015/01/09/013607), and Michelle's work on identifying new TEs as collaboration with [Nathan Springer's group](http://www.cbs.umn.edu/lab/springer) is out at [PLoS Genetics](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)!
