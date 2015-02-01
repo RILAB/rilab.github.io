@@ -142,7 +142,7 @@ Arun is working on simulation approaches to reassessing the maize domestication 
 </div>
 **Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/tvkent"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Tyler is currnetly working to test for gene flow between wild and cultivated rice. His use of emojis even when there are none available has the rest of the lab worried about the future of science.
+Tyler is currently working to test for gene flow between wild and cultivated rice. His use of emojis even when there are none available has the rest of the lab worried about the future of science.
 
 <br><br><br><br>
 
