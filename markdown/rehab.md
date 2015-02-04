@@ -22,11 +22,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. Feb. 20, 2015
 
-Li et al. Methylation manuscript. (printed version available from JRI).
+Romero et al. Flowering time manuscript. (printed version available from JRI).
 
 ##### Fri. Feb. 13, 2015
 
-Romero et al. Flowering time manuscript. (printed version available from JRI).
+Li et al. Methylation manuscript. (printed version available from JRI).
 
 ##### Fri. Feb. 6, 2015
 
