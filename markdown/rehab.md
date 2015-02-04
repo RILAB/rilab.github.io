@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### January 2015
 
+##### Fri. Feb. 27, 2015
+
+[Huang et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004527) Genome-Wide Patterns of Genetic Variation within and among Alternative Selective Regimes
+
 ##### Fri. Feb. 20, 2015
 
 Li et al. Methylation manuscript. (printed version available from JRI).
