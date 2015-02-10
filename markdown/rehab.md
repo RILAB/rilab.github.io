@@ -8,7 +8,7 @@ From time to time we also blog our thoughts on the papers we read. One or more o
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
 
-We're proud of the fact that a number of journal clubs have now been modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), and [E.H.R.A.B.](http://instagram.com/p/rpHARuKJ7n/).
+We're proud of the fact that a number of journal clubs have now been modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), and [E.H.R.A.B.](http://hagenetics.org/?cat=6).
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
