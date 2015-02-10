@@ -14,15 +14,25 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 
-### January 2015
+#### March 2015
+
+##### Fri. March 13, 2015
+
+[Jeffares et al 2015](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3215.html) The genomic and phenotypic diversity of Schizosaccharomyces pombe
+
+##### Fri. March 6, 2015
+
+TBA
+
+#### February 2015
 
 ##### Fri. Feb. 27, 2015
 
-[Huang et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004527) Genome-Wide Patterns of Genetic Variation within and among Alternative Selective Regimes
+TBA: (we're waitin', Hollister)
 
 ##### Fri. Feb. 20, 2015
 
-Romero et al. Flowering time manuscript. (printed version available from JRI).
+[Huang et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004527) Genome-Wide Patterns of Genetic Variation within and among Alternative Selective Regimes
 
 ##### Fri. Feb. 13, 2015
 
@@ -31,6 +41,8 @@ Li et al. Methylation manuscript. (printed version available from JRI).
 ##### Fri. Feb. 6, 2015
 
 Rodgers-Melnick  et al. Recombination manuscript. (printed version available from JRI).
+
+### January 2015
 
 ##### Fri. Jan 30, 2015
 
