@@ -17,11 +17,11 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 
 ### 2015
 
-* [The origin and evolution of maize in the American Southwest]()  
+* [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf)  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
 *Nature Plants* Online ahead of print [[NP commentary](http://www.nature.com/articles/nplants20149)] [[Science news](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn)] [[Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)] [[The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)] [[SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana)] [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] 
 
-* [Reply to Brush *et al.*: Wake-up call for crop conservation science]()    
+* [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf)    
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**  
 *PNAS (Letter)*  112:1
 
@@ -45,7 +45,7 @@ Tiffin P, **Ross-Ibarra J**
 
 ### 2013
 
-* [Comprehensive analysis of imprinted genes in maize reveals allelic variation for imprinting and limited conservation with other species.](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
+* [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species.](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
 *PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] CITES:16494053027693693141 
     
 * [Complex patterns of local adaptation in teosinte.](http://gbe.oxfordjournals.org/content/5/9/1594)  
@@ -64,7 +64,7 @@ McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wen
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
 *PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)] [[Haldane's Sieve](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb](http://pandasthumb.org/archives/2013/05/press-release-t.html)] CITES:16496318242013452561
 	
-* [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico]()  
+* [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  
 **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J**  
 *Genetic Resources and Crop Evolution* 60:2171-2182 [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] CITES:15526564212076251883
 
@@ -76,20 +76,45 @@ Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Iba
 Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  
 *Heredity* 110: 570-577 [[preprint](http://arxiv.org/abs/1209.5466)] CITES:9054275167516914311 
 
-### 2001-2012 pubs under construction, check back soon!**
-
-<!--
 ### 2012
 
-** **Hufford MB**, **Bilinski P**, **Pyhäjärvi T**, **Ross-Ibarra J** (2012) Teosinte as a model system for population and ecological genomics. **Trends in Genetics** [12: 606-615](http://www.cell.com/trends/genetics/abstract/S0168-9525(12)00139-4) [[cover](http://www.cell.com/trends/genetics/issue?pii=S0168-9525(12)X0012-X)] CITES:17241763016461383750
+* Teosinte as a model system for population and ecological genomics.  
+**Hufford MB**, **Bilinski P**, **Pyhäjärvi T**, **Ross-Ibarra J**  
+*Trends in Genetics* [12: 606-615](http://www.cell.com/trends/genetics/abstract/S0168-9525(12)00139-4) [[cover](http://www.cell.com/trends/genetics/issue?pii=S0168-9525(12)X0012-X)] CITES:17241763016461383750
 
+* [Comparative population genomics of maize domestication and improvement.](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf)  
+**Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
+*Nature Genetics* 44:808-811 [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[SciFri interview (Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] CITES:2254239507517002236
+
+
+### 2011
+
+* [Identification of a functional transposon insertion in the maize domestication gene *tb1*.](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)  
+Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
+*Nature Genetics* 43:1160-1163 [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] CITES:11888569066379603503
+
+* [Genetic signals of origin, spread and introgression in a large sample of maize landraces.](http://www.panzea.org/pdf/vanHeerwaarden_etal_2011_PNAS_108_1088.pdf)  
+**van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
+*PNAS* 108: 1088-1092 [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] [[Interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a)] CITES:11944729109494726624
+
+* [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (*Zea mays* ssp. *parviglumis*).](http://www.rilab.org/pdfs/hufford2011.pdf)  
+**Hufford MB**, Gepts P, **Ross-Ibarra J**  
+*Molecular Ecology* 20: 46-55 CITES:13621041706202411296
+
+* [Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*.](http://gbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=21296765)
+Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**  
+*Genome Biology and Evolution* 3: 219-229 CITES:8095218463542481067
+
+### 2001-2012 pubs under construction, check back soon!
+
+<!--
+2012
 ** Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI (2012) [Using nextgen sequencing to investigate genome size variation and transposable element content]. **Topics in Current Genetics: Plant Transposable Elements - Impact on Genome Structure & Function** [24: 41-58](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%252F978-3-642-31842-9_3&ei=ufZ2UsAqhIuMAsOpgJAD&usg=AFQjCNEELwUpThvqvbVPHHU_wqep39i8fg&sig2=6BtfatHSPnIgyW6gUGYjfA&bvm=bv.55819444,d.cGE) [[pdf](pdfs/Munoz_Diez_R1-1.pdf)] CITES:5019892223730894925  
 
 ** **van Heerwaarden J**, **Hufford MB**, **Ross-Ibarra J** (2012) Historical genomics of North American maize. **PNAS** [109: 12420-12425](http://www.pnas.org/content/109/31/12420.abstract) [[data](http://figshare.com/articles/van_Heerwaarden_et_al_2012/757738)] CITES:3745727334869718431 
 
 ** Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM. Reshaping of the maize transcriptome by domestication. (2012) **PNAS** [109: 11878-11883](http://www.pnas.org/content/early/2012/06/28/1201961109.abstract) CITES:935006617287790715
 
-** **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T**, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, **Ross-Ibarra J** (2012) Comparative population genomics of maize domestication and improvement. **Nature Genetics** [44:808-811](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fng%2Fjournal%2Fv44%2Fn7%2Ffull%2Fng.2309.html&ei=t_d2Uvi0DKO0iQKDmICQBA&usg=AFQjCNF4IbGZ207sbrCczzFWyqEQxIkeFA&sig2=E51yK2Pw3-5nyGArwGx4hQ&bvm=bv.55819444,d.cGE) [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[Science Friday interview (in Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[pdf](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] CITES:2254239507517002236
 
 ** Chia J-M, Song C, Bradbury P, Costich D, de Leon N, Doebley JC, Elshire RJ, Gaut BS, Geller L, Glaubitz JC, Gore M, Guill KE, Holland J, **Hufford MB**, Lai J, Li M, Liu X, Lu Y, McCombie R, Nelson R, Poland J, Prasanna BM, **Pyhäjärvi T**, Rong T, Sekhon RS, Sun Q, Tenaillon M, Tian F, Wang J, Xu X, Zhang Z, Kaeppler S, **Ross-Ibarra J**, McMullen M, Buckler ES, Zhang G, Xu Y, Ware, D (2012) Maize HapMap2 identifies extant variation from a genome in flux. **Nature Genetics** [44:803-807](http://www.nature.com/ng/journal/v44/n7/full/ng.2313.html) [[F1000](http://f1000.com/prime/717950694)] [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[pdf](http://www.panzea.org/pdf/Chia_etal_2012_NatGenet_44_803.pdf)] [[data](http://www.panzea.org/lit/data_sets.html#HapMapV2)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] CITES:2228837645322681220
 
@@ -99,15 +124,7 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
 
 ** Morrell PL, Buckler ES, **Ross-Ibarra J** (2012) Crop genomics: advances and applications. **Nature Reviews Genetics** [13:85-96](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fnrg%2Fjournal%2Fv13%2Fn2%2Ffull%2Fnrg3097.html&ei=m_t2Upj4EoOziwKQ44GoBg&usg=AFQjCNFOI1oE_6V4ALeyXs6OzWZJtYIMHw&sig2=bAOaspan3Eem6P-teBBeJbA&bvm=bv.55819444,d.cGE) [[cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html)] [[pdf](http://www.panzea.org/pdf/Morrell_etal_2012_NatureRevGenet_13_85.pdf)] [[Genome Web](https://www.genomeweb.com/sequencing/genomeweb-feature-plant-studies-genome-size-poses-unique-challenges)] CITES:12664715338521683012 
 
-### 2011
 
-** Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J (2011) Identification of a functional transposon insertion in the maize domestication gene **tb1**. **Nature Genetics** [43:1160-1163](http://www.nature.com/ng/journal/v43/n11/full/ng.942.html) [[F1000](http://f1000.com/prime/13357167)] [[pdf](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] CITES:11888569066379603503
-
-** **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. **PNAS** [108: 1088-1092](http://www.pnas.org/content/108/3/1088.long) [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] [[Interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a)] CITES:11944729109494726624
-
-** **Hufford MB**, Gepts P, **Ross-Ibarra J** (2011) Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (**Zea mays** ssp. **parviglumis**). **Molecular Ecology** [20: 46-55](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04924.x/abstract) [[pdf](pdfs/Hufford-et-al-2011.pdf)] CITES:13621041706202411296
-
-** Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** (2011) Genome size and TE content as determined by high-throughput sequencing in maize and **Zea luxurians**. **Genome Biology and Evolution** [3: 219-229](http://gbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=21296765) CITES:8095218463542481067
 
 ### 2010
 
