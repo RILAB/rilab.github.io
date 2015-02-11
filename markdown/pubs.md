@@ -18,15 +18,15 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 ### 2015
 
 * [The origin and evolution of maize in the American Southwest]()  
-Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P ...[10 authors]... Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
-*Nature Plants* Online ahead of print [[Nature Plants commentary](http://www.nature.com/articles/nplants20149)] [[Science news](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn)] [[UC Davis press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124)] [[Archaeology magazine](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)] [[The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)] [[SiNC (in Spanish)](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana)] [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] 
+Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
+*Nature Plants* Online ahead of print [[Nature Plants commentary](http://www.nature.com/articles/nplants20149)] [[Science news](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn)] [[Archaeology magazine](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)] [[The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)] [[SiNC (in Spanish)](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana)] [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] 
 
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science]()    
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**  
 *PNAS (Letter)*  112:1
 
 * [Mobile elements contribute to activation of genes in response to abiotic stress]((http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915))  
-Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM (2015).  
+Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM.  
 *PLoS Genetics* 11(1): e1004915 [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
 
 ### 2014
@@ -36,7 +36,8 @@ Tiffin P, **Ross-Ibarra J**
 *Trends in Ecology and Evolution* 29:673-680 [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist blog](http://t.co/I57EnpO5QN)]
 
 * [Diversity and evolution of centromere repeats in the maize genome.](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8)  
-**Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014)  *Chromosoma* 0009-5915 [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )]
+**Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**  
+*Chromosoma* 0009-5915 [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )]
 
 * [The pattern and distribution of deleterious mutations in maize.](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract)  
 **Mezmouk S**, **Ross-Ibarra J**  
@@ -47,22 +48,37 @@ Tiffin P, **Ross-Ibarra J**
 * [Comprehensive analysis of imprinted genes in maize reveals allelic variation for imprinting and limited conservation with other species.](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
 *PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494053027693693141 )] 
     
-** **Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) Complex patterns of local adaptation in teosinte. **Genome Biology and Evolution** [5:1594-1609](http://gbe.oxfordjournals.org/content/5/9/1594) [[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg)] [[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)] [[16 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4348910575877017766 )]
+* [Complex patterns of local adaptation in teosinte.](http://gbe.oxfordjournals.org/content/5/9/1594)  
+**Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
+*Genome Biology and Evolution* 5:1594-1609 [[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg)] [[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)] [[16 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4348910575877017766 )]
 		  
-** Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doebley JF (2013) From many, one: genetic control of prolificacy during maize domestication]. **PLoS Genetics** [9(6): e1003604](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604) [[data](http://figshare.com/articles/Wills_et_al_2013/775358)] [[preprint](http://arxiv.org/abs/1303.0882)] [[F1000](http://f1000.com/prime/718032804)] [[PLoS Plant Translational Research Collection](http://www.ploscollections.org/article/browse/issue/info:doi/10.1371/issue.pcol.v01.i25)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=6107325531042162678 )]
+* [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604)
+Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doebley JF.  
+*PLoS Genetics* [9(6): e1003604 [[data](http://figshare.com/articles/Wills_et_al_2013/775358)] [[preprint](http://arxiv.org/abs/1303.0882)] [[F1000](http://f1000.com/prime/718032804)] [[PLoS Plant Translational Research Collection](http://www.ploscollections.org/article/browse/issue/info:doi/10.1371/issue.pcol.v01.i25)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=6107325531042162678 )]
 
-** McCouch S, Baute GJ, Bradeen J, Bramel P, Bretting PK, Buckler E, Burke JM, Charest D, Cloutier S, Cole G, Dempewolf H, Dingkuhn M, Feuillet C, Gepts, P, Grattapaglia D, Guarino L, Jackson S, Knapp S, Langridge P, Lawton-Rauh A, Lijua Q, Lusty C, Michael T, Myles S, Naito K, Nelson RL, Pontarollo R, Richards CM, Rieseberg L, **Ross-Ibarra J**, Rounsley S, Hamilton RS, Schurr U, Stein N, Tomooka N, van der Knaap E, van Tassel D, Toll J, Valls J, Varshney RK, Ward J, Waugh R, Wenzl P, Zamir. (2013) Agriculture: Feeding the future (2013) **Nature** [499:23-24](http://www.nature.com/nature/journal/v499/n7456/full/499023a.html) [[pdf](pdfs/McCouch2013.pdf)] [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[43 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
+* [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)     
+McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
+**Nature** 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[43 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
 
 * [The genomic signature of crop-wild introgression in maize.](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
 *PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)] [[Haldane's Sieve blog](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb blog](http://pandasthumb.org/archives/2013/05/press-release-t.html)] [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561 )]
 	
-** **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) Population genetics and ethnobotany of cultivated **Diospyros riojae** Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico **Genetic Resources and Crop Evolution** [60:2171-2182](http://link.springer.com/article/10.1007/s10722-013-0015-z) [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526564212076251883 )]
+* Population genetics and ethnobotany of cultivated *Diospyros riojae* Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico  
+**Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J**  
+*Genetic Resources and Crop Evolution* [60:2171-2182](http://link.springer.com/article/10.1007/s10722-013-0015-z) [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526564212076251883 )]
 
-** Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. (2013) Patterns of centromere tandem repeat evolution in 282 animal and plant genomes. **Genome Biology** [14: R10](http://genomebiology.com/2013/14/1/R10)  [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve blog](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[27 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
+* [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes.](http://genomebiology.com/2013/14/1/R10)  
+Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L.  
+*Genome Biology* 14: R10  [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve blog](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[27 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
 
-** Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK (2013) Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in **Zea mays**. **Heredity** [110: 570-577](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html) [[preprint](http://arxiv.org/abs/1209.5466)] [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=9054275167516914311 )] 
+* [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*.](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html)  
+Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  
+*Heredity* 110: 570-577 [[preprint](http://arxiv.org/abs/1209.5466)] [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=9054275167516914311 )] 
 
+**2001-2012 pubs under construction, check back soon!**
+
+<!--
 ### 2012
 
 ** **Hufford MB**, **Bilinski P**, **Pyhäjärvi T**, **Ross-Ibarra J** (2012) Teosinte as a model system for population and ecological genomics. **Trends in Genetics** [12: 606-615](http://www.cell.com/trends/genetics/abstract/S0168-9525(12)00139-4) [[cover](http://www.cell.com/trends/genetics/issue?pii=S0168-9525(12)X0012-X)] [[5 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=17241763016461383750 )]
@@ -149,3 +165,4 @@ Tiffin P, **Ross-Ibarra J**
 ** **Ross-Ibarra J**, Molina-Cruz A (2002) The ethnobotany of Chaya (**Cnidoscolus aconitifolius** ssp. **aconitifolius** Breckon): A nutritious Maya vegetable. **Economic Botany** [56: 350-365](http://link.springer.com/article/10.1663/0013-0001%282002%29056%5B0350%3ATEOCCA%5D2.0.CO%3B2) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)] [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )]
 
 ** Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) Implications of mating patterns for conservation of the endangered plant **Eriogonum ovalifolium** var. **vineum** (Polygonaceae). **American Journal of Botany** [88: 1214-1222](http://www.amjbot.org/content/88/7/1214.abstract) [[25 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724877679765824056 )]
+-->
