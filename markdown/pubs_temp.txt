@@ -58,7 +58,7 @@ Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doe
 
 * [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)     
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
-**Nature** 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] CITES:4910849057817973933
+*Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] CITES:4910849057817973933
 
 * [The genomic signature of crop-wild introgression in maize.](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
