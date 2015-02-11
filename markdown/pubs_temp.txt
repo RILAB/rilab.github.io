@@ -25,11 +25,12 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM (
 
 ### 2014
 
-** Tiffin P, **Ross-Ibarra J** (2014) Advances and limits of using population genetics to understand local adaptation. **Trends in Ecology and Evolution** [29:673-680](http://www.sciencedirect.com/science/article/pii/S0169534714002237) [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist blog](http://t.co/I57EnpO5QN)]
+* Advances and limits of using population genetics to understand local adaptation.  
+Tiffin P, **Ross-Ibarra J** (2014) **Trends in Ecology and Evolution** [29:673-680](http://www.sciencedirect.com/science/article/pii/S0169534714002237) [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist blog](http://t.co/I57EnpO5QN)]
 
-** **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. **Chromosoma** [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)] CITES:4504435895012493115
+* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. **Chromosoma** [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)] CITES:4504435895012493115
 
-** **Mezmouk S**, **Ross-Ibarra J** (2014) The pattern and distribution of deleterious mutations in maize. **G3** [4:163-171](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
+* **Mezmouk S**, **Ross-Ibarra J** (2014) The pattern and distribution of deleterious mutations in maize. **G3** [4:163-171](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
 
 ### 2013
 
