@@ -3,38 +3,49 @@
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* `Independent molecular basis of convergent highland adaptation in maize`  
-**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.  [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
+* Independent molecular basis of convergent highland adaptation in maize   
+**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.   
+[[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
 
-* `Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)`  
-**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. [[preprint](https://peerj.com/preprints/685/)] [[github](https://github.com/lvann/tb1)] 
+* Natural variation in teosinte at the domestication locus teosinte branched1 (tb1).  
+**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
+[[preprint](https://peerj.com/preprints/685/)] [[github](https://github.com/lvann/tb1)] 
 
-* `The genomic impacts of drift and selection for hybrid performance in maize`  
-Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD. [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve blog](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )]
+* The genomic impacts of drift and selection for hybrid performance in maize  
+Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
+[[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve blog](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )]
 
 ### 2015
 
-* `The origin and evolution of maize in the American Southwest`  
-Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Carøe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT (2015). *Nature Plants* [Online ahead of print](http://www.nature.com/articles/nplants20143) [[Nature Plants commentary](http://www.nature.com/articles/nplants20149) [[Science news](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn)] [[UC Davis press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124)] [[Aracheology magazine](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)] [[The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)] [[SiNC (in Spanish)](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana)] [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] 
+* [The origin and evolution of maize in the American Southwest]()  
+Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P ...[10 authors]... Nielsen R, Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
+*Nature Plants* Online ahead of print [[Nature Plants commentary](http://www.nature.com/articles/nplants20149)] [[Science news](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn)] [[UC Davis press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124)] [[Archaeology magazine](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)] [[The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)] [[SiNC (in Spanish)](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana)] [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] 
 
-* `Reply to Brush **et al.**: Wake-up call for crop conservation science`  
-Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J** (2015) *PNAS (Letter)* [Online ahead of print](http://www.pnas.org/content/early/2014/12/25/1422645112.full.pdf+html?sid=21ede9ec-238c-4fb9-8234-bf75ba8e6c39)
+* [Reply to Brush *et al.*: Wake-up call for crop conservation science]()    
+Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**  
+*PNAS (Letter)*  112:1
 
-* `Mobile elements contribute to activation of genes in response to abiotic stress`  
-Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM (2015). *PLoS Genetics* [11(1): e1004915](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
+* [Mobile elements contribute to activation of genes in response to abiotic stress]((http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915))  
+Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM (2015).  
+*PLoS Genetics* 11(1): e1004915 [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]
 
 ### 2014
 
-* Advances and limits of using population genetics to understand local adaptation.  
-Tiffin P, **Ross-Ibarra J** (2014) **Trends in Ecology and Evolution** [29:673-680](http://www.sciencedirect.com/science/article/pii/S0169534714002237) [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist blog](http://t.co/I57EnpO5QN)]
+* [Advances and limits of using population genetics to understand local adaptation.](http://www.rilab.org/pdfs/tiffin2014.pdf)  
+Tiffin P, **Ross-Ibarra J**  
+*Trends in Ecology and Evolution* 29:673-680 [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist blog](http://t.co/I57EnpO5QN)]
 
-* **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014) Diversity and evolution of centromere repeats in the maize genome. **Chromosoma** [0009-5915](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )]
+* [Diversity and evolution of centromere repeats in the maize genome.](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8)  
+**Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** (2014)  *Chromosoma* 0009-5915 [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve blog](http://t.co/tzLQJCk8d5)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )]
 
-* **Mezmouk S**, **Ross-Ibarra J** (2014) The pattern and distribution of deleterious mutations in maize. **G3** [4:163-171](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
+* [The pattern and distribution of deleterious mutations in maize.](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract)  
+**Mezmouk S**, **Ross-Ibarra J**  
+*G3* 4:163-171 [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
 
 ### 2013
 
-** Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM (2013) Comprehensive analysis of imprinted genes in maize reveals allelic variation for imprinting and limited conservation with other species. **PNAS** [110:19639-19644](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf) [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494053027693693141 )] 
+* [Comprehensive analysis of imprinted genes in maize reveals allelic variation for imprinting and limited conservation with other species.](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
+*PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494053027693693141 )] 
     
 ** **Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** (2013) Complex patterns of local adaptation in teosinte. **Genome Biology and Evolution** [5:1594-1609](http://gbe.oxfordjournals.org/content/5/9/1594) [[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg)] [[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)] [[16 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4348910575877017766 )]
 		  
@@ -42,9 +53,11 @@ Tiffin P, **Ross-Ibarra J** (2014) **Trends in Ecology and Evolution** [29:673-6
 
 ** McCouch S, Baute GJ, Bradeen J, Bramel P, Bretting PK, Buckler E, Burke JM, Charest D, Cloutier S, Cole G, Dempewolf H, Dingkuhn M, Feuillet C, Gepts, P, Grattapaglia D, Guarino L, Jackson S, Knapp S, Langridge P, Lawton-Rauh A, Lijua Q, Lusty C, Michael T, Myles S, Naito K, Nelson RL, Pontarollo R, Richards CM, Rieseberg L, **Ross-Ibarra J**, Rounsley S, Hamilton RS, Schurr U, Stein N, Tomooka N, van der Knaap E, van Tassel D, Toll J, Valls J, Varshney RK, Ward J, Waugh R, Wenzl P, Zamir. (2013) Agriculture: Feeding the future (2013) **Nature** [499:23-24](http://www.nature.com/nature/journal/v499/n7456/full/499023a.html) [[pdf](pdfs/McCouch2013.pdf)] [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[43 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
 
-** **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J** (2013) The genomic signature of crop-wild introgression in maize. **PLoS Genetics** [9(5): e1003477](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)] [[Haldane's Sieve blog](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb blog](http://pandasthumb.org/archives/2013/05/press-release-t.html)] [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561 )]
+* [The genomic signature of crop-wild introgression in maize.](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
+**Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
+*PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)] [[Haldane's Sieve blog](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb blog](http://pandasthumb.org/archives/2013/05/press-release-t.html)] [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561 )]
 	
-** **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) Population genetics and ethnobotany of cultivated **Diospyros riojae** Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico (2013) **Genetic Resources and Crop Evolution** [60:2171-2182](http://link.springer.com/article/10.1007/s10722-013-0015-z) [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526564212076251883 )]
+** **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** (2013) Population genetics and ethnobotany of cultivated **Diospyros riojae** Gomez Pompa (Ebenaceae), an endangered fruit crop from Mexico **Genetic Resources and Crop Evolution** [60:2171-2182](http://link.springer.com/article/10.1007/s10722-013-0015-z) [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526564212076251883 )]
 
 ** Melters DP, Bradnam KR, Young HA, Telis N, May MR, Ruby JG, Sebra R, Peluso P, Eid J, Rank D, Fernando Garcia J, DeRisi J, Smith T, Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. (2013) Patterns of centromere tandem repeat evolution in 282 animal and plant genomes. **Genome Biology** [14: R10](http://genomebiology.com/2013/14/1/R10)  [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve blog](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[27 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
 
@@ -94,7 +107,7 @@ Tiffin P, **Ross-Ibarra J** (2014) **Trends in Ecology and Evolution** [29:673-6
 
 ** Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants]. **Molecular Biology and Evolution** [27: 409-416](http://mbe.oxfordjournals.org/content/27/2/409.abstract) [[19 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1965523728393558029 )]
 
-** **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) Genetic diversity in a crop metapopulation. **Heredity** [104: 28-39](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) [[19 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1965523728393558029 )]
+** **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) Genetic diversity in a crop metapopulation. **Heredity** [104: 28-39](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) [[21 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394221802384617228 )]
 
 ### 2009
 
