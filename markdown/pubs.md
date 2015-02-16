@@ -58,7 +58,7 @@ Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doe
 
 * [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)     
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
-*Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[43 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
+*Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[45 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
@@ -100,7 +100,7 @@ Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Mye
 
 * [Maize HapMap2 identifies extant variation from a genome in flux](http://www.panzea.org/pdf/Chia_etal_2012_NatGenet_44_803.pdf)  
 Chia J-M, Song C, Bradbury P, Costich D ...[29 authors]...    Buckler ES, Zhang G, Xu Y, Ware, D  
-*Nature Genetics* 44:803-807 [[F1000](http://f1000.com/prime/717950694)] [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[data](http://www.panzea.org/lit/data_sets.html#HapMapV2)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[133 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228837645322681220 )]
+*Nature Genetics* 44:803-807 [[F1000](http://f1000.com/prime/717950694)] [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[data](http://www.panzea.org/lit/data_sets.html#HapMapV2)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[134 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228837645322681220 )]
 
 * [Megabase-scale inversion polymorphism in the wild ancestor of maiz](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FFang_etal_2012_Genetics_191_883.pdf&ei=DJjbVLH_K4WvyATWzYGYDw&usg=AFQjCNF9EiOvVjfBHR_zMOUAR-dluD9ceg&sig2=qK0SH93q9CbM4_6sBkv4CQ)  
 Fang Z, **Pyhäjärvi T**, Weber AL, Dawe RK, Glaubitz JC, Sianchez Gonzalez J, **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J**
@@ -108,7 +108,7 @@ Fang Z, **Pyhäjärvi T**, Weber AL, Dawe RK, Glaubitz JC, Sianchez Gonzalez J, 
 
 * [Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels](http://www.panzea.org/pdf/Cook_etal_2012_PlantPhysiol_158_824.pdf)  
 Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA  
-*Plant Physiology* 158: 824-834 [[87 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097878024256170139 )]
+*Plant Physiology* 158: 824-834 [[88 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097878024256170139 )]
 
 * [Crop genomics: advances and applications](http://www.panzea.org/pdf/Morrell_etal_2012_NatureRevGenet_13_85.pdf)  
 Morrell PL, Buckler ES, **Ross-Ibarra J**  
@@ -133,13 +133,9 @@ Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J
 Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**  
 *Genome Biology and Evolution* 3: 219-229 [[55 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095218463542481067 )]
 
-### 2001-2012 pubs under construction, check back soon!
+### 2001-2010 pubs under construction, check back soon!
 
 <!--
-2012
-
-
-
 
 ### 2010
 
@@ -159,7 +155,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ### 2009
 
-** Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. **Science 326**: [1115-1117](http://www.sciencemag.org/content/326/5956/1115)  [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[341 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
+** Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. **Science 326**: [1115-1117](http://www.sciencemag.org/content/326/5956/1115)  [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[342 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
 
 ** **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. **PLoS ONE** [4: e8346](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE) [[Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Greg Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery News](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[California Native Plant Society](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NY Times](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube parody](http://www.youtube.com/watch?v=nPiiGvvd3lA)] [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703 )]
 
@@ -188,7 +184,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ** Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ (2006) Mitochondrial DNA and population size. **Science** (Letter) [314: 1388-90](http://www.sciencemag.org/content/314/5804/1388.full.pdf)	 [[pdf](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf)] [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7029521719248710591 )] 
 
-** **Ross-Ibarra J** (2005) Quantitative trait loci and the study of plant domestication. **Genetica** [123: 197-204](http://link.springer.com/chapter/10.1007%2F1-4020-3836-4_18)   [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)] [[24 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426372046771115962 )]
+** **Ross-Ibarra J** (2005) Quantitative trait loci and the study of plant domestication. **Genetica** [123: 197-204](http://link.springer.com/chapter/10.1007%2F1-4020-3836-4_18)   [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)] [[25 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426372046771115962 )]
 
 ** **Ross-Ibarra J** (2004) The evolution of recombination under domestication: a test of two hypotheses. **American Naturalist** [163: 105-112](http://www.jstor.org/discover/10.1086/380606?uid=3739560&uid=2129&uid=2131&uid=2&uid=70&uid=4&uid=3739256&sid=21102939627737) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf)] [[F1000](http://f1000.com/prime/1017803)] [[47 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3095269849835314095 )]
 

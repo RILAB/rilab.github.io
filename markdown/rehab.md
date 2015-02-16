@@ -22,7 +22,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. March 6, 2015
 
-TBA
+[Bergland et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004775)
 
 #### February 2015
 
