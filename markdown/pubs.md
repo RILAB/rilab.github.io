@@ -58,7 +58,7 @@ Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doe
 
 * [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)     
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
-*Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[45 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
+*Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[46 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
@@ -167,7 +167,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ** **Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS (2008) Patterns of polymorphism and demographic history in natural populations of **Arabidopsis lyrata**. **PLoS ONE** [3: e2411](http://dx.doi.org/10.1371%2Fjournal.pone.0002411) [[F1000](http://f1000.com/prime/1120459)] [[108 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12619209345184003027 )]
  
-** Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of **Arabidopsis lyrata**. **PNAS** [105: 13965-13970](http://www.pnas.org/content/105/37/13965.short) [[44 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151328051935459123 )]
+** Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of **Arabidopsis lyrata**. **PNAS** [105: 13965-13970](http://www.pnas.org/content/105/37/13965.short) [[45 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151328051935459123 )]
 
 ** **Ross-Ibarra J**, Gaut BS (2008) Multiple domestications do not appear monophyletic. **PNAS** (Letter) [105: E105](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14659039718259909589 )]
 
@@ -175,7 +175,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ### 2007  
 
-** **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. **PNAS** [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] [[163 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
+** **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. **PNAS** [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] [[164 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
 
 ** **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. **Journal of Evolutionary Biology** [20: 800-806](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) 
 [[pdf]](http://onlinelibrary.wiley.com/store/10.1111/j.1420-9101.2006.01275.x/asset/j.1420-9101.2006.01275.x.pdf?v=1&t=i4kzcidb&s=91f20d793109643c3d031ae4911be19e9f2d0d7e) [[17 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=684436662966421061 )] 
