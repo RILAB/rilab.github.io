@@ -18,7 +18,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. March 27, 2015
 
-[Agren et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/evo.12627/abstract;jsessionid=1E212DDEDBAC6D87C26FC8A5FA7F134F.f03t02)
+[Agren et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/evo.12627/abstract;jsessionid=1E212DDEDBAC6D87C26FC8A5FA7F134F.f03t02) No evidence that sex and transposable elements drive genome size variation in evening primroses
 
 ##### Fri. March 20, 2015
 
@@ -30,7 +30,7 @@ NO R.E.H.A.B. -- [MGC](http://www.maizegdb.org/maize_meeting/2015/) baby!
 
 ##### Fri. March 6, 2015
 
-[Bergland et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004775)
+[Bergland et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004775) Genomic Evidence of Rapid and Stable Adaptive Oscillations over Seasonal Time Scales in Drosophila
 
 #### February 2015
 
