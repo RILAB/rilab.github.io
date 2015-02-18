@@ -70,7 +70,7 @@ McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wen
 
 * [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10)  
 Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L.  
-*Genome Biology* 14: R10  [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[27 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
+*Genome Biology* 14: R10  [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
 
 * [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html)  
 Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  
@@ -123,7 +123,7 @@ Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J
 
 * [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://www.panzea.org/pdf/vanHeerwaarden_etal_2011_PNAS_108_1088.pdf)  
 **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
-*PNAS* 108: 1088-1092 [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] [[Interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a)] [[96 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624 )]
+*PNAS* 108: 1088-1092 [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] [[Interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a)] [[97 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624 )]
 
 * [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize](http://www.rilab.org/pdfs/hufford2011.pdf)  
 **Hufford MB**, Gepts P, **Ross-Ibarra J**  
@@ -159,7 +159,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ** **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. **PLoS ONE** [4: e8346](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE) [[Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Greg Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery News](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[California Native Plant Society](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NY Times](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube parody](http://www.youtube.com/watch?v=nPiiGvvd3lA)] [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703 )]
 
-** Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) Selection on grain shattering genes and rates of rice domestication]. **New Phytologist** [184: 708-720](http://www.ncbi.nlm.nih.gov/pubmed/19674325)	[[59 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
+** Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) Selection on grain shattering genes and rates of rice domestication]. **New Phytologist** [184: 708-720](http://www.ncbi.nlm.nih.gov/pubmed/19674325)	[[60 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
 
 ** **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea. **Genetics** [181: 1399-1413](http://www.genetics.org/content/181/4/1399.abstract) [[72 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731906589694221305 )]
 
