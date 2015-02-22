@@ -84,7 +84,7 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
 
 * [Comparative population genomics of maize domestication and improvement](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf)  
 **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
-*Nature Genetics* 44:808-811 [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[SciFri interview (Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[147 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254239507517002236 )]
+*Nature Genetics* 44:808-811 [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[SciFri interview (Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[148 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254239507517002236 )]
 
 * [Using nextgen sequencing to investigate genome size variation and transposable element content](http://www.rilab.org/pdf/Munoz_Diez_R1-1.pdf)  
 Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI  
@@ -133,35 +133,52 @@ Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J
 Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**  
 *Genome Biology and Evolution* 3: 219-229 [[55 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095218463542481067 )]
 
-### 2001-2010 pubs under construction, check back soon!
-
-<!--
-
 ### 2010
 
-** Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB (2010) Patterns of population structure and environmental associations to aridity across the range of loblolly pine (**Pinus taeda** L, Pinaceae). **Genetics** [185: 969-982](http://www.genetics.org/content/185/3/969.abstract) [[134 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8457237997922496538 )]
+* [Patterns of population structure and environmental associations to aridity across the range of loblolly pine (**Pinus taeda** L, Pinaceae)](http://www.genetics.org/content/185/3/969.abstract)  
+Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB  
+*Genetics* 185: 969-982 [[135 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8457237997922496538 )]
 
-** Fuchs EJ, **Ross-Ibarra J**, Barrantes G (2010) Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica]. **Journal of Tropical Ecology** [26: 351-354](http://journals.cambridge.org/action/displayFulltext?type=1&fid=7452428&jid=TRO&volumeId=26&issueId=03&aid=7452420) [[pdf](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf)] [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14583174141795727444 )]
+* [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf)  
+Fuchs EJ, **Ross-Ibarra J**, Barrantes G  
+*Journal of Tropical Ecology* 26: 351-354 [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14583174141795727444 )]
 
-** Whitney KD, Baack EJ, Hamrick JL, Godt, MJW, Barringer BC, Bennet MD, Eckert CG, Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J** (2010) A role for nonadaptive processes in plant genome size evolution? **Evolution** [64: 2097-2109](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.00967.x/abstract) [[pdf](http://www.rilab.org/pdfs/Whitney-et-al-2010-402.pdf)] [[36 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=17559374760333968488 )]
+* [A role for nonadaptive processes in plant genome size evolution?](http://www.rilab.org/pdfs/Whitney-et-al-2010-402.pdf)  
+Whitney KD, Baack EJ, Hamrick JL, Godt, MJW ...[3 authors]... Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J**  
+*Evolution* 64: 2097-2109 [[36 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=17559374760333968488 )]
 
-** **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE (2010) Fine scale genetic structure in the wild ancestor of maize (**Zea mays** ssp. **parviglumis**). **Molecular Ecology** [19: 1162-1173](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04559.x/full) [[pdf](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf)] [[17 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=9340353919503578071 )]
+* [Fine scale genetic structure in the wild ancestor of maize (**Zea mays** ssp. **parviglumis**)](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf)  
+**van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE  
+*Molecular Ecology* 19: 1162-1173 [[17 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=9340353919503578071 )]
 
-** Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK (2010) High frequency gene conversion in centromere cores. **PLoS Biology** [8: e1000327](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327) [[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)] [[49 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554747939087267209 )]
+* [High frequency gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327)  
+Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK  
+*PLoS Biology* 8: e1000327 [[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)] [[49 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554747939087267209 )]
 
-** Hollister JD, **Ross-Ibarra J**, Gaut BS (2010) Indel-associated mutation rate varies with mating system in flowering plants]. **Molecular Biology and Evolution** [27: 409-416](http://mbe.oxfordjournals.org/content/27/2/409.abstract) [[19 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1965523728393558029 )]
+* [Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract)  
+Hollister JD, **Ross-Ibarra J**, Gaut BS   
+*Molecular Biology and Evolution* 27: 409-416 [[19 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1965523728393558029 )]
 
-** **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J** (2010) Genetic diversity in a crop metapopulation. **Heredity** [104: 28-39](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) [[21 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394221802384617228 )]
+* [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html)  
+**van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   
+*Heredity* [104: 28-39] [[21 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394221802384617228 )]
+
+### 2001-2009 pubs under construction, check back soon!
+
 
 ### 2009
 
-** Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize. **Science 326**: [1115-1117](http://www.sciencemag.org/content/326/5956/1115)  [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[342 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
+* [A first-generation haplotype map of maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)  
+Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
+*Science 326*: 1115-1117 [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[342 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
 
-** **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. **PLoS ONE** [4: e8346](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE) [[Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Greg Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery News](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[California Native Plant Society](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NY Times](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube parody](http://www.youtube.com/watch?v=nPiiGvvd3lA)] [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703 )]
+<!--
 
-** Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) Selection on grain shattering genes and rates of rice domestication]. **New Phytologist** [184: 708-720](http://www.ncbi.nlm.nih.gov/pubmed/19674325)	[[60 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
+* **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. **PLoS ONE** [4: e8346](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE) [[Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Greg Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery News](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[California Native Plant Society](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NY Times](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube parody](http://www.youtube.com/watch?v=nPiiGvvd3lA)] [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703 )]
 
-** **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea. **Genetics** [181: 1399-1413](http://www.genetics.org/content/181/4/1399.abstract) [[72 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731906589694221305 )]
+* Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) Selection on grain shattering genes and rates of rice domestication]. **New Phytologist** [184: 708-720](http://www.ncbi.nlm.nih.gov/pubmed/19674325)	[[60 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
+
+* **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea. **Genetics** [181: 1399-1413](http://www.genetics.org/content/181/4/1399.abstract) [[72 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731906589694221305 )]
 
 ### 2008
 
@@ -184,7 +201,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ** Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ (2006) Mitochondrial DNA and population size. **Science** (Letter) [314: 1388-90](http://www.sciencemag.org/content/314/5804/1388.full.pdf)	 [[pdf](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf)] [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7029521719248710591 )] 
 
-** **Ross-Ibarra J** (2005) Quantitative trait loci and the study of plant domestication. **Genetica** [123: 197-204](http://link.springer.com/chapter/10.1007%2F1-4020-3836-4_18)   [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)] [[25 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426372046771115962 )]
+** **Ross-Ibarra J** (2005) Quantitative trait loci and the study of plant domestication. **Genetica** [123: 197-204](http://link.springer.com/chapter/10.1007%2F1-4020-3836-4_18)   [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)] [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426372046771115962 )]
 
 ** **Ross-Ibarra J** (2004) The evolution of recombination under domestication: a test of two hypotheses. **American Naturalist** [163: 105-112](http://www.jstor.org/discover/10.1086/380606?uid=3739560&uid=2129&uid=2131&uid=2&uid=70&uid=4&uid=3739256&sid=21102939627737) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf)] [[F1000](http://f1000.com/prime/1017803)] [[47 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3095269849835314095 )]
 
@@ -192,5 +209,5 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ** **Ross-Ibarra J**, Molina-Cruz A (2002) The ethnobotany of Chaya (**Cnidoscolus aconitifolius** ssp. **aconitifolius** Breckon): A nutritious Maya vegetable. **Economic Botany** [56: 350-365](http://link.springer.com/article/10.1663/0013-0001%282002%29056%5B0350%3ATEOCCA%5D2.0.CO%3B2) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)] [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )]
 
-** Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) Implications of mating patterns for conservation of the endangered plant **Eriogonum ovalifolium** var. **vineum** (Polygonaceae). **American Journal of Botany** [88: 1214-1222](http://www.amjbot.org/content/88/7/1214.abstract) [[25 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724877679765824056 )]
+** Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) Implications of mating patterns for conservation of the endangered plant **Eriogonum ovalifolium** var. **vineum** (Polygonaceae). **American Journal of Botany** [88: 1214-1222](http://www.amjbot.org/content/88/7/1214.abstract) [[24 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724877679765824056 )]
 -->
