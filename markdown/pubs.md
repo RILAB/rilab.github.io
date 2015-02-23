@@ -163,22 +163,27 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   
 *Heredity* [104: 28-39] [[21 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394221802384617228 )]
 
-### 2001-2009 pubs under construction, check back soon!
-
-
 ### 2009
 
 * [A first-generation haplotype map of maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
 *Science 326*: 1115-1117 [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[342 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
 
+* [A pleistocene clone of Palmer's Oak persisting in Southern California](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE)  
+**May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
+*PLoS ONE* 4: e8346 [[Yong](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[CNPS](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NYT](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube](http://www.youtube.com/watch?v=nPiiGvvd3lA)] [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703 )]
+
+* [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)     
+Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  
+*New Phytologist* 184: 708-720 [[60 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
+
+* [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract)  
+**Ross-Ibarra J**, Tenaillon M, Gaut BS  
+*Genetics* [181: 1399-1413] [[72 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731906589694221305 )]
+
+### 2001-2008 pubs under construction, check back soon!
+
 <!--
-
-* **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J** (2009) A pleistocene clone of Palmer's Oak persisting in Southern California. **PLoS ONE** [4: e8346](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE) [[Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Greg Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery News](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[California Native Plant Society](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NY Times](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube parody](http://www.youtube.com/watch?v=nPiiGvvd3lA)] [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703 )]
-
-* Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T (2009) Selection on grain shattering genes and rates of rice domestication]. **New Phytologist** [184: 708-720](http://www.ncbi.nlm.nih.gov/pubmed/19674325)	[[60 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
-
-* **Ross-Ibarra J**, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea. **Genetics** [181: 1399-1413](http://www.genetics.org/content/181/4/1399.abstract) [[72 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731906589694221305 )]
 
 ### 2008
 

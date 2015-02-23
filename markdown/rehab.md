@@ -36,7 +36,7 @@ NO R.E.H.A.B. -- [MGC](http://www.maizegdb.org/maize_meeting/2015/) baby!
 
 ##### Fri. Feb. 27, 2015
 
-TBA: (we're waitin', Hollister)
+[Brown and Levin 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437465/) Social dilemmas among supergenes: intragenomic sexual conflict and a selfing solution in Oenothera
 
 ##### Fri. Feb. 20, 2015
 
