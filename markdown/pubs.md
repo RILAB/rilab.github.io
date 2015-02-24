@@ -181,26 +181,38 @@ Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T
 **Ross-Ibarra J**, Tenaillon M, Gaut BS  
 *Genetics* [181: 1399-1413] [[72 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731906589694221305 )]
 
-### 2001-2008 pubs under construction, check back soon!
-
-<!--
-
 ### 2008
 
-** **Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS (2008) Patterns of polymorphism and demographic history in natural populations of **Arabidopsis lyrata**. **PLoS ONE** [3: e2411](http://dx.doi.org/10.1371%2Fjournal.pone.0002411) [[F1000](http://f1000.com/prime/1120459)] [[108 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12619209345184003027 )]
+* [Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*](http://dx.doi.org/10.1371%2Fjournal.pone.0002411)  
+**Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS  
+*PLoS ONE* 3: e2411 [[F1000](http://f1000.com/prime/1120459)] [[108 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12619209345184003027 )]
  
-** Lockton S, **Ross-Ibarra J**, Gaut BS (2008) Demography and weak selection drive patterns of transposable element diversity in natural populations of **Arabidopsis lyrata**. **PNAS** [105: 13965-13970](http://www.pnas.org/content/105/37/13965.short) [[45 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151328051935459123 )]
+* [Demography and weak selection drive patterns of TE diversity in natural populations of *A. lyrata*](http://www.pnas.org/content/105/37/13965.short)  
+Lockton S, **Ross-Ibarra J**, Gaut BS (2008) 
+*PNAS* 105: 13965-13970  [[45 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151328051935459123 )]
 
-** **Ross-Ibarra J**, Gaut BS (2008) Multiple domestications do not appear monophyletic. **PNAS** (Letter) [105: E105](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14659039718259909589 )]
+* [Multiple domestications do not appear monophyletic. 
+**Ross-Ibarra J**, Gaut BS  
+*PNAS* (Letter) [105: E105](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14659039718259909589 )]
 
-** Gaut BS, **Ross-Ibarra J** (2008) Selection on major components of angiosperm genomes. **Science** [320: 484-486](http://www.sciencemag.org/content/320/5875/484.short) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)] [[44 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10471445648121255184 )]
+* [Selection on major components of angiosperm genomes](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)  
+Gaut BS, **Ross-Ibarra J** 
+*Science* 320: 484-486 [[44 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10471445648121255184 )]
+
 
 ### 2007  
 
-** **Ross-Ibarra J**, Morrell PL, Gaut BS (2007) Plant domestication, a unique opportunity to identify the genetic basis of adaptation. **PNAS** [104 Suppl 1: 8641-8648](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[F1000](http://f1000.com/prime/1088796)] [[164 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
+* [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)  
+**Ross-Ibarra J**, Morrell PL, Gaut BS  
+*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[164 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
 
-** **Ross-Ibarra J** (2007) Genome size and recombination in angiosperms: a second look. **Journal of Evolutionary Biology** [20: 800-806](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) 
-[[pdf]](http://onlinelibrary.wiley.com/store/10.1111/j.1420-9101.2006.01275.x/asset/j.1420-9101.2006.01275.x.pdf?v=1&t=i4kzcidb&s=91f20d793109643c3d031ae4911be19e9f2d0d7e) [[17 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=684436662966421061 )] 
+* [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)  
+**Ross-Ibarra J**  
+*Journal of Evolutionary Biology* 20: 800-806 [[17 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=684436662966421061 )] 
+
+### 2001-2006 pubs under construction, check back soon!
+
+<!--
 
 ### 2001-2006
 
