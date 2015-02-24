@@ -35,7 +35,7 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM.
 Tiffin P, **Ross-Ibarra J**  
 *Trends in Ecology and Evolution* 29:673-680 [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist](http://t.co/I57EnpO5QN)]
 
-* [Diversity and evolution of centromere repeats in the maize genome](http://link.springer.com/article/10.1007%2Fs00412-014-0483-8)  
+* [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf)  
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**  
 *Chromosoma* 0009-5915 [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve](http://t.co/tzLQJCk8d5)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )]
 
@@ -70,7 +70,7 @@ McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wen
 
 * [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10)  
 Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L.  
-*Genome Biology* 14: R10  [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
+*Genome Biology* 14: R10 [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
 
 * [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html)  
 Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  
@@ -113,7 +113,6 @@ Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler
 * [Crop genomics: advances and applications](http://www.panzea.org/pdf/Morrell_etal_2012_NatureRevGenet_13_85.pdf)  
 Morrell PL, Buckler ES, **Ross-Ibarra J**  
 *Nature Reviews Genetics* 13:85-96 [[cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html)] [[Genome Web](https://www.genomeweb.com/sequencing/genomeweb-feature-plant-studies-genome-size-poses-unique-challenges)] [[131 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12664715338521683012 )] 
-
 
 ### 2011
 
