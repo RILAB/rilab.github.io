@@ -28,7 +28,7 @@ Jeff is an Associate Professor in the Dept. of Plant Sciences. He started at UC 
 <div style="float: left">
 <img src="http://www.rilab.org/images/beissinger.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Tim Beissinger** <a href="https://github.com/timbeissinger/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Tim Beissinger** </a><a href="http://timbeissinger.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a> <a href="http://timbeissinger.github.io/docs/tbeissingerCV_publish.pdf"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work at U. Wisconsin included selection scans in experimental evolution populations in maize, tests for epistatic selection, and methods to perform window-based genome scans.
 
