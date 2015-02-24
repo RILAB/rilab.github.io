@@ -23,11 +23,11 @@ open FILE, "<markdown/pubs_temp.txt";
 open PUBS, ">markdown/pubs.md"; 
 while(<FILE>){  
 	if( $_=~m/CITES/ ){
-		$_=~m/CITES:(\d+)/;
+		$_=~m/CITES:(\d+,*\d*)/;
 		my $tempid=$1; 
 		my $citecount=0;
 		foreach(keys(%cites)){ if( $_ ~~ $tempid){ $citecount=$cites{$tempid}; }}
-		$_=~s/CITES:\d+/[[$citecount citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
+		$_=~s/CITES:\d+,*\d*/[[$citecount citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 	}
 		
 		print PUBS $_;    
