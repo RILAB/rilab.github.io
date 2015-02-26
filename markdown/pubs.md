@@ -210,21 +210,29 @@ Gaut BS, **Ross-Ibarra J**
 **Ross-Ibarra J**  
 *Journal of Evolutionary Biology* 20: 800-806 [[17 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=684436662966421061 )] 
 
-### 2001-2006 pubs under construction, check back soon!
-
-<!--
 
 ### 2001-2006
 
-** Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ (2006) Mitochondrial DNA and population size. **Science** (Letter) [314: 1388-90](http://www.sciencemag.org/content/314/5804/1388.full.pdf)	 [[pdf](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf)] [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7029521719248710591 )] 
+* [Mitochondrial DNA and population size](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf)  
+Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ   
+*Science* (Letter) 314: 1388-90 [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7029521719248710591 )] 
 
-** **Ross-Ibarra J** (2005) Quantitative trait loci and the study of plant domestication. **Genetica** [123: 197-204](http://link.springer.com/chapter/10.1007%2F1-4020-3836-4_18)   [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)] [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426372046771115962 )]
+* [Quantitative trait loci and the study of plant domestication](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)  
+**Ross-Ibarra J** (2005)  
+*Genetica* 123: 197-204 [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426372046771115962 )]
 
-** **Ross-Ibarra J** (2004) The evolution of recombination under domestication: a test of two hypotheses. **American Naturalist** [163: 105-112](http://www.jstor.org/discover/10.1086/380606?uid=3739560&uid=2129&uid=2131&uid=2&uid=70&uid=4&uid=3739256&sid=21102939627737) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf)] [[F1000](http://f1000.com/prime/1017803)] [[47 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3095269849835314095 )]
+* [The evolution of recombination under domestication: a test of two hypotheses](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf)  
+**Ross-Ibarra J**  
+*American Naturalist* 163: 105-112 [[F1000](http://f1000.com/prime/1017803)] [[47 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3095269849835314095 )]
 
-** **Ross-Ibarra J** (2003) Origin and domestication of chaya (**Cnidoscolus aconitifolius** Mill I. M. Johnst): Mayan spinach. **Mexican Studies** [19: 287-302](http://www.jstor.org/discover/10.1525/msem.2003.19.2.287?uid=3739560&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21102939627737) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pd)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4811395532917369896 )]
+* [Origin and domestication of chaya (*Cnidoscolus aconitifolius* Mill I. M. Johnst): Mayan spinach](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf)  
+**Ross-Ibarra J**   
+*Mexican Studies* 19: 287-302 [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4811395532917369896 )]
 
-** **Ross-Ibarra J**, Molina-Cruz A (2002) The ethnobotany of Chaya (**Cnidoscolus aconitifolius** ssp. **aconitifolius** Breckon): A nutritious Maya vegetable. **Economic Botany** [56: 350-365](http://link.springer.com/article/10.1663/0013-0001%282002%29056%5B0350%3ATEOCCA%5D2.0.CO%3B2) [[pdf](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)] [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )]
+* [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)
+**Ross-Ibarra J**, Molina-Cruz A  
+*Economic Botany*  56: 350-365 [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )]
 
-** Neel MC, **Ross-Ibarra J**, Ellstrand NC (2001) Implications of mating patterns for conservation of the endangered plant **Eriogonum ovalifolium** var. **vineum** (Polygonaceae). **American Journal of Botany** [88: 1214-1222](http://www.amjbot.org/content/88/7/1214.abstract) [[24 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724877679765824056 )]
--->
+* [Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)  
+Neel MC, **Ross-Ibarra J**, Ellstrand NC  
+*American Journal of Botany* 88: 1214-1222 [[24 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724877679765824056 )]
