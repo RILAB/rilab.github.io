@@ -14,6 +14,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 
+#### April 2015
+
+##### Fri. April 3, 2015
+
+[Douglas et al. 2015](http://www.pnas.org/content/112/9/2806.abstract) Hybrid origins and the earliest stages of diploidization in the highly successful recent polyploid Capsella bursa-pastoris
+
 #### March 2015
 
 ##### Fri. March 27, 2015
