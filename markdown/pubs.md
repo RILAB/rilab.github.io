@@ -3,6 +3,12 @@
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+* Genetic, evolutionary and plant breeding insights from the domestication of maize.
+Hake S, **Ross-Ibarra J**. 
+
+* Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters.
+Sosso D, Luo D, Li Q-B, Schläpfer J ...(5 authors)...  Rogoswky PM, **Ross-Ibarra J**, Yang B, Frommer WB. 
+
 * Independent molecular basis of convergent highland adaptation in maize   
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.   
 [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
@@ -204,7 +210,7 @@ Gaut BS, **Ross-Ibarra J**
 
 * [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)  
 **Ross-Ibarra J**, Morrell PL, Gaut BS  
-*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[164 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
+*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[165 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
 
 * [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)  
 **Ross-Ibarra J**  
