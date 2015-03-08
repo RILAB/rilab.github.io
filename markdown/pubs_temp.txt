@@ -3,10 +3,10 @@
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* Genetic, evolutionary and plant breeding insights from the domestication of maize.
+* Genetic, evolutionary and plant breeding insights from the domestication of maize  
 Hake S, **Ross-Ibarra J**. 
 
-* Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters.
+* Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters  
 Sosso D, Luo D, Li Q-B, Schläpfer J ...(5 authors)...  Rogoswky PM, **Ross-Ibarra J**, Yang B, Frommer WB. 
 
 * Independent molecular basis of convergent highland adaptation in maize   
