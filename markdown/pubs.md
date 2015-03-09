@@ -39,7 +39,7 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM.
 
 * [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  
 Tiffin P, **Ross-Ibarra J**  
-*Trends in Ecology and Evolution* 29:673-680 [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist](http://t.co/I57EnpO5QN)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471984348452499818 )]
+*Trends in Ecology and Evolution* 29:673-680 [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist](http://t.co/I57EnpO5QN)] [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471984348452499818 )]
 
 * [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf)  
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**  
@@ -125,7 +125,7 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**
 
 * [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)  
 Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
-*Nature Genetics* 43:1160-1163 [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] [[102 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )]
+*Nature Genetics* 43:1160-1163 [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] [[103 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )]
 
 * [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://www.panzea.org/pdf/vanHeerwaarden_etal_2011_PNAS_108_1088.pdf)  
 **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
@@ -210,7 +210,7 @@ Gaut BS, **Ross-Ibarra J**
 
 * [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)  
 **Ross-Ibarra J**, Morrell PL, Gaut BS  
-*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[165 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
+*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[164 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
 
 * [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)  
 **Ross-Ibarra J**  
