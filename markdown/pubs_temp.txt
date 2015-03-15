@@ -49,7 +49,7 @@ Tiffin P, **Ross-Ibarra J**
 
 * [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract)  
 **Mezmouk S**, **Ross-Ibarra J**  
-*G3* 4:163-171 [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]
+*G3* 4:163-171 [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)] CITES:18217003468169681800
 
 ### 2013
 
