@@ -55,7 +55,7 @@ Tiffin P, **Ross-Ibarra J**
 
 * [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  
 * Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
-*PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] [[8 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494053027693693141 )] 
+*PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] [[10 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494053027693693141 )] 
     
 * [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
 **Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
@@ -67,7 +67,7 @@ Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doe
 
 * [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)     
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
-*Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[49 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
+*Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[50 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
@@ -93,7 +93,7 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
 
 * [Comparative population genomics of maize domestication and improvement](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf)  
 **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
-*Nature Genetics* 44:808-811 [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[SciFri interview (Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[151 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254239507517002236 )]
+*Nature Genetics* 44:808-811 [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[SciFri interview (Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[153 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254239507517002236 )]
 
 * [Using nextgen sequencing to investigate genome size variation and transposable element content](http://www.rilab.org/pdf/Munoz_Diez_R1-1.pdf)  
 Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI  
@@ -109,7 +109,7 @@ Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Mye
 
 * [Maize HapMap2 identifies extant variation from a genome in flux](http://www.panzea.org/pdf/Chia_etal_2012_NatGenet_44_803.pdf)  
 Chia J-M, Song C, Bradbury P, Costich D ...[29 authors]...    Buckler ES, Zhang G, Xu Y, Ware, D  
-*Nature Genetics* 44:803-807 [[F1000](http://f1000.com/prime/717950694)] [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[data](http://www.panzea.org/lit/data_sets.html#HapMapV2)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[136 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228837645322681220 )]
+*Nature Genetics* 44:803-807 [[F1000](http://f1000.com/prime/717950694)] [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[data](http://www.panzea.org/lit/data_sets.html#HapMapV2)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[137 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228837645322681220 )]
 
 * [Megabase-scale inversion polymorphism in the wild ancestor of maiz](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FFang_etal_2012_Genetics_191_883.pdf&ei=DJjbVLH_K4WvyATWzYGYDw&usg=AFQjCNF9EiOvVjfBHR_zMOUAR-dluD9ceg&sig2=qK0SH93q9CbM4_6sBkv4CQ)  
 Fang Z, **Pyhäjärvi T**, Weber AL, Dawe RK, Glaubitz JC, Sianchez Gonzalez J, **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J**
@@ -121,17 +121,17 @@ Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler
 
 * [Crop genomics: advances and applications](http://www.panzea.org/pdf/Morrell_etal_2012_NatureRevGenet_13_85.pdf)  
 Morrell PL, Buckler ES, **Ross-Ibarra J**  
-*Nature Reviews Genetics* 13:85-96 [[cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html)] [[Genome Web](https://www.genomeweb.com/sequencing/genomeweb-feature-plant-studies-genome-size-poses-unique-challenges)] [[132 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12664715338521683012 )] 
+*Nature Reviews Genetics* 13:85-96 [[cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html)] [[Genome Web](https://www.genomeweb.com/sequencing/genomeweb-feature-plant-studies-genome-size-poses-unique-challenges)] [[135 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12664715338521683012 )] 
 
 ### 2011
 
 * [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)  
 Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
-*Nature Genetics* 43:1160-1163 [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] [[103 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )]
+*Nature Genetics* 43:1160-1163 [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] [[104 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )]
 
 * [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://www.panzea.org/pdf/vanHeerwaarden_etal_2011_PNAS_108_1088.pdf)  
 **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
-*PNAS* 108: 1088-1092 [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] [[Interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a)] [[100 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624 )]
+*PNAS* 108: 1088-1092 [[data](http://figshare.com/articles/new_fileset/757735)] [[Frontiers commentary](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268606/)] [[AG Biodiversity](http://agro.biodiver.se/2011/01/maize-mystery-solved/)] [[Interview](http://www.rilab.org/attachments/attachments/vanHeerwaarden_2011.m4a)] [[101 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624 )]
 
 * [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize](http://www.rilab.org/pdfs/hufford2011.pdf)  
 **Hufford MB**, Gepts P, **Ross-Ibarra J**  
@@ -175,7 +175,7 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 
 * [A first-generation haplotype map of maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.panzea.org%2Fpdf%2FGore_etal_2009_Science_326_1115.pdf&ei=BOJ7UomXItDVigKizIDwAg&usg=AFQjCNHVC8lf_3LcpuNOtcDA0quPW2j0KQ&sig2=UR4Z5U6KmZvDR7USVxLwfQ&bvm=bv.56146854,d.cGE)  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
-*Science 326*: 1115-1117 [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[347 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
+*Science 326*: 1115-1117 [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[348 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
 
 * [A pleistocene clone of Palmer's Oak persisting in Southern California](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE)  
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
@@ -212,7 +212,7 @@ Gaut BS, **Ross-Ibarra J**
 
 * [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)  
 **Ross-Ibarra J**, Morrell PL, Gaut BS  
-*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[164 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
+*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[165 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
 
 * [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)  
 **Ross-Ibarra J**  
@@ -239,7 +239,7 @@ Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ
 
 * [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)  
 **Ross-Ibarra J**, Molina-Cruz A  
-*Economic Botany*  56: 350-365 [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )]
+*Economic Botany*  56: 350-365 [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )]
 
 * [Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)  
 Neel MC, **Ross-Ibarra J**, Ellstrand NC  
