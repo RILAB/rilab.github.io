@@ -4,7 +4,7 @@
 Paul Bilinski is awarded a  UC Davis Dissertation Year Fellowship.  Congrats Paul!
 
 ### Mar. 9
-Paul Bilinski scores an internship with Monsanto!  The new [maize diversity website](www.panzea.org) is live!
+The new [maize diversity website](www.panzea.org) is live!
 
 ### Jan. 28
 Paul Bilinski is chosen to present his work on repeat evolution at the [SMBE Satellite meeting](http://smbeba2015.imag.fr) in Montepllier. Both SMBE and the Dept. of Plant Sciences have agreed to fund his trip!
