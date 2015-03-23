@@ -16,15 +16,27 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### April 2015
 
-##### Fri. April 3, 2015
+##### Fri. April 24, 2015
+
+[Agren et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/evo.12627/abstract;jsessionid=1E212DDEDBAC6D87C26FC8A5FA7F134F.f03t02) No evidence that sex and transposable elements drive genome size variation in evening primroses
+
+##### Fri. April 17, 2015
 
 [Douglas et al. 2015](http://www.pnas.org/content/112/9/2806.abstract) Hybrid origins and the earliest stages of diploidization in the highly successful recent polyploid Capsella bursa-pastoris
+
+##### Fri. April 10, 2015
+
+No R.E.H.A.B. Come to the [UCDavis Plant Breeding Symposium](http://plantbreeding2015.ucdavis.edu/) instead.
+
+##### Fri. April 3, 2015
+
+Romero et al. SeeDs manuscript (email Jeff for the URL).
 
 #### March 2015
 
 ##### Fri. March 27, 2015
 
-[Agren et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/evo.12627/abstract;jsessionid=1E212DDEDBAC6D87C26FC8A5FA7F134F.f03t02) No evidence that sex and transposable elements drive genome size variation in evening primroses
+Cesar Chavez Day; university closed. No R.E.H.A.B.
 
 ##### Fri. March 20, 2015
 
