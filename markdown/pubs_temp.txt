@@ -21,9 +21,9 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 
 ### 2015
 
-* Genetic, evolutionary and plant breeding insights from the domestication of maize  
+* [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)  
 Hake S, **Ross-Ibarra J**. 
-*eLife* *In Press*
+*eLife* 2015;4:e05861
 
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf)  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
