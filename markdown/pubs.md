@@ -11,15 +11,17 @@ Sosso D, Luo D, Li Q-B, Schläpfer J ...(5 authors)...  Rogoswky PM, **Ross-Iba
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.   
 [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
 
-* Natural variation in teosinte at the domestication locus teosinte branched1 (tb1).  
-**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
-[[preprint](https://peerj.com/preprints/685/)] [[github](https://github.com/lvann/tb1)] 
 
 * The genomic impacts of drift and selection for hybrid performance in maize  
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
 [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] [[4 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )]
 
 ### 2015
+
+* Natural variation in teosinte at the domestication locus teosinte branched1 (tb1).  
+**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
+PeerJ *In Press*
+<!-- [[preprint](https://peerj.com/preprints/685/)] [[github](https://github.com/lvann/tb1)] -->
 
 * [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)  
 Hake S, **Ross-Ibarra J**.   
@@ -93,7 +95,7 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
 
 * [Comparative population genomics of maize domestication and improvement](http://www.panzea.org/pdf/Hufford_etal_2012_NatGenet_44_808.pdf)  
 **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
-*Nature Genetics* 44:808-811 [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[SciFri interview (Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[156 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254239507517002236 )]
+*Nature Genetics* 44:808-811 [[nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html)] [[SciFri interview (Spanish)](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24)] [[data](http://figshare.com/articles/new_fileset/757736)] [[cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html)] [[157 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254239507517002236 )]
 
 * [Using nextgen sequencing to investigate genome size variation and transposable element content](http://www.rilab.org/pdf/Munoz_Diez_R1-1.pdf)  
 Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI  
@@ -117,11 +119,11 @@ Fang Z, **Pyhäjärvi T**, Weber AL, Dawe RK, Glaubitz JC, Sianchez Gonzalez J, 
 
 * [Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels](http://www.panzea.org/pdf/Cook_etal_2012_PlantPhysiol_158_824.pdf)  
 Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA  
-*Plant Physiology* 158: 824-834 [[91 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097878024256170139 )]
+*Plant Physiology* 158: 824-834 [[92 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097878024256170139 )]
 
 * [Crop genomics: advances and applications](http://www.panzea.org/pdf/Morrell_etal_2012_NatureRevGenet_13_85.pdf)  
 Morrell PL, Buckler ES, **Ross-Ibarra J**  
-*Nature Reviews Genetics* 13:85-96 [[cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html)] [[Genome Web](https://www.genomeweb.com/sequencing/genomeweb-feature-plant-studies-genome-size-poses-unique-challenges)] [[136 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12664715338521683012 )] 
+*Nature Reviews Genetics* 13:85-96 [[cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html)] [[Genome Web](https://www.genomeweb.com/sequencing/genomeweb-feature-plant-studies-genome-size-poses-unique-challenges)] [[137 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12664715338521683012 )] 
 
 ### 2011
 
@@ -183,7 +185,7 @@ Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J
 
 * [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)     
 Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  
-*New Phytologist* 184: 708-720 [[61 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
+*New Phytologist* 184: 708-720 [[60 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )]
 
 * [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract)  
 **Ross-Ibarra J**, Tenaillon M, Gaut BS  
