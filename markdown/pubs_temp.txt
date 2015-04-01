@@ -63,7 +63,7 @@ Tiffin P, **Ross-Ibarra J**
 * [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  
 Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
 *PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] CITES:16494053027693693141 
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1073/pnas.1309182110" data-hide-no-mentions="true" class="altmetric-embed"></div>  
     
 * [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
 **Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
@@ -83,22 +83,22 @@ McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wen
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
 *PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)] [[Haldane's Sieve](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb](http://pandasthumb.org/archives/2013/05/press-release-t.html)] CITES:16496318242013452561
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 	
 * [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  
 **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J**  
 *Genetic Resources and Crop Evolution* 60:2171-2182 [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] CITES:15526564212076251883
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1007/s10722-013-0015-z" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10)  
 Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L.  
 *Genome Biology* 14: R10 [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] CITES:4643344870051815303
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1186/gb-2013-14-1-r10" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html)  
 Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  
 *Heredity* 110: 570-577 [[preprint](http://arxiv.org/abs/1209.5466)] CITES:9054275167516914311 
-<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/hdy.2013.2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 ### 2012
 
