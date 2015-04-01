@@ -22,8 +22,8 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 
 * Natural variation in teosinte at the domestication locus teosinte branched1 (tb1).  
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
-PeerJ *In Press*
-<!-- [[preprint](https://peerj.com/preprints/685/)] [[github](https://github.com/lvann/tb1)] -->
+PeerJ *In Press* [[preprint](https://peerj.com/preprints/685/)]  
+<!--  [[github](https://github.com/lvann/tb1)] -->
 
 * [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)  
 Hake S, **Ross-Ibarra J**.   
@@ -36,7 +36,7 @@ Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrec
 
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf)    
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**  
-*PNAS (Letter)*  112:1 <div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1073/pnas.1422645112" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+*PNAS (Letter)*  112:1 <div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Mobile elements contribute to activation of genes in response to abiotic stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)  
 Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM.  
@@ -46,49 +46,59 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM.
 
 * [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  
 Tiffin P, **Ross-Ibarra J**  
-*Trends in Ecology and Evolution* 29:673-680 [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist](http://t.co/I57EnpO5QN)] [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471984348452499818 )]
+*Trends in Ecology and Evolution* 29:673-680 [[preprint](https://peerj.com/preprints/488/)] [[Molecular Ecologist](http://t.co/I57EnpO5QN)] [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471984348452499818 )]  <div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1016/j.tree.2014.10.004" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf)  
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**  
 *Chromosoma* 0009-5915 [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)] [[Haldane's Sieve](http://t.co/tzLQJCk8d5)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract)  
 **Mezmouk S**, **Ross-Ibarra J**  
 *G3* 4:163-171 [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217003468169681800 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1534/g3.113.008870" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 ### 2013
 
 * [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  
 Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
 *PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] [[F1000](http://f1000.com/prime/718173166)] [[9 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494053027693693141 )] 
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
     
 * [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
 **Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
 *Genome Biology and Evolution* 5:1594-1609 [[cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg)] [[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)] [[16 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4348910575877017766 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 		  
 * [From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604)  
 Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doebley JF.  
 *PLoS Genetics* [9(6): e1003604 [[data](http://figshare.com/articles/Wills_et_al_2013/775358)] [[preprint](http://arxiv.org/abs/1303.0882)] [[F1000](http://f1000.com/prime/718032804)] [[PLoS Plant Translational Research Collection](http://www.ploscollections.org/article/browse/issue/info:doi/10.1371/issue.pcol.v01.i25)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=6107325531042162678 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)     
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
 *Nature* 499:23-24 [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] [[51 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
 *PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)] [[Haldane's Sieve](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb](http://pandasthumb.org/archives/2013/05/press-release-t.html)] [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 	
 * [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  
 **Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J**  
 *Genetic Resources and Crop Evolution* 60:2171-2182 [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526564212076251883 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10)  
 Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L.  
 *Genome Biology* 14: R10 [[preprint](http://arxiv.org/abs/1209.4967)] [[Haldane's Sieve](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/)] [[F1000](http://f1000.com/prime/717979865)] [[30 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4643344870051815303 )]
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html)  
 Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  
 *Heredity* 110: 570-577 [[preprint](http://arxiv.org/abs/1209.5466)] [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=9054275167516914311 )] 
+<div data-badge-popover="right" data-badge-type="medium-bar" data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 ### 2012
 
