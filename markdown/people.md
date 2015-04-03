@@ -92,7 +92,7 @@ Michelle is a 2nd year student in [Population Biology](http://www-eve.ucdavis.ed
 
 <br><br><br>
 <div style="float: left">
-<img src="http://www.rilab.org/images/velasco.jpeg" style="border:10px solid white"; width=100px>
+<img src="http://www.rilab.org/images/dvelasco.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
