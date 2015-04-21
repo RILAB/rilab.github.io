@@ -19,7 +19,7 @@ while(<CITES>){
 }
 close CITES;
 
-open FILE, "<markdown/pubs_temp.txt"; 
+open FILE, "<markdown/pubs_temp.md"; 
 open PUBS, ">markdown/pubs.md"; 
 while(<FILE>){  
 	if( $_=~m/CITES/ ){
