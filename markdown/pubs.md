@@ -151,7 +151,7 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**
 
 * [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf)  
 Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
-*Nature Genetics* 43:1160-1163 <!-- [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] --> [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[111 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/ng.942" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*Nature Genetics* 43:1160-1163 <!-- [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] --> [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[112 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/ng.942" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf)  
 **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
@@ -222,7 +222,7 @@ Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T
  
 * [Demography and weak selection drive patterns of TE diversity in natural populations of *A. lyrata*](http://www.pnas.org/content/105/37/13965.short)  
 Lockton S, **Ross-Ibarra J**, Gaut BS (2008) 
-*PNAS* 105: 13965-13970  [[46 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151328051935459123 )]
+*PNAS* 105: 13965-13970  [[47 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15151328051935459123 )]
 
 * [Multiple domestications do not appear monophyletic. 
 **Ross-Ibarra J**, Gaut BS  
@@ -237,7 +237,7 @@ Gaut BS, **Ross-Ibarra J**
 
 * [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)  
 **Ross-Ibarra J**, Morrell PL, Gaut BS  
-*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[166 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
+*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] [[167 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] 
 
 * [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)  
 **Ross-Ibarra J**  

@@ -40,7 +40,7 @@ Tim joined the lab in June 2014 to work on the interaction of demography and sel
 
 Kate joined the lab in November 2014 to apply population genetic methods to identify evidence for selection during modern maize breeding. Her PhD work at Dalhousie U. focused on evolution in wild oat populations.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="https://avatars3.githubusercontent.com/u/8698345?v=3&s=400" style="border:10px solid white"; width=100px>
 </div>
@@ -48,7 +48,7 @@ Kate joined the lab in November 2014 to apply population genetic methods to iden
 
 Simon joined the lab in October 2014. He is working on structural variation and transposable element variation in landraces and teosinte.
 
-<br><br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/tsukahara.JPG" style="border:10px solid white"; width=100px>
 </div>
