@@ -48,7 +48,7 @@ Kate joined the lab in November 2014 to apply population genetic methods to iden
 
 Simon joined the lab in October 2014. He is working on structural variation and transposable element variation in landraces and teosinte.
 
-<br><br><br>
+<br><br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/tsukahara.JPG" style="border:10px solid white"; width=100px>
 </div>
