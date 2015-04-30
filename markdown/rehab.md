@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### May 2015
 
+##### Fri. May 8, 2015
+
+[Mathieson and McVean 2013](http://www.ncbi.nlm.nih.gov/pubmed/23307902) Estimating selection coefficients in spatially structured populations from time series data of allele frequencies
+
 ##### Fri. May 1, 2015
 
 [Fishman and Kelly 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12661/abstract;jsessionid=0A4565C367B1ED7DA47A6F1989FF4009.f02t02) Centromere–associated meiotic drive and female fitness variation in Mimulus
