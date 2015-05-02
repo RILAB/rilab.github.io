@@ -86,7 +86,7 @@ McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wen
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
-*PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]  [[33 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561 )]
+*PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]  [[34 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561 )]
 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 <!-- [[Haldane's Sieve](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb](http://pandasthumb.org/archives/2013/05/press-release-t.html)] -->
 	
@@ -200,7 +200,7 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 
 * [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
-*Science 326*: 1115-1117 [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[356 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
+*Science 326*: 1115-1117 [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] [[358 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )]
 
 * [A pleistocene clone of Palmer's Oak persisting in Southern California](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE)  
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  

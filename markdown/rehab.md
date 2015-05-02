@@ -18,11 +18,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. May 15, 2015
 
-[Sheng et al. 2015](http://biorxiv.org/content/early/2015/04/29/018721) Standing genetic variation as a major contributor to adaptation in the Virginia chicken lines selection experiment
+[Mathieson and McVean 2013](http://www.ncbi.nlm.nih.gov/pubmed/23307902) Estimating selection coefficients in spatially structured populations from time series data of allele frequencies
 
 ##### Fri. May 8, 2015
 
-[Mathieson and McVean 2013](http://www.ncbi.nlm.nih.gov/pubmed/23307902) Estimating selection coefficients in spatially structured populations from time series data of allele frequencies
+[Sheng et al. 2015](http://biorxiv.org/content/early/2015/04/29/018721) Standing genetic variation as a major contributor to adaptation in the Virginia chicken lines selection experiment
 
 ##### Fri. May 1, 2015
 
