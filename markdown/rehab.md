@@ -28,7 +28,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Fishman and Kelly 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12661/abstract;jsessionid=0A4565C367B1ED7DA47A6F1989FF4009.f02t02) Centromere–associated meiotic drive and female fitness variation in Mimulus
 
-[blog post](www.rilab.org/blogs/01052015.html)
+[blog post](blogs/01052015.html)
 
 #### April 2015
 
