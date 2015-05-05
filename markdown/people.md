@@ -128,7 +128,7 @@ When not using his mad internet search skills for the powers of good, Sid is wor
 
 Nivaz is working on identifying recessive lethal mutations in a mu trasnposon insertion line.
 
-<br><br><br>
+<br><br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/durvasula.jpeg" style="border:10px solid white"; width=100px>
 </div>
