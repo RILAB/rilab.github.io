@@ -224,9 +224,9 @@ Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T
 Lockton S, **Ross-Ibarra J**, Gaut BS (2008) 
 *PNAS* 105: 13965-13970  CITES:15151328051935459123
 
-* [Multiple domestications do not appear monophyletic. 
+* [Multiple domestications do not appear monophyletic.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/)   
 **Ross-Ibarra J**, Gaut BS  
-*PNAS* (Letter) [105: E105](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) CITES:14659039718259909589
+*PNAS* (Letter) 105: E105 CITES:14659039718259909589
 
 * [Selection on major components of angiosperm genomes](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)  
 Gaut BS, **Ross-Ibarra J** 
