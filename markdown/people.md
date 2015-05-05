@@ -165,6 +165,7 @@ Tyler is currently working to test for gene flow between wild and cultivated ric
 * [Eric Fuchs](https://sites.google.com/site/ejfuchs/)
 * [Peter Morrell](http://faculty.agronomy.cfans.umn.edu/pmorrell/)
 * [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics)
+* [Ginnie Morrison](http://www.panzea.org/#!ginnie-morrison/c1lov)
 
 ### Fellow of the R-I Lab: for >500 hours of scholastic fellowship
 
