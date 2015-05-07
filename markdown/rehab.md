@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### May 2015
 
+##### Fri. May 22, 2015
+
+[Monnahan and Kelly 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005201) Epistasis Is a Major Determinant of the Additive Genetic Variance in Mimulus guttatus
+
 ##### Fri. May 15, 2015
 
 [Mathieson and McVean 2013](http://www.ncbi.nlm.nih.gov/pubmed/23307902) Estimating selection coefficients in spatially structured populations from time series data of allele frequencies

@@ -151,7 +151,7 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**
 
 * [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf)  
 Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
-*Nature Genetics* 43:1160-1163 <!-- [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] --> [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[114 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/ng.942" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*Nature Genetics* 43:1160-1163 <!-- [[F1000](http://f1000.com/prime/13357167)] [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[UW press release](http://www.news.wisc.edu/19804)] --> [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)] [[115 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/ng.942" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf)  
 **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
