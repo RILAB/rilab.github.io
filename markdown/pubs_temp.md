@@ -170,49 +170,56 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 * [Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda*)](http://www.genetics.org/content/185/3/969.abstract)  
 Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB  
-*Genetics* 185: 969-982 CITES:8457237997922496538
+*Genetics* 185: 969-982 CITES:8457237997922496538 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1534/genetics.110.115543" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 * [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf)  
 Fuchs EJ, **Ross-Ibarra J**, Barrantes G  
-*Journal of Tropical Ecology* 26: 351-354 CITES:14583174141795727444
+*Journal of Tropical Ecology* 26: 351-354 CITES:14583174141795727444 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1017/S0266467410000064" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 * [A role for nonadaptive processes in plant genome size evolution?](http://www.rilab.org/pdfs/Whitney-et-al-2010-402.pdf)  
 Whitney KD, Baack EJ, Hamrick JL, Godt, MJW ...[3 authors]... Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J**  
-*Evolution* 64: 2097-2109 CITES:17559374760333968488
+*Evolution* 64: 2097-2109 CITES:17559374760333968488 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1111/j.1558-5646.2010.00967.x" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 * [Fine scale genetic structure in the wild ancestor of maize (**Zea mays** ssp. **parviglumis**)](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf)  
 **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE  
-*Molecular Ecology* 19: 1162-1173 CITES:9340353919503578071
+*Molecular Ecology* 19: 1162-1173 CITES:9340353919503578071 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1111/j.1365-294X.2010.04559.x" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [High frequency gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327)  
+
+* [Widespread gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327)  
 Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK  
-*PLoS Biology* 8: e1000327 [[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)] CITES:15554747939087267209
+*PLoS Biology* 8: e1000327 [[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)] CITES:15554747939087267209 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1371/journal.pbio.1000327" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 * [Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract)  
 Hollister JD, **Ross-Ibarra J**, Gaut BS   
-*Molecular Biology and Evolution* 27: 409-416 CITES:1965523728393558029
+*Molecular Biology and Evolution* 27: 409-416 CITES:1965523728393558029 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1093/molbev/msp249" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 * [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html)  
 **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   
-*Heredity* [104: 28-39] CITES:15394221802384617228
+*Heredity* [104: 28-39] CITES:15394221802384617228 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/hdy.2009.110" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 ### 2009
 
 * [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
-*Science 326*: 1115-1117 [[nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html)] [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] CITES:1250430020833640405
+*Science 326*: 1115-1117 [[cover](http://www.sciencemag.org/content/326/5956.cover-expansion)] CITES:1250430020833640405 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [A pleistocene clone of Palmer's Oak persisting in Southern California](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE)  
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
-*PLoS ONE* 4: e8346 [[Yong](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[CNPS](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NYT](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube](http://www.youtube.com/watch?v=nPiiGvvd3lA)] CITES:15690173176823572703
+*PLoS ONE* 4: e8346 [[Yong](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/)] [[Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/)] [[Discovery](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm)] [[CNPS](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf)] [[NYT](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&ved=0CCkQFjAAOBQ&url=http%3A%2F%2Fwww.nytimes.com%2F2010%2F01%2F05%2Fscience%2F05clone.html&ei=IvCoUu2fEoTsoASV6oKwDw&usg=AFQjCNHJ_euCUOw9MZ62ZBIwOZ4fecHSVg&sig2=ZPvVyfWEzNYPBaUsr76JKA&bvm=bv.57799294,d.cGU)] [[LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23)] [[wikipedia](http://en.wikipedia.org/wiki/List_of_oldest_trees)] [[YouTube](http://www.youtube.com/watch?v=nPiiGvvd3lA)] CITES:15690173176823572703 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)     
 Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  
-*New Phytologist* 184: 708-720 CITES:853064656161512620
+*New Phytologist* 184: 708-720 CITES:853064656161512620 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1111/j.1469-8137.2009.02984.x" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract)  
 **Ross-Ibarra J**, Tenaillon M, Gaut BS  
-*Genetics* [181: 1399-1413] CITES:12731906589694221305
+*Genetics* [181: 1399-1413] CITES:12731906589694221305 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="0.1534/genetics.108.097238" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ### 2008
 
