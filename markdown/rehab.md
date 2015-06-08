@@ -14,6 +14,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 
+#### June 2015
+
+##### Fri. June 19 2015
+
+[Mafessoni and Lachman 2015](http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf) 
+Selective strolls: fixation and extinction in diploids are slower for weakly selected mutations than for neutral ones
+
+##### Fri. June 12 2015
+
+[Asaf et al. 2015](http://m.pnas.org/content/112/20/E2658.abstract) Obstruction of adaptation in diploids by recessive, strongly deleterious alleles
+
+
 #### May 2015
 
 ##### Fri. May 22, 2015
