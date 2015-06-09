@@ -9,9 +9,6 @@
 * Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters  
 Sosso D, Luo D, Li Q-B, Schläpfer J ...(5 authors)...  Rogoswky PM, **Ross-Ibarra J**, Yang B, Frommer WB. 
 
-* Independent molecular basis of convergent highland adaptation in maize   
-**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.   
-[[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
 
 
 * The genomic impacts of drift and selection for hybrid performance in maize  
@@ -19,6 +16,10 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] [[6 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )]
 
 ### 2015
+
+* Independent molecular basis of convergent highland adaptation in maize   
+**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.   
+Genetics *In Press* [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
 
 * [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/)  
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  

@@ -1,5 +1,8 @@
 ## News
 
+### June 9
+After a bit less than a year in the lab, [Tim Beissinger](http://timbeissinger.github.io) accepts a job as a research scientist at USDA at the University of Missourri. This is [Mike McMullen's](http://www.ars.usda.gov/pandp/people/people.htm?personid=3766) position, so some big shoes to fill.  Congrats Tim!
+
 ### Mar. 17
 Paul Bilinski is awarded a  UC Davis Dissertation Year Fellowship.  Congrats Paul!
 
