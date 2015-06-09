@@ -11,4 +11,4 @@
 <a href="research.html#trees">
 <img src="http://www.rilab.org/images/trees.jpg" style="width: 100px;"></a>
 
-####[Home](index.html) || [Publications](pubs.html) || [Research](research.html) || [People](people.html) || [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html)
+####[Home](index.html) || [People](people.html) ||  [Research](research.html) || [Publications](pubs.html) ||  [Lab Docs](https://github.com/RILAB/lab-docs) || [R.E.H.A.B.](rehab.html) || [News](news.html) || [Press](press.html)
