@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### June 2015
 
+##### Fri. June 26 2015
+
+[Asaf et al. 2015](http://m.pnas.org/content/112/20/E2658.abstract) Obstruction of adaptation in diploids by recessive, strongly deleterious alleles
+
 ##### Fri. June 19 2015
 
 [Mafessoni and Lachman 2015](http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf) 
@@ -23,8 +27,7 @@ Selective strolls: fixation and extinction in diploids are slower for weakly sel
 
 ##### Fri. June 12 2015
 
-[Asaf et al. 2015](http://m.pnas.org/content/112/20/E2658.abstract) Obstruction of adaptation in diploids by recessive, strongly deleterious alleles
-
+[Pease and Hahn 2015](http://sysbio.oxfordjournals.org/content/early/2015/04/17/sysbio.syv023.long) Detection and Polarization of Introgression in a Five-taxon Phylogeny
 
 ##### Fri. June 5 2015
 
