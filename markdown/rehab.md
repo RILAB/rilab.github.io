@@ -26,7 +26,16 @@ Selective strolls: fixation and extinction in diploids are slower for weakly sel
 [Asaf et al. 2015](http://m.pnas.org/content/112/20/E2658.abstract) Obstruction of adaptation in diploids by recessive, strongly deleterious alleles
 
 
+##### Fri. June 5 2015
+
+[Wilkes 1977](http://www.jstor.org/stable/4253844?seq=1#page_scan_tab_contents) Hybridization of Maize and Teosinte, in Mexico and Guatemala and the Improvement of Maize
+
 #### May 2015
+
+##### Fri. May 29, 2015
+
+[Van der Graf 2015](http://www.pnas.org/content/112/21/6676.abstract) Rate, spectrum, and evolutionary dynamics of spontaneous epimutations.
+
 
 ##### Fri. May 22, 2015
 
