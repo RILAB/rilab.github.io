@@ -15,7 +15,9 @@
 ### October 2014
 
 * Jeff is quoted in [The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41194/title/360-Degree-View-of-the-Tomato/) discusing recent tomato resquencing work 
-* Our recent review on [advances and limitations to using popgen to study local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf) mentioned in a blog post at the [Molecular Ecologist](http://www.molecularecologist.com/2014/10/how-many-markers-does-it-take-to-make-a-dataset-genomic/)
+* Our recent review on [advances and limitations to using popgen to study local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf) mentioned in a blog post at the [Molecular Ecologist](http://www.molecularecologist.com/2014/10/how-many-markers-does-it-take-to-make-a-dataset-genomic/)  
+* Jeff's mild annoyance with the continued debate about one or two rice origins is noted in a quote in [Nature](http://www.nature.com/nature/journal/v514/n7524_supp/full/514S58a.html). Why won't anyone argue for seventeen origins?
+
 
 ### June 2013
 
