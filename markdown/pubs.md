@@ -196,7 +196,7 @@ Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK
 
 * [Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract)  
 Hollister JD, **Ross-Ibarra J**, Gaut BS   
-*Molecular Biology and Evolution* 27: 409-416 [[0 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1965523728393558029 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1093/molbev/msp249" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*Molecular Biology and Evolution* 27: 409-416 [[20 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16490180574048863991 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1093/molbev/msp249" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
 * [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html)  
