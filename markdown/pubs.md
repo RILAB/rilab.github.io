@@ -17,9 +17,9 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 
 ### 2015
 
-* Independent molecular basis of convergent highland adaptation in maize   
+* [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/early/2015/06/15/genetics.115.178327.full.pdf)   
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.   
-Genetics *In Press* [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)]
+Genetics *In Press* [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] -->
 
 * [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/)  
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
@@ -32,7 +32,7 @@ Hake S, **Ross-Ibarra J**.
 
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf)  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
-*Nature Plants* 1  [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14394472478509816248 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/NPLANTS.2014.3" data-hide-no-mentions="true" class="altmetric-embed"></div>    
+*Nature Plants* 1  [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14394472478509816248 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/NPLANTS.2014.3" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 <!-- [[NP commentary](http://www.nature.com/articles/nplants20149)] [[Science news](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn)] [[Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)] [[The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)] [[SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana)] -->
 
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf)    
@@ -81,7 +81,7 @@ Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doe
 
 * [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)     
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
-*Nature* 499:23-24  [[64 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
+*Nature* 499:23-24  [[65 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )]
 <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1038/499023a" data-hide-no-mentions="true" class="altmetric-embed"></div>      
 <!-- [[UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/)] -->
 
@@ -128,7 +128,7 @@ Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI
 
 * [Reshaping of the maize transcriptome by domestication](http://www.rilab.org/pdfs/swansonwagner2012.pdf)  
 Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM     
-*PNAS* 109: 11878-11883 [[28 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=935006617287790715 )]  <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1073/pnas.1201961109" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+*PNAS* 109: 11878-11883 [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=935006617287790715 )]  <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1073/pnas.1201961109" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Maize HapMap2 identifies extant variation from a genome in flux](http://media.wix.com/ugd/fe9228_86a609db506740ce96c549567c246b4c.pdf)  
 Chia J-M, Song C, Bradbury P, Costich D ...[29 authors]...    Buckler ES, Zhang G, Xu Y, Ware, D  
@@ -171,7 +171,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 * [Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda*)](http://www.genetics.org/content/185/3/969.abstract)  
 Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB  
-*Genetics* 185: 969-982 [[153 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8457237997922496538 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1534/genetics.110.115543" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*Genetics* 185: 969-982 [[154 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8457237997922496538 )] <div style="display: inline"  data-badge-popover="right" data-badge-type="medium-bar" data-doi="10.1534/genetics.110.115543" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
 * [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf)  
