@@ -6,10 +6,11 @@
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 
+* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico.  
+Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**
+
 * Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters  
 Sosso D, Luo D, Li Q-B, Schläpfer J ...(5 authors)...  Rogoswky PM, **Ross-Ibarra J**, Yang B, Frommer WB. 
-
-
 
 * The genomic impacts of drift and selection for hybrid performance in maize  
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
