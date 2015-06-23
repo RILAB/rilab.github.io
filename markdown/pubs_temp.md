@@ -10,10 +10,6 @@
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
 
 * Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters  
-
-Davide Sosso1, Dangping Luo2, Qin-Bao Li3, Joelle Sasse1, Jinliang Yang6, Ghislaine Gendrot4, Masaharu Suzuki5, Karen E. Koch5, Donald R. McCarty5, Prem S. Chourey3,5, Peter M. Rogowsky4, Jeffrey Ross-Ibarra 6, Bing Yang2  and Wolf B. Frommer1*
-
-
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB. 
 
 * The genomic impacts of drift and selection for hybrid performance in maize  

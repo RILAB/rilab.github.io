@@ -1,6 +1,6 @@
 ### January 2015
 
-* Our paper on [origins and evolution of ancient maize in the Southwest US](http://www.rilab.org/pdfs/fonseca2015.pdf) got a fair amoutn of press: 
+* Our paper on [origins and evolution of ancient maize in the Southwest US](http://www.rilab.org/pdfs/fonseca2015.pdf) got a fair amount of press: 
 	* [UC Davis Press Release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124)  
 	* [Science World Report](http://www.scienceworldreport.com/articles/21122/20150112/origins-maize-dna-tests-reveal-two-paths.htm)  
 	* [Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)  
