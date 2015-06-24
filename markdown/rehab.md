@@ -14,6 +14,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 
+#### July 2015
+
+##### Fri. July 10 2015
+
+[Monnahan et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12698/abstract) A genomic selection component analysis characterizes migration-selection balance
+
+##### Fri. July 3 2015
+
+[Mazet et al. 2015](http://arxiv.org/abs/1412.1243) Demographic inference using genetic data from a single individual: separating population size variation from population structure
+
 #### June 2015
 
 ##### Fri. June 26 2015
