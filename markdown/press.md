@@ -23,6 +23,9 @@
 
 * Our paper on the domesticaiton locus [grassy tillers](http://journals.plos.org/ploscollections/article?id=10.1371/journal.pgen.1003604) is highlighted in the [PLoS Plant Trasnslational Research collection](http://www.ploscollections.org/article/browse/issue/info:doi/10.1371/issue.pcol.v01.i25).
 
+### July 2012
+
+* [DuPont press release](http://www2.dupont.com/media/en-us/news-events/july/dupont-recognizes-young-professors.html) mentioning Jeff's DuPont Young Professor award. 
 
 ### June 2012
 

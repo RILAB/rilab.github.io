@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### July 2015
 
+##### Fri. July 17 2015
+
+[Oakley et al 2015](http://www.nature.com/hdy/journal/v115/n1/full/hdy201518a.html) Heterosis and outbreeding depression in crosses between natural populations of Arabidopsis thaliana
+
 ##### Fri. July 10 2015
 
 [Monnahan et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12698/abstract) A genomic selection component analysis characterizes migration-selection balance
