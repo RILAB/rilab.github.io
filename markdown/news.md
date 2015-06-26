@@ -1,5 +1,9 @@
 ## News
 
+### June 26
+
+Two grants funded today!  Funding from [UCMEXUS](http://ucmexus.ucr.edu) to work with [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165) on characterizing an adaptive inversion introgression from teosinte into maize. And funding from the [UC-Mexico Initiative](http://ucmexicoinitiative.ucr.edu) (yup, they are different things!) to work on characterizing changes in genetic diversity and climate adaptation in maize over time using [CIMMYT SeeD](http://www.cimmyt.org/en/where-we-work/global-activities/seeds-of-discovery) data.
+
 ### June 9
 After a bit less than a year in the lab, [Tim Beissinger](http://timbeissinger.github.io) accepts a job as a research scientist at USDA at the University of Missourri. This is [Mike McMullen's](http://www.ars.usda.gov/pandp/people/people.htm?personid=3766) position, so some big shoes to fill.  Congrats Tim!
 

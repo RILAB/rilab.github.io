@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### July 2015
 
+##### Fri. July 24 2015
+
+[Mazet et al. 2015](http://arxiv.org/abs/1412.1243) Demographic inference using genetic data from a single individual: separating population size variation from population structure
+
 ##### Fri. July 17 2015
 
 [Oakley et al 2015](http://www.nature.com/hdy/journal/v115/n1/full/hdy201518a.html) Heterosis and outbreeding depression in crosses between natural populations of Arabidopsis thaliana
@@ -26,7 +30,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. July 3 2015
 
-[Mazet et al. 2015](http://arxiv.org/abs/1412.1243) Demographic inference using genetic data from a single individual: separating population size variation from population structure
+[Fierst et al. 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005323) Reproductive Mode and the Evolution of Genome Size and Structure in Caenorhabditis Nematodes
+
 
 #### June 2015
 
