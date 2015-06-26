@@ -6,8 +6,9 @@
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 
-* [A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico](https://peerj.com/preprints/1192/)    
+* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
+[[preprint]](https://peerj.com/preprints/1192/)    
 
 * Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB. 
