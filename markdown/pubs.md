@@ -26,8 +26,6 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, and **Ross-Ibarra J**.   
 Genetics *In Press* [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> [[0 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=0 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-10.1534/genetics.115.178327
-
 * [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/)  
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
 PeerJ 3:e900 [[preprint](https://peerj.com/preprints/685/)] [[0 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=0 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>
