@@ -253,7 +253,7 @@ Gaut BS, **Ross-Ibarra J**
 
 * [Mitochondrial DNA and population size](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf)  
 Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ   
-*Science* (Letter) 314: 1388-90 CITES:7029521719248710591 <div style="display: inline"  data-badge-popover="right"  data-doi="XXX" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*Science* (Letter) 314: 1388-90 CITES:7029521719248710591 <div style="display: inline"  data-badge-popover="right"  data-pmid="17144000" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [Quantitative trait loci and the study of plant domestication](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)  
 **Ross-Ibarra J** (2005)  
