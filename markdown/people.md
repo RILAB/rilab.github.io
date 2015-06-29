@@ -26,14 +26,6 @@ Jeff is an Associate Professor and Section Chair in the [Deptarment of Plant Sci
 ### Postdoctoral Scholars
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/beissinger.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Tim Beissinger** </a><a href="http://timbeissinger.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a> <a href="http://timbeissinger.github.io/docs/tbeissingerCV_publish.pdf"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/timbeissinger"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
-
-Tim joined the lab in June 2014 to work on the interaction of demography and selection in the teosinte genome.  His PhD work at U. Wisconsin included selection scans in experimental evolution populations in maize, tests for epistatic selection, and methods to perform window-based genome scans.
-
-<br><br>
-<div style="float: left">
 <img src="http://www.rilab.org/images/crosby.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Kate Crosby** <a href="http://www.rilab.org/attachments/crosby_cv.pdf"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=yAtU5dgAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
@@ -47,14 +39,6 @@ Kate joined the lab in November 2014 to apply population genetic methods to iden
 **Simon Renny-Byfield** <a href="https://twitter.com/SimonByfield"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=uZTFIaAAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Simon joined the lab in October 2014. He is working on structural variation and transposable element variation in landraces and teosinte.
-
-<br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/tsukahara.JPG" style="border:10px solid white"; width=100px>
-</div>
-**Sayuri Tsukahara**
-
-Sayuri joined the lab in April 2013 to study mutants of kinetochore proteins in maize.  Previously, her PhD work focused on retrotransposition and centromere targeting in methylation mutants of Arabdopsis.
 
 <br><br><br>
 <div style="float: left">
@@ -120,45 +104,32 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 
 When not using his mad internet search skills for the powers of good, Sid is working on crop-wild introgression in rice and centromere drive in maize.
 
-<br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/nivaz2.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Nivaz Brar** <a href="https://twitter.com/Nivaz1"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
-
-Nivaz is working on identifying recessive lethal mutations in a mu trasnposon insertion line.
-
-<br><br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/durvasula.jpeg" style="border:10px solid white"; width=100px>
-</div>
-**Arun Durvasula** <a href="https://twitter.com/arundurvasula"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/arundurvasula"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
-
-Arun is working on simulation approaches to reassessing the maize domestication bottleneck, and [tweaking libsequence](https://github.com/arundurvasula/libsequencevcf-1.7.6) in his spare time.
-
-<br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/kent.jpeg" style="border:10px solid white"; width=100px>
-</div>
-**Tyler Kent** <a href="https://twitter.com/tylervkent"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/tvkent"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
-
-Tyler is currently working to test for gene flow between wild and cultivated rice. His use of emojis even when there are none available has the rest of the lab worried about the future of science.
-
 <br><br><br><br>
 
 ### Lab Alums
 
-[Vince Buffalo](http://www.vincebuffalo.com) <a href="https://twitter.com/vsbuffalo"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Computational Biologist 2013-2014
+Sayuri Tsukahara: Postdoc 2013-2015
 
-[Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34) Postdoc 2012-2014
+[Tim Beissinger](http://timbeissinger.github.io): Postdoc 2014-2015 (Research Geneticist, USDA-ARS U. Missouri)
 
-[Shohei Takuno](https://sites.google.com/site/shoheitakuno/) <a href="https://twitter.com/ShoheiTakuno"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2012-2013
+[Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2014-2015 (Postbac Researcher, Vienna Biocenter)
 
-[Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) <a href="https://twitter.com/mbhufford"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2013
+Nivaz Brar: Undergraduate 2014-2015
 
-[Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392) <a href="https://twitter.com/PyhaTanja"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a> Postdoc 2010-2012
+[Tyler Kent](https://github.com/tvkent): Undergraduate 2013-2015 (PhD Student, U. Toronto)
 
-[Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm) Postdoc 2009-2011
+[Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student UC Davis)
+
+[Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist KWM)
+
+[Shohei Takuno](https://sites.google.com/site/shoheitakuno/): Postdoc 2012-2013 (Asst. Professor, SOKENDAI)
+
+[Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html): Postdoc 2010-2013 (Asst. Professor, Iowa State)
+
+[Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392): Postdoc 2010-2012 (Sr. Researchg Fellow, U. Oulu)
+
+[Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm): Postdoc 2009-2011
+
 
 ### Visiting Scholar: for >100 hours of scholastic visitation
 
@@ -169,7 +140,7 @@ Tyler is currently working to test for gene flow between wild and cultivated ric
 
 ### Fellow of the R-I Lab: for >500 hours of scholastic fellowship
 
-* Peter Tiffin
+* [Peter Tiffin](http://www.cbs.umn.edu/lab/tiffin)
 
 ### Current Collaborators
 
@@ -194,6 +165,9 @@ Tyler is currently working to test for gene flow between wild and cultivated ric
 * [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
 * [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
 * [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165)
+
+**Linked selection in maize**
+* [Tim Beissinger](http://timbeissinger.github.io)
 
 **Genetic assimilation in teosinte**
 
