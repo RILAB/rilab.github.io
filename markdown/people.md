@@ -166,7 +166,8 @@ Nivaz Brar: Undergraduate 2014-2015
 * [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
 * [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165)
 
-**Linked selection in maize**
+**Linked selection in maize**  
+
 * [Tim Beissinger](http://timbeissinger.github.io)
 
 **Genetic assimilation in teosinte**

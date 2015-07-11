@@ -7,11 +7,11 @@
 
 
 * A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico
-Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
+Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 [[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>
    
 
-* Seed filling in domesticated maize and depends on cellular import by SWEET4 hexose transporters  
+* Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport 
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
 CITES:0 
 
