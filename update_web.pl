@@ -24,6 +24,7 @@ while(<FILE>){
 	if( $_=~m/CITES/ ){
 		$_=~m/CITES:(\S+)/;
 		my $tempid=$1; 
+		print "$tempid\n";
 		my $citecount=0;
 		foreach(keys(%cites)){ $citecount=$cites{$tempid}; print "$_\t$citecount\n";}
 		
