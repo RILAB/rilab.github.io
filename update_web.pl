@@ -12,7 +12,7 @@ open CITES, "<tempcites.txt";
 my %cites=();
 while(<CITES>){
 	chomp;
-	$_=~m/(\S+)/;
+	$_=~m/(\S+)\s(\d+)/;	
 	my $id=$1; my $cites=$2;
 	$cites{$id}=$cites;
 }
@@ -24,14 +24,12 @@ while(<FILE>){
 	if( $_=~m/CITES/ ){
 		$_=~m/CITES:(\S+)/;
 		my $tempid=$1; 
-		print "$tempid\n";
 		my $citecount=0;
-		foreach(keys(%cites)){ $citecount=$cites{$tempid}; print "$_\t$citecount\n";}
+		foreach(keys(%cites)){ $citecount=$cites{$tempid}; }
 		
 		$_=~s/CITES:\S+/[[$citecount citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 	}
-		
-		print PUBS $_;    
+	print PUBS $_;    
 }
 close PUBS;
 close FILE;
