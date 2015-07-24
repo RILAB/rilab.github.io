@@ -24,9 +24,11 @@ while(<FILE>){
 	if( $_=~m/CITES/ ){
 		$_=~m/CITES:(\S+)/;
 		my $tempid=$1; 
-		my $citecount=0;
-		foreach(keys(%cites)){ next if $_ eq "NA"; $citecount=$cites{$tempid}; }
-			
+		next if $tempid eq "0";
+		my $citecount=$cites{$tempid}; 
+		unless($tempid && $citecount){
+		$_=~s/CITES:\S+/[[0 citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
+		}
 		$_=~s/CITES:\S+/[[$citecount citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 	}
 	print PUBS $_;    
