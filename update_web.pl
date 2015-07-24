@@ -25,7 +25,7 @@ while(<FILE>){
 		$_=~m/CITES:(\S+)/;
 		my $tempid=$1; 
 		my $citecount=0;
-		foreach(keys(%cites)){ $citecount=$cites{$tempid}; }
+		foreach(keys(%cites)){ $citecount=$cites{$tempid}; print "$_\t$citecount\n";}
 		
 		$_=~s/CITES:\S+/[[$citecount citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 	}
