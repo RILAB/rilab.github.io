@@ -12,10 +12,9 @@ open CITES, "<tempcites.txt";
 my %cites=();
 while(<CITES>){
 	chomp;
-	$_=~m/(\d+,*\d*)\s(\d+)/;
+	$_=~m/(\S+)/;
 	my $id=$1; my $cites=$2;
-	my @ids=split(/,/,$id);
-	$cites{$_}=$cites foreach @ids;
+	$cites{$id}=$cites;
 }
 close CITES;
 
@@ -23,7 +22,7 @@ open FILE, "<markdown/pubs_temp.md";
 open PUBS, ">markdown/pubs.md"; 
 while(<FILE>){  
 	if( $_=~m/CITES/ ){
-		$_=~m/CITES:(\d+,*\d*)/;
+		$_=~m/CITES:(\S+)/;
 		my $tempid=$1; 
 		my $citecount=0;
 		foreach(keys(%cites)){ if( $_ ~~ $tempid){ $citecount=$cites{$tempid}; }}
