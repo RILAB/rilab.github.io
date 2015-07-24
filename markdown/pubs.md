@@ -86,7 +86,7 @@ McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wen
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
-*PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]  [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561,12331869776672049655,5236304695133591580 )],5236304695133591580 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>    
+*PLoS Genetics* 9(5): e1003477 [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]  [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561,12331869776672049655,5236304695133591580 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 <!-- [[Haldane's Sieve](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/)] [[Panda's Thumb](http://pandasthumb.org/archives/2013/05/press-release-t.html)] -->
 	
 * [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  
