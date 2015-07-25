@@ -14,7 +14,23 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 
+
+
 #### July 2015
+
+##### Fri. July 31 2015
+
+**Myriad Mutation Models: Three papers on heterozygote impacts on mutation**
+
+[Yang et al. 2015](http://www.nature.com/nature/journal/v523/n7561/full/nature14649.html) Parent–progeny sequencing indicates higher mutation rates in heterozygotes
+
+[Hollister et al. 2010](http://mbe.oxfordjournals.org/content/27/2/409.abstract) Indel-Associated Mutation Rate Varies with Mating System in Flowering Plants
+
+[Tian et al. 2008](http://www.nature.com/nature/journal/v455/n7209/abs/nature07175.html) Single-nucleotide mutation rate increases close to insertions/deletions in eukaryotes
+
+
+
+ 
 
 ##### Fri. July 24 2015
 
