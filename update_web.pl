@@ -24,10 +24,12 @@ while(<FILE>){
 	if( $_=~m/CITES/ ){
 		$_=~m/CITES:(\S+)/;
 		my $tempid=$1; 
-		next if $tempid eq "0";
-		my $citecount=$cites{$tempid}; 
+		if($tempid eq "0"){ 
+			 $_=~s/CITES:0/[[0 citations](http:\/\/scholar.google.com\/s    cholar?oi=bibs&hl=en&cites=$tempid )]/;
+		}
+		my $citecount=$cites{$tempid};
 		unless($tempid && $citecount){
-		$_=~s/CITES:\S+/[[0 citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
+			$_=~s/CITES:0/[[0 citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 		}
 		$_=~s/CITES:\S+/[[$citecount citations](http:\/\/scholar.google.com\/scholar?oi=bibs&hl=en&cites=$tempid )]/;
 	}
