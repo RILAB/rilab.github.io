@@ -14,7 +14,23 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 
+#### August 2015
 
+##### Fri. Aug. 28 2015
+
+[Weis et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12677/abstract) Hard and soft selection on phenology through seasonal shifts in the general and social environments: A study on plant emergence time
+
+##### Fri. Aug. 21 2015
+
+[Snir et al. 2015](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131422) The Origin of Cultivation and Proto-Weeds, Long Before Neolithic Farming
+
+##### Fri. Aug. 14 2015
+
+[Dubin et al. 2015](http://elifesciences.org/content/4/e05255) DNA methylation in Arabidopsis has a genetic basis and shows evidence of local adaptation
+
+##### Fri. Aug. 7 2015
+
+[Castellano et al. 2015](http://biorxiv.org/content/early/2015/06/27/021600) Adaptive evolution is substantially impeded by Hill-Robertson interference in Drosophila
 
 #### July 2015
 
