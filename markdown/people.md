@@ -23,8 +23,27 @@ Jeff is an Associate Professor and Section Chair in the [Deptarment of Plant Sci
 
 <br><br><br>
 
+### Lab Manager
+
+<div style="float: left">
+<img src="http://www.rilab.org/images/lorant.png" style="border:10px solid white"; width=100px>
+</div>
+**Anne Lorant**
+
+Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
+
+<br><br><br>
+
 ### Postdoctoral Scholars
 
+<div style="float: left">
+<img src="http://www.rilab.org/images/avila.png" style="border:10px solid white"; width=100px>
+</div>
+**Luis Avila** <a href="http://www.rilab.org/attachments/crosby_cv.pdf"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=yAtU5dgAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+
+Kate joined the lab in November 2014 to apply population genetic methods to identify evidence for selection during modern maize breeding. Her PhD work at Dalhousie U. focused on evolution in wild oat populations.
+
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/crosby.jpg" style="border:10px solid white"; width=100px>
 </div>
@@ -84,29 +103,8 @@ Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci
  
 <br><br><br>
 
-### Staff
 
-<div style="float: left">
-<img src="http://www.rilab.org/images/lorant.png" style="border:10px solid white"; width=100px>
-</div>
-**Anne Lorant**
-
-Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
-
-<br><br><br>
-
-### Undergraduate Students
-
-<div style="float: left">
-<img src="http://www.rilab.org/images/bhadralobo.jpeg" style="border:10px solid white"; width=100px>
-</div>
-**Sid Bhadra-Lobo** <a href="https://twitter.com/SidBL"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/sidbhadra-lobo"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
-
-When not using his mad internet search skills for the powers of good, Sid is working on crop-wild introgression in rice and centromere drive in maize.
-
-<br><br><br><br>
-
-### Lab Alums
+### Lab Alumni
 
 Sayuri Tsukahara: Postdoc 2013-2015
 
