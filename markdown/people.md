@@ -30,7 +30,7 @@ Jeff is an Associate Professor and Section Chair in the [Deptarment of Plant Sci
 </div>
 **Anne Lorant**
 
-Anne has worked as a technician/lab manager since November of 2012, running our lab and greenhouse experiments.
+Anne has worked as a lab manager since November of 2012, and is in charge of overseeing lab and greenhouse experiments. 
 
 <br><br><br>
 
