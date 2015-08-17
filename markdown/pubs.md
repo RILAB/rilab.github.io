@@ -166,7 +166,7 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 * [Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda*)](http://www.genetics.org/content/185/3/969.abstract)  
 Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB  
-*Genetics* 185: 969-982 [[158 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8457237997922496538,3590125064334610687 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.110.115543" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*Genetics* 185: 969-982 [[157 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8457237997922496538,3590125064334610687 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.110.115543" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
 * [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf)  

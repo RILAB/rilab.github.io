@@ -36,12 +36,13 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 
 ### Postdoctoral Scholars
 
-<div style="float: left">
-<img src="http://www.rilab.org/images/avila.png" style="border:10px solid white"; width=100px>
+<div style="float: left">  
+</a><img src="http://www.rilab.org/images/avila.png" style="border:10px solid white"; width=100px>
 </div>
-**Luis Avila** <a href="http://www.rilab.org/attachments/crosby_cv.pdf"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=yAtU5dgAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Luis Avila** 
+<a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://avilasistemas.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a>
 
-Kate joined the lab in November 2014 to apply population genetic methods to identify evidence for selection during modern maize breeding. Her PhD work at Dalhousie U. focused on evolution in wild oat populations.
+Luis joined the lab in September 2015. He is working on reocmbination rate variation in maize landraces and teosinte. 
 
 <br><br><br>
 <div style="float: left">
