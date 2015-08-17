@@ -44,7 +44,7 @@ Anne has worked as a technician/lab manager since November of 2012, running our 
 
 Luis joined the lab in September 2015. He is working on reocmbination rate variation in maize landraces and teosinte. 
 
-<br><br><br>
+<br><br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/crosby.jpg" style="border:10px solid white"; width=100px>
 </div>
