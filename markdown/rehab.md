@@ -13,6 +13,19 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2015
+#### September 2015
+
+##### Fri. Sept. 18 2015
+
+[Thornton et al. 2013](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003258) Properties and Modeling of GWAS when Complex Disease Risk Is Due to Non-Complementing, Deleterious Mutations in Genes of Large Effect
+
+##### Fri. Sept. 11 2015
+
+TBA
+
+##### Fri. Sept. 4 2015
+
+TBA
 
 #### August 2015
 
