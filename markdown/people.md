@@ -37,12 +37,12 @@ Anne has worked as a lab manager since November of 2012, and is in charge of ove
 ### Postdoctoral Scholars
 
 <div style="float: left">  
-</a><img src="http://www.rilab.org/images/avila.png" style="border:10px solid white"; width=100px>
+</a><img src="http://www.rilab.org/images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Luis Avila** 
-<a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://avilasistemas.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a>
+<a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Luis joined the lab in September 2015. He is working on reocmbination rate variation in maize landraces and teosinte. 
+Luis joined the lab in September 2015. He is working on recombination rate variation in maize landraces and teosinte. 
 
 <br><br><br><br><br>
 <div style="float: left">
