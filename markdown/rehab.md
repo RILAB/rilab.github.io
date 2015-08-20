@@ -25,7 +25,7 @@ TBA
 
 ##### Fri. Sept. 4 2015
 
-TBA
+[Kuester et al. 2015](http://biorxiv.org/content/early/2015/08/20/024950) A resurrection experiment finds evidence of both reduced genetic diversity and adaptive evolution in the agricultural weed Ipomoea purpurea
 
 #### August 2015
 
