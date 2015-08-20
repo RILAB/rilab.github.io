@@ -44,7 +44,7 @@ Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrec
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**  
 *PNAS (Letter)*  112:1 [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )] <div style="display: inline"  data-badge-popover="right"  data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 
-* [Mobile elements contribute to activation of genes in response to abiotic stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)  
+* [Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)  
 Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM.  
 *PLoS Genetics* 11(1): e1004915 [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)] [[8 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=726174711625580935 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1004915" data-hide-no-mentions="true" class="altmetric-embed"></div>      
 
