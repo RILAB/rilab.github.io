@@ -19,11 +19,11 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 
 * Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport 
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
-Nature Genetics *In Press* CITES:0 
+Nature Genetics *Accepted for publication* CITES:0 
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)   
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**.   
-Genetics *In Press* [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> CITES:2741664858361885827 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Genetics 200:1297-1312 [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> CITES:2741664858361885827 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/)  
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
