@@ -21,7 +21,7 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
 Nature Genetics *In Press* [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )] 
 
-* [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/early/2015/06/15/genetics.115.178327.full.pdf)   
+* [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)   
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**.   
 Genetics *In Press* [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2741664858361885827 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
@@ -59,13 +59,13 @@ Tiffin P, **Ross-Ibarra J**
 *Chromosoma* 0009-5915 [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]  [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>      
 <!-- [[Haldane's Sieve](http://t.co/tzLQJCk8d5)] -->
 
-* [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/early/2013/11/18/g3.113.008870.abstract)  
+* [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full)  
 **Mezmouk S**, **Ross-Ibarra J**  
 *G3* 4:163-171 [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)] [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217003468169681800 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/g3.113.008870" data-hide-no-mentions="true" class="altmetric-embed"></div>      
 
 ### 2013
 
-* [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf)  
+* [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/110/48/19639.abstract)  
 Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
 *PNAS* 110:19639-19644 [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] <!--[[F1000](http://f1000.com/prime/718173166)]--> [[13 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494053027693693141,2019155999972302238 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.1309182110" data-hide-no-mentions="true" class="altmetric-embed"></div>      
     
