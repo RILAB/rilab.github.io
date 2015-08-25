@@ -64,7 +64,7 @@ Simon joined the lab in October 2014. He is working on structural variation and 
 <div style="float: left">
 <img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.me"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Jinliang joined the lab in October 2014 to work on maize quantitative genetics and the genetics of nitrogen fixation. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data.
 <br><br>
