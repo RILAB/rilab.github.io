@@ -6,7 +6,7 @@
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 
-* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico
+* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 [[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
