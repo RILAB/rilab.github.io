@@ -21,7 +21,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. Sept. 11 2015
 
-TBA
+[Renaut and Reiseberg 2015](http://mbe.oxfordjournals.org/content/32/9/2273) The Accumulation of Deleterious Mutations as a Consequence of Domestication and Improvement in Sunflowers and Other Compositae Crops
 
 ##### Fri. Sept. 4 2015
 
