@@ -10,14 +10,15 @@
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 [[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* The genomic impacts of drift and selection for hybrid performance in maize  
-Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
-[[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] CITES:10457251071989199418 <div style="display: inline"  data-badge-popover="right" data-arxiv-id="1307.7313" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
 ### 2015
 
-* Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport 
+* The genomic impacts of drift and selection for hybrid performance in maize  
+Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
+Genetics *In Press* [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] CITES:10457251071989199418 <div style="display: inline"  data-badge-popover="right" data-arxiv-id="1307.7313" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+* Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
 Nature Genetics *Accepted for publication* CITES:0 
 
