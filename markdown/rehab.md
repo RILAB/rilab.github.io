@@ -13,7 +13,22 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2015
+
+#### October 2015
+
+##### Fri. Oct. 2 2015
+
+[Wang et al. 2015](http://www.pnas.org/content/112/35/E4959.long) Hybrid mimics and hybrid vigor in Arabidopsis
+
 #### September 2015
+
+##### Fri. Sept. 25 2015
+
+[Raghavan et al. 2015](http://www.sciencemag.org/content/349/6250/aab3884.full.pdf) Genomic evidence for the Pleistocene and recent population history of Native Americans
+
+**AND**
+
+[Skoglund et al. 2015](http://www.nature.com/articles/nature14895.epdf?referrer_access_token=tF-nTz-prCDEH27ShnkdPdRgN0jAjWel9jnR3ZoTv0N6yB-nEyCdRoL51ykMO5E91orKw8mXMzuxoORJJBQhEqcxnwkIiI9eF80kfbg_ZrqmuZw6FTNFC8G_t31NWwGTUNhn_xmpabdr3EDodtD6tQ4AqlmsBeTdeFjIrgbc4bKOCYfPhWfbbNt9PySbQ_si&tracking_referrer=www.bbc.com) Genetic evidence for two founding populations of the Americas
 
 ##### Fri. Sept. 18 2015
 

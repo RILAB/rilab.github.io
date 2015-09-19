@@ -33,7 +33,7 @@ PeerJ 3:e900 [[preprint](https://peerj.com/preprints/685/)] CITES:0 <div style="
 
 * [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)  
 Hake S, **Ross-Ibarra J**.   
-*eLife* 2015;4:e05861 CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7554/eLife.05861" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+*eLife* 2015;4:e05861 CITES:15579853227920259642 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7554/eLife.05861" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf)  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
@@ -42,7 +42,7 @@ Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrec
 
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf)    
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**  
-*PNAS (Letter)*  112:1 CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>    
+*PNAS (Letter)*  112:1 CITES:10306546315448360067 <div style="display: inline"  data-badge-popover="right"  data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 
 * [Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)  
 Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM.  
