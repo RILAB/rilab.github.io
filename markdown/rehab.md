@@ -16,6 +16,26 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### October 2015
 
+##### Fri. Oct. 30 2015
+
+[Scheiner et al. 2015](http://www.jstor.org/stable/10.1086/680552) The Genetics of Phenotypic Plasticity. XIV. Coevolution
+
+##### Fri. Oct. 23 2015
+
+[Chevin and Hospital 2008](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581964/) Selective Sweep at a Quantitative Trait Locus in the Presence of Background Genetic Variation
+
+##### Fri. Oct. 16 2015
+
+[Raghavan et al. 2015](http://www.sciencemag.org/content/349/6250/aab3884.full.pdf) Genomic evidence for the Pleistocene and recent population history of Native Americans
+
+**AND**
+
+[Skoglund et al. 2015](http://www.nature.com/articles/nature14895.epdf?referrer_access_token=tF-nTz-prCDEH27ShnkdPdRgN0jAjWel9jnR3ZoTv0N6yB-nEyCdRoL51ykMO5E91orKw8mXMzuxoORJJBQhEqcxnwkIiI9eF80kfbg_ZrqmuZw6FTNFC8G_t31NWwGTUNhn_xmpabdr3EDodtD6tQ4AqlmsBeTdeFjIrgbc4bKOCYfPhWfbbNt9PySbQ_si&tracking_referrer=www.bbc.com) Genetic evidence for two founding populations of the Americas
+
+##### Fri. Oct. 9 2015
+
+[Heath and Nuismer 2014](http://www.ncbi.nlm.nih.gov/pubmed/24782890) Connecting functional and statistical definitions of genotype by genotype interactions in coevolutionary studies
+
 ##### Fri. Oct. 2 2015
 
 [Wang et al. 2015](http://www.pnas.org/content/112/35/E4959.long) Hybrid mimics and hybrid vigor in Arabidopsis
@@ -24,11 +44,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ##### Fri. Sept. 25 2015
 
-[Raghavan et al. 2015](http://www.sciencemag.org/content/349/6250/aab3884.full.pdf) Genomic evidence for the Pleistocene and recent population history of Native Americans
-
-**AND**
-
-[Skoglund et al. 2015](http://www.nature.com/articles/nature14895.epdf?referrer_access_token=tF-nTz-prCDEH27ShnkdPdRgN0jAjWel9jnR3ZoTv0N6yB-nEyCdRoL51ykMO5E91orKw8mXMzuxoORJJBQhEqcxnwkIiI9eF80kfbg_ZrqmuZw6FTNFC8G_t31NWwGTUNhn_xmpabdr3EDodtD6tQ4AqlmsBeTdeFjIrgbc4bKOCYfPhWfbbNt9PySbQ_si&tracking_referrer=www.bbc.com) Genetic evidence for two founding populations of the Americas
+[Lande and Arnold 1983](http://people.oregonstate.edu/~arnoldst/pdf_files/Lande%20&%20Arnold%201983.pdf) The measurement of selection on correlated characters
 
 ##### Fri. Sept. 18 2015
 

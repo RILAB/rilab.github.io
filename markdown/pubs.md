@@ -9,7 +9,9 @@
 * A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 [[preprint]](https://peerj.com/preprints/1192/) [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
+* Stress-gradient-evolution predicts increased local adaptation between interactors in stressful environments: tests with teosinte and soil biota along a climate gradient  
+**O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
+[preprin]() CITES: 0
 
 
 ### 2015
@@ -106,7 +108,7 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
 
 * [Teosinte as a model system for population and ecological genomics](http://www.rilab.org/pdfs/hufford2012.pdf)  
 **Hufford MB**, **Bilinski P**, **Pyhäjärvi T**, **Ross-Ibarra J**  
-*Trends in Genetics* [12: 606-615](http://www.cell.com/trends/genetics/abstract/S0168-9525(12)00139-4) [[cover](http://www.cell.com/trends/genetics/issue?pii=S0168-9525(12)X0012-X)] [[8 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=17241763016461383750 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.tig.2012.08.004" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+*Trends in Genetics* 12: 606-615 [[cover](http://www.cell.com/trends/genetics/issue?pii=S0168-9525(12)X0012-X)] [[8 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=17241763016461383750 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.tig.2012.08.004" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 
 * [Comparative population genomics of maize domestication and improvement](http://media.wix.com/ugd/fe9228_24240aa930bf4728be83b4b57da55f17.pdf)  
 **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
