@@ -1,7 +1,7 @@
 ### 2015
 
 * Our paper on [origins and evolution of ancient maize in the Southwest US](http://www.rilab.org/pdfs/fonseca2015.pdf) got a fair amount of press, including [UC Davis Press Release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124), [Science World Report](http://www.scienceworldreport.com/articles/21122/20150112/origins-maize-dna-tests-reveal-two-paths.htm), [Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna), [SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana), [Science magazine](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn), [Nature Plants commentary](http://www.nature.com/articles/nplants20149), and [The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)   
-* Rute's paper also hihglighted in [F1000](https://vpn.lib.ucdavis.edu/prime/,DanaInfo=f1000.com+725299665)  
+* Rute's paper also highlighted in [F1000](https://vpn.lib.ucdavis.edu/prime/,DanaInfo=f1000.com+725299665)  
 * Our work on highland maize adaptation is briefly mentioned in the [Daily Democrat](http://www.dailydemocrat.com/general-news/20150110/uc-davis-scientists-work-to-id-food-crops-that-can-survive-global-warming).  
 * Our [2011 paper](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) on the geographical origins of maize shows up in a [blog on Barbara McClintock's discoveries](http://www.barbaraonthebill.com/discoveries/) as part of a movment to put her on the $10 bill.  
 * [Interviews with the authors](http://morrell-lab.cfans.umn.edu/interviews/interviews.htm) of our 2011 and 2012 papers on dometsicaiton for a UMN course on Crop Evolution.

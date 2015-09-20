@@ -1,5 +1,13 @@
 ## News
 
+### September 18
+
+[Kate Crosby](https://github.com/kate-crosby) leaves the lab this month for her job in the Monsanto [Emerging Leaders Program](http://www.monsanto.com/careers/pages/emerging-leaders-in-science.aspx).  
+
+### August 20
+
+[Tim Beissinger](http://beissingerlab.github.io) leaves to take up his new job as USDA-ARS Research Geneticist at Missourri, filling the vacancy left when our collaborator Mike McMullen retired.
+
 ### June 26
 
 Two grants funded today!  Funding from [UCMEXUS](http://ucmexus.ucr.edu) to work with [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165) on characterizing an adaptive inversion introgression from teosinte into maize. And funding from the [UC-Mexico Initiative](http://ucmexicoinitiative.ucr.edu) (yup, they are different things!) to work on characterizing changes in genetic diversity and climate adaptation in maize over time using [CIMMYT SeeD](http://www.cimmyt.org/en/where-we-work/global-activities/seeds-of-discovery) data.
