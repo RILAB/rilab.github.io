@@ -8,29 +8,30 @@
 
 * A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
-[[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>
-* Stress-gradient-evolution predicts increased local adaptation between interactors in stressful environments: tests with teosinte and soil biota along a climate gradient  
+[[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+
+<!--* Stress-gradient-evolution predicts increased local adaptation between interactors in stressful environments: tests with teosinte and soil biota along a climate gradient  
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
-[preprin]() CITES: 0
+[preprin]() CITES: 0 -->
 
 
 ### 2015
 
 * The genomic impacts of drift and selection for hybrid performance in maize  
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
-Genetics *In Press* [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] CITES:10457251071989199418 <div style="display: inline"  data-badge-popover="right" data-arxiv-id="1307.7313" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Genetics *In Press* [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] CITES:10457251071989199418 <div style="display: inline"  data-badge-popover="right" data-arxiv-id="1307.7313" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
-Nature Genetics *Accepted for publication* CITES:0 
+Nature Genetics *Accepted for publication* CITES:0  
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)   
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**.   
-Genetics 200:1297-1312 [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> CITES:2741664858361885827 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Genetics 200:1297-1312 [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> [2 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2741664858361885827) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/)  
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
-PeerJ 3:e900 [[preprint](https://peerj.com/preprints/685/)] CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>
+PeerJ 3:e900 [[preprint](https://peerj.com/preprints/685/)] CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
 * [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)  
