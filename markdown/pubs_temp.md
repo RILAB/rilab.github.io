@@ -27,7 +27,7 @@ Nature Genetics *Accepted for publication* CITES:0
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)   
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**.   
-Genetics 200:1297-1312 [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> [2 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2741664858361885827) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+Genetics 200:1297-1312 [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> [[2 citations]](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2741664858361885827) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/)  
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
@@ -218,7 +218,7 @@ Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T
 
 * [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract)  
 **Ross-Ibarra J**, Tenaillon M, Gaut BS  
-*Genetics* [181: 1399-1413] CITES:12731906589694221305 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.108.097238" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*Genetics* 181: 1399-1413 CITES:12731906589694221305 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.108.097238" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ### 2008
 
@@ -243,7 +243,7 @@ Gaut BS, **Ross-Ibarra J**
 
 * [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)  
 **Ross-Ibarra J**, Morrell PL, Gaut BS  
-*PNAS* 104 Suppl 1: 8641-8648 [[F1000](http://f1000.com/prime/1088796)] CITES:4061357872113450280 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0700643104" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*PNAS* 104 Suppl 1: 8641-8648 CITES:4061357872113450280 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0700643104" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)  
 **Ross-Ibarra J**  
