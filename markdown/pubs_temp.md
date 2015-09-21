@@ -6,6 +6,11 @@
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 
+* Construction of the third generation Zea mays haplotype map  
+Bukowski R, Guo X, Lu Y, Zou C, He B, Rong Z, Wang B,  Xu D,  Yang B, Xie C,  Fan L, Gao S, Xu X, Zhang G, Li Y, Jiao Y, Doebley K, **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
+[preprint] CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+
 * A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 [[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
