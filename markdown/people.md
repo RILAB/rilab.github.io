@@ -36,23 +36,15 @@ Anne has worked as a lab manager since November of 2012, and is in charge of ove
 
 ### Postdoctoral Scholars
 
-<div style="float: left">  
+<!--<div style="float: left">  
 </a><img src="http://www.rilab.org/images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Luis Avila** 
 <a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Luis joined the lab in September 2015. He is working on recombination rate variation in maize landraces and teosinte. 
+-->
 
-<br><br><br><br><br>
-<div style="float: left">
-<img src="http://www.rilab.org/images/crosby.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Kate Crosby** <a href="http://www.rilab.org/attachments/crosby_cv.pdf"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/_Kate_Crosby_"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=yAtU5dgAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
-
-Kate joined the lab in November 2014 to apply population genetic methods to identify evidence for selection during modern maize breeding. Her PhD work at Dalhousie U. focused on evolution in wild oat populations.
-
-<br><br><br>
 <div style="float: left">
 <img src="https://avatars3.githubusercontent.com/u/8698345?v=3&s=400" style="border:10px solid white"; width=100px>
 </div>
@@ -107,6 +99,8 @@ Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci
 
 ### Lab Alumni
 
+[Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
+
 Sayuri Tsukahara: Postdoc 2013-2015
 
 [Tim Beissinger](http://timbeissinger.github.io): Postdoc 2014-2015 (Research Geneticist, USDA-ARS U. Missouri)
@@ -119,7 +113,7 @@ Nivaz Brar: Undergraduate 2014-2015
 
 [Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student UC Davis)
 
-[Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist KWM)
+[Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWM)
 
 [Shohei Takuno](https://sites.google.com/site/shoheitakuno/): Postdoc 2012-2013 (Asst. Professor, SOKENDAI)
 
@@ -127,7 +121,7 @@ Nivaz Brar: Undergraduate 2014-2015
 
 [Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392): Postdoc 2010-2012 (Sr. Researchg Fellow, U. Oulu)
 
-[Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm): Postdoc 2009-2011
+[Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm): Postdoc 2009-2011 (Research Coordinator, N2Africa)
 
 
 ### Visiting Scholar: for >100 hours of scholastic visitation
@@ -181,3 +175,4 @@ Nivaz Brar: Undergraduate 2014-2015
 
 * [Justin Gerke](http://www.linkedin.com/pub/justin-gerke/11/ab4/312)
 * Oscar (Howie) Smith
+* [Kate Crosby](https://github.com/kate-crosby)
