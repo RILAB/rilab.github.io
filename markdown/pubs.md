@@ -5,19 +5,17 @@
 
 ### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-
 * Construction of the third generation Zea mays haplotype map  
 Bukowski R, Guo X, Lu Y, Zou C, He B, Rong Z, Wang B,  Xu D,  Yang B, Xie C,  Fan L, Gao S, Xu X, Zhang G, Li Y, Jiao Y, Doebley K, **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 [preprint](http://biorxiv.org/content/early/2015/09/16/026963) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
 
 * A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 [[preprint]](https://peerj.com/preprints/1192/) [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
-<!--* Stress-gradient-evolution predicts increased local adaptation between interactors in stressful environments: tests with teosinte and soil biota along a climate gradient  
+* Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient 
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
-[preprin]() CITES: 0 -->
+[[preprint]]() CITES: 0 
 
 
 ### 2015
