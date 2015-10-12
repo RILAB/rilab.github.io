@@ -40,6 +40,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 [Wang et al. 2015](http://www.pnas.org/content/112/35/E4959.long) Hybrid mimics and hybrid vigor in Arabidopsis
 
+[blog post](http://www.rilab.org/blogs/02102015.html)
+
 #### September 2015
 
 ##### Fri. Sept. 25 2015
