@@ -14,11 +14,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 
+#### November 2015
+
+##### Fri. Nov. 6 2015
+
+[Scheiner et al. 2015](http://www.jstor.org/stable/10.1086/680552) The Genetics of Phenotypic Plasticity. XIV. Coevolution
+
 #### October 2015
 
 ##### Fri. Oct. 30 2015
 
-[Scheiner et al. 2015](http://www.jstor.org/stable/10.1086/680552) The Genetics of Phenotypic Plasticity. XIV. Coevolution
+[Chevin and Hospital 2008](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581964/) (AGAIN!) Selective Sweep at a Quantitative Trait Locus in the Presence of Background Genetic Variation
 
 ##### Fri. Oct. 23 2015
 
