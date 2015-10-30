@@ -16,6 +16,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### November 2015
 
+##### Fri. Nov. 13 2015
+
+[van Heerwaarden et al. 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005594) Genome-Wide Association Analysis of Adaptation Using Environmentally Predicted Traits
+
 ##### Fri. Nov. 6 2015
 
 [Scheiner et al. 2015](http://www.jstor.org/stable/10.1086/680552) The Genetics of Phenotypic Plasticity. XIV. Coevolution
