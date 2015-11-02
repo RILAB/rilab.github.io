@@ -24,7 +24,7 @@ Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
 Genetics *In Press* [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] CITES:10457251071989199418 <div style="display: inline"  data-badge-popover="right" data-arxiv-id="1307.7313" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
-* Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport  
+* [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html)  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
 Nature Genetics *Accepted for publication* CITES:0  
 
