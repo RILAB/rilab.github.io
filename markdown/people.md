@@ -19,7 +19,7 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 </div>
 <br><br>**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a> 
 
-Jeff is an Associate Professor and Section Chair in the [Depatrment of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/). He started at UC Davis in 2009.
+Jeff is an Associate Professor and Section Chair in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/). He started at UC Davis in 2009.
 
 <br><br><br>
 
