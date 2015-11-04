@@ -3,7 +3,11 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
-### Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
+### Preprints/Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
+
+* ANGSD-wrapper  
+**Durvasula A**, **Kent TV**, Hoffman PJ, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**  CITES: 0 
+[preprint](https://peerj.com/preprints/1472/)
 
 * Construction of the third generation Zea mays haplotype map  
 Bukowski R, Guo X, Lu Y, Zou C, He B, Rong Z, Wang B,  Xu D,  Yang B, Xie C,  Fan L, Gao S, Xu X, Zhang G, Li Y, Jiao Y, Doebley K, **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
