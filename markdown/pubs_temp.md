@@ -3,11 +3,11 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
-### Preprints/Submitted ([lab alert level](http://www.rilab.org/images/alert.jpg))
+### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 * ANGSD-wrapper  
-**Durvasula A**, **Kent TV**, Hoffman PJ, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**  CITES: 0 
-[preprint](https://peerj.com/preprints/1472/)
+**Durvasula A**, **Kent TV**, Hoffman PJ, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
+[preprint](https://peerj.com/preprints/1472/) CITES: 0  
 
 * Construction of the third generation Zea mays haplotype map  
 Bukowski R, Guo X, Lu Y, Zou C, He B, Rong Z, Wang B,  Xu D,  Yang B, Xie C,  Fan L, Gao S, Xu X, Zhang G, Li Y, Jiao Y, Doebley K, **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
@@ -19,7 +19,7 @@ Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
 
 * Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient 
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
-[[preprint]]() CITES: 0 
+[[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) CITES: 0 
 
 
 ### 2015
