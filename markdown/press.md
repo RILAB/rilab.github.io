@@ -7,6 +7,7 @@
 * [Interviews with the authors](http://morrell-lab.cfans.umn.edu/interviews/interviews.htm) of our 2011 and 2012 papers on dometsicaiton for a UMN course on Crop Evolution.
 * [Phys.org](http://phys.org/news/2015-11-higher-yielding-crops-sugar-import.html) runs press release on our [Sweet4 paper](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html). 
 * [Scientific Collections International](http://blog.scicoll.org/2015/11/teosinte-today-maize-tomorrow.html) write on our work with Dolore and gene expression in teosinte grown in ancient climes.
+* Our [paper on drift and selection](http://www.genetics.org/content/201/3/1201) in maize [highlighted by editors](http://www.genetics.org/content/201/3/NP?etoc) in Genetics.
 
 ### 2014
 

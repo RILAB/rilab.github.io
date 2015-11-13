@@ -5,9 +5,13 @@
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+* Recent demography drives changes in linked selection across the maize genome  
+**Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
+[preprint](http://biorxiv.org/content/early/2015/11/13/031666) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+
 * ANGSD-wrapper  
 **Durvasula A**, **Kent TV**, Hoffman PJ, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
-[preprint](https://peerj.com/preprints/1472/) CITES: 0  
+[preprint](https://peerj.com/preprints/1472/) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 * Construction of the third generation Zea mays haplotype map  
 Bukowski R, Guo X, Lu Y, Zou C, He B, Rong Z, Wang B,  Xu D,  Yang B, Xie C,  Fan L, Gao S, Xu X, Zhang G, Li Y, Jiao Y, Doebley K, **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
