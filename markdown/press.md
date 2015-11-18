@@ -4,7 +4,7 @@
 * Rute's paper also highlighted in [F1000](https://vpn.lib.ucdavis.edu/prime/,DanaInfo=f1000.com+725299665)  
 * Our work on highland maize adaptation is briefly mentioned in the [Daily Democrat](http://www.dailydemocrat.com/general-news/20150110/uc-davis-scientists-work-to-id-food-crops-that-can-survive-global-warming).  
 * Our [2011 paper](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) on the geographical origins of maize shows up in a [blog on Barbara McClintock's discoveries](http://www.barbaraonthebill.com/discoveries/) as part of a movment to put her on the $10 bill.  
-* [Interviews with the authors](http://morrell-lab.cfans.umn.edu/interviews/interviews.htm) of our 2011 and 2012 papers on dometsicaiton for a UMN course on Crop Evolution.
+* [Interviews with the authors](http://morrell-lab.cfans.umn.edu/interviews/interviews.htm) of our 2011 and 2012 papers on domestication for a UMN course on Crop Evolution.
 * [Phys.org](http://phys.org/news/2015-11-higher-yielding-crops-sugar-import.html) runs press release on our [Sweet4 paper](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html). 
 * [Scientific Collections International](http://blog.scicoll.org/2015/11/teosinte-today-maize-tomorrow.html) write on our work with Dolore and gene expression in teosinte grown in ancient climes.
 * Our [paper on drift and selection](http://www.genetics.org/content/201/3/1201) in maize [highlighted by editors](http://www.genetics.org/content/201/3/NP?etoc) in Genetics.
