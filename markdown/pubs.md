@@ -14,7 +14,7 @@
 [preprint](https://peerj.com/preprints/1472/) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 * Construction of the third generation Zea mays haplotype map  
-Bukowski R, Guo X, Lu Y, Zou C, He B, Rong Z, Wang B,  Xu D,  Yang B, Xie C,  Fan L, Gao S, Xu X, Zhang G, Li Y, Jiao Y, Doebley K, **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
+Bukowski R ...(16 authors)...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 [preprint](http://biorxiv.org/content/early/2015/09/16/026963) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  
@@ -23,18 +23,19 @@ Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
 
 * Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient 
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
-[[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) CITES: 0 
+[[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 
 ### 2015
 
 * [The genomic impacts of drift and selection for hybrid performance in maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CC0QFjABahUKEwiY8ezQoa3IAhWRL4gKHYbZCYU&url=http%3A%2F%2Fwww.genetics.org%2Fcontent%2Fearly%2F2015%2F09%2F18%2Fgenetics.115.182410.abstract&usg=AFQjCNF6HUbfJ3ij4yqX75WFIP7h0VqD8g&sig2=7Gw1t6U1cc7imLVZEUWlHQ)  
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD.  
-Genetics *In Press* [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )] <div style="display: inline"  data-badge-popover="right" data-arxiv-id="1307.7313" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+Genetics 201:1201-1211 [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)] [[7 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )] <div style="display: inline"  data-badge-popover="right" data-doi="10.1534/genetics.115.182410" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 * [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html)  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
-Nature Genetics *Accepted for publication* [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )]  
+Nature Genetics *In Press* [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )]  div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)   
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**.   

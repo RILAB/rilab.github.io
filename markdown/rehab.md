@@ -16,6 +16,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### November 2015
 
+##### Fri. Nov. 20 2015
+[Beissinger et al. 2015](https://github.com/RILAB/beissinger_ms/raw/master/manuscript_submit.pdf) Recent demography drives changes in linked selection across the maize genome
+
 ##### Fri. Nov. 13 2015
 
 [van Heerwaarden et al. 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005594) Genome-Wide Association Analysis of Adaptation Using Environmentally Predicted Traits
