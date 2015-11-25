@@ -16,6 +16,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### November 2015
 
+##### Fri. Nov. 27 2015
+No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](http://www.biomedcentral.com/1471-2156/15/117/) nonetheless.
+
 ##### Fri. Nov. 20 2015
 [Beissinger et al. 2015](https://github.com/RILAB/beissinger_ms/raw/master/manuscript_submit.pdf) Recent demography drives changes in linked selection across the maize genome
 
