@@ -13,6 +13,10 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2015
+#### December 2015
+
+##### Fri. Dec. 4 2015
+[Remington 2015](http://www.ncbi.nlm.nih.gov/pubmed/26374707) Alleles versus mutations: Understanding the evolution of genetic architecture requires a molecular perspective on allelic origins.
 
 #### November 2015
 

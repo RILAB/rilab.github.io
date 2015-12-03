@@ -5,6 +5,9 @@
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+<!-- * High quality maize centromere 10 sequence reveals evidence of frequent double-strand DNA breaks  
+Wolfgruber TK, Nakashima MM, Schneider KL, ...(4 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting GG  -->
+
 * Recent demography drives changes in linked selection across the maize genome  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
 [preprint](http://biorxiv.org/content/early/2015/11/13/031666) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div> 
