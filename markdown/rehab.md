@@ -15,6 +15,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2015
 #### December 2015
 
+##### Fri. Dec. 11 2015
+[Mascagni et al. 2015](http://gbe.oxfordjournals.org/content/early/2015/11/24/gbe.evv230.short?rss=1&utm_source=dlvr.it&utm_medium=twitter) Repetitive DNA and plant domestication: variation in copy number and proximity to genes of LTR-retrotransposons among wild and cultivated sunflower (Helianthus annuus) genotypes.
+
 ##### Fri. Dec. 4 2015
 [Remington 2015](http://www.ncbi.nlm.nih.gov/pubmed/26374707) Alleles versus mutations: Understanding the evolution of genetic architecture requires a molecular perspective on allelic origins.
 
