@@ -37,7 +37,7 @@ Genetics 201:1201-1211 [[preprint](http://arxiv.org/abs/1307.7313)] [[Haldane's 
 
 * [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html)  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB.  
-Nature Genetics *In Press* [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )]  div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+Nature Genetics *In Press* [[0 citations](http://scholar.google.com/s    cholar?oi=bibs&hl=en&cites=0 )]  <div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)   
