@@ -119,7 +119,7 @@ Nivaz Brar: Undergraduate 2014-2015
 
 [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html): Postdoc 2010-2013 (Asst. Professor, Iowa State)
 
-[Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392): Postdoc 2010-2012 (Sr. Researchg Fellow, U. Oulu)
+[Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392): Postdoc 2010-2012 (Sr. Research Fellow, U. Oulu)
 
 [Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm): Postdoc 2009-2011 (Research Coordinator, N2Africa)
 
