@@ -22,6 +22,7 @@
 
 * Our paper on the domesticaiton locus [grassy tillers](http://journals.plos.org/ploscollections/article?id=10.1371/journal.pgen.1003604) is highlighted in the [PLoS Plant Trasnslational Research collection](http://www.ploscollections.org/article/browse/issue/info:doi/10.1371/issue.pcol.v01.i25).  
 * [Wills et al](http://f1000.com/prime/718032804), [Waters et al](http://f1000.com/prime/718173166) and [Melters et al](http://f1000.com/prime/717979865) all higlighted by F1000  
+* Our paper on local adaptation in teosinte makes the [cover](http://www.oxfordjournals.org/our_journals/gbe/resource/gbe-cover_dec-2013_expansion.jpg) at GBE
 * We blogged about our paper on crop-wild introgression for [Haldane's Sieve](http://haldanessieve.org/2012/08/23/our-paper-the-genomic-signature-of-crop-wild-introgression-in-maize/) and [Panda's Thumb](http://pandasthumb.org/archives/2013/05/press-release-t.html)  
 * [UCD Press Release](http://ucdaviscaes.wordpress.com/2013/07/10/agriculture-feeding-the-future/) on the persepective piece on feeding the future.  
 * We blogged about our work on [hybrid maize](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/) and [centromere biology](http://haldanessieve.org/2012/09/27/our-paper-comparative-analysis-of-tandem-repeats-from-hundreds-of-species-reveals-unique-insights-into-centromere-evolution/) at Haldane's Sieve  
@@ -31,8 +32,11 @@
 * [DuPont press release](http://www2.dupont.com/media/en-us/news-events/july/dupont-recognizes-young-professors.html) mentioning Jeff's DuPont Young Professor award.  
 * [Science Friday interview](http://www.sciencefriday.com/blogs/06/11/2012/podcast-6-de-scifri.html?audience=3&series=24) with Jeff on our domestication work (in Spanish)  
 * In which Jeff learns not to let the publicists write quotes for him. In the [UC Davis Press Release](http://news.ucdavis.edu/search/news_detail.lasso?id=10267) on the HapMap2 papers by Hufford et al. and Chia et al., Jeff is quoted as claiming the work will solve hunger, improve yield, create world peace. If only we'd had higher depth sequencing we could have solved the JFK assassination too.  
-* [Nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html) on our HapMap2 papers.  
+* [Nature commentary](http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html) on our HapMap2 papers. 
+* HapMap2 papers make the [cover](http://www.nature.com/ng/journal/v44/n7/covers/index.html) of Nature Genetics 
 * [Genome Web](https://www.genomeweb.com/sequencing/genomeweb-feature-plant-studies-genome-size-poses-unique-challenges) piece on our review of the challenges of crop genomics
+* Our crip genomics review makes the [cover](http://www.nature.com/nrg/journal/v13/n2/covers/index.html) of Nature Reviews Genetics
+* Our review on teosinte makes the [cover](http://www.cell.com/trends/genetics/issue?pii=S0168-9525(12\)X0012-X) of Trends in Genetics
 
 ###  2011
 
@@ -47,7 +51,8 @@
 
 ###  2009
 
-* [Nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html) on maize HapMap 1.  
+* [Nature commentary](http://www.nature.com/news/2009/091119/full/news.2009.1098.html) on maize HapMap 1. 
+* HapMap1 makes the [cover](http://www.sciencemag.org/content/326/5956.cover-expansion) of Science. 
 * Tons of press for our paper on an ancient oak clone, including [wikipedia](https://en.wikipedia.org/wiki/List_of_oldest_trees), [NY Times](http://www.nytimes.com/2010/01/05/science/05clone.html?_r=0), [LA Times](http://articles.latimes.com/2009/dec/22/science/la-sci-oak23-2009dec23), [CA Native Plant Society](http://www.cnps-sgm.org/newsletters/files//Paintbrush-2010-02-1003-00.pdf), [Discovery News](http://news.discovery.com/earth/plants/ancient-tree-jurupa-oak-california.htm), blogs by [Greg Laden](http://scienceblogs.com/gregladen/2010/01/02/out-of-place-oak-is-13-thousan/) and [Ed Yong](http://phenomena.nationalgeographic.com/2009/12/26/the-13000-year-old-tree-that-survives-by-cloning-itself/), and even a [YouTube parody video!](http://www.youtube.com/watch?v=nPiiGvvd3lA)
 
 ###  Pre-UCDavis
