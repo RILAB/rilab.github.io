@@ -8,16 +8,16 @@
 <!-- * High quality maize centromere 10 sequence reveals evidence of frequent double-strand DNA breaks  
 Wolfgruber TK, Nakashima MM, Schneider KL, ...(4 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting GG  -->
 
-* Recent demography drives changes in linked selection across the maize genome [preprint](http://biorxiv.org/content/early/2015/11/13/031666) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* Recent demography drives changes in linked selection across the maize genome [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)] CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
 
-* ANGSD-wrapper  [preprint](https://peerj.com/preprints/1472/) <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* ANGSD-wrapper  [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Durvasula A**, **Kent TV**, Hoffman PJ, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
 
-* Construction of the third generation Zea mays haplotype map [preprint](http://biorxiv.org/content/early/2015/09/16/026963) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* Construction of the third generation Zea mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 
-* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  [[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  [[preprint](https://peerj.com/preprints/1192/)] CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
  
 * Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient [[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
