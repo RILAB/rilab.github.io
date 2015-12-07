@@ -105,7 +105,7 @@ Sayuri Tsukahara: Postdoc 2013-2015
 
 [Tim Beissinger](http://timbeissinger.github.io): Postdoc 2014-2015 (Research Geneticist, USDA-ARS U. Missouri)
 
-[Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2014-2015 (Postbac Researcher, Vienna Biocenter)
+[Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (Postbac Researcher, Vienna Biocenter)
 
 Nivaz Brar: Undergraduate 2014-2015
 
