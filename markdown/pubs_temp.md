@@ -33,16 +33,15 @@ Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
 
 * [The genomic impacts of drift and selection for hybrid performance in maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CC0QFjABahUKEwiY8ezQoa3IAhWRL4gKHYbZCYU&url=http%3A%2F%2Fwww.genetics.org%2Fcontent%2Fearly%2F2015%2F09%2F18%2Fgenetics.115.182410.abstract&usg=AFQjCNF6HUbfJ3ij4yqX75WFIP7h0VqD8g&sig2=7Gw1t6U1cc7imLVZEUWlHQ) [[preprint](http://arxiv.org/abs/1307.7313)] CITES:10457251071989199418 <div style="display: inline"  data-badge-popover="right" data-doi="10.1534/genetics.115.182410" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD 
-* [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html)  
-Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB  CITES:0  <div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-
+* [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html) CITES:0  <div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ... (6 authors)...  **Ross-Ibarra J**, Yang B, Frommer WB  
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297) [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> [[4 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2741664858361885827)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J** 
 
-* [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/)  
+* [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)] CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
-[[preprint](https://peerj.com/preprints/685/)] CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+ 
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
 * [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)  
