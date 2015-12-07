@@ -8,25 +8,20 @@
 <!-- * High quality maize centromere 10 sequence reveals evidence of frequent double-strand DNA breaks  
 Wolfgruber TK, Nakashima MM, Schneider KL, ...(4 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting GG  -->
 
-* Recent demography drives changes in linked selection across the maize genome  
+* Recent demography drives changes in linked selection across the maize genome [preprint](http://biorxiv.org/content/early/2015/11/13/031666) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
-[preprint](http://biorxiv.org/content/early/2015/11/13/031666) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
-* ANGSD-wrapper  
+* ANGSD-wrapper  [preprint](https://peerj.com/preprints/1472/) <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Durvasula A**, **Kent TV**, Hoffman PJ, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
-[preprint](https://peerj.com/preprints/1472/) CITES: 0  <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
-* Construction of the third generation Zea mays haplotype map  
+* Construction of the third generation Zea mays haplotype map [preprint](http://biorxiv.org/content/early/2015/09/16/026963) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
-[preprint](http://biorxiv.org/content/early/2015/09/16/026963) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  
+* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  [[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
-[[preprint]](https://peerj.com/preprints/1192/) CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-
-* Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient 
+ 
+* Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient [[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
-[[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) CITES: 0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 
 ### 2015
@@ -49,7 +44,6 @@ Hake S, **Ross-Ibarra J**
 
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] CITES:14394472478509816248,10810382578079898537 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/NPLANTS.2014.3" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT     
-<!-- [[NP commentary](http://www.nature.com/articles/nplants20149)] [[Science news](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn)] [[Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)] [[The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)] [[SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana)] -->
 
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf) CITES:10306546315448360067 <div style="display: inline"  data-badge-popover="right"  data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**     
@@ -157,93 +151,69 @@ Whitney KD, Baack EJ, Hamrick JL, Godt, MJW ...[3 authors]... Goodwillie C, Kali
 * [Fine scale genetic structure in the wild ancestor of maize (**Zea mays** ssp. **parviglumis**)](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf) CITES:9340353919503578071 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1365-294X.2010.04559.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE  
 
-
-
-* [Widespread gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327)  
+* [Widespread gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327) CITES:15554747939087267209 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pbio.1000327" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK  
-CITES:15554747939087267209 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pbio.1000327" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <!--[[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)]-->
 
-* [Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract)  
+* [Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract) CITES:16490180574048863991 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/molbev/msp249" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Hollister JD, **Ross-Ibarra J**, Gaut BS   
-CITES:16490180574048863991 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/molbev/msp249" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-
-* [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html)  
+* [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) CITES:15394221802384617228 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2009.110" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   
-CITES:15394221802384617228 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2009.110" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
 
 ### 2009
 
-* [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)  
+* [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf) CITES:1250430020833640405 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
-CITES:1250430020833640405 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [A pleistocene clone of Palmer's Oak persisting in Southern California](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE)  
+* [A pleistocene clone of Palmer's Oak persisting in Southern California](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pone.0008346&ei=dON7Uuf7HoiwjAKK_YHYBQ&usg=AFQjCNFuR7ETw8MK1c3X3c3czjMBR7_2Cg&sig2=DDmwG4DzPD2dJyrJDTIKkA&bvm=bv.56146854,d.cGE) CITES:15690173176823572703,5159519491829986435 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
-CITES:15690173176823572703,5159519491829986435 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)     
+* [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf) CITES:853064656161512620 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1469-8137.2009.02984.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  
-CITES:853064656161512620 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1469-8137.2009.02984.x" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract)  
+* [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract) CITES:12731906589694221305 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.108.097238" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**, Tenaillon M, Gaut BS  
-CITES:12731906589694221305 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.108.097238" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 ### 2008
 
-* [Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*](http://dx.doi.org/10.1371%2Fjournal.pone.0002411)  
+* [Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*](http://dx.doi.org/10.1371%2Fjournal.pone.0002411) CITES:12619209345184003027 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0002411" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS  
-CITES:12619209345184003027 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0002411" data-hide-no-mentions="true" class="altmetric-embed"></div>
  
-* [Demography and weak selection drive patterns of TE diversity in natural populations of *A. lyrata*](http://www.pnas.org/content/105/37/13965.short)  
-Lockton S, **Ross-Ibarra J**, Gaut BS (2008) 
-CITES:15151328051935459123 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0804671105" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* [Demography and weak selection drive patterns of TE diversity in natural populations of *A. lyrata*](http://www.pnas.org/content/105/37/13965.short)  CITES:15151328051935459123 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0804671105" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+Lockton S, **Ross-Ibarra J**, Gaut BS 
 
-* [Multiple domestications do not appear monophyletic](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/)   
+* [Multiple domestications do not appear monophyletic](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/) CITES:14659039718259909589 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0809042105" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**, Gaut BS  
-CITES:14659039718259909589 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0809042105" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [Selection on major components of angiosperm genomes](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)  
+* [Selection on major components of angiosperm genomes](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf) CITES:10471445648121255184 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1153586" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gaut BS, **Ross-Ibarra J** 
-CITES:10471445648121255184 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1153586" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
 
 ### 2007  
 
-* [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)  
+* [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) CITES:4061357872113450280 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0700643104" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**, Morrell PL, Gaut BS  
-CITES:4061357872113450280 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0700643104" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)  
+* [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) CITES:684436662966421061 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1420-9101.2006.01275.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**  
-CITES:684436662966421061 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1420-9101.2006.01275.x" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
 
 ### 2001-2006
 
-* [Mitochondrial DNA and population size](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf)  
+* [Mitochondrial DNA and population size](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf) CITES:7029521719248710591 <div style="display: inline"  data-badge-popover="right"  data-pmid="17144000" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ   
-CITES:7029521719248710591 <div style="display: inline"  data-badge-popover="right"  data-pmid="17144000" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [Quantitative trait loci and the study of plant domestication](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)  
-**Ross-Ibarra J** (2005)  
-CITES:7426372046771115962 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/1-4020-3836-4_18" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-* [The evolution of recombination under domestication: a test of two hypotheses](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf)  
+* [Quantitative trait loci and the study of plant domestication](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)  CITES:7426372046771115962 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/1-4020-3836-4_18" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**  
-CITES:3095269849835314095 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1086/380606" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf)  
+* [The evolution of recombination under domestication: a test of two hypotheses](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf) CITES:3095269849835314095 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1086/380606" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+**Ross-Ibarra J**  
+
+* [Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf) CITES:4811395532917369896 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1525/msem.2003.19.2.287" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**   
-CITES:4811395532917369896 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1525/msem.2003.19.2.287" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)  
+* [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf) CITES:5302092154685965393 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**, Molina-Cruz A  
-CITES:5302092154685965393 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-* [Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)  
+* [Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)  CITES:13724877679765824056 <div style="display: inline"  data-badge-popover="right"  data-pmid="11454621" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Neel MC, **Ross-Ibarra J**, Ellstrand NC  
-CITES:13724877679765824056 <div style="display: inline"  data-badge-popover="right"  data-pmid="11454621" data-hide-no-mentions="true" class="altmetric-embed"></div>
