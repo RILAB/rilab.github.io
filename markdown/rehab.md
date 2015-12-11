@@ -14,6 +14,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2015
 #### December 2015
+##### Fri. Dev. 18 2015 
+[Steige et al. 2015](http://biorxiv.org/content/early/2015/12/10/034025) The impact of natural selection on the distribution of cis-regulatory variation across the genome of an outcrossing plant
 
 ##### Fri. Dec. 11 2015
 [Mascagni et al. 2015](http://gbe.oxfordjournals.org/content/early/2015/11/24/gbe.evv230.short?rss=1&utm_source=dlvr.it&utm_medium=twitter) Repetitive DNA and plant domestication: variation in copy number and proximity to genes of LTR-retrotransposons among wild and cultivated sunflower (Helianthus annuus) genotypes.
