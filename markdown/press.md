@@ -8,6 +8,7 @@
 * [Phys.org](http://phys.org/news/2015-11-higher-yielding-crops-sugar-import.html) runs press release on our [Sweet4 paper](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html). 
 * [Scientific Collections International](http://blog.scicoll.org/2015/11/teosinte-today-maize-tomorrow.html) write on our work with Dolore and gene expression in teosinte grown in ancient climes.
 * Our [paper on drift and selection](http://www.genetics.org/content/201/3/1201) in maize [highlighted by editors](http://www.genetics.org/content/201/3/NP?etoc) in Genetics and blogged about at [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)]. 
+* JRI's tweet on removing journal names quoted in this piece in [Nature's twitter gossip column](http://www.nature.com/news/what-s-in-a-journal-name-1.18987)
 
 ### 2014
 
