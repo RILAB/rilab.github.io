@@ -16,13 +16,15 @@ Wolfgruber TK, Nakashima MM, Schneider KL, ...(4 authors)... **Bilinski P**, Daw
 
 * Construction of the third generation Zea mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
-
-* A test of ecological and ethnolinguistic determinants of maize diversity in southern Mexico  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
-Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
  
 * Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient [[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter)  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
 
+
+### 2016
+
+* A test of ecological and social origin determinants of maize diversity in southern Mexico  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
 ### 2015
 
