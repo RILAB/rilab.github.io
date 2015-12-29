@@ -3,6 +3,8 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
+Journal names have been intentionally excluded. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper.
+
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 <!-- * High quality maize centromere 10 sequence reveals evidence of frequent double-strand DNA breaks  
