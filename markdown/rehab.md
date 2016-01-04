@@ -12,9 +12,18 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
+## 2016
+
+#### January 2016
+##### Fri. Jan 15 2016
+[Bainard et al. 2012](http://www.ncbi.nlm.nih.gov/pubmed/23078229) A multivariate analysis of variation in genome size and endoreduplication in angiosperms reveals strong phylogenetic signal and association with phenotypic traits
+
+##### Fri. Jan 8 2016
+[Marsden et al. 2015](http://www.pnas.org/content/early/2015/12/17/1512501113.long) Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs
+
 ## 2015
 #### December 2015
-##### Fri. Dev. 18 2015 
+##### Fri. Dec. 18 2015 
 [Steige et al. 2015](http://biorxiv.org/content/early/2015/12/10/034025) The impact of natural selection on the distribution of cis-regulatory variation across the genome of an outcrossing plant
 
 ##### Fri. Dec. 11 2015
