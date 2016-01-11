@@ -105,7 +105,7 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
 **Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
  
 
-* [Using nextgen sequencing to investigate genome size variation and transposable element content](http://www.rilab.org/pdf/Munoz_Diez_R1-1.pdf) [[5 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5019892223730894925,374365493549966210 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/978-3-642-31842-9_3" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Using nextgen sequencing to investigate genome size variation and transposable element content](http://www.rilab.org/pdfs/Munoz_Diez_R1-1.pdf) [[5 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5019892223730894925,374365493549966210 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/978-3-642-31842-9_3" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI  
 
 * [Historical genomics of North American maize](http://www.rilab.org/pdfs/vanheerwaarden2012.pdf) [[data](http://figshare.com/articles/van_Heerwaarden_et_al_2012/757738)] [[40 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3745727334869718431 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.1209275109" data-hide-no-mentions="true" class="altmetric-embed"></div>  
