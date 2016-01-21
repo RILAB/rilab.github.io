@@ -15,6 +15,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2016
 
 #### January 2016
+##### Fri. Jan 29 2016
+[Lamichhaney  et al. 2016](http://www.ncbi.nlm.nih.gov/pubmed/26569123) Structural genomic changes underlie alternative reproductive strategies in the ruff (Philomachus pugnax).
+
 ##### Fri. Jan 22 2016
 [Stephan 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13288/epdf) Signatures of positive selection: from selective sweeps atindividual loci to subtle allele frequency changes inpolygenic adaptation
 
