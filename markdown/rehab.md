@@ -14,6 +14,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 
+#### February 2016
+#### Fri. Feb 12 2016
+[Mäki-Tanila and Hill](http://genetics.org/content/early/2014/06/26/genetics.114.165282.full-text.pdf+html) Influence of Gene Interaction on Complex Trait Variation with Multi-Locus Models
+
+#### Fri. Feb 5 2016
+[Sheehan and Song 2015](http://biorxiv.org/content/biorxiv/early/2015/10/02/028175.full.pdf) Deep learning for population genetic inference
+
 #### January 2016
 ##### Fri. Jan 29 2016
 [Lamichhaney  et al. 2016](http://www.ncbi.nlm.nih.gov/pubmed/26569123) Structural genomic changes underlie alternative reproductive strategies in the ruff (Philomachus pugnax).
