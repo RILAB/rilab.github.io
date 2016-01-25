@@ -56,7 +56,7 @@ Josh joined the lab in February 2016 to work on linked selection and the evoluti
 <div style="float: left">
 <img src="https://pbs.twimg.com/profile_images/547907754757586944/5RcNnq3U_400x400.jpeg" style="border:10px solid white"; width=100px>
 </div>
-**Emily Josephs** <a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Emily Josephs** <a href="http://emjosephs.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Emily joined the lab in January 2016. She is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org). 
 
@@ -72,7 +72,7 @@ Simon joined the lab in October 2014. He is working on structural variation and 
 <div style="float: left">
 <img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Jinliang joined the lab in October 2014 to work on maize quantitative genetics and the genetics of nitrogen fixation. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data.
 <br><br>
@@ -100,7 +100,7 @@ Anna is a 4th year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 </div>
 **Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Michelle is a 2nd year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte.
+Michelle is a 2nd year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
 
 <br><br><br>
 <div style="float: left">
