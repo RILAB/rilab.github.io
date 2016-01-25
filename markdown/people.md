@@ -46,11 +46,19 @@ Luis joined the lab in September 2015. He is working on recombination rate varia
 -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/emjo.jpg" style="border:10px solid white"; width=100px>
+<img src="https://scholar.google.fr/citations?view_op=view_photo&user=FmClXYIAAAAJ&citpid=9" style="border:10px solid white"; width=100px>
 </div>
-**Emily Josephs** <a href="https://twitter.com/SimonByfield"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=uZTFIaAAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Josh Hough** <a href="https://twitter.com/joshhough415"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Simon joined the lab in October 2014. He is working on structural variation and transposable element variation in landraces and teosinte.
+Josh joined the lab in February 2016 to work on linked selection and the evolution of recombination in maize and teosinte.
+
+<br><br><br>
+<div style="float: left">
+<img src="https://pbs.twimg.com/profile_images/547907754757586944/5RcNnq3U_400x400.jpeg" style="border:10px solid white"; width=100px>
+</div>
+**Emily Josephs** <a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+
+Emily joined the lab in January 2016. She is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org). 
 
 <br><br><br>
 <div style="float: left">
