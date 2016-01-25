@@ -46,6 +46,14 @@ Luis joined the lab in September 2015. He is working on recombination rate varia
 -->
 
 <div style="float: left">
+<img src="http://www.rilab.org/images/emjo.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Emily Josephs** <a href="https://twitter.com/SimonByfield"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=uZTFIaAAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+
+Simon joined the lab in October 2014. He is working on structural variation and transposable element variation in landraces and teosinte.
+
+<br><br><br>
+<div style="float: left">
 <img src="https://avatars3.githubusercontent.com/u/8698345?v=3&s=400" style="border:10px solid white"; width=100px>
 </div>
 **Simon Renny-Byfield** <a href="https://twitter.com/SimonByfield"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=uZTFIaAAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
