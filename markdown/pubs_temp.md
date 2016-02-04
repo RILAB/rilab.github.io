@@ -33,32 +33,26 @@ Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
 * [The genomic impacts of drift and selection for hybrid performance in maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CC0QFjABahUKEwiY8ezQoa3IAhWRL4gKHYbZCYU&url=http%3A%2F%2Fwww.genetics.org%2Fcontent%2Fearly%2F2015%2F09%2F18%2Fgenetics.115.182410.abstract&usg=AFQjCNF6HUbfJ3ij4yqX75WFIP7h0VqD8g&sig2=7Gw1t6U1cc7imLVZEUWlHQ) [[preprint](http://arxiv.org/abs/1307.7313)] CITES:10457251071989199418 <div style="display: inline"  data-badge-popover="right" data-doi="10.1534/genetics.115.182410" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  
 
-<br>
+
 * [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html) CITES:0  <div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**, Yang B, Frommer WB  
 
-<br>
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297) [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] <!-- [[github](https://github.com/rossibarra/hilo_paper)] --> [[4 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2741664858361885827)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J** 
 
-<br>
 * [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)] CITES:0 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
-<br>
 * [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861) CITES:15579853227920259642 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7554/eLife.05861" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Hake S, **Ross-Ibarra J**   
 
-<br>
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] CITES:14394472478509816248,10810382578079898537 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/NPLANTS.2014.3" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT     
 
-<br>
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf) CITES:10306546315448360067 <div style="display: inline"  data-badge-popover="right"  data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**     
 
-<br>
 * [Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]  CITES:726174711625580935 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1004915" data-hide-no-mentions="true" class="altmetric-embed"></div>      
 Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM 
 
