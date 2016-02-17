@@ -14,11 +14,22 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 
+#### March 2016
+##### Friday Mar 4
+[Keller and Fitzpatrick 2014](http://onlinelibrary.wiley.com/doi/10.1111/ele.12376/abstract) Ecological genomics meets community-level modelling of biodiversity: mapping the genomic landscape of current and future environmental adaptation
+
 #### February 2016
-#### Fri. Feb 12 2016
+
+##### Fri. Feb 26
+[Rausher and Delph 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12687/abstract) When does understanding phenotypic evolution require identification of the underlying genes?
+
+##### Fri. Feb 19 2016
+[Gao et al 2015](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0867-y) Landscape and evolutionary dynamics of terminal repeat retrotransposons in miniature in plant genomes
+
+##### Fri. Feb 12 2016
 [Mäki-Tanila and Hill](http://genetics.org/content/early/2014/06/26/genetics.114.165282.full-text.pdf+html) Influence of Gene Interaction on Complex Trait Variation with Multi-Locus Models
 
-#### Fri. Feb 5 2016
+##### Fri. Feb 5 2016
 [Sheehan and Song 2015](http://biorxiv.org/content/biorxiv/early/2015/10/02/028175.full.pdf) Deep learning for population genetic inference
 
 #### January 2016

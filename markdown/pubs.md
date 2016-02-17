@@ -14,7 +14,7 @@ Wolfgruber TK, Nakashima MM, Schneider KL, ...(4 authors)... **Bilinski P**, Daw
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
 
 * ANGSD-wrapper  [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-**Durvasula A**, **Kent TV**, Hoffman PJ, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
+**Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
 
 * Construction of the third generation Zea mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
@@ -25,7 +25,7 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 
 ### 2016
 
-* Maize diversity associated with social origin and environmental variation in southern Mexico.  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>      
+* Maize diversity associated with social origin and environmental variation in southern Mexico.  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
 ### 2015
