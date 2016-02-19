@@ -28,7 +28,7 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 * Maize diversity associated with social origin and environmental variation in southern Mexico.  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
-*  High quality maize centromere 10 sequence reveals evidence of frequent recombination events
+*  High quality maize centromere 10 sequence reveals evidence of frequent recombination events  
 Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
 
 ### 2015
