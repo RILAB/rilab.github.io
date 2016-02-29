@@ -44,7 +44,7 @@ Anne has worked as a lab manager since November of 2012, and is in charge of ove
 
 Luis joined the lab in March 2016. He is working on recombination rate variation in maize landraces and teosinte.  
 
-<br><br><br><br>
+<br><br><br><br><br>
 <div style="float: left">
 <img src="https://scholar.google.fr/citations?view_op=view_photo&user=FmClXYIAAAAJ&citpid=9" style="border:10px solid white"; width=100px>
 </div>
