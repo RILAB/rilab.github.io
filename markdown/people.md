@@ -36,15 +36,15 @@ Anne has worked as a lab manager since November of 2012, and is in charge of ove
 
 ### Postdoctoral Scholars
 
-<!--<div style="float: left">  
+<div style="float: left">  
 </a><img src="http://www.rilab.org/images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Luis Avila** 
 <a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Luis joined the lab in September 2015. He is working on recombination rate variation in maize landraces and teosinte. 
--->
+Luis joined the lab in March 2016. He is working on recombination rate variation in maize landraces and teosinte.  
 
+<br><br><br><br>
 <div style="float: left">
 <img src="https://scholar.google.fr/citations?view_op=view_photo&user=FmClXYIAAAAJ&citpid=9" style="border:10px solid white"; width=100px>
 </div>
@@ -58,15 +58,8 @@ Josh joined the lab in February 2016 to work on linked selection and the evoluti
 </div>
 **Emily Josephs** <a href="http://emjosephs.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Emily joined the lab in January 2016. She is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org). 
+Emily came to UC Davis in January 2016. She is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org). 
 
-<br><br><br>
-<div style="float: left">
-<img src="https://avatars3.githubusercontent.com/u/8698345?v=3&s=400" style="border:10px solid white"; width=100px>
-</div>
-**Simon Renny-Byfield** <a href="https://twitter.com/SimonByfield"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=uZTFIaAAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
-
-Simon joined the lab in October 2014. He is working on structural variation and transposable element variation in landraces and teosinte.
 
 <br><br><br>
 <div style="float: left">

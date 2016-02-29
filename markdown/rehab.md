@@ -15,6 +15,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2016
 
 #### March 2016
+##### Friday Mar 11
+[Lamichhaney et al. 2012](http://www.pnas.org/content/109/47/19345.short)
+ Population-scale sequencing reveals genetic differentiation due to local adaptation in Atlantic herring
+
 ##### Friday Mar 4
 [Keller and Fitzpatrick 2014](http://onlinelibrary.wiley.com/doi/10.1111/ele.12376/abstract) Ecological genomics meets community-level modelling of biodiversity: mapping the genomic landscape of current and future environmental adaptation
 

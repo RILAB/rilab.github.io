@@ -13,7 +13,7 @@ Wolfgruber TK, Nakashima MM, Schneider KL, ...(4 authors)... **Bilinski P**, Daw
 * Recent demography drives changes in linked selection across the maize genome [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
 
-* ANGSD-wrapper  [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="https://dx.doi.org/10.7287/peerj.preprints.1472v1" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* ANGSD-wrapper  [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
 
 * Construction of the third generation Zea mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -25,11 +25,13 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 
 ### 2016
 
-* Maize diversity associated with social origin and environmental variation in southern Mexico.  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1192v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Maize diversity associated with social origin and environmental variation in southern Mexico.](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2016.10" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
-*  High quality maize centromere 10 sequence reveals evidence of frequent recombination events  
+*  [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full) <div style="display: inline"  data-badge-popover="right"  data-doi="10.3389/fpls.2016.00308" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
+
+
 
 ### 2015
 
