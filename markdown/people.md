@@ -108,29 +108,19 @@ Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci
 
 ### Lab Alumni
 
-[Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
-
-Sayuri Tsukahara: Postdoc 2013-2015
-
-[Tim Beissinger](http://timbeissinger.github.io): Postdoc 2014-2015 (Research Geneticist, USDA-ARS U. Missouri)
-
-[Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (Postbac Researcher, Vienna Biocenter)
-
-Nivaz Brar: Undergraduate 2014-2015
-
-[Tyler Kent](https://github.com/tvkent): Undergraduate 2013-2015 (PhD Student, U. Toronto)
-
-[Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student UC Davis)
-
-[Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWM)
-
-[Shohei Takuno](https://sites.google.com/site/shoheitakuno/): Postdoc 2012-2013 (Asst. Professor, SOKENDAI)
-
-[Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html): Postdoc 2010-2013 (Asst. Professor, Iowa State)
-
-[Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392): Postdoc 2010-2012 (Sr. Research Fellow, U. Oulu)
-
-[Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm): Postdoc 2009-2011 (Research Coordinator, N2Africa)
+* [Simon Renny-Byfield](): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer) 
+* [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
+* Sayuri Tsukahara: Postdoc 2013-2015
+* [Tim Beissinger](http://timbeissinger.github.io): Postdoc 2014-2015 (Research Geneticist, USDA-ARS U. Missouri)
+* [Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (Postbac Researcher, Vienna Biocenter)
+* Nivaz Brar: Undergraduate 2014-2015
+* [Tyler Kent](https://github.com/tvkent): Undergraduate 2013-2015 (PhD Student, U. Toronto)
+* [Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student UC Davis)
+* [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWM)
+* [Shohei Takuno](https://sites.google.com/site/shoheitakuno/): Postdoc 2012-2013 (Asst. Professor, SOKENDAI)
+* [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html): Postdoc 2010-2013 (Asst. Professor, Iowa State)
+* [Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392): Postdoc 2010-2012 (Sr. Research Fellow, U. Oulu)
+* [Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm): Postdoc 2009-2011 (Research Coordinator, N2Africa)
 
 
 ### Visiting Scholar: for >100 hours of scholastic visitation
@@ -164,13 +154,13 @@ Nivaz Brar: Undergraduate 2014-2015
 
 **Evolutionary genetics of highland adaptation in maize**
 
+* [Tim Beissinger](http://timbeissinger.github.io)
+* [Graham Coop](https://gcbias.org)
 * [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
 * [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
+* [Ruben Rellan-Alvarez](http://www.rrlab.org)
+* [Dan Runcie](http://runcielab.ucdavis.edu/)
 * [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165)
-
-**Linked selection in maize**  
-
-* [Tim Beissinger](http://timbeissinger.github.io)
 
 **Genetic assimilation in teosinte**
 
