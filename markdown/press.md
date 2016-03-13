@@ -1,3 +1,7 @@
+### 2016
+
+* Paper on [seed filling in domesticated maize](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) highlighted by [F1000](http://f1000.com/prime/725901667)
+
 ### 2015
 
 * Our paper on [origins and evolution of ancient maize in the Southwest US](http://www.rilab.org/pdfs/fonseca2015.pdf) got a fair amount of press, including [UC Davis Press Release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124), [Science World Report](http://www.scienceworldreport.com/articles/21122/20150112/origins-maize-dna-tests-reveal-two-paths.htm), [Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna), [SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana), [Science magazine](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn), [Nature Plants commentary](http://www.nature.com/articles/nplants20149), and [The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)   

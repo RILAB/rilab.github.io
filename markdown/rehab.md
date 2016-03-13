@@ -15,6 +15,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2016
 
 #### March 2016
+##### Friday Mar 25
+[Marschall et al. 2016](http://biorxiv.org/content/early/2016/03/12/043430) Computational Pan-Genomics: Status, Promises and Challenges
+
+
+
+##### Friday Mar 18
+TBA
+
 ##### Friday Mar 11
 [Lamichhaney et al. 2012](http://www.pnas.org/content/109/47/19345.short)
  Population-scale sequencing reveals genetic differentiation due to local adaptation in Atlantic herring
