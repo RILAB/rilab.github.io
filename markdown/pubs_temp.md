@@ -7,8 +7,6 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-<!-- * High quality maize centromere 10 sequence reveals evidence of frequent double-strand DNA breaks  
-Wolfgruber TK, Nakashima MM, Schneider KL, ...(4 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting GG  -->
 
 * Recent demography drives changes in linked selection across the maize genome [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
@@ -30,7 +28,6 @@ Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S
 
 *  [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full) <div style="display: inline"  data-badge-popover="right"  data-doi="10.3389/fpls.2016.00308" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
-
 
 
 ### 2015
@@ -66,7 +63,7 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM
 * [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]  CITES:2471984348452499818  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.tree.2014.10.004" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Tiffin P, **Ross-Ibarra J**       
 
-* [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]  CITES:4504435895012493115,7474610793083089141 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]  CITES:7474610793083089141 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**       
 
 * [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)] CITES:18217003468169681800 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/g3.113.008870" data-hide-no-mentions="true" class="altmetric-embed"></div>  
