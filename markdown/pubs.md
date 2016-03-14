@@ -35,7 +35,7 @@ Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ib
 
 ### 2015
 
-* [The genomic impacts of drift and selection for hybrid performance in maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CC0QFjABahUKEwiY8ezQoa3IAhWRL4gKHYbZCYU&url=http%3A%2F%2Fwww.genetics.org%2Fcontent%2Fearly%2F2015%2F09%2F18%2Fgenetics.115.182410.abstract&usg=AFQjCNF6HUbfJ3ij4yqX75WFIP7h0VqD8g&sig2=7Gw1t6U1cc7imLVZEUWlHQ) [[preprint](http://arxiv.org/abs/1307.7313)] [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )] <div style="display: inline"  data-badge-popover="right" data-doi="10.1534/genetics.115.182410" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [The genomic impacts of drift and selection for hybrid performance in maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CC0QFjABahUKEwiY8ezQoa3IAhWRL4gKHYbZCYU&url=http%3A%2F%2Fwww.genetics.org%2Fcontent%2Fearly%2F2015%2F09%2F18%2Fgenetics.115.182410.abstract&usg=AFQjCNF6HUbfJ3ij4yqX75WFIP7h0VqD8g&sig2=7Gw1t6U1cc7imLVZEUWlHQ) [[preprint](http://arxiv.org/abs/1307.7313)] [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10457251071989199418 )]  <div style="display: inline"  data-badge-popover="right" data-doi="10.1534/genetics.115.182410" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  
 
 
@@ -66,7 +66,7 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM
 * [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]  [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471984348452499818 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.tree.2014.10.004" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Tiffin P, **Ross-Ibarra J**       
 
-* [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]  [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]  [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504435895012493115,7474610793083089141 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**       
 
 * [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)] [[8 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217003468169681800 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/g3.113.008870" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -165,7 +165,7 @@ Whitney KD, Baack EJ, Hamrick JL, Godt, MJW ...[3 authors]... Goodwillie C, Kali
 Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK  
 <!--[[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)]-->
 
-* [Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract) [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16490180574048863991 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/molbev/msp249" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract) [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16490180574048863991 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/molbev/msp249" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Hollister JD, **Ross-Ibarra J**, Gaut BS   
 
 * [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html) [[26 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394221802384617228 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2009.110" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -219,7 +219,7 @@ Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ
 * [The evolution of recombination under domestication: a test of two hypotheses](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf) [[49 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3095269849835314095 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1086/380606" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**  
 
-* [Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf) [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4811395532917369896 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1525/msem.2003.19.2.287" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf) [[ citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4811395532917369896 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1525/msem.2003.19.2.287" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**   
 
 * [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf) [[33 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
