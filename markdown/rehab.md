@@ -13,15 +13,20 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2016
+#### April 2016
+##### April 8 2016
+[He and Knowles 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13619/full) Identifying targets of selection in mosaic genomes with machine learning: applications in Anopheles gambiae for detecting sites within locally adapted chromosomal inversions
+
+##### April 1 2016
+[Lolle et al. 2005](http://www.genetics.org/content/early/2016/03/21/genetics.115.184630) Genome-wide non-mendelian inheritance of extra-genomic information in Arabidopsis. 
 
 #### March 2016
 ##### Friday Mar 25
 [Marschall et al. 2016](http://biorxiv.org/content/early/2016/03/12/043430) Computational Pan-Genomics: Status, Promises and Challenges
 
 
-
 ##### Friday Mar 18
-TBA
+No R.E.H.A.B. (Maize Meeting!)
 
 ##### Friday Mar 11
 [Lamichhaney et al. 2012](http://www.pnas.org/content/109/47/19345.short)
