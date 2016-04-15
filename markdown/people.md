@@ -67,9 +67,9 @@ Emily came to UC Davis in January 2016. She is an NSF plant genome postdoc worki
 </div>
 **Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Wenbin Mei received his undergraduate degree in herpetlogy at Nanjing Normal University, followed by a masters at Central Washington University working on gymnosperm phylogenomics. He joins the lab in May 2016 after a PhD on alternative splicing in grasses in Brad Barbazuk’s lab at the University of Florida.  He will be working on the population genetics of structural variants in maize and teosinte. 
+Wenbin joins the lab in May 2016 after a PhD on alternative splicing in grasses in Brad Barbazuk’s lab at the University of Florida. He will be working on the population genetics of structural variants in maize and teosinte.
 
-<br>
+<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
 </div>
