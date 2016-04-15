@@ -63,11 +63,19 @@ Emily came to UC Davis in January 2016. She is an NSF plant genome postdoc worki
 
 <br><br><br>
 <div style="float: left">
+<img src="http://www.rilab.org/images/wenbin.JPG" style="border:10px solid white"; width=100px>
+</div>
+**Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+
+Wenbin Mei received his undergraduate degree in herpetlogy at Nanjing Normal University, followed by a masters at Central Washington University working on gymnosperm phylogenomics. He joins the lab in May 2016 after a PhD on alternative splicing in grasses in Brad Barbazuk’s lab at the University of Florida.  He will be working on the population genetics of structural variants in maize and teosinte. 
+
+<br>
+<div style="float: left">
 <img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Jinliang joined the lab in October 2014 to work on maize quantitative genetics and the genetics of nitrogen fixation. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data.
+Jinliang joined the lab in October 2014 to work on maize quantitative genetics and the genetics of nitrogen fixation. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data. 
 <br><br>
 
 ### Graduate Students

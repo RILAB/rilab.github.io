@@ -14,6 +14,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 #### April 2016
+##### Friday April 22 2016
+Sanjak et al. 2016 [link to manuscript on Slack](https://rilab.slack.com/files/jri/F10TG26GP/sanjak2016_genemodels_popgrowth.pdf) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth 
 ##### Friday April 15 2016
 Novikova et al. manuscript (see \#papers channel on slack for pdf)
 
