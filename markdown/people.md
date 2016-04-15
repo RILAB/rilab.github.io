@@ -15,7 +15,7 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 ### PI
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/jri.jpg" style="border:10px solid white"; width=100px>
+<img src="https://static.wixstatic.com/media/fe9228_5f5f3dd96bd74c6f8998e95b7e64a4de.jpg/v1/fill/w_342,h_406,al_c,q_80,usm_0.66_1.00_0.01/fe9228_5f5f3dd96bd74c6f8998e95b7e64a4de.jpg" style="border:10px solid white"; width=100px>
 </div>
 <br><br>**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a> 
 
