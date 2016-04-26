@@ -14,8 +14,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 #### April 2016
+
+##### Friday May 6 2016
+[Kelley et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13573/abstract?wol1URL=/doi/10.1111/mec.13573/abstract&regionCode=US-CA&identityKey=77f2fe64-6ec1-4c14-a95a-63aa4a9960d1) The multivariate association between genomewide DNA methylation and climate across the range of Arabidopsis thaliana
+
+##### Friday April 29 2016
+[Roles et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/evo.12913/abstract) Field measurements of genotype by environment interaction for fitness caused by spontaneous mutations in Arabidopsis thaliana
+
 ##### Friday April 22 2016
-Sanjak et al. 2016 [link to manuscript on Slack](https://rilab.slack.com/files/jri/F10TG26GP/sanjak2016_genemodels_popgrowth.pdf) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth 
+[Sanjak et al. 2016](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth 
+
 ##### Friday April 15 2016
 Novikova et al. manuscript (see \#papers channel on slack for pdf)
 
