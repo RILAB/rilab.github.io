@@ -13,13 +13,18 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2016
-#### April 2016
+#### May 2016
+
+##### Friday May 13 2016
+[Exposito-Alonso et al 2016](http://biorxiv.org/content/early/2016/04/25/050203) The rate and effect of de novo mutations in natural populations of Arabidopsis thaliana
 
 ##### Friday May 6 2016
 [Kelley et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13573/abstract?wol1URL=/doi/10.1111/mec.13573/abstract&regionCode=US-CA&identityKey=77f2fe64-6ec1-4c14-a95a-63aa4a9960d1) The multivariate association between genomewide DNA methylation and climate across the range of Arabidopsis thaliana
 
 ##### Friday April 29 2016
 [Roles et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/evo.12913/abstract) Field measurements of genotype by environment interaction for fitness caused by spontaneous mutations in Arabidopsis thaliana
+
+#### April 2016
 
 ##### Friday April 22 2016
 [Sanjak et al. 2016](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth 
