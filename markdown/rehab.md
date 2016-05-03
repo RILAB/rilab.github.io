@@ -14,6 +14,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 #### May 2016
+##### Friday May 20 2016
+[Paccard et al 2016](http://www.journals.uchicago.edu/doi/pdfplus/10.1086/685643) Quantitative Genetic Architecture at Latitudinal Range Boundaries: Reduced Variation but Higher Trait Independence
 
 ##### Friday May 13 2016
 [Exposito-Alonso et al 2016](http://biorxiv.org/content/early/2016/04/25/050203) The rate and effect of de novo mutations in natural populations of Arabidopsis thaliana
