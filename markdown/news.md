@@ -1,5 +1,30 @@
 ## News
 
+##2016
+
+### June 1
+Wenbin Mei starts as new postdoc in the lab to look at structural variation in maize and teosinte.
+
+### May 5
+Michelle Stitzer wins prestigious [ARCS](https://www.arcsfoundation.org) fellowship!
+
+### May 3 
+NSF preproposal with Yaniv Brandvain invited for full proposal.
+
+### April 10
+Simon Renny-Byfield is off for a job at Dupont Pioneer, working in the same group as lab collaborators Justin Gerke and Eli Rodgers-Melnick. A sweet gig!
+
+### March 25
+JRI reveives official word on promotion to full professor!
+
+### March 16
+JRI wins Mid-Career Award for Excellence in Maize Genetics at the Maize Genetics Conference in Florida.
+
+### Feb 10
+Josh Hough begins as new postdoc in the lab, to work on linked selection in teosinte.
+
+##2015
+
 ### September 18
 
 [Kate Crosby](https://github.com/kate-crosby) leaves the lab this month for her job in the Monsanto [Emerging Leaders Program](http://www.monsanto.com/careers/pages/emerging-leaders-in-science.aspx).  
