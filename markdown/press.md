@@ -1,5 +1,6 @@
 ### 2016
 
+* [Video](https://www.youtube.com/watch?v=aXLuWruOmO4) of JRI speaking at JGI
 * Paper on [seed filling in domesticated maize](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) highlighted by [F1000](http://f1000.com/prime/725901667)
 
 ### 2015
@@ -10,7 +11,7 @@
 * Our [2011 paper](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) on the geographical origins of maize shows up in a [blog on Barbara McClintock's discoveries](http://www.barbaraonthebill.com/discoveries/) as part of a movment to put her on the $10 bill.  
 * [Interviews with the authors](http://morrell-lab.cfans.umn.edu/interviews/interviews.htm) of our 2011 and 2012 papers on domestication for a UMN course on Crop Evolution.
 * [Phys.org](http://phys.org/news/2015-11-higher-yielding-crops-sugar-import.html) runs press release on our [Sweet4 paper](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html). 
-* [Scientific Collections International](http://blog.scicoll.org/2015/11/teosinte-today-maize-tomorrow.html) write on our work with Dolore and gene expression in teosinte grown in ancient climes.
+* [Scientific Collections International](http://blog.scicoll.org/2015/11/teosinte-today-maize-tomorrow.html) write on our work with Dolores Piperno and gene expression in teosinte grown in ancient climes.
 * Our [paper on drift and selection](http://www.genetics.org/content/201/3/1201) in maize [highlighted by editors](http://www.genetics.org/content/201/3/NP?etoc) in Genetics and blogged about at [[Haldane's Sieve](http://haldanessieve.org/2013/08/12/our-paper-the-genomic-impacts-of-drift-and-selection-for-hybrid-performance-in-maize/)]. 
 * JRI's tweet on removing journal names quoted in this piece in [Nature's twitter gossip column](http://www.nature.com/news/what-s-in-a-journal-name-1.18987)
 

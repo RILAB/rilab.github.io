@@ -13,7 +13,11 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2016
-#### May 2016
+### June 2016
+##### Friday June 3 2016
+[Wales et al](https://rilab.slack.com/files/jri/F1CQU52JX/th162_curbioreport_300516-2.pdf) Genome sequence of a 5300-year-old maize cob recovered from the Tehuacan Valley provides insights into the early stages of maize domestication
+
+### May 2016
 ##### Friday May 27 2016
 [Paccard et al 2016](http://www.journals.uchicago.edu/doi/pdfplus/10.1086/685643) Quantitative Genetic Architecture at Latitudinal Range Boundaries: Reduced Variation but Higher Trait Independence
 
@@ -29,7 +33,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ##### Friday April 29 2016
 [Roles et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/evo.12913/abstract) Field measurements of genotype by environment interaction for fitness caused by spontaneous mutations in Arabidopsis thaliana
 
-#### April 2016
+### April 2016
 
 ##### Friday April 22 2016
 [Sanjak et al. 2016](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth 
@@ -43,10 +47,9 @@ Novikova et al. manuscript (see \#papers channel on slack for pdf)
 ##### Friday April 1 2016
 [Lolle et al. 2005](http://www.genetics.org/content/early/2016/03/21/genetics.115.184630) Genome-wide non-mendelian inheritance of extra-genomic information in Arabidopsis. 
 
-#### March 2016
+### March 2016
 ##### Friday Mar 25
 [Marschall et al. 2016](http://biorxiv.org/content/early/2016/03/12/043430) Computational Pan-Genomics: Status, Promises and Challenges
-
 
 ##### Friday Mar 18
 No R.E.H.A.B. (Maize Meeting!)
@@ -58,7 +61,7 @@ No R.E.H.A.B. (Maize Meeting!)
 ##### Friday Mar 4
 [Keller and Fitzpatrick 2014](http://onlinelibrary.wiley.com/doi/10.1111/ele.12376/abstract) Ecological genomics meets community-level modelling of biodiversity: mapping the genomic landscape of current and future environmental adaptation
 
-#### February 2016
+### February 2016
 
 ##### Fri. Feb 26
 [Rausher and Delph 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12687/abstract) When does understanding phenotypic evolution require identification of the underlying genes?
@@ -72,7 +75,7 @@ No R.E.H.A.B. (Maize Meeting!)
 ##### Fri. Feb 5 2016
 [Sheehan and Song 2015](http://biorxiv.org/content/biorxiv/early/2015/10/02/028175.full.pdf) Deep learning for population genetic inference
 
-#### January 2016
+### January 2016
 ##### Fri. Jan 29 2016
 [Lamichhaney  et al. 2016](http://www.ncbi.nlm.nih.gov/pubmed/26569123) Structural genomic changes underlie alternative reproductive strategies in the ruff (Philomachus pugnax).
 
@@ -86,7 +89,7 @@ No R.E.H.A.B. (Maize Meeting!)
 [Marsden et al. 2015](http://www.pnas.org/content/early/2015/12/17/1512501113.long) Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs
 
 ## 2015
-#### December 2015
+### December 2015
 ##### Fri. Dec. 18 2015 
 [Steige et al. 2015](http://biorxiv.org/content/early/2015/12/10/034025) The impact of natural selection on the distribution of cis-regulatory variation across the genome of an outcrossing plant
 
@@ -96,7 +99,7 @@ No R.E.H.A.B. (Maize Meeting!)
 ##### Fri. Dec. 4 2015
 [Remington 2015](http://www.ncbi.nlm.nih.gov/pubmed/26374707) Alleles versus mutations: Understanding the evolution of genetic architecture requires a molecular perspective on allelic origins.
 
-#### November 2015
+### November 2015
 
 ##### Fri. Nov. 27 2015
 No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](http://www.biomedcentral.com/1471-2156/15/117/) nonetheless.
@@ -112,7 +115,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 [Scheiner et al. 2015](http://www.jstor.org/stable/10.1086/680552) The Genetics of Phenotypic Plasticity. XIV. Coevolution
 
-#### October 2015
+### October 2015
 
 ##### Fri. Oct. 30 2015
 
@@ -140,7 +143,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 [blog post](http://www.rilab.org/blogs/02102015.html)
 
-#### September 2015
+### September 2015
 
 ##### Fri. Sept. 25 2015
 
@@ -158,7 +161,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 [Kuester et al. 2015](http://biorxiv.org/content/early/2015/08/20/024950) A resurrection experiment finds evidence of both reduced genetic diversity and adaptive evolution in the agricultural weed Ipomoea purpurea
 
-#### August 2015
+### August 2015
 
 ##### Fri. Aug. 28 2015
 
@@ -176,7 +179,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 [Castellano et al. 2015](http://biorxiv.org/content/early/2015/06/27/021600) Adaptive evolution is substantially impeded by Hill-Robertson interference in Drosophila
 
-#### July 2015
+### July 2015
 
 ##### Fri. July 31 2015
 
@@ -187,10 +190,6 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 [Hollister et al. 2010](http://mbe.oxfordjournals.org/content/27/2/409.abstract) Indel-Associated Mutation Rate Varies with Mating System in Flowering Plants
 
 [Tian et al. 2008](http://www.nature.com/nature/journal/v455/n7209/abs/nature07175.html) Single-nucleotide mutation rate increases close to insertions/deletions in eukaryotes
-
-
-
- 
 
 ##### Fri. July 24 2015
 
@@ -208,8 +207,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 [Fierst et al. 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005323) Reproductive Mode and the Evolution of Genome Size and Structure in Caenorhabditis Nematodes
 
-
-#### June 2015
+### June 2015
 
 ##### Fri. June 26 2015
 
@@ -228,7 +226,7 @@ Selective strolls: fixation and extinction in diploids are slower for weakly sel
 
 [Wilkes 1977](http://www.jstor.org/stable/4253844?seq=1#page_scan_tab_contents) Hybridization of Maize and Teosinte, in Mexico and Guatemala and the Improvement of Maize
 
-#### May 2015
+### May 2015
 
 ##### Fri. May 29, 2015
 
@@ -253,7 +251,7 @@ Selective strolls: fixation and extinction in diploids are slower for weakly sel
 
 [blog post](blogs/01052015.html)
 
-#### April 2015
+### April 2015
 
 ##### Fri. April 24, 2015
 
@@ -271,7 +269,7 @@ No R.E.H.A.B. Come to the [UCDavis Plant Breeding Symposium](http://plantbreedin
 
 Romero et al. SeeDs manuscript (email Jeff for the URL).
 
-#### March 2015
+### March 2015
 
 ##### Fri. March 27, 2015
 
@@ -289,7 +287,7 @@ NO R.E.H.A.B. -- [MGC](http://www.maizegdb.org/maize_meeting/2015/) baby!
 
 [Bergland et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004775) Genomic Evidence of Rapid and Stable Adaptive Oscillations over Seasonal Time Scales in Drosophila
 
-#### February 2015
+### February 2015
 
 ##### Fri. Feb. 27, 2015
 

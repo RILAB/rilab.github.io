@@ -137,6 +137,8 @@ Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci
 * [Peter Morrell](http://faculty.agronomy.cfans.umn.edu/pmorrell/)
 * [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics)
 * [Ginnie Morrison](http://www.panzea.org/#!ginnie-morrison/c1lov)
+* [Kelly Dawe](http://www.dawelab.org)
+
 
 ### Fellow of the R-I Lab: for >500 hours of scholastic fellowship
 
@@ -153,12 +155,11 @@ Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci
 * [Qi Sun](http://vivo.cornell.edu/display/individual24418)
 * [Doreen Ware](http://warelab.org)
 
-**Functional genomics of maize centromeres**
+**Genome size variation in maize and teosinte**
 
 * [Jim Birchler](http://ipg.missouri.edu/faculty/birchler.cfm)
 * [Kelly Dawe](http://www.dawelab.org)
-* [Jiming Jiang](http://genetics.wisc.edu/Jiang.htm)
-* [Gernot Presting](http://genomics.hawaii.edu/prestinglab/)
+* [Jiming Jiang](http://genetics.wisc.edu/Jiang.htm)* 
 
 **Evolutionary genetics of highland adaptation in maize**
 
