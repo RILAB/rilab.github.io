@@ -14,6 +14,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### June 2016
+##### Friday June 10 2016
+[Cardoso-Moreira et al. 2016](http://m.genome.cshlp.org/content/26/6/787) Evidence for the fixation of gene duplications by positive selection in Drosophila
+
 ##### Friday June 3 2016
 [Wales et al](https://rilab.slack.com/files/jri/F1CQU52JX/th162_curbioreport_300516-2.pdf) Genome sequence of a 5300-year-old maize cob recovered from the Tehuacan Valley provides insights into the early stages of maize domestication
 
