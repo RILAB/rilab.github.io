@@ -14,6 +14,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### June 2016
+##### Friday June 17 2016
+[Quadrana et al](https://elifesciences.org/content/5/e15716) The Arabidopsis thaliana mobilome and its impact at the species level
+
+
+
 ##### Friday June 10 2016
 [Cardoso-Moreira et al. 2016](http://m.genome.cshlp.org/content/26/6/787) Evidence for the fixation of gene duplications by positive selection in Drosophila
 
