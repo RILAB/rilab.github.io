@@ -8,16 +8,17 @@ From time to time we also blog our thoughts on the papers we read. One or more o
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
 
-We're proud of the fact that a number of journal clubs have now been modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), and [detox](http://beissingerlab.org/Detox/).
+We're proud of the fact that a number of journal clubs have now been modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ) and [detox](http://beissingerlab.org/Detox/).
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2016
 ### June 2016
-##### Friday June 17 2016
+##### Friday June 24 2016
 [Quadrana et al](https://elifesciences.org/content/5/e15716) The Arabidopsis thaliana mobilome and its impact at the species level
 
-
+##### Friday June 17 2016
+[1001 Genomes Consortium](http://www.cell.com/cell/abstract/S0092-8674(16)30667-5) 1,135 Genomes Reveal the Global Pattern of Polymorphism in Arabidopsis thaliana
 
 ##### Friday June 10 2016
 [Cardoso-Moreira et al. 2016](http://m.genome.cshlp.org/content/26/6/787) Evidence for the fixation of gene duplications by positive selection in Drosophila

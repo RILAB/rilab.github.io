@@ -1,6 +1,6 @@
 # Ross-Ibarra Lab
 
-Welcome to the Ross-Ibarra Lab in the [Dept. of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) at the [University of California Davis](http://www.ucdavis.edu). Our lab works on the evolutionary genetics of maize and teosinte. Click through images and links to see who we are and what we do, and check out the news and lab docs for udpates and latest happenings.  
+Welcome to the Ross-Ibarra Lab in the [Dept. of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) at the [University of California Davis](http://www.ucdavis.edu). Our lab works on the evolutionary genetics of maize and teosinte. Click through images and links to see who we are and what we do, and check out the news and lab docs for updates and latest happenings.  
 
 <br>
 
