@@ -13,7 +13,14 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2016
+### July 2016
+##### Friday July 8 
+(http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3725466/)
+
+##### Friday July 1
+
 ### June 2016
+
 ##### Friday June 24 2016
 [Quadrana et al](https://elifesciences.org/content/5/e15716) The Arabidopsis thaliana mobilome and its impact at the species level
 
