@@ -14,10 +14,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### July 2016
+
 ##### Friday July 8 
-(http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3725466/)
+[Bailey et a 2015](http://m.mbe.oxfordjournals.org/content/early/2015/03/26/molbev.msv033.full) The Effect of Selection Environment on the Probability of Parallel Evolution
 
 ##### Friday July 1
+[Zhena and Andolfatto 2012](http://link.springer.com/protocol/10.1007%2F978-1-61779-585-5_6) Methods to Detect Selection on Noncoding DNA
 
 ### June 2016
 
