@@ -173,7 +173,7 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 * [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf) CITES:1250430020833640405 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
 
-* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346) CITES:15690173176823572703  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346) CITES:15690173176823572703,5159519491829986435  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
 
 * [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf) CITES:853064656161512620 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1469-8137.2009.02984.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -207,7 +207,7 @@ Gaut BS, **Ross-Ibarra J**
 
 ### 2001-2006
 
-* [Mitochondrial DNA and population size](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf) CITES:7029521719248710591 <div style="display: inline"  data-badge-popover="right"  data-pmid="17144000" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Mitochondrial DNA and population size](http://www.rilab.org/pdfs/Wares-et-al-2006.pdf) CITES:17853791691398286654 <div style="display: inline"  data-badge-popover="right"  data-pmid="17144000" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ   
 
 * [Quantitative trait loci and the study of plant domestication](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)  CITES:7426372046771115962 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/1-4020-3836-4_18" data-hide-no-mentions="true" class="altmetric-embed"></div>  
