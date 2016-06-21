@@ -24,7 +24,8 @@ while(<FILE>){
 	if( $_=~m/CITES/ ){
 		$_=~m/CITES:(\S+)/;
 		my $tempid=$1; 
-		if($tempid eq "0"){ 
+		print STDERR "$tempid\n";
+			if($tempid eq "0"){ 
 			 $_=~s/CITES:0/[[0 citations](http:\/\/scholar.google.com\/s    cholar?oi=bibs&hl=en&cites=$tempid )]/;
 		}
 		my $citecount=$cites{$tempid};
