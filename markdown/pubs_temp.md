@@ -8,6 +8,9 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
 
+* Evolutionary genomics of peach and almond domestication [[preprint](http://biorxiv.org/content/early/2016/06/22/060160)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+**Velasco D**, Aradhya M, **Ross-Ibarra J**
+
 * ANGSD-wrapper: utilities for analyzing next generation sequencing data [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
 
