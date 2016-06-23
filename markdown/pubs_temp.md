@@ -11,9 +11,6 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 * Evolutionary genomics of peach and almond domestication [[preprint](http://biorxiv.org/content/early/2016/06/22/060160)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 **Velasco D**, Aradhya M, **Ross-Ibarra J**
 
-* ANGSD-wrapper: utilities for analyzing next generation sequencing data [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-**Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
-
 * Construction of the third generation Zea mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
  
@@ -22,6 +19,9 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 
 
 ### 2016
+
+* ANGSD-wrapper: utilities for analyzing next generation sequencing data [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+**Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
 
 * [Recent demography drives changes in linked selection across the maize genome](http://www.nature.com/articles/doi:10.1038/nplants.2016.84.epdf?shared_access_token=67qjKLUAGOcHvdvKlS0He9RgN0jAjWel9jnR3ZoTv0OKvoV8lOPezUbhqRudPfkYJ_hBpBEqqQbeir7RYPmITOgN7-BN3Sb8gXXYZCpOUgAkJQvm6ov2fctP5AUckERxqJl75F2sxo5y6Rk6aaE7UJz9swiLEqvLuAOtYJ5VlJpsmaud8uOKr_-F7uXcly9i) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/blob/master/callSNPsAngsd_teo_july.sh)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
