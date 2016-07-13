@@ -15,6 +15,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2016
 ### July 2016
 
+##### Friday July 22
+[Sharp & Agrawal 2016](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002419) Low Genetic Quality Alters Key Dimensions of the Mutational Spectrum
+
+
+##### Friday July 15
+[Arnold et al. 2016](http://www.pnas.org/content/early/2016/06/28/1600405113.abstract) Borrowed alleles and convergence in serpentine adaptation
+
+
 ##### Friday July 8 
 [Bailey et a 2015](http://m.mbe.oxfordjournals.org/content/early/2015/03/26/molbev.msv033.full) The Effect of Selection Environment on the Probability of Parallel Evolution
 

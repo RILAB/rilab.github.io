@@ -1,5 +1,6 @@
 ### 2016
 
+* JRI quoted in the [Yolo Gardener](http://yolomg.ucanr.edu/newsletters/Yolo_Gardener63920.pdf) for not knowing what he's talking about
 * [Video](https://www.youtube.com/watch?v=aXLuWruOmO4) of JRI speaking at JGI
 * Paper on [seed filling in domesticated maize](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) highlighted by [F1000](http://f1000.com/prime/725901667)
 

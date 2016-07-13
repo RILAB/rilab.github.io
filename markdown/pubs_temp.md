@@ -39,7 +39,7 @@ Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ib
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  
 
 
-* [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3422.html) CITES:14940779386657346302  <div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com.sci-hub.bz/ng/journal/v47/n12/full/ng.3422.html) CITES:14940779386657346302  <div style="display: inline"  data-badge-popover="right" data-doi="10.1038/ng.3422" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**, Yang B, Frommer WB  
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297) [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)] [[data](https://dx.doi.org/10.6084/m9.figshare.746990.v1)] CITES:2741664858361885827  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.115.178327" data-hide-no-mentions="true" class="altmetric-embed"></div>    
