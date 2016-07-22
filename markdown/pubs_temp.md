@@ -7,14 +7,16 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+* [Diverse origins of high copy tandem repeats in grass genomes](https://peerj.com/preprints/2314/) <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.2314v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**, Zhang P, Jiang J, **Ross-Ibarra J**.  
 
-* Evolutionary genomics of peach and almond domestication [[preprint](http://biorxiv.org/content/early/2016/06/22/060160)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+* [Evolutionary genomics of peach and almond domestication](http://biorxiv.org/content/early/2016/06/22/060160) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Velasco D**, Aradhya M, **Ross-Ibarra J**
 
-* Construction of the third generation Zea mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Construction of the third generation Zea mays haplotype map](http://biorxiv.org/content/early/2015/09/16/026963) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
  
-* Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient [[preprint]](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
 
 
@@ -26,7 +28,7 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 * [Recent demography drives changes in linked selection across the maize genome](http://www.nature.com/articles/doi:10.1038/nplants.2016.84.epdf?shared_access_token=67qjKLUAGOcHvdvKlS0He9RgN0jAjWel9jnR3ZoTv0OKvoV8lOPezUbhqRudPfkYJ_hBpBEqqQbeir7RYPmITOgN7-BN3Sb8gXXYZCpOUgAkJQvm6ov2fctP5AUckERxqJl75F2sxo5y6Rk6aaE7UJz9swiLEqvLuAOtYJ5VlJpsmaud8uOKr_-F7uXcly9i) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/blob/master/callSNPsAngsd_teo_july.sh)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]  <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
 
-* [Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2016.10" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)] CITES: 13046200421462083749,13021360675733443150 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2016.10" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
 *  [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full) CITES:4675131869514095820 <div style="display: inline"  data-badge-popover="right"  data-doi="10.3389/fpls.2016.00308" data-hide-no-mentions="true" class="altmetric-embed"></div>
