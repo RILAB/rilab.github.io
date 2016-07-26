@@ -14,8 +14,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### August 2016
-##### Friday August 5
+##### Friday August 12
 [Fu et al 2016](http://www.nature.com/nature/journal/v534/n7606/full/nature17993.html) The genetic history of Ice Age Europe
+
+##### Friday Aug 5
+[Sanseverino et al. 2015](http://www.ncbi.nlm.nih.gov/pubmed/26174143?dopt=Abstract&utm_source=dlvr.it&utm_medium=twitter) Transposon Insertions, Structural Variations, and SNPs Contribute to the Evolution of the Melon Genome.
 
 ### July 2016
 ##### Friday July 29
