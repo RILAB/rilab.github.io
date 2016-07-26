@@ -13,7 +13,18 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
 
 ## 2016
+### August 2016
+##### Friday August 5
+[Fu et al 2016](http://www.nature.com/nature/journal/v534/n7606/full/nature17993.html) The genetic history of Ice Age Europe
+
 ### July 2016
+##### Friday July 29
+[Russel et al 2016](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3612.html) Exome sequencing of geographically diverse barley landraces and wild relatives gives insights into environmental adaptation 
+
+**AND**
+
+[Lasky et al. 2015](http://advances.sciencemag.org/content/1/6/e1400218) Genome-environment associations in sorghum landraces predict adaptive traits
+
 
 ##### Friday July 22
 [Sharp & Agrawal 2016](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002419) Low Genetic Quality Alters Key Dimensions of the Mutational Spectrum
