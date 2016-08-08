@@ -85,7 +85,7 @@ Jinliang joined the lab in October 2014 to work on maize quantitative genetics a
 </div>
 **Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/paulbilinski"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=c03DwHkAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Paul is a 5th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
+Paul is a  student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
 
 <br><br><br>
 <div style="float: left">
@@ -93,7 +93,7 @@ Paul is a 5th year student in [Plant Biology](http://biosci3.ucdavis.edu/gradGro
 </div>
 **Anna O'Brien**
 
-Anna is a 4th year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza.
+Anna is a student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza.
 
 <br><br><br>
 <div style="float: left">
@@ -101,7 +101,7 @@ Anna is a 4th year student in [Population Biology](http://www-eve.ucdavis.edu/ev
 </div>
 **Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Michelle is a 2nd year student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
+Michelle is a student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
 
 <br><br><br>
 <div style="float: left">
@@ -109,7 +109,7 @@ Michelle is a 2nd year student in [Population Biology](http://www-eve.ucdavis.ed
 </div>
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Dianne is a 5th year student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
+Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
  
 <br><br><br>
 

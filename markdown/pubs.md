@@ -51,7 +51,7 @@ Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**
 **Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**.  
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
-* [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861) [[4 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15579853227920259642 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7554/eLife.05861" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861) [[6 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15579853227920259642 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7554/eLife.05861" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Hake S, **Ross-Ibarra J**   
 
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] [[8 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=14394472478509816248 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/NPLANTS.2014.3" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -60,18 +60,18 @@ Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrec
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf) [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=10306546315448360067 )] <div style="display: inline"  data-badge-popover="right"  data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**     
 
-* [Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]  [[29 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=726174711625580935 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1004915" data-hide-no-mentions="true" class="altmetric-embed"></div>      
+* [Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]  [[33 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=726174711625580935 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1004915" data-hide-no-mentions="true" class="altmetric-embed"></div>      
 Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM 
 
 ### 2014
 
-* [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]  [[41 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471984348452499818 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.tree.2014.10.004" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]  [[42 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471984348452499818 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.tree.2014.10.004" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Tiffin P, **Ross-Ibarra J**       
 
 * [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]  [[6 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474610793083089141 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J**       
 
-* [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)] [[11 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217003468169681800 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/g3.113.008870" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)] [[12 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217003468169681800 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/g3.113.008870" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Mezmouk S**, **Ross-Ibarra J**  
       
 
@@ -87,10 +87,10 @@ Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, S
 Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doebley JF.  
   
 
-* [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)  [[113 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/499023a" data-hide-no-mentions="true" class="altmetric-embed"></div>        
+* [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)  [[115 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910849057817973933 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/499023a" data-hide-no-mentions="true" class="altmetric-embed"></div>        
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
  
-* [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]  [[60 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561,12331869776672049655,5236304695133591580 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]  [[61 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=16496318242013452561,12331869776672049655,5236304695133591580 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**     
 	
 * [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)] [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15526564212076251883 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s10722-013-0015-z" data-hide-no-mentions="true" class="altmetric-embed"></div>   
@@ -119,19 +119,19 @@ Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI
 * [Historical genomics of North American maize](http://www.rilab.org/pdfs/vanheerwaarden2012.pdf) [[data](http://figshare.com/articles/van_Heerwaarden_et_al_2012/757738)] [[55 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3745727334869718431 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.1209275109" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **van Heerwaarden J**, **Hufford MB**, **Ross-Ibarra J**   
 
-* [Reshaping of the maize transcriptome by domestication](http://www.rilab.org/pdfs/swansonwagner2012.pdf)  [[47 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=935006617287790715 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.1201961109" data-hide-no-mentions="true" class="altmetric-embed"></div>    
+* [Reshaping of the maize transcriptome by domestication](http://www.rilab.org/pdfs/swansonwagner2012.pdf)  [[48 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=935006617287790715 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.1201961109" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM     
 
-* [Maize HapMap2 identifies extant variation from a genome in flux](http://media.wix.com/ugd/fe9228_86a609db506740ce96c549567c246b4c.pdf) [[240 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228837645322681220 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/ng.2313" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Maize HapMap2 identifies extant variation from a genome in flux](http://media.wix.com/ugd/fe9228_86a609db506740ce96c549567c246b4c.pdf) [[243 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=2228837645322681220 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/ng.2313" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Chia J-M, Song C, ...[29 authors]...  **Ross-Ibarra, J**, McMullen MD, Buckler ES, Zhang G, Xu Y, Ware, D  
 
 * [Megabase-scale inversion polymorphism in the wild ancestor of maize](http://www.genetics.org/content/191/3/883.abstract)  [[data](http://figshare.com/articles/Fang_et_al_2012/840519)] [[24 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=6473644606884467791 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.112.138578" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Fang Z, **Pyhäjärvi T**, Weber AL, Dawe RK, ...[2 authors]... **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J**
   
-* [Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels](http://media.wix.com/ugd/fe9228_5ca9c5a7f6174a5bb0c85e67dec67dcc.pdf)  [[127 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097878024256170139 )] <div style="display: inline"  data-badge-popover="right"  data-doi="​10.​1104/​pp.​111.​185033" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels](http://media.wix.com/ugd/fe9228_5ca9c5a7f6174a5bb0c85e67dec67dcc.pdf)  [[128 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097878024256170139 )] <div style="display: inline"  data-badge-popover="right"  data-doi="​10.​1104/​pp.​111.​185033" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA  
 
-* [Crop genomics: advances and applications](http://media.wix.com/ugd/fe9228_a2a75f7435ec4c569d4a6996e8b5451e.pdf) [[211 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12664715338521683012 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/nrg3097" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Crop genomics: advances and applications](http://media.wix.com/ugd/fe9228_a2a75f7435ec4c569d4a6996e8b5451e.pdf) [[216 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12664715338521683012 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/nrg3097" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Morrell PL, Buckler ES, **Ross-Ibarra J**  
 	
 ### 2011
@@ -139,13 +139,13 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**
 * [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf) [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)]  [[179 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888569066379603503,5440450712221885825 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/ng.942" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
 
-* [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) [[data](http://figshare.com/articles/new_fileset/757735)] [[143 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624,8033894354263611755 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.1013011108" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) [[data](http://figshare.com/articles/new_fileset/757735)] [[144 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=11944729109494726624,8033894354263611755 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.1013011108" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
 
 * [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize](http://www.rilab.org/pdfs/hufford2011.pdf) [[data](10.6084/m9.figshare.757734)] [[10 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13621041706202411296 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1365-294X.2010.04924.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Hufford MB**, Gepts P, **Ross-Ibarra J**  
 
-* [Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](http://gbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=21296765) [[80 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095218463542481067 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/gbe/evr008" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](http://gbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=21296765) [[81 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095218463542481067 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/gbe/evr008" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**  
 
 
@@ -163,7 +163,7 @@ Whitney KD, Baack EJ, Hamrick JL, Godt, MJW ...[3 authors]... Goodwillie C, Kali
 * [Fine scale genetic structure in the wild ancestor of maize (**Zea mays** ssp. **parviglumis**)](http://www.rilab.org/pdfs/Van-Heerwaarden-et-al-2010-951.pdf) [[27 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=9340353919503578071 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1365-294X.2010.04559.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE  
 
-* [Widespread gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327) [[61 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554747939087267209 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pbio.1000327" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Widespread gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327) [[62 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554747939087267209 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pbio.1000327" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK  
 <!--[[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)]-->
 
@@ -175,13 +175,13 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 
 ### 2009
 
-* [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf) [[427 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf) [[428 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
 
 * [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346) [[15 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703,5159519491829986435 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
 
-* [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf) [[79 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1469-8137.2009.02984.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf) [[80 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=853064656161512620 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1469-8137.2009.02984.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  
 
 * [Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract) [[93 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731906589694221305 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1534/genetics.108.097238" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -204,7 +204,7 @@ Gaut BS, **Ross-Ibarra J**
 
 ### 2007  
 
-* [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[204 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0700643104" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/) [[206 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061357872113450280 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1073/pnas.0700643104" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**, Morrell PL, Gaut BS  
 
 * [Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract) [[22 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=684436662966421061 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1420-9101.2006.01275.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -224,7 +224,7 @@ Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ
 * [Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf) [[5 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1724011383825350158 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1525/msem.2003.19.2.287" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**   
 
-* [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf) [[41 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf) [[42 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=5302092154685965393 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Ross-Ibarra J**, Molina-Cruz A  
 
 * [Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)  [[31 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724877679765824056 )] <div style="display: inline"  data-badge-popover="right"  data-pmid="11454621" data-hide-no-mentions="true" class="altmetric-embed"></div>  
