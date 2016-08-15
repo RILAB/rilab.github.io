@@ -2,6 +2,9 @@
 
 ##2016
 
+### Aug 10 
+[JRI presents](https://twitter.com/grmunjal/status/763549906363486208) on corn origins and diversity at the [Davis Science Cafe](https://capscicomm.org/local-science-cafes/davis-science-cafe/)
+
 ### June 1
 Wenbin Mei starts as new postdoc in the lab to look at structural variation in maize and teosinte.
 

@@ -14,6 +14,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### August 2016
+##### Friday Aug 26
+[Zhang et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/08/10/molbev.msw169) Recombination rate variation, hitchhiking, and demographic history shape deleterious load in poplar
+
+##### Friday Aug 19
+[Fransz et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13262/full) Molecular, genetic and evolutionary analysis of a paracentric inversion in Arabidopsis thaliana
+
 ##### Friday August 12
 [Fu et al 2016](http://www.nature.com/nature/journal/v534/n7606/full/nature17993.html) The genetic history of Ice Age Europe
 
