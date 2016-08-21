@@ -17,7 +17,7 @@ Please read for information on [joining the lab](http://www.rilab.org/prosp.html
 <div style="float: left">
 <img src="https://static.wixstatic.com/media/fe9228_5f5f3dd96bd74c6f8998e95b7e64a4de.jpg/v1/fill/w_342,h_406,al_c,q_80,usm_0.66_1.00_0.01/fe9228_5f5f3dd96bd74c6f8998e95b7e64a4de.jpg" style="border:10px solid white"; width=100px>
 </div>
-<br><br>**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a> 
+<br><br>**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Jeff is Professor and Section Chair in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/). He started at UC Davis in 2009.
 
@@ -30,7 +30,7 @@ Jeff is Professor and Section Chair in the [Department of Plant Sciences](http:/
 </div>
 **Anne Lorant**
 
-Anne has worked as a lab manager since November of 2012, and is in charge of overseeing lab and greenhouse experiments. 
+Anne has worked as a lab manager since November of 2012, and is in charge of overseeing lab and greenhouse experiments.
 
 <br><br><br>
 
@@ -39,7 +39,7 @@ Anne has worked as a lab manager since November of 2012, and is in charge of ove
 <div style="float: left">  
 </a><img src="http://www.rilab.org/images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Luis Avila** 
+**Luis Avila**
 <a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Luis joined the lab in March 2016. He is working on recombination rate variation in maize landraces and teosinte.  
@@ -58,7 +58,7 @@ Josh joined the lab in February 2016 to work on linked selection and the evoluti
 </div>
 **Emily Josephs** <a href="http://emjosephs.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Emily came to UC Davis in January 2016. She is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org). 
+Emily came to UC Davis in January 2016. She is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
 
 
 <br><br><br>
@@ -75,7 +75,7 @@ Wenbin joins the lab in May 2016 after a PhD on alternative splicing in grasses 
 </div>
 **Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Jinliang joined the lab in October 2014 to work on maize quantitative genetics and the genetics of nitrogen fixation. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data. 
+Jinliang joined the lab in October 2014 to work on maize quantitative genetics and the genetics of nitrogen fixation. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data.
 <br><br>
 
 ### Graduate Students
@@ -110,21 +110,21 @@ Michelle is a student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
- 
+
 <br><br><br>
 
 
 ### Lab Alumni
 
-* [Simon Renny-Byfield](): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer) 
+* [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
 * [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
 * Sayuri Tsukahara: Postdoc 2013-2015
 * [Tim Beissinger](http://timbeissinger.github.io): Postdoc 2014-2015 (Research Geneticist, USDA-ARS U. Missouri)
-* [Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (Postbac Researcher, Vienna Biocenter)
+* [Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (PhD Student, UCLA)
 * Nivaz Brar: Undergraduate 2014-2015
 * [Tyler Kent](https://github.com/tvkent): Undergraduate 2013-2015 (PhD Student, U. Toronto)
-* [Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student UC Davis)
-* [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWM)
+* [Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student, UC Davis)
+* [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWS)
 * [Shohei Takuno](https://sites.google.com/site/shoheitakuno/): Postdoc 2012-2013 (Asst. Professor, SOKENDAI)
 * [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html): Postdoc 2010-2013 (Asst. Professor, Iowa State)
 * [Tanja Pyhäjärvi](https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392): Postdoc 2010-2012 (Sr. Research Fellow, U. Oulu)
@@ -159,7 +159,7 @@ Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis
 
 * [Jim Birchler](http://ipg.missouri.edu/faculty/birchler.cfm)
 * [Kelly Dawe](http://www.dawelab.org)
-* [Jiming Jiang](http://genetics.wisc.edu/Jiang.htm)* 
+* [Jiming Jiang](http://genetics.wisc.edu/Jiang.htm)*
 
 **Evolutionary genetics of highland adaptation in maize**
 
