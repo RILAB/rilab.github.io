@@ -42,7 +42,17 @@ Anne has worked as a lab manager since November of 2012, and is in charge of ove
 **Luis Avila**
 <a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Luis joined the lab in March 2016. He is working on recombination rate variation in maize landraces and teosinte.  
+Luis works on recombination rate variation in maize landraces and teosinte.  
+
+<br><br><br><br><br>
+<div style="float: left">
+<img src="http://www.colorado.edu/smithlab/sites/default/files/styles/small/public/people/Dan_webpic_0.jpg?itok=In6TaPb_" style="border:10px solid white"; width=100px>
+</div>
+**Dan Gates** <a href="https://twitter.com/dangates_j"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://danjgates.wordpress.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="https://github.com/danjgates"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+
+Dan studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
+
+
 
 <br><br><br><br><br>
 <div style="float: left">
@@ -50,7 +60,7 @@ Luis joined the lab in March 2016. He is working on recombination rate variation
 </div>
 **Josh Hough** <a href="https://twitter.com/joshhough415"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Josh joined the lab in February 2016 to work on linked selection and the evolution of recombination in maize and teosinte.
+Josh works on linked selection and the rate of adaptation in teosinte.
 
 <br><br><br>
 <div style="float: left">
@@ -58,7 +68,7 @@ Josh joined the lab in February 2016 to work on linked selection and the evoluti
 </div>
 **Emily Josephs** <a href="http://emjosephs.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Emily came to UC Davis in January 2016. She is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
+Emily is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
 
 
 <br><br><br>
@@ -67,7 +77,7 @@ Emily came to UC Davis in January 2016. She is an NSF plant genome postdoc worki
 </div>
 **Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Wenbin joins the lab in May 2016 after a PhD on alternative splicing in grasses in Brad Barbazuk’s lab at the University of Florida. He will be working on the population genetics of structural variants in maize and teosinte.
+Wenbin did a PhD on alternative splicing in grasses in Brad Barbazuk’s lab at the University of Florida. He is working on the population genetics of copy number variants and inversions in both maize and teosinte.
 
 <br><br><br>
 <div style="float: left">
@@ -75,7 +85,7 @@ Wenbin joins the lab in May 2016 after a PhD on alternative splicing in grasses 
 </div>
 **Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Jinliang joined the lab in October 2014 to work on maize quantitative genetics and the genetics of nitrogen fixation. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data.
+Jinliang works on the quantitative genetics of heterosis, the genetics of nitrogen fixation in maize, and population epigenetics in teosinte. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data.
 <br><br>
 
 ### Graduate Students
