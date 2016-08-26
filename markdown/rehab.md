@@ -1,8 +1,8 @@
-##R.E.H.A.B. 
+##R.E.H.A.B.
 
-Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date. 
-   
-We meet Fridays at [de Vere's Irish Pub](http://daviswiki.org/de_Vere%27s_Irish_Pub) at about 4:15 (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. 
+Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.
+
+We meet Fridays at [de Vere's Irish Pub](http://daviswiki.org/de_Vere%27s_Irish_Pub) at about 4:15 (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed.
 
 From time to time we also blog our thoughts on the papers we read. One or more of the people present volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publication) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
 
@@ -10,9 +10,16 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 
 We're proud of the fact that a number of journal clubs have now been modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ) and [detox](http://beissingerlab.org/Detox/).
 
-And no, I won't tell you what R.E.H.A.B. stands for, so don't ask. 
+And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
+### September 2016
+##### Friday Sept 11
+[Sanjak, Long and Thornton 2016](http://www.biorxiv.org/content/early/2016/04/15/048819.abstract) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth
+
+##### Friday Sept 2
+[Uricchio et al. 2016](http://genome.cshlp.org/content/early/2016/05/18/gr.202440.115.abstract?papetoc) Selection and explosive growth alter genetic architecture and hamper the detection of causal rare variants
+
 ### August 2016
 ##### Friday Aug 26
 [Zhang et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/08/10/molbev.msw169) Recombination rate variation, hitchhiking, and demographic history shape deleterious load in poplar
@@ -28,7 +35,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### July 2016
 ##### Friday July 29
-[Russel et al 2016](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3612.html) Exome sequencing of geographically diverse barley landraces and wild relatives gives insights into environmental adaptation 
+[Russel et al 2016](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3612.html) Exome sequencing of geographically diverse barley landraces and wild relatives gives insights into environmental adaptation
 
 **AND**
 
@@ -44,7 +51,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 [Arnold et al. 2016](http://www.pnas.org/content/early/2016/06/28/1600405113.abstract) Borrowed alleles and convergence in serpentine adaptation
 
 
-##### Friday July 8 
+##### Friday July 8
 [Bailey et a 2015](http://m.mbe.oxfordjournals.org/content/early/2015/03/26/molbev.msv033.full) The Effect of Selection Environment on the Probability of Parallel Evolution
 
 ##### Friday July 1
@@ -71,7 +78,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ##### Friday May 20 2016
 [Keightley et al 2016](http://www.genetics.org/content/early/2016/04/18/genetics.116.188102) Inferring the Frequency Spectrum of Derived Variants to Quantify Adaptive Molecular Evolution in Protein-Coding Genes of Drosophila melanogaster
 
-##### Friday May 13 2016 
+##### Friday May 13 2016
 [Exposito-Alonso et al 2016](http://biorxiv.org/content/early/2016/04/25/050203) The rate and effect of de novo mutations in natural populations of Arabidopsis thaliana
 
 ##### Friday May 6 2016
@@ -83,7 +90,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ### April 2016
 
 ##### Friday April 22 2016
-[Sanjak et al. 2016](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth 
+[Sanjak et al. 2016](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth
 
 ##### Friday April 15 2016
 Novikova et al. manuscript (see \#papers channel on slack for pdf)
@@ -92,7 +99,7 @@ Novikova et al. manuscript (see \#papers channel on slack for pdf)
 [He and Knowles 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13619/full) Identifying targets of selection in mosaic genomes with machine learning: applications in Anopheles gambiae for detecting sites within locally adapted chromosomal inversions
 
 ##### Friday April 1 2016
-[Lolle et al. 2005](http://www.genetics.org/content/early/2016/03/21/genetics.115.184630) Genome-wide non-mendelian inheritance of extra-genomic information in Arabidopsis. 
+[Lolle et al. 2005](http://www.genetics.org/content/early/2016/03/21/genetics.115.184630) Genome-wide non-mendelian inheritance of extra-genomic information in Arabidopsis.
 
 ### March 2016
 ##### Friday Mar 25
@@ -137,7 +144,7 @@ No R.E.H.A.B. (Maize Meeting!)
 
 ## 2015
 ### December 2015
-##### Fri. Dec. 18 2015 
+##### Fri. Dec. 18 2015
 [Steige et al. 2015](http://biorxiv.org/content/early/2015/12/10/034025) The impact of natural selection on the distribution of cis-regulatory variation across the genome of an outcrossing plant
 
 ##### Fri. Dec. 11 2015
@@ -262,7 +269,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 ##### Fri. June 19 2015
 
-[Mafessoni and Lachman 2015](http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf) 
+[Mafessoni and Lachman 2015](http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf)
 Selective strolls: fixation and extinction in diploids are slower for weakly selected mutations than for neutral ones
 
 ##### Fri. June 12 2015
@@ -358,18 +365,18 @@ Rodgers-Melnick  et al. Recombination manuscript. (printed version available fro
 
 [Brandvain et al. 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004410) Speciation and Introgression between Mimulus nasutus and Mimulus guttatus
 
-##### Fri. Jan 23, 2015 
+##### Fri. Jan 23, 2015
 
 [Charlesworth 2015](http://www.pnas.org/content/early/2015/01/07/1423275112.abstract) Causes of natural variation in fitness: Evidence from studies of Drosophila populations
 
-##### Fri. Jan 16, 2015 
+##### Fri. Jan 16, 2015
 
 [Antonovics 1976](http://www.jstor.org/stable/2395303) The nature of limits to natural selection.
 
-##### Fri. Jan 9, 2015 
+##### Fri. Jan 9, 2015
 [Wiser et al. 2013](http://www.sciencemag.org/content/342/6164/1364) Long-Term Dynamics of Adaptation in Asexual Populations
 
-##### Fri. Jan 2, 2015 
+##### Fri. Jan 2, 2015
 
 No R.E.H.A.B., but celebrate the new year in plant genomics by [reading up on cotton](http://www.nespal.org/peng_lab/papers/S1687537008742304.pdf), including the C-genome species that are 2015 megabases in size.
 
@@ -389,7 +396,7 @@ R.E.H.A.B. unexpectedly cancelled due to lab partying (seriously).
 
 [Poh et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/09/29/009456.full.pdf) On the prospect of identifying adaptive loci in recently bottlenecked populations
 
-##### Fri. Dec. 5, 2014 
+##### Fri. Dec. 5, 2014
 
 [Fu et al. 2014](http://www.sciencedirect.com/science/article/pii/S0002929714003899) Characteristics of Neutral and Deleterious Protein-Coding Variation among Individuals and Populations
 
@@ -462,7 +469,7 @@ No REHAB. But that doesn't meant you can't get a second helping of [turkey genom
 ##### Fri. Aug 23, 2014
 
 [Wilson et al. 2014 ](http://www.genetics.org/content/early/2014/07/23/genetics.114.165571.abstract). Soft Selective Sweeps in Complex Demographic Scenarios.
- 
+
 ##### Fri. Aug 16, 2014
 
 [Comeron 2014](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004434). Background Selection as Baseline for Nucleotide Variation across the Drosophila Genome
@@ -513,31 +520,31 @@ No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) in
 
 [blog post](blogs/13062014.html)
 
-##### Fri. June 6, 2014 
+##### Fri. June 6, 2014
 
 [Balick et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
 
 ### May 2014
 
-##### Fri. May 30, 2014 
+##### Fri. May 30, 2014
 
 [Nadeau et al. 2014](http://genome.cshlp.org/content/early/2014/05/13/gr.169292.113.abstract). Population genomics of parallel hybrid zones in the mimetic butterflies, H. melpomene and H. erato
 
 [blog post](blogs/30052014.html)
 
-##### Fri. May 23, 2014 
+##### Fri. May 23, 2014
 
 [Soria-Carrasco et al. 2014](http://www.sciencemag.org/content/344/6185/738.abstract). Stick Insect Genomes Reveal Natural Selection’s Role in Parallel Speciation
 
 [blog post](blogs/23052014.html)
 
-##### Fri. May 16, 2014 
+##### Fri. May 16, 2014
 
 [Rogers et al. 2014](http://arxiv.org/abs/1405.0518). Tandem duplications and the limits of natural selection in Drosophila yakuba and Drosophila simulans
 
 [blog post](blogs/16052014.html)
 
-##### Fri. May 9, 2014 
+##### Fri. May 9, 2014
 
 [Hawkins et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12537/abstract). Variation in allelic expression associated with a recombination hotspot in Zea mays
 
@@ -551,7 +558,7 @@ No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) in
 
 ##### Fri. April 25, 2014 (VB)
 
-[Li 2014](http://arxiv.org/abs/1404.0929). Towards Better Understanding of Artifacts in Variant Calling from High-Coverage Samples. 
+[Li 2014](http://arxiv.org/abs/1404.0929). Towards Better Understanding of Artifacts in Variant Calling from High-Coverage Samples.
 
 \emph{Also see [slides](http://lyonlab.cshl.edu/Journal%20Club/JC20140407.pdf)}
 
@@ -574,7 +581,7 @@ NO R.E.H.A.B.  Check out the [Plant Breeding Symposium](http://plantbreeding2014
 ##### Fri Mar. 28 2014 (JRI)
 
 [Hirsch et al. 2014](http://www.ncbi.nlm.nih.gov/pubmed/24488960). Insights into the maize pan-genome and pan-transcriptome.
- 
+
 ##### Fri Mar. 21 2014 (SM)
 
 [Piepho and Möhring 2007](http://www.genetics.org/content/177/3/1881). Computing Heritability and Selection Response From Unbalanced Plant Breeding Trials
@@ -595,7 +602,7 @@ NO R.E.H.A.B.  Check out the [Plant Breeding Symposium](http://plantbreeding2014
 
 ##### Fri Feb. 21 2014 (PB)
 
-[Elhaik et al. 2014](http://www.nature.com/ejhg/journal/vaop/ncurrent/abs/ejhg2013303a.html). The ‘extremely ancient’ chromosome that isn’t: a forensic bioinformatic investigation of Albert Perry’s X-degenerate portion of the Y chromosome 
+[Elhaik et al. 2014](http://www.nature.com/ejhg/journal/vaop/ncurrent/abs/ejhg2013303a.html). The ‘extremely ancient’ chromosome that isn’t: a forensic bioinformatic investigation of Albert Perry’s X-degenerate portion of the Y chromosome
 
 ##### Fri Feb. 14 2014 (DV)
 
@@ -605,7 +612,7 @@ NO R.E.H.A.B.  Check out the [Plant Breeding Symposium](http://plantbreeding2014
 
 [Sankararaman et al. 2014](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12961.pdf). The genomic landscape of Neanderthal ancestry in present-day humans
 
-### January 2014 
+### January 2014
 
 ##### Fri. Jan 31 2014 (VB)
 
@@ -645,7 +652,7 @@ NO R.E.H.A.B.  Check out the [Plant Breeding Symposium](http://plantbreeding2014
 
 ### November 2013
 
-##### Fri Nov 29 2013 
+##### Fri Nov 29 2013
 
 No R.E.H.A.B., but to go along with all your TurkeyDay related activities: [Seidel et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.575/full). Influence of translocations on eastern wild turkey population genetics in Texas
 
@@ -670,7 +677,7 @@ Review! Pick up hard copy in 262 Robbins.
 ##### Fri Oct 25 2013 (OA)
 
 [Parker et al. 2013](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv502%2Fn7470%2Ffull%2Fnature12511.html&ei=PkRzUpb-NYWdiAKQqYG4CQ&usg=AFQjCNGhGBxb-ICUpfOeut7Iq-CNBcmT0Q&bvm=bv.55819444,d.cGE). Genome-wide signatures of convergent evolution in echolocating mammals
-	
+
 ##### Fri Oct 18 2013 (AO,VB)
 
 [Peischl et al. arxiv](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDAQFjAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1306.1652&ei=K0RzUozGG6-IigKZq4CoAg&usg=AFQjCNE187lCk7EURsZ_3rWrzNzoVZA0rg&bvm=bv.55819444,d.cGE). On the accumulation of deleterious mutations during range expansions
@@ -682,4 +689,3 @@ Review! Pick up hard copy in 262 Robbins.
 ##### Fri Oct 04 2013 (JMB)
 
 [Szovenyi et al. 2013](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fmbe.oxfordjournals.org%2Fcontent%2Fearly%2F2013%2F05%2F17%2Fmolbev.mst095&ei=y0NzUq3YJ-GgjAK264CICA&usg=AFQjCNFixSoYD_TS-4tXJ8HmXdF6noaCew&bvm=bv.55819444,d.cGE). Selection Is No More Efficient in Haploid than in Diploid Life Stages of an Angiosperm and a Moss
-
