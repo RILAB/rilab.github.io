@@ -62,7 +62,7 @@ Dan studies adaptive introgression and local adaptation in maize landraces as pa
 
 Josh works on linked selection and the rate of adaptation in teosinte.
 
-<br><br><br>
+<br><br><br><br>
 <div style="float: left">
 <img src="https://pbs.twimg.com/profile_images/547907754757586944/5RcNnq3U_400x400.jpeg" style="border:10px solid white"; width=100px>
 </div>
