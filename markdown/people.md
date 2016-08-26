@@ -90,14 +90,7 @@ Jinliang works on the quantitative genetics of heterosis, the genetics of nitrog
 
 ### Graduate Students
 
-<div style="float: left">
-<img src="http://www.rilab.org/images/bilinski.png" style="border:10px solid white"; width=100px>
-</div>
-**Paul Bilinski** <a href="https://twitter.com/pbilinsk"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/paulbilinski"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=c03DwHkAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Paul is a  student in [Plant Biology](http://biosci3.ucdavis.edu/gradGroups/pb/), working on the evolution of genome size and repeat sequences in *Zea* and *Tripsacum*.
-
-<br><br><br>
 <div style="float: left">
 <img src="http://www.rilab.org/images/obrien.jpg" style="border:10px solid white"; width=100px>
 </div>
@@ -126,6 +119,7 @@ Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis
 
 ### Lab Alumni
 
+* [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tüpaul bilinski google scholarbingen)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
 * [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
 * Sayuri Tsukahara: Postdoc 2013-2015
