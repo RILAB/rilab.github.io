@@ -15,7 +15,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2016
 ### September 2016
 ##### Friday Sept 11
-[Sanjak, Long and Thornton 2016](http://www.biorxiv.org/content/early/2016/04/15/048819.abstract) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth
+[Venkataram et al 2016](http://www.cell.com/cell/fulltext/S0092-8674(16)31010-8#) Development of a Comprehensive Genotype-to-Fitness Map of Adaptation-Driving Mutations in Yeast
 
 ##### Friday Sept 2
 [Uricchio et al. 2016](http://genome.cshlp.org/content/early/2016/05/18/gr.202440.115.abstract?papetoc) Selection and explosive growth alter genetic architecture and hamper the detection of causal rare variants
