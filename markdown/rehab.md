@@ -15,7 +15,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2016
 ### September 2016
 ##### Friday Setp 16
-[Groth and Blumenstiel 2016](http://jhered.oxordjournals.org/content/early/2016/08/24/jhered.esw050.abstract) Development of a Comprehensive Genotype-to-Fitness Map of Adaptation-Driving Mutations in Yeast
+[Groth and Blumenstiel 2016](http://jhered.oxfordjournals.org/content/early/2016/08/24/jhered.esw050.abstract) Horizontal transfer can drive a greater transposable element load in large populations
 
 ##### Friday Sept 9
 [Venkataram et al 2016](http://www.cell.com/cell/fulltext/S0092-8674(16)31010-8#) Development of a Comprehensive Genotype-to-Fitness Map of Adaptation-Driving Mutations in Yeast
