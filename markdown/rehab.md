@@ -13,8 +13,15 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
+
 ### September 2016
-##### Friday Setp 16
+##### Friday Sept 30
+[Schrider et al. 2016](http://www.genetics.org/content/early/2016/09/06/genetics.116.190223) Effects of Linked Selective Sweeps on Demographic Inference and Model Selection
+
+##### Friday Sept 23
+[Hughes, Langdale, Kelly 2016](http://genome.cshlp.org/content/24/8/1348.full) The impact of widespread regulatory neofunctionalization on homeolog gene evolution following whole-genome duplication in maize
+
+##### Friday Sept 16
 [Groth and Blumenstiel 2016](http://jhered.oxfordjournals.org/content/early/2016/08/24/jhered.esw050.abstract) Horizontal transfer can drive a greater transposable element load in large populations
 
 ##### Friday Sept 9

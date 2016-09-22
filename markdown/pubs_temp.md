@@ -22,6 +22,9 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 
 ### 2016
 
+* Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication  
+Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N
+
 * [ANGSD-wrapper: utilities for analyzing next generation sequencing data](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full) [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
 
