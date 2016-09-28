@@ -10,20 +10,20 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 * [Diverse origins of high copy tandem repeats in grass genomes](https://peerj.com/preprints/2314/) <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.2314v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **Bilinski P**, Han Y, **Hufford MB**, **Lorant A**, Zhang P, Jiang J, **Ross-Ibarra J**.  
 
-* [Evolutionary genomics of peach and almond domestication](http://biorxiv.org/content/early/2016/06/22/060160) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-**Velasco D**, Aradhya M, **Ross-Ibarra J**
-
 * [Construction of the third generation Zea mays haplotype map](http://biorxiv.org/content/early/2015/09/16/026963) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 
 * [Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
-**O'Brien A**, Sawers R, **Ross-Ibarra J**, Straus SY  
+**O'Brien A**, Sawers R, **Ross-Ibarra J**, Strauss SY  
 
 
 ### 2016
 
 * Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication  
 Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N
+
+* Evolutionary genomics of peach and almond domestication [[preprint](http://biorxiv.org/content/early/2016/06/22/060160)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+**Velasco D**, **Hough J**, Aradhya M, **Ross-Ibarra J**
 
 * [ANGSD-wrapper: utilities for analyzing next generation sequencing data](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full) [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
