@@ -22,13 +22,13 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 * Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication  
 Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N
 
-* Evolutionary genomics of peach and almond domestication [[preprint](http://biorxiv.org/content/early/2016/06/22/060160)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* Evolutionary genomics of peach and almond domestication [[preprint](http://biorxiv.org/content/early/2016/09/27/060160)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Velasco D**, **Hough J**, Aradhya M, **Ross-Ibarra J**
 
 * [ANGSD-wrapper: utilities for analyzing next generation sequencing data](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full) [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   
 
-* [Recent demography drives changes in linked selection across the maize genome](http://www.nature.com/articles/doi:10.1038/nplants.2016.84.epdf?shared_access_token=67qjKLUAGOcHvdvKlS0He9RgN0jAjWel9jnR3ZoTv0OKvoV8lOPezUbhqRudPfkYJ_hBpBEqqQbeir7RYPmITOgN7-BN3Sb8gXXYZCpOUgAkJQvm6ov2fctP5AUckERxqJl75F2sxo5y6Rk6aaE7UJz9swiLEqvLuAOtYJ5VlJpsmaud8uOKr_-F7uXcly9i) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/blob/master/callSNPsAngsd_teo_july.sh)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)] CITES:14270822170481133370 <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Recent demography drives changes in linked selection across the maize genome](http://rdcu.be/kHEB) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/blob/master/callSNPsAngsd_teo_july.sh)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)] CITES:14270822170481133370 <div style="display: inline"  data-badge-popover="right"  data-doi="http://dx.doi.org/10.1101/031666" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
 
 * [Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)] CITES:13046200421462083749,13021360675733443150  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2016.10" data-hide-no-mentions="true" class="altmetric-embed"></div>   
@@ -57,7 +57,7 @@ Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**
 * [Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861) CITES:15579853227920259642 <div style="display: inline"  data-badge-popover="right"  data-doi="10.7554/eLife.05861" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Hake S, **Ross-Ibarra J**   
 
-* [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] CITES:14394472478509816248 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/NPLANTS.2014.3" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [The origin and evolution of maize in the American Southwest](http://rdcu.be/kHD8) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)] CITES:14394472478509816248 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/NPLANTS.2014.3" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT     
 
 * [Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf) CITES:10306546315448360067 <div style="display: inline"  data-badge-popover="right"  data-doi="XXXX" data-hide-no-mentions="true" class="altmetric-embed"></div>  

@@ -77,7 +77,7 @@ Emily is an NSF plant genome postdoc working on adaptation to domestication in c
 </div>
 **Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Wenbin did a PhD on alternative splicing in grasses in Brad Barbazuk’s lab at the University of Florida. He is working on the population genetics of copy number variants and inversions in both maize and teosinte.
+Wenbin works on the population genetics of copy number variants and inversions in both maize and teosinte.
 
 <br><br><br>
 <div style="float: left">
@@ -85,7 +85,7 @@ Wenbin did a PhD on alternative splicing in grasses in Brad Barbazuk’s lab at 
 </div>
 **Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Jinliang works on the quantitative genetics of heterosis, the genetics of nitrogen fixation in maize, and population epigenetics in teosinte. His PhD work included new GWAS methods, the genetics of heterosis, and algorithm development for working with SNP data.
+Jinliang works on the quantitative genetics of heterosis, the genetics of nitrogen fixation in maize, and population epigenetics in teosinte.
 <br><br>
 
 ### Graduate Students
@@ -119,7 +119,7 @@ Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis
 
 ### Lab Alumni
 
-* [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tüpaul bilinski google scholarbingen)
+* [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tübingen)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
 * [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
 * Sayuri Tsukahara: Postdoc 2013-2015
