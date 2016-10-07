@@ -13,6 +13,13 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
+##### Friday Oct 13
+[Fraïsse et al. 2016](http://www.genetics.org/content/197/3/939.short) Gene-Flow in a Mosaic Hybrid Zone: Is Local Introgression Adaptive?
+
+### October 2016
+##### Friday Oct 7
+[Willing et al. 2016](http://www.nature.com/articles/nplants201423) Genome expansion of Arabis alpina linked with retrotransposition and reduced symmetric DNA methylation
+
 
 ### September 2016
 ##### Friday Sept 30
