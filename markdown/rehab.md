@@ -14,6 +14,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### November 2016
+##### Friday Nov 11
+[Moyerbrailean et al. 2016](http://genome.cshlp.org/content/early/2016/10/18/gr.209759.116) High-throughput allele-specific expression across 250 environmental conditions
+
 ##### Friday Nov 4
 [Gould et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13881/abstract) Pooled Ecotype Sequencing Reveals Candidate Genetic Mechanisms for Adaptive Differentiation and Reproductive Isolation
 
