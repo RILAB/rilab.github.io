@@ -1,4 +1,4 @@
-## Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a>
+i## Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
@@ -7,13 +7,16 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+* [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://biorxiv.org/content/early/2016/11/07/086132) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/086132" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
+
 * [Diverse origins of high copy tandem repeats in grass genomes](https://peerj.com/preprints/2314/) <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.2314v1" data-hide-no-mentions="true" class="altmetric-embed"></div>   
-**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**, Zhang P, Jiang J, **Ross-Ibarra J**.  
+**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**, Zhang P, Jiang J, **Ross-Ibarra J**  
 
 * [Construction of the third generation Zea mays haplotype map](http://biorxiv.org/content/early/2015/09/16/026963) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/026963" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 
-* [Extending the Stress-Gradient hypothesis:  increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+* [Extending the Stress-Gradient hypothesis: increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Strauss SY  
 
 
