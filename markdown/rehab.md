@@ -14,6 +14,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### December 2016
+##### Friday Dec. 9
+[Imprialou et al. 2016](http://biorxiv.org/content/early/2016/11/12/087387) Genomic Rearrangements Considered as Quantitative Traits
+
 ##### Friday Dec 2
 [Klasen et al 2016](http://www.nature.com/articles/ncomms13299) A multi-marker association method for genome-wide association studies without the need for population structure correction
 
