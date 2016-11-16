@@ -13,9 +13,18 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
+### December 2016
+##### Friday Dec 2
+[Klasen et al 2016](http://www.nature.com/articles/ncomms13299) A multi-marker association method for genome-wide association studies without the need for population structure correction
+
 ### November 2016
-##### Friday Nov 11
+##### Friday Nov 25
+No R.E.H.A.B. -- Turkey Day!
+##### Friday Nov 18
 [Moyerbrailean et al. 2016](http://genome.cshlp.org/content/early/2016/10/18/gr.209759.116) High-throughput allele-specific expression across 250 environmental conditions
+
+##### Friday Nov 11
+No R.E.H.A.B. - Veteran's Day
 
 ##### Friday Nov 4
 [Gould et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13881/abstract) Pooled Ecotype Sequencing Reveals Candidate Genetic Mechanisms for Adaptive Differentiation and Reproductive Isolation
