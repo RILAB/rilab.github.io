@@ -22,7 +22,8 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 
 ### 2016
 
-* [Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication](<http://www.cell.com/current-biology/abstract/S0960-9822(16)31120-4>)  
+* [Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication](<http://www.cell.com/current-biology/abstract/S0960-9822(16)31120-4>)
+<div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.cub.2016.09.036" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N
 
 * [Evolutionary genomics of peach and almond domestication](http://g3journal.org/content/early/recent) [[preprint](http://biorxiv.org/content/early/2016/09/27/060160)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
