@@ -93,8 +93,9 @@ Jinliang works on the quantitative genetics of heterosis, the genetics of nitrog
 
 <div style="float: left">
 <img src="http://www.rilab.org/images/obrien.jpg" style="border:10px solid white"; width=100px>
+
 </div>
-**Anna O'Brien**
+**Anna O'Brien** <a href="https://annamobrien.wordpress.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a>
 
 Anna is a student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza.
 
