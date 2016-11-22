@@ -115,6 +115,7 @@ Michelle is a student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg
 Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
 
 <br><br><br>
+
 #### Undergraduates
 <br><br><br>
 <div style="float: left">
