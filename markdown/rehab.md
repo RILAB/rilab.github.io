@@ -14,6 +14,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2016
 ### December 2016
+##### Friday Dec. 16
+[Barton 2016](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy2016109a.html) How does epistasis influence the response to selection?
+
 ##### Friday Dec. 9
 [Imprialou et al. 2016](http://biorxiv.org/content/early/2016/11/12/087387) Genomic Rearrangements Considered as Quantitative Traits
 
