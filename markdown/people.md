@@ -126,6 +126,21 @@ Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis
 Kevin is currently working on an independent project to use transposable element mutation lines to study the function of root nodulation genes in establishing mycorhhizal symbiosis in maize.  
 <br><br><br>
 
+<!-- <div style="float: left">
+<img src="http://www.rilab.org/images/boardman.jpg" style="border:10px solid white"; width=100px>
+</div> -->
+**Olivia Jackson**
+
+
+<br><br><br>
+
+<!-- <div style="float: left">
+<img src="http://www.rilab.org/images/boardman.jpg" style="border:10px solid white"; width=100px>
+</div> -->
+**Ellen Osborn**
+
+<br><br><br>
+
 ### Lab Alumni
 
 * [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tübingen)
