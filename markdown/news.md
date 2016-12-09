@@ -2,7 +2,13 @@
 
 ##2016
 
-### Aug 10 
+### Dec. 8
+Kevin Boardman awarded presitgious [Provost's Undergraduate Fellowship](http://urc.ucdavis.edu/awards/puf/)!
+
+### Nov. 25
+NSF proposal bounces; good reviews and feedback from PO.  Will retool and resubmit.
+
+### Aug 10
 [JRI presents](https://twitter.com/grmunjal/status/763549906363486208) on corn origins and diversity at the [Davis Science Cafe](https://capscicomm.org/local-science-cafes/davis-science-cafe/)
 
 ### June 1
@@ -11,14 +17,14 @@ Wenbin Mei starts as new postdoc in the lab to look at structural variation in m
 ### May 5
 Michelle Stitzer wins prestigious [ARCS](https://www.arcsfoundation.org) fellowship!
 
-### May 3 
+### May 3
 NSF preproposal with Yaniv Brandvain invited for full proposal.
 
 ### April 10
 Simon Renny-Byfield is off for a job at Dupont Pioneer, working in the same group as lab collaborators Justin Gerke and Eli Rodgers-Melnick. A sweet gig!
 
 ### March 25
-JRI reveives official word on promotion to full professor!
+JRI receives official word on promotion to full professor!
 
 ### March 16
 JRI wins Mid-Career Award for Excellence in Maize Genetics at the Maize Genetics Conference in Florida.
@@ -52,13 +58,13 @@ The new [maize diversity website](www.panzea.org) is live!
 ### Jan. 28
 Paul Bilinski is chosen to present his work on repeat evolution at the [SMBE Satellite meeting](http://smbeba2015.imag.fr) in Montepllier. Both SMBE and the Dept. of Plant Sciences have agreed to fund his trip!
 
-### Jan. 9 
+### Jan. 9
 Preprint of Shohei's paper on convergent evolution in the highlands is up on [bioRxiv](http://biorxiv.org/content/early/2015/01/09/013607), and Michelle's work on identifying new TEs as collaboration with [Nathan Springer's group](http://www.cbs.umn.edu/lab/springer) is out at [PLoS Genetics](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)!
 
 ### Jan. 8
 Our collaboraton with [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics), [Bruce Smith](http://anthropology.si.edu/archaeobio/smith.html), and [Tom Gilbert](http://geogenetics.ku.dk/research_groups/gilbert_groups/) analyzing ancient maize in the US SW is out in [Nature Plants](http://www.nature.com/articles/nplants20143), with a nice both in [Nature Plants commentary](http://www.nature.com/articles/nplants20149) and a highlight in [Science](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) and a [press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124) by UC Davis.
 
-### Jan. 6 
+### Jan. 6
 
 Smithsonian funds our grant with [Dolores Piperno](http://en.wikipedia.org/wiki/Dolores_Piperno) and [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) entitled "Phenotypes, Environmental Plasticity, and Gene Expression in Teosinte and Maize in Ancient Climates Before and During the Time of Domestication".
 
@@ -94,7 +100,7 @@ Nice [interview](http://www.peoplebehindthescience.com/dr-norman-ellstrand/) wit
 
 ### Oct 27
 
-Kate Crosby arrives, bringing the lab to a quintessential quintet of quality postdocs. Also, Jeff signs on to be an Associate Editor at [G3](http://www.g3journal.org). 
+Kate Crosby arrives, bringing the lab to a quintessential quintet of quality postdocs. Also, Jeff signs on to be an Associate Editor at [G3](http://www.g3journal.org).
 
 ### Oct 24
 
@@ -180,7 +186,7 @@ Reacting to an [urgent call for bioinformatics acronyms](http://www.acgt.me/blog
 
 ### Apr. 4, 2014
 
-Congratulations to Anna O'Brien for being awarded a three year Plant Sciences graduate student research assistantship! 
+Congratulations to Anna O'Brien for being awarded a three year Plant Sciences graduate student research assistantship!
 
 ### Mar. 20, 2014
 
@@ -192,7 +198,7 @@ A fond au revoir to [Dr. Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-me
 
 ### Feb. 5, 2014
 
-My seminar [slides](http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement) and [video](https://t.co/89X0DTkGKD) at Dept. of Plant Ag. at U of Guelph. 
+My seminar [slides](http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement) and [video](https://t.co/89X0DTkGKD) at Dept. of Plant Ag. at U of Guelph.
 
 ### Jan. 17, 2014
 
@@ -232,10 +238,10 @@ Anna O'Brien passed her qualifying exam and advances to candidacy!
 
 ### Nov. 7, 2013
 
-Sofiane's [manuscript](http://arxiv.org/abs/1308.0380) on deleterious alleles and hybrid vigor in maize accepted in [G3](http://www.g3journal.org/)! 
+Sofiane's [manuscript](http://arxiv.org/abs/1308.0380) on deleterious alleles and hybrid vigor in maize accepted in [G3](http://www.g3journal.org/)!
 
 Jeff and Vince both added to [list of top genome scientists to follow on twitter](http://nextgenseek.com/2013/11/top-n-genome-scientists-to-follow-on-twitter-2013-edition/).
 
-### October 16, 2013	
+### October 16, 2013
 
 Video of Jeff's [departmental seminar](https://videocenter.plantsciences.ucdavis.edu/videos/video/26/)

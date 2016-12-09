@@ -86,7 +86,7 @@ Wenbin works on the population genetics of copy number variants and inversions i
 **Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Jinliang works on the quantitative genetics of heterosis, the genetics of nitrogen fixation in maize, and population epigenetics in teosinte.
-<br><br>
+<br><br><br>
 
 ### Graduate Students
 
@@ -115,7 +115,7 @@ Michelle is a student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg
 
 Dianne is a student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx), working on the genomics of *Prunus*.
 
-<br><br>
+<br><br><br>
 
 #### Undergraduates
 <div style="float: left">
