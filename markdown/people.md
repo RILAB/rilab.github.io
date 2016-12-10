@@ -64,7 +64,7 @@ Josh works on linked selection and the rate of adaptation in teosinte.
 
 <br><br><br><br>
 <div style="float: left">
-<img src="https://pbs.twimg.com/profile_images/547907754757586944/5RcNnq3U_400x400.jpeg" style="border:10px solid white"; width=100px>
+<img src="http://www.rilab.org/images/emjo.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Emily Josephs** <a href="http://emjosephs.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
@@ -134,11 +134,12 @@ Kevin is currently working on an independent project to use transposable element
 
 <br><br><br>
 
-<!-- <div style="float: left">
-<img src="http://www.rilab.org/images/boardman.jpg" style="border:10px solid white"; width=100px>
-</div> -->
+<div style="float: left">
+<img src="http://www.rilab.org/images/E_osborn_pic.png" style="border:10px solid white"; width=100px>
+</div>
 **Ellen Osborn**
 
+Ellen is a Global Disease Biology student working on the population genetics of transposable elements in maize and teosinte.
 <br><br><br>
 
 ### Lab Alumni
