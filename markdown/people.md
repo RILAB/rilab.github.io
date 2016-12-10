@@ -8,6 +8,10 @@
 ## Current R-I Lab members
 Please read more information on [joining the lab](http://www.rilab.org/prosp.html)
 
+<!-- break -->
+<br><br><br>
+<!-- break -->
+
 <div style="float: left">  
 </a><img src="http://www.rilab.org/images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
@@ -151,6 +155,10 @@ Dianne is a garduate student in [Integrated Genetics and Genomics](http://biosci
 **Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Jinliang is a postdoctoral scholar working on the quantitative genetics of heterosis and population epigenetics in teosinte.
+
+<!-- break -->
+<br><br><br>
+<!-- break -->
 
 ### Lab Alumni
 
