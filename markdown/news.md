@@ -3,7 +3,7 @@
 ##2016
 
 ### Dec. 8
-Kevin Boardman awarded presitgious [Provost's Undergraduate Fellowship](http://urc.ucdavis.edu/awards/puf/)!
+Kevin Boardman awarded prestigious [Provost's Undergraduate Fellowship](http://urc.ucdavis.edu/awards/puf/)!
 
 ### Nov. 25
 NSF proposal bounces; good reviews and feedback from PO.  Will retool and resubmit.

@@ -7,11 +7,11 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* [The complex sequence landscape of maize revealed by single molecule technologies]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<!-- * [The complex sequence landscape of maize revealed by single molecule technologies]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
 
 * [Gene fractionation and function in the ancient subgenomes of maize]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
-**Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
+**Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J** -->
 
 * [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://biorxiv.org/content/early/2016/11/07/086132) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/086132" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
