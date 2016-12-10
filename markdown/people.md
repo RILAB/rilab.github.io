@@ -18,7 +18,7 @@ Please read more information on [joining the lab](http://www.rilab.org/prosp.htm
 **Luis Avila**
 <a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Luis is a postdoctoral scholar working on recombination rate variation in maize landraces and teosinte.
+Luis is a postdoctoral scholar working on extant and historical recombination rate variation in maize landraces and teosinte.
 
 <!-- break -->
 <br><br><br>
@@ -113,7 +113,7 @@ Anna is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/ev
 Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is working in the lab on the population genetics of transposable elements in maize and teosinte.
 
 <!-- break -->
-<br><br><br>
+<br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -121,7 +121,7 @@ Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is
 </div>
 <br><br>**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Jeff is Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu) He started at UC Davis in 2009.
+Jeff is Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). He started at UC Davis in 2009.
 
 <!-- break -->
 <br><br><br>
