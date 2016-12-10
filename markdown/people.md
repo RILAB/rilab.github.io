@@ -76,7 +76,7 @@ Emily is an NSF plant genome postdoc working on adaptation to domestication in c
 </div>
 **Anne Lorant**
 
-Anne has worked as the lab manager since 2012. In addition to running the show, she works all the magic to get us from seed to .bam file.  Anne is concurrently doing a PhD in teosinte evolutionary genetics with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
+Anne has worked as the lab manager since 2012. In addition to running the show, she works the magic to get us from seed to .bam.  Anne is concurrently doing a PhD in teosinte evolutionary genetics with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
 
 <!-- break -->
 <br><br><br>
