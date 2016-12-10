@@ -30,7 +30,7 @@ Luis is a postdoctoral scholar working on extant and historical recombination ra
 </div>
 **Kevin Boardman**
 
-Kevin is an undergraduate students currently working on a [PUF](http://urc.ucdavis.edu/awards/puf/)-funded independent project to use transposable element mutation lines to study the function of root nodulation genes in establishing mycorhhizal symbiosis in maize.  
+Kevin is an undergraduate student currently working on a [PUF](http://urc.ucdavis.edu/awards/puf/)-funded independent project to use  mutation lines to study root nodulation genes and mycorhhizal symbiosis in maize.  
 
 <!-- break -->
 <br><br><br>
