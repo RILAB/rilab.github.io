@@ -9,7 +9,7 @@
 Please read more information on [joining the lab](http://www.rilab.org/prosp.html)
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">  
