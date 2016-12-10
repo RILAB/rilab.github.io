@@ -162,7 +162,7 @@ Jinliang is a postdoctoral scholar working on the quantitative genetics of heter
 <br><br><br>
 <!-- break -->
 
-### Lab Alumni
+## Lab Alumni
 
 * [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tübingen)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
@@ -198,17 +198,19 @@ Jinliang is a postdoctoral scholar working on the quantitative genetics of heter
 **Biology of rare alleles in maize and teosinte**
 
 * [Ed Buckler](http://www.maizegenetics.net)
+* [Peter Bradbury](http://www.panzea.org/peter-bradbury)
 * [John Doebley](http://teosinte.wisc.edu)
 * [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
 * [Jim Holland](http://www4.ncsu.edu/~jholland/homepage.htm)
+* [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
 * [Qi Sun](http://vivo.cornell.edu/display/individual24418)
 * [Doreen Ware](http://warelab.org)
 
-**Genome size variation in maize and teosinte**
+<!-- **Genome size variation in maize and teosinte**
 
 * [Jim Birchler](http://ipg.missouri.edu/faculty/birchler.cfm)
 * [Kelly Dawe](http://www.dawelab.org)
-* [Jiming Jiang](http://genetics.wisc.edu/Jiang.htm)*
+* [Jiming Jiang](http://genetics.wisc.edu/Jiang.htm)* -->
 
 **Evolutionary genetics of highland adaptation in maize**
 
@@ -222,14 +224,15 @@ Jinliang is a postdoctoral scholar working on the quantitative genetics of heter
 
 **Genetic assimilation in teosinte**
 
+* [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
 * [Dolores Piperno](http://www.stri.si.edu/english/scientific_staff/staff_scientist/scientist.php?id=26)
 
 **Teosinte-mycorrhiza coevolution**
 
 * [Sharon Strauss](http://sharonstrauss.wordpress.com)
 
-**Population genetics of maize breeding**
+<!-- **Population genetics of maize breeding**
 
 * [Justin Gerke](http://www.linkedin.com/pub/justin-gerke/11/ab4/312)
 * Oscar (Howie) Smith
-* [Kate Crosby](https://github.com/kate-crosby)
+* [Kate Crosby](https://github.com/kate-crosby) -->
