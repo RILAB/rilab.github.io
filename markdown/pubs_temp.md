@@ -2,15 +2,20 @@
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-
 Journal names have been intentionally excluded. Lab member names are in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper.
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+<!-- * [The interplay of demography and selection during maize domestication and diffusion]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB. -->
+
+<!-- * [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J** -->
+
 * [The complex sequence landscape of maize revealed by single molecule technologies](http://biorxiv.org/content/early/2016/12/19/079004) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/079004" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
 
-* [Gene fractionation and function in the ancient subgenomes of maize]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* [Gene fractionation and function in the ancient subgenomes of maize](http://biorxiv.org/content/early/2016/12/19/095547) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/095547" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
 
 * [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://biorxiv.org/content/early/2016/11/07/086132) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/086132" data-hide-no-mentions="true" class="altmetric-embed"></div>
