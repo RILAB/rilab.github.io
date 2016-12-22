@@ -12,8 +12,21 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
+## 2017
+### January 2017
+
+##### Friday Jan 6
+[Vidalis et al. 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1127-5) Methylome evolution in plants
+
 ## 2016
+
 ### December 2016
+##### Friday Dec. 30
+No R.E.H.A.B. Happy new year!
+
+##### Friday Dec. 23
+No R.E.H.A.B. Happy [Festivus](https://en.wikipedia.org/wiki/Festivus)!
+
 ##### Friday Dec. 16
 [Barton 2016](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy2016109a.html) How does epistasis influence the response to selection?
 
