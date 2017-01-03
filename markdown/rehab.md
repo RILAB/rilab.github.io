@@ -13,7 +13,19 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
+
+<!-- http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html -->
+
 ### January 2017
+
+##### Friday Jan 27
+[Weir and Goudet 2016](http://www.biorxiv.org/content/early/2016/11/17/088260) A unified characterization of population structure and relatedness.
+
+##### Friday Jan 20
+[Puzey et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13922/full) Population structure and local selection yield high genomic variation in Mimulus guttatus
+
+##### Friday Jan 13
+TBD
 
 ##### Friday Jan 6
 [Vidalis et al. 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1127-5) Methylome evolution in plants

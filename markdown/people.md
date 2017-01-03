@@ -145,7 +145,7 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 </div>
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Dianne is a garduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx) and works on the evolution and phylogenetics of *Prunus*.
+Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx) and works on the evolution and phylogenetics of *Prunus*.
 
 <!-- break -->
 <br><br><br>
