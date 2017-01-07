@@ -17,24 +17,24 @@ Beissinger TM, Wang L, Crosby K, **Durvasula A**, Hufford MB, Ross-Ibarra J
 
 ### 2015
 
-* [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)]   <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* [Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)]   <div style="display: inline"  data-badge-popover="right"  data-doi="10.7717/peerj.900" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Vann LE, **Kono TJ**, Pyhäjärvi T, Hufford MB, Ross-Ibarra J.
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
 ### 2014
 
-* [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]   <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]   <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Bilinski P, **Distor KD**, Gutierez-Lopez J, Mendoza Mendoza G, Shi J, Dawe K, Ross-Ibarra J
 
 ### 2013
 
-* [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]   <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]   <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Hufford MB, Lubinsky P, Pyhäjärvi T, **Devengenzo MT**, Ellstrand NC, Ross-Ibarra J
 
-* [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s10722-013-0015-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1007/s10722-013-0015-z" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Provance MC, Garcia Ruiz I, **Thommes C**, Ross-Ibarra J
 
 ### 2009
 
-* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346)   <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346)   <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **May MR**, Provance MC, Sanders AC, Ellstrand NC, Ross-Ibarra J
