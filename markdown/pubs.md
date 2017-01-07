@@ -37,8 +37,7 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 <div style="display: inline"  data-badge-popover="right"  data-doi="10.1016/j.cub.2016.09.036" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N
 
-* [Evolutionary genomics of peach and almond domestication](http://g3journal.org/content/early/recent) [[preprint](http://biorxiv.org/content/early/2016/09/27/060160)]  
-CITES: 3032682055952922359  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Evolutionary genomics of peach and almond domestication](http://g3journal.org/content/early/recent) [[preprint](http://biorxiv.org/content/early/2016/09/27/060160)]  [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=3032682055952922359 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/060160" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Velasco D**, **Hough J**, Aradhya M, **Ross-Ibarra J**
 
 * [ANGSD-wrapper: utilities for analyzing next generation sequencing data](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full) [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)] <div style="display: inline"  data-badge-popover="right"  data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true" class="altmetric-embed"></div>  
