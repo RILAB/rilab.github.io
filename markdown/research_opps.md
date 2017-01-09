@@ -22,15 +22,7 @@ We have evidence of activity of some TE families in maize, but not all. Is this 
 
 ## Tree Genetics
 
-### Identification of locus controlling bitter/sweet kernel (Sk) in almond
+### Identify of locus controlling bitter/sweet kernel (Sk) in almond
 
 In almond breeding one of the first phenotypes evaluated is whether an almond tree produces sweet or bitter kernels. Obviously only those genotypes with sweet kernels are advanced for further evaluation and possibly for variety development. The kernel sweetness is controlled in a dominant/co-dominant manner at the Sk locus with the sweet kernel being dominant. (Literature indicates that the sweet kernel allele may be mostly dominant and produce a bittersweet kernel phenotype when in combination with the bitter kernel allele but distinction between bittersweet and bitter phenotypes is unclear.) Markers with some linkage to the phenotype have been identified, identifying an approximately 2 Mb region in the peach genome. Identifying the genetic control of the Sk locus and alleles contributing to bitter and sweet kernels would be of great benefit to almond breeding programs and could be used to investigate the origin and evolution of the sweet kernel allele(s) in almond.
 
-##### Proposed methodology:
-Use VCF from P. dulcis to identify variants in the region of interest between almond varieties identified as homozygous for either the sweet kernel or bitter kernel genotype (two each). Then identify which, if any, of these variants correlate with sweet/bitter in other almond varieties. Determine candidate genes in close proximity to the variants of interest, identify their function(s) and how it/they may contribute to sweetness/bitterness phenotype.
-
-##### Breeding aspect:
-Develop a simple genotyping method, e.g. CAPS, and validate co-segregation with the phenotype. Then use with an expanded set of germplasm with known phenotypes to further validate utility.
-
-##### Evolution aspect:
-Utilize genomic sequence in the candidate region of different available species in genus/subgenus to estimate when sweetness may have evolved and/or been selected in almond and how this timing fits with domestication history or other events. (Sweet kernels are found in apricot, peach, and possibly other Prunus so, like S-alleles, it may be another trans-specific evolution situation. This section not well-developed at this point.)
