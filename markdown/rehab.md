@@ -25,7 +25,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 [Puzey et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13922/full) Population structure and local selection yield high genomic variation in Mimulus guttatus
 
 ##### Friday Jan 13
-TBD
+PAG - no R.E.H.A.B.
 
 ##### Friday Jan 6
 [Vidalis et al. 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1127-5) Methylome evolution in plants
