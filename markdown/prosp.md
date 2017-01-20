@@ -1,4 +1,4 @@
-## Prospective lab memebers
+## Prospective lab members
 
 ### Prospective Undergraduates
 
