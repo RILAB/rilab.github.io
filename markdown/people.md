@@ -72,6 +72,17 @@ Emily is an NSF plant genome postdoc working on adaptation to domestication in c
 <!-- break -->
 
 <div style="float: left">
+<img src="http://www.rilab.org/images/may.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Tanmayee Khadilkar**
+
+May is an undergraduate student working on variation in copy number and location of the Hopscotch retrotransposon in the maize genome.
+
+<!-- break -->
+<br><br><br>
+<!-- break -->
+
+<div style="float: left">
 <img src="http://www.rilab.org/images/lorant.png" style="border:10px solid white"; width=100px>
 </div>
 **Anne Lorant**
