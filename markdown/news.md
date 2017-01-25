@@ -40,7 +40,7 @@ Josh Hough begins as new postdoc in the lab, to work on linked selection in teos
 
 ### August 20
 
-[Tim Beissinger](http://beissingerlab.github.io) leaves to take up his new job as USDA-ARS Research Geneticist at Missourri, filling the vacancy left when our collaborator Mike McMullen retired.
+[Tim Beissinger](http://beissingerlab.github.io) leaves to take up his new job as USDA-ARS Research Geneticist at Missouri, filling the vacancy left when our collaborator Mike McMullen retired.
 
 ### June 26
 
@@ -62,7 +62,7 @@ Paul Bilinski is chosen to present his work on repeat evolution at the [SMBE Sat
 Preprint of Shohei's paper on convergent evolution in the highlands is up on [bioRxiv](http://biorxiv.org/content/early/2015/01/09/013607), and Michelle's work on identifying new TEs as collaboration with [Nathan Springer's group](http://www.cbs.umn.edu/lab/springer) is out at [PLoS Genetics](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915)!
 
 ### Jan. 8
-Our collaboraton with [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics), [Bruce Smith](http://anthropology.si.edu/archaeobio/smith.html), and [Tom Gilbert](http://geogenetics.ku.dk/research_groups/gilbert_groups/) analyzing ancient maize in the US SW is out in [Nature Plants](http://www.nature.com/articles/nplants20143), with a nice both in [Nature Plants commentary](http://www.nature.com/articles/nplants20149) and a highlight in [Science](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) and a [press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124) by UC Davis.
+Our collaboration with [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics), [Bruce Smith](http://anthropology.si.edu/archaeobio/smith.html), and [Tom Gilbert](http://geogenetics.ku.dk/research_groups/gilbert_groups/) analyzing ancient maize in the US SW is out in [Nature Plants](http://www.nature.com/articles/nplants20143), with a nice both in [Nature Plants commentary](http://www.nature.com/articles/nplants20149) and a highlight in [Science](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) and a [press release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124) by UC Davis.
 
 ### Jan. 6
 
@@ -76,7 +76,7 @@ Our Plant Genome grant was declined by NSF, but with constructive reviews. You c
 
 ### Dec. 12
 
-Michelle Stitzer awarded a [Gobal Food Initiative Fellowship](http://www.universityofcalifornia.edu/press-room/dozens-uc-students-awarded-global-food-initiative-fellowships) for her work on the maize genome
+Michelle Stitzer awarded a [Global Food Initiative Fellowship](http://www.universityofcalifornia.edu/press-room/dozens-uc-students-awarded-global-food-initiative-fellowships) for her work on the maize genome
 
 ### Dec. 11
 
@@ -92,11 +92,11 @@ Added an [interview](http://www.rilab.org/attachments/Hufford_et_al._12_Nature_G
 
 ### Nov 3
 
-Nice [perspective piece](http://www.nature.com/nature/journal/v514/n7524_supp/full/514S58a.html) on rice domesticaiton in Nature, including comment from Jeff on debating one vs two domestications.
+Nice [perspective piece](http://www.nature.com/nature/journal/v514/n7524_supp/full/514S58a.html) on rice domestication in Nature, including comment from Jeff on debating one vs two domestications.
 
 ### Nov 1
 
-Nice [interview](http://www.peoplebehindthescience.com/dr-norman-ellstrand/) with my MS advisor Norm Ellstrand, including a kind reference to the RILAB as one of his "new mentors".
+Nice [interview](http://www.peoplebehindthescience.com/dr-norman-ellstrand/) with my MS adviser Norm Ellstrand, including a kind reference to the RILAB as one of his "new mentors".
 
 ### Oct 27
 
@@ -182,7 +182,7 @@ RILAB student Nivaz Brar presents [a poster](http://www.rilab.org/images/nivaz.j
 
 ### Apr 25, 2014
 
-Reacting to an [urgent call for bioinformatics acronyms](http://www.acgt.me/blog/2014/4/25/acgttgca-has-every-possible-dna-based-initialism-been-used-by-the-bioinformatics/genomics-community?utm_content=bufferd1dd5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) and I are proud to annoucne the formation of the Corn Transcriptome Analysis Group, or CTAG. Because we have some RNA-seq data and can run [EdgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html), that's why.
+Reacting to an [urgent call for bioinformatics acronyms](http://www.acgt.me/blog/2014/4/25/acgttgca-has-every-possible-dna-based-initialism-been-used-by-the-bioinformatics/genomics-community?utm_content=bufferd1dd5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) and I are proud to announce the formation of the Corn Transcriptome Analysis Group, or CTAG. Because we have some RNA-seq data and can run [EdgeR](http://www.bioconductor.org/packages/release/bioc/html/edgeR.html), that's why.
 
 ### Apr. 4, 2014
 
