@@ -152,6 +152,17 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <!-- break -->
 
 <div style="float: left">
+<img src="http://www.rilab.org/images/stetter.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+
+Markus is postdoctoral scholar working on domestication and adaptation in polygenic traits in modern and ancient maize.
+
+<!-- break -->
+<br><br><br>
+<!-- break -->
+
+<div style="float: left">
 <img src="http://www.rilab.org/images/dvelasco.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
