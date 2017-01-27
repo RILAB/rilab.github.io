@@ -1,4 +1,4 @@
-##R.E.H.A.B.
+i##R.E.H.A.B.
 
 Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.
 
@@ -13,8 +13,13 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
+### February 2017
 
-<!-- http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html -->
+##### Friday Feb. 10
+[Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) Evidence for stabilizing selection in a eukaryotic enhancer element
+
+##### Friday Feb. 3
+[Wagner et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12653/abstract)Spatial detection of outlier loci with Moran eigenvector maps (MEM)
 
 ### January 2017
 

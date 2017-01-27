@@ -49,7 +49,7 @@ Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**
 * [Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)] [[1 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13046200421462083749,13021360675733443150 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1038/hdy.2016.10" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
-*  [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full) [[2 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4675131869514095820 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.3389/fpls.2016.00308" data-hide-no-mentions="true" class="altmetric-embed"></div>
+*  [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full) [[3 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=4675131869514095820 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.3389/fpls.2016.00308" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
 
 
@@ -193,7 +193,7 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 
 ### 2009
 
-* [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf) [[468 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf) [[469 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250430020833640405 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1126/science.1177837" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
 
 * [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346) [[16 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690173176823572703,5159519491829986435 )]  <div style="display: inline"  data-badge-popover="right"  data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true" class="altmetric-embed"></div>  
