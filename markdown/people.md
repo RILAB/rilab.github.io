@@ -44,16 +44,6 @@ Kevin is an undergraduate student currently working on a [PUF](http://urc.ucdavi
 Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
 
 
-<!-- break -->
-<br><br><br>
-<!-- break -->
-
-<div style="float: left">
-<img src="https://scholar.google.fr/citations?view_op=view_photo&user=FmClXYIAAAAJ&citpid=9" style="border:10px solid white"; width=100px>
-</div>
-**Josh Hough** <a href="https://twitter.com/joshhough415"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
-
-Josh is a postdoctoral sholar who works on linked selection and the rate of adaptation in teosinte. Josh's work is also part of the [maize diversity project](http://www.panzea.org).
 
 
 <!-- break -->
@@ -186,6 +176,7 @@ Jinliang is a postdoctoral scholar working on the quantitative genetics of heter
 
 ## Lab Alumni
 
+* [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Posdoc 2016-2017
 * [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tübingen)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
 * [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)

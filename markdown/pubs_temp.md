@@ -6,6 +6,15 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
+<!-- * [The Potential Role of Genetic Assimilation during Maize Domestic
+ation]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, *, **Ross-Ibarra J**
+-->
+
+<!-- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM, Kanizay LB, **Ross-Ibarra J**, Alabady M, Wang N, Harkes AE, Hodges AL, Hiatt EN -->
+
+
 <!-- * [The interplay of demography and selection during maize domestication and diffusion]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB. -->
 
@@ -29,7 +38,6 @@ Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu 
 
 * [Extending the Stress-Gradient hypothesis: increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/031195" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Strauss SY  
-
 
 ### 2016
 
