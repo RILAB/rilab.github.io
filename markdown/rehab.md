@@ -15,11 +15,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2017
 ### February 2017
 
+##### Friday Feb. 24
+[Watson et al. 2016](http://www.pnas.org/content/113/43/12226.abstract) Germline replications and somatic mutation accumulation are independent of vegetative life span in Arabidopsis
+
+##### Friday Feb. 24
+TBD
+
 ##### Friday Feb. 10
 [Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) Evidence for stabilizing selection in a eukaryotic enhancer element
 
 ##### Friday Feb. 3
-[Wagner et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12653/abstract)Spatial detection of outlier loci with Moran eigenvector maps (MEM)
+[Wagner et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12653/abstract) Spatial detection of outlier loci with Moran eigenvector maps (MEM)
 
 ### January 2017
 
