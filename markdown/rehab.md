@@ -18,11 +18,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ##### Friday Feb. 24
 [Watson et al. 2016](http://www.pnas.org/content/113/43/12226.abstract) Germline replications and somatic mutation accumulation are independent of vegetative life span in Arabidopsis
 
-##### Friday Feb. 24
+##### Friday Feb. 17
 TBD
 
 ##### Friday Feb. 10
-[Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) Evidence for stabilizing selection in a eukaryotic enhancer element
+Two papers on enhancers and diversity. If short of time, read [Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) first.
+
+**1)** [Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) Evidence for stabilizing selection in a eukaryotic enhancer element  
+**2)** [Alexandre et al 2017](http://biorxiv.org/content/early/2017/01/30/104323) Regulatory DNA in A. thaliana can tolerate high levels of sequence divergence
 
 ##### Friday Feb. 3
 [Wagner et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12653/abstract) Spatial detection of outlier loci with Moran eigenvector maps (MEM)
