@@ -44,8 +44,6 @@ Kevin is an undergraduate student currently working on a [PUF](http://urc.ucdavi
 Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
 
 
-
-
 <!-- break -->
 <br><br><br>
 <!-- break -->
@@ -100,7 +98,7 @@ Wenbin is a postdoctoral scholar who works on the population genetics of copy nu
 </div>
 **Anna O'Brien** <a href="https://annamobrien.wordpress.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a>
 
-Anna is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhiza along elevational gradients in Mexico.
+Anna is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhizae along elevational gradients in Mexico.
 
 <!-- break -->
 <br><br><br>
@@ -120,11 +118,9 @@ Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is
 <div style="float: left">
 <img src="http://www.rilab.org/images/jri2.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a>
+**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
- <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
-
-Jeff is Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). He started at UC Davis in 2009.
+Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). He started at UC Davis in 2009.
 
 <!-- break -->
 <br><br><br>
@@ -157,7 +153,7 @@ Markus is postdoctoral scholar working on domestication and adaptation in polyge
 </div>
 **Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
-Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx) and works on the evolution and phylogenetics of *Prunus*.
+Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx). She studies domestication and evolution of peaches, almonds, and their relatives in the genus *Prunus*.
 
 <!-- break -->
 <br><br><br>
@@ -168,7 +164,7 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 </div>
 **Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Jinliang is a postdoctoral scholar working on the quantitative genetics of heterosis and population epigenetics in teosinte.
+Jinliang is a postdoctoral scholar working on the quantitative genetics of heterosis and population epigenetics in teosinte [maize diversity project](http://www.panzea.org)
 
 <!-- break -->
 <br><br><br>
@@ -176,7 +172,7 @@ Jinliang is a postdoctoral scholar working on the quantitative genetics of heter
 
 ## Lab Alumni
 
-* [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Posdoc 2016-2017
+* [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017
 * [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tübingen)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
 * [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
