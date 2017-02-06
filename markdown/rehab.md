@@ -16,13 +16,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ### February 2017
 
 ##### Friday Feb. 24
-[Watson et al. 2016](http://www.pnas.org/content/113/43/12226.abstract) Germline replications and somatic mutation accumulation are independent of vegetative life span in Arabidopsis
+[Robillard et al 2016](http://www.pnas.org/content/113/51/14763.abstract) Experimental evolution reveals hyperparasitic interactions among transposable elements
 
 ##### Friday Feb. 17
-TBD
+[Watson et al. 2016](http://www.pnas.org/content/113/43/12226.abstract) Germline replications and somatic mutation accumulation are independent of vegetative life span in *Arabidopsis*
 
 ##### Friday Feb. 10
-Two papers on enhancers and diversity. If short of time, read [Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) first.
+Two papers on enhancers and diversity. If short of time, read [Ludwig et al.](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) first.
 
 **1)** [Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) Evidence for stabilizing selection in a eukaryotic enhancer element  
 **2)** [Alexandre et al 2017](http://biorxiv.org/content/early/2017/01/30/104323) Regulatory DNA in A. thaliana can tolerate high levels of sequence divergence
