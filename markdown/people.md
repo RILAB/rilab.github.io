@@ -140,7 +140,7 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <div style="float: left">
 <img src="http://www.rilab.org/images/stetter.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
 
 Markus is postdoctoral scholar working on domestication and adaptation in polygenic traits in modern and ancient maize.
 

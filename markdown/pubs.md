@@ -168,7 +168,7 @@ Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J
 * [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize](http://www.rilab.org/pdfs/hufford2011.pdf) [[data](10.6084/m9.figshare.757734)] [[10 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=13621041706202411296 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1111/j.1365-294X.2010.04924.x" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Hufford MB**, Gepts P, **Ross-Ibarra J**  
 
-* [Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](http://gbe.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=21296765) [[95 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095218463542481067 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/gbe/evr008" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+* [Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](https://www.ncbi.nlm.nih.gov/pubmed/21296765) [[95 citations](http://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095218463542481067 )] <div style="display: inline"  data-badge-popover="right"  data-doi="10.1093/gbe/evr008" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**  
 
 
