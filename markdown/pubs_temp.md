@@ -6,8 +6,7 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints ([lab alert level](http://www.rilab.org/images/alert.jpg))
 
-* [The potential role of genetic Assimilation during maize domestication](http://biorxiv.org/content/early/2017/02/03/105940) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/105940" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-**Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
+
 
 <!-- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM, Kanizay LB, **Ross-Ibarra J**, Alabady M, Wang N, Harkes AE, Hodges AL, Hiatt EN -->
@@ -17,6 +16,8 @@ Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, H
 
 <!-- * [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() <div style="display: inline"  data-badge-popover="right"  data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J** -->
+
+* [The potential role of genetic Assimilation during maize domestication](http://biorxiv.org/content/early/2017/02/03/105940) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/105940" data-hide-no-mentions="true" class="altmetric-embed"></div>  **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
 
 * [The complex sequence landscape of maize revealed by single molecule technologies](http://biorxiv.org/content/early/2016/12/19/079004) <div style="display: inline"  data-badge-popover="right"  data-doi="10.1101/079004" data-hide-no-mentions="true" class="altmetric-embed"></div>
 Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
