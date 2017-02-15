@@ -45,7 +45,7 @@ Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**
 * [Recent demography drives changes in linked selection across the maize genome](http://rdcu.be/kHEB) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/blob/master/callSNPsAngsd_teo_july.sh)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]    
 **Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
 
-* [Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)] ,13021360675733443150     
+* [Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)]      
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
 *  [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full)  Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
@@ -93,7 +93,7 @@ Tiffin P, **Ross-Ibarra J**
 
 ### 2013
 
-* [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/110/48/19639.abstract)  [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)] ,2019155999972302238    
+* [Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/110/48/19639.abstract)  [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)]     
 Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
 
 * [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  [[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)]    
@@ -106,7 +106,7 @@ Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doe
 * [Agriculture: Feeding the future](http://www.rilab.org/pdfs/McCouch2013.pdf)           
 McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir.  
 
-* [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]  ,12331869776672049655,5236304695133591580   
+* [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]     
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**     
 
 * [Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://www.rilab.org/pdfs/provance2013.pdf)  [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)]     
@@ -151,10 +151,10 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**
 
 ### 2011
 
-* [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf) [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)]  ,5440450712221885825   
+* [Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf) [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)]     
 Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
 
-* [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) [[data](http://figshare.com/articles/new_fileset/757735)] ,8033894354263611755   
+* [Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) [[data](http://figshare.com/articles/new_fileset/757735)]    
 **van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J**   
 
 * [Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize](http://www.rilab.org/pdfs/hufford2011.pdf) [[data](10.6084/m9.figshare.757734)]    
@@ -166,10 +166,10 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J**
 
 ### 2010
 
-* [Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda*)](http://www.genetics.org/content/185/3/969.abstract)  ,3590125064334610687   
+* [Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda*)](http://www.genetics.org/content/185/3/969.abstract)     
 Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB  
 
-* [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf) ,12361487702441192477   
+* [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://www.rilab.org/pdfs/Fuchs-et-al-2010.pdf)    
 Fuchs EJ, **Ross-Ibarra J**, Barrantes G  
 
 * [A role for nonadaptive processes in plant genome size evolution?](http://www.rilab.org/pdfs/Whitney-et-al-2010-402.pdf)     
@@ -193,7 +193,7 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 * [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)    
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
 
-* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346) ,5159519491829986435    
+* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346)     
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
 
 * [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)    
