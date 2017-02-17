@@ -17,19 +17,21 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 * [The complex sequence landscape of maize revealed by single molecule technologies](http://biorxiv.org/content/early/2016/12/19/079004)
 Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
 
-* [Gene fractionation and function in the ancient subgenomes of maize](http://biorxiv.org/content/early/2016/12/19/095547)
-**Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
-
 * [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://biorxiv.org/content/early/2016/11/07/086132) **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
-
-* [Diverse origins of high copy tandem repeats in grass genomes](https://peerj.com/preprints/2314/)    
-**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**, Zhang P, Jiang J, **Ross-Ibarra J**  
 
 * [Construction of the third generation Zea mays haplotype map](http://biorxiv.org/content/early/2015/09/16/026963)   
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 
 * [Extending the Stress-Gradient hypothesis: increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter)    
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Strauss SY  
+
+### 2017
+
+* [Gene fractionation and function in the ancient subgenomes of maize](http://biorxiv.org/content/early/2016/12/19/095547)
+**Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
+
+* [Diverse origins of high copy tandem repeats in grass genomes](https://peerj.com/preprints/2314/)    
+**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**, Zhang P, Jiang J, **Ross-Ibarra J**
 
 ### 2016
 
