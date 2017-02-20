@@ -29,7 +29,7 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 
 ### 2017
 
-* Gene fractionation and function in the ancient subgenomes of maize [[preprint]](http://biorxiv.org/content/early/2016/12/19/095547)
+* Gene fractionation and function in the ancient subgenomes of maize [[preprint]](http://biorxiv.org/content/early/2016/12/19/095547)  
 **Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
 
 * Diverse origins of high copy tandem repeats in grass genomes [[preprint]](https://peerj.com/preprints/2314/)    
