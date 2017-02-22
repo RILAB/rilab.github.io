@@ -1,3 +1,9 @@
+
+### 2017
+
+* JRI contributed (but sadly not quoted) in [an article on CIMMYT SeeDs](http://www.scidev.net/america-latina/agropecuaria/noticias/maiz-criollo-va-revelando-sus-secretos-de-adaptacion.html).
+* Spending too much time on twitter has reprecussions. Like having tweets menitoned in [blog posts](https://aobblog.com/2017/02/hi-im-actuallivingscientist/). 
+
 ### 2016
 
 * Our collaboration on ancient maize gets good press in [Nature](http://www.nature.com/nature/journal/v539/n7630/full/539471c.html), [Science](https://t.co/DDOoKctDfR) and popular press like the [BBC](http://www.bbc.com/news/science-environment-37999506) and the [Smithsonian](http://www.smithsonianmag.com/smart-news/lend-me-your-ears-tale-evolution-from-year-old-corn-cob-180961133/)

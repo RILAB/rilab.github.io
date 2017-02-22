@@ -1,5 +1,8 @@
 ## News
 
+### Feb. 20
+[Caryn Johansen](https://twitter.com/jo_caryn) joins the lab, to be co-advised by the inimitable [Dan Runcie](http://runcielab.ucdavis.edu).
+
 ##2016
 
 ### Dec. 8
