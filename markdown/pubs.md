@@ -6,7 +6,9 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints
 
-<!-- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM, Kanizay LB, **Ross-Ibarra J**, Alabady M, Wang N, Harkes AE, Hodges AL, Hiatt EN -->
+<!-- * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America]() Swarts K, Gutaker RM, Benz B,  Blake M, Bukowski R, Holland J, Kruse-Peeples M, Lepak N, Prim L, Romay C, **Ross-Ibarra J**, Sanchez-Gonzalez J, Schmidt C, Schuennemann VJ, Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA -->
+
+<!-- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB, Alabady M, Wang N, Gao Z, Birchler J, Harkes AE, Hodges AL, Hiatt EN -->
 
 <!-- * [The interplay of demography and selection during maize domestication and diffusion]() Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB. -->
 

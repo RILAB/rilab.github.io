@@ -13,8 +13,11 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
-### February 2017
+### March
+##### Friday March 3
+[Messer and Petrov 2013](https://www.ncbi.nlm.nih.gov/pubmed/24075201) Population genomics of rapid adaptation by soft selective sweeps.
 
+### February 2017
 ##### Friday Feb. 24
 [Robillard et al 2016](http://www.pnas.org/content/113/51/14763.abstract) Experimental evolution reveals hyperparasitic interactions among transposable elements
 
