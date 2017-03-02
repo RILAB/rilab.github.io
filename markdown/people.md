@@ -43,6 +43,15 @@ Kevin is an undergraduate student currently working on a [PUF](http://urc.ucdavi
 
 Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
 
+<!-- break -->
+<br><br><br>
+<!-- break -->
+<div style="float: left">
+<img src="http://www.rilab.org/images/caryn.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Caryn Johansen** <a href="https://twitter.com/jo_caryn"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://github.com/carynJohansen"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+
+Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucdavis.edu), coadvised by [Dan Runcie](http://runcielab.ucdavis.edu). Caryn is interested in local adaptation in maize, and modeling the genetic architecture underlying quantitative traits.
 
 <!-- break -->
 <br><br><br>
