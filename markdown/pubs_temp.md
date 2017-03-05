@@ -6,13 +6,17 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints
 
-<!-- * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America]() Swarts K, Gutaker RM, Benz B,  Blake M, Bukowski R, Holland J, Kruse-Peeples M, Lepak N, Prim L, Romay C, **Ross-Ibarra J**, Sanchez-Gonzalez J, Schmidt C, Schuennemann VJ, Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA -->
+<!-- * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America]() Swarts K, Gutaker RM, Benz B,  Blake M, Bukowski R, Holland J, Kruse-Peeples M, Lepak N, Prim L, Romay C, **Ross-Ibarra J**, Sanchez-Gonzalez J, Schmidt C, Schuennemann VJ, Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA
 
-<!-- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB, Alabady M, Wang N, Gao Z, Birchler J, Harkes AE, Hodges AL, Hiatt EN -->
+ * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB, Alabady M, Wang N, Gao Z, Birchler J, Harkes AE, Hodges AL, Hiatt EN
 
-<!-- * [The interplay of demography and selection during maize domestication and diffusion]() Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB. -->
+* [The interplay of demography and selection during maize domestication and diffusion]() Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
 
-<!-- * [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() **Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J** -->
+* [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() **Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J**
+
+[Evolutionary genetics of retrotransposons in Arabidopsis thaliana]() **Stitzer MC**, **Ross-Ibarra J**
+-->
+
 
 * [The potential role of genetic Assimilation during maize domestication](http://biorxiv.org/content/early/2017/02/03/105940)  
 **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
@@ -26,7 +30,7 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 * [Construction of the third generation Zea mays haplotype map](http://biorxiv.org/content/early/2015/09/16/026963)   
   Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 
-* [Extending the Stress-Gradient hypothesis: increased local adaptation between teosinte and soil biota at the stressful end of a climate gradient](http://biorxiv.org/content/early/2015/11/11/031195?utm_source=dlvr.it&utm_medium=twitter)    
+* [Evolutionary responses to conditionality in species interactions across environmental gradients](http://biorxiv.org/content/early/2017/03/01/031195)    
 **O'Brien A**, Sawers R, **Ross-Ibarra J**, Strauss SY  
 
 ### 2017

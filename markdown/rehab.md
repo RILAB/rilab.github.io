@@ -14,6 +14,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### March
+##### Friday March 17 [Charlesworth 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730922/) Stabilizing Selection, Purifying Selection, and Mutational Bias in Finite Populations
+
+##### Friday March 10 No R.E.H.A.B. -- we're at the [MGC](http://www.maizegdb.org/maize_meeting/2017/)
+
 ##### Friday March 3
 [Messer and Petrov 2013](https://www.ncbi.nlm.nih.gov/pubmed/24075201) Population genomics of rapid adaptation by soft selective sweeps.
 
