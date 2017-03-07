@@ -132,7 +132,7 @@ No R.E.H.A.B. - Veteran's Day
 ##### Friday July 22
 [Sharp & Agrawal 2016](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002419) Low Genetic Quality Alters Key Dimensions of the Mutational Spectrum
 
-[blog post](http://www.rilab.org/blogs/22072016.html)
+[blog post](blogs/22072016.html)
 
 ##### Friday July 15
 [Arnold et al. 2016](http://www.pnas.org/content/early/2016/06/28/1600405113.abstract) Borrowed alleles and convergence in serpentine adaptation
