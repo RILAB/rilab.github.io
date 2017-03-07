@@ -1,17 +1,17 @@
 
 
 ## Current R-I Lab members
-Please read more information on [joining the lab](http://www.rilab.org/prosp.html)
+Please read more information on [joining the lab](prosp.html)
 
 <!-- break -->
 <br>
 <!-- break -->
 
 <div style="float: left">  
-</a><img src="http://www.rilab.org/images/avila_2.jpg" style="border:10px solid white"; width=100px>
+</a><img src="images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Luis Avila**
-<a href="https://twitter.com/LuisAvilaDev"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://twitter.com/LuisAvilaDev"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Luis is a postdoctoral scholar working on extant and historical recombination rate variation in maize landraces and teosinte.
 
@@ -21,7 +21,7 @@ Luis is a postdoctoral scholar working on extant and historical recombination ra
 
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/boardman.jpg" style="border:10px solid white"; width=100px>
+<img src="images/boardman.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Kevin Boardman**
 
@@ -34,7 +34,7 @@ Kevin is an undergraduate student currently working on a [PUF](http://urc.ucdavi
 <div style="float: left">
 <img src="http://www.colorado.edu/smithlab/sites/default/files/styles/small/public/people/Dan_webpic_0.jpg?itok=In6TaPb_" style="border:10px solid white"; width=100px>
 </div>
-**Dan Gates** <a href="https://twitter.com/dangates_j"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://danjgates.wordpress.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="https://github.com/danjgates"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Dan Gates** <a href="https://twitter.com/dangates_j"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://danjgates.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://github.com/danjgates"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
 
@@ -42,9 +42,9 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 <br><br><br>
 <!-- break -->
 <div style="float: left">
-<img src="http://www.rilab.org/images/caryn.jpg" style="border:10px solid white"; width=100px>
+<img src="images/caryn.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Caryn Johansen** <a href="https://twitter.com/jo_caryn"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://github.com/carynJohansen"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Caryn Johansen** <a href="https://twitter.com/jo_caryn"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://github.com/carynJohansen"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucdavis.edu), coadvised by [Dan Runcie](http://runcielab.ucdavis.edu). Caryn is interested in local adaptation in maize, and modeling the genetic architecture underlying quantitative traits.
 
@@ -53,9 +53,9 @@ Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucd
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/emjo.jpg" style="border:10px solid white"; width=100px>
+<img src="images/emjo.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Emily Josephs** <a href="http://emjosephs.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Emily Josephs** <a href="http://emjosephs.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Emily is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
 
@@ -64,7 +64,7 @@ Emily is an NSF plant genome postdoc working on adaptation to domestication in c
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/may.jpg" style="border:10px solid white"; width=100px>
+<img src="images/may.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Tanmayee Khadilkar**
 
@@ -75,7 +75,7 @@ May is an undergraduate student working on variation in copy number and location
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/lorant.png" style="border:10px solid white"; width=100px>
+<img src="images/lorant.png" style="border:10px solid white"; width=100px>
 </div>
 **Anne Lorant**
 
@@ -86,9 +86,9 @@ Anne has worked as the lab manager since 2012. In addition to running the show, 
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/wenbin.JPG" style="border:10px solid white"; width=100px>
+<img src="images/wenbin.JPG" style="border:10px solid white"; width=100px>
 </div>
-**Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Wenbin is a postdoctoral scholar who works on the population genetics of copy number variants and inversions in both maize and teosinte. Wenbin is also part of the [maize diversity project](http://www.panzea.org).
 
@@ -97,10 +97,10 @@ Wenbin is a postdoctoral scholar who works on the population genetics of copy nu
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/obrien.jpg" style="border:10px solid white"; width=100px>
+<img src="images/obrien.jpg" style="border:10px solid white"; width=100px>
 
 </div>
-**Anna O'Brien** <a href="https://annamobrien.wordpress.com"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a>
+**Anna O'Brien** <a href="https://annamobrien.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
 
 Anna is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhizae along elevational gradients in Mexico.
 
@@ -109,7 +109,7 @@ Anna is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/ev
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/E_osborn_pic.png" style="border:10px solid white"; width=100px>
+<img src="images/E_osborn_pic.png" style="border:10px solid white"; width=100px>
 </div>
 **Ellen Osborn**
 
@@ -120,9 +120,9 @@ Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/jri2.jpg" style="border:10px solid white"; width=100px>
+<img src="images/jri2.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). He started at UC Davis in 2009.
 
@@ -131,9 +131,9 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/stitzer.jpg" style="border:10px solid white"; width=100px>
+<img src="images/stitzer.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
 Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
 
@@ -142,9 +142,9 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/stetter.jpg" style="border:10px solid white"; width=100px>
+<img src="images/stetter.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Markus is postdoctoral scholar working on domestication and adaptation in polygenic traits in modern and ancient maize.
 
@@ -153,9 +153,9 @@ Markus is postdoctoral scholar working on domestication and adaptation in polyge
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/dvelasco.jpg" style="border:10px solid white"; width=100px>
+<img src="images/dvelasco.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="http://www.rilab.org/images/scholar.png" style="width: 30px;"></a>
+**Dianne Velasco** <a href="https://twitter.com/napknscrib"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx). She studies domestication and evolution of peaches, almonds, and their relatives in the genus *Prunus*.
 
@@ -164,9 +164,9 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.rilab.org/images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
+<img src="images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="http://www.rilab.org/images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="http://www.rilab.org/images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="http://www.rilab.org/images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="http://www.rilab.org/images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Jinliang is a postdoctoral scholar working on the quantitative genetics of heterosis and population epigenetics in teosinte [maize diversity project](http://www.panzea.org)
 
