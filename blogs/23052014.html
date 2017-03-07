@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="../pandoc.css" type="text/css" />
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link rel="icon" type="image/ico" href="http://www.rilab.org/favicon.ico"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="generator" content="pandoc" />
+    <title></title>
+    <style type="text/css">code{white-space: pre;}</style>
+    <link rel="stylesheet" href="pandoc.css" type="text/css" />
+  </head>
+  <body>
+  <p><a href="research.html#adaptation"> <img src="http://www.rilab.org/images/teosinte.jpg" style="width: 150px;"></a> <a href="research.html#experimental"> <img src="http://www.rilab.org/images/corn.jpg" style="width: 150px;"></a> <a href="research.html#csomes"> <img src="http://www.rilab.org/images/csomes.jpg" style="width: 150px;"></a></p>
+  <h4 id="home-people-research-publications-lab-docs-r.e.h.a.b.-news-press"><a href="index.html">Home</a> || <a href="people.html">People</a> || <a href="research.html">Research</a> || <a href="pubs.html">Publications</a> || <a href="https://github.com/RILAB/lab-docs">Lab Docs</a> || <a href="rehab.html">R.E.H.A.B.</a> || <a href="news.html">News</a> || <a href="press.html">Press</a></h4>
+  </body>
+  </html>
+</head>
+<body>
+<p><a href="http://www.sciencemag.org/content/344/6185/738.abstract">Soria-Carrasco and colleagues</a> use a combination of whole genome sequence and GBS data to investigate evidence of parallel evolution in stick insects. They find signficiantly more shared regions of high divergence than expected by chance among replicate populations, and greater sharing than expected with alleles showing frequency change in an experimental colonization setup. The authors did an impressive job putting together a lot of data, and I can imagine how much work is required to do this kind of analysis in an emerging (eclosing?) model system.</p>
+<p>I’ll preface the rest of my post with a confession – I have only skimmed the relevant sections of the <a href="http://www.sciencemag.org/content/suppl/2014/05/14/344.6185.738.DC1/Soria-Carrasco.SM.pdf">supplement</a>, so I apologize in advance if I missed something.</p>
+<p>The question of repeated evolution is an exciting one, but one that never ceases to confuse me. What <strong>is</strong> the question we are interested in? Are we only interested in identifying SNPs that show selection in the same direction in replicate populations? Genes? Regions? Pathways? Or is the question what proportion of adaptive divergence is repeated across populations? Or even simply how often does the same phenotype evolve in response to similar selective pressures? The expectation for repeated evolution would seem to me to depend on a lot of factors, from the strength of selection, the presence of standing variation, the time period involved, and the genetic architecture of the trait. And without a <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954473/">model</a>, I’m not quite sure whether to be surprised by the results of a particular study. This study is a case in point: 83% of their high Fst SNPs are unique to one pair of populations and show no evidence of repeated evolution. But maybe 17% is way more than we expect? I’m not sure. But even it is, one can look at those results and still argue that the vast majority of adaptive divergence appears to be independent. And I remain confused (which doesn’t bode well for the repeated evolution paper I’m currently trying to write) as to what this actually means.</p>
+<p>Such questions aside, some parts of the results and analysis I found puzzling. For example, Fst is dependent on minor allele frequency (Fig 1). SNPs at high frequency in the ancestral population are more likely to be at high frequency in daughter pops and thus show high Fst. In fact, when I run some completely neutral simulations of 2 populations pairs, using a 90% Fst quantile like the authors do, I get an average of 1.1% SNPs with high Fst shared between pairs of populations rather than 1% expected, or a 10% excess! Moreover, I saw more than expected shared high Fst SNPs in 85% of the simulations I did. Now to be fair I simply invented a relatedeness matrix for my simualations that gave reasonable pairwise Fst values (median of ~1%); without grabbing their data I don’t know how realistic my matrix is, but it does go to show that this effect could be important.</p>
+<p>Figure 1. <img src="http://www.rilab.org/images/Rplot01.png" /></p>
+<p>I think we also felt it would have been nice to explore the GO terms a bit more – does metal ion binding make sense given, say, what we know (or could easily know from some simple analyses) of the mineral composition of the two host plants?</p>
+<p>In the experimental transplant, it seemed odd that stick insects taken from Adenostoma left more offspring (or at least more were collected?) when transplanted onto the alternative host Ceanothus than when transplanted onto a different Adenostoma in four of the five replicates. While the sample sizes may be too small to infer much about fitness from these numbers, that’s certainly not in the direction I would have expected.</p>
+<p>Finally, selection must have been pretty strong to overcome 1) Nm values of 20-100 or 2) genetic drift in the experimental pop in a single generation. Is that realistic? Or even if some loci are under sufficiently strong selection, are those <a href="http://www.ncbi.nlm.nih.gov/pubmed/22220860">informative about adaptive evolution in general</a>, or even the majority of cases of repeated evolution?</p>
+</body>
+</html>
