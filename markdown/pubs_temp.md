@@ -4,19 +4,18 @@
 
 Journal names have been intentionally excluded. Lab member names are in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper.
 
+### Coming Soon
+* Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America. Swarts K, Gutaker RM, Benz B,  Blake M, Bukowski R, Holland J, Kruse-Peeples M, Lepak N, Prim L, Romay C, **Ross-Ibarra J**, Sanchez-Gonzalez J, Schmidt C, Schuennemann VJ, Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA
+
+<!-- [Evolutionary genetics of retrotransposons in Arabidopsis thaliana]() **Stitzer MC**, **Ross-Ibarra J** -->
+
+* Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*. **Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J**
+
+* A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome. Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB, Alabady M, Wang N, Gao Z, Birchler J, Harkes AE, Hodges AL, Hiatt EN
+
+* The interplay of demography and selection during maize domestication and diffusion.  Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
+
 ### Preprints
-
-<!-- * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America]() Swarts K, Gutaker RM, Benz B,  Blake M, Bukowski R, Holland J, Kruse-Peeples M, Lepak N, Prim L, Romay C, **Ross-Ibarra J**, Sanchez-Gonzalez J, Schmidt C, Schuennemann VJ, Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA
-
- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB, Alabady M, Wang N, Gao Z, Birchler J, Harkes AE, Hodges AL, Hiatt EN
-
-* [The interplay of demography and selection during maize domestication and diffusion]() Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
-
-* [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() **Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J**
-
-[Evolutionary genetics of retrotransposons in Arabidopsis thaliana]() **Stitzer MC**, **Ross-Ibarra J**
--->
-
 
 * [The potential role of genetic Assimilation during maize domestication](http://biorxiv.org/content/early/2017/02/03/105940)  
 **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
