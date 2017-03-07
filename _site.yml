@@ -1,0 +1,26 @@
+name: "RI lab page"
+navbar:
+  title: "Ross-Ibarra Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Lab Docs"
+      href: https://github.com/RILAB/lab-docs
+    - text: "R.E.H.A.B"
+      href: rehab.html
+    - text: "News"
+      href: news.html
+    - text: "Press"
+      href: press.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: kate
+exclude: [".Rproj"]
+output_dir: "docs"
