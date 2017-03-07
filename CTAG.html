@@ -1,36 +1,221 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" href="../pandoc.css" type="text/css" />
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <link rel="icon" type="image/ico" href="http://www.rilab.org/favicon.ico"/>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <meta name="generator" content="pandoc" />
-    <title></title>
-    <style type="text/css">code{white-space: pre;}</style>
-    <link rel="stylesheet" href="pandoc.css" type="text/css" />
-  </head>
-  <body>
-  <p><a href="research.html#adaptation"> <img src="http://www.rilab.org/images/teosinte.jpg" style="width: 150px;"></a> <a href="research.html#experimental"> <img src="http://www.rilab.org/images/corn.jpg" style="width: 150px;"></a> <a href="research.html#csomes"> <img src="http://www.rilab.org/images/csomes.jpg" style="width: 150px;"></a></p>
-  <h4 id="home-people-research-publications-lab-docs-r.e.h.a.b.-news-press"><a href="index.html">Home</a> || <a href="people.html">People</a> || <a href="research.html">Research</a> || <a href="pubs.html">Publications</a> || <a href="https://github.com/RILAB/lab-docs">Lab Docs</a> || <a href="rehab.html">R.E.H.A.B.</a> || <a href="news.html">News</a> || <a href="press.html">Press</a></h4>
-  </body>
-  </html>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
 </head>
+
 <body>
-<h1 id="corn-transcriptome-analysis-group">Corn Transcriptome Analysis Group</h1>
-<p><a href="https://github.com/rossibarra/CV"><img src="http://upload.wikimedia.org/wikipedia/commons/0/0a/Corn_icon.png" style="width: 30px;"></a> The CTAG currently consists of the <a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Hufford</a> and <a href="www.rilab.org">Ross-Ibarra</a> labs. We’ve done exactly 1 RNA-seq experiment, and know how to use <a href="http://www.bioconductor.org/packages/release/bioc/html/edgeR.html">EdgeR</a>, so we feel we’re qualified. If you’d like to join the CTAG, or purchase the name from us ($10), please contact us at <script type="text/javascript">
-<!--
-h='&#x75;&#x63;&#100;&#x61;&#118;&#x69;&#x73;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#114;&#x6f;&#x73;&#x73;&#x69;&#98;&#x61;&#114;&#114;&#x61;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'ctag@ctag.ctag'+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#x63;&#116;&#x61;&#x67;&#64;&#x63;&#116;&#x61;&#x67;&#46;&#x63;&#116;&#x61;&#x67;&#32;&#40;&#114;&#x6f;&#x73;&#x73;&#x69;&#98;&#x61;&#114;&#114;&#x61;&#32;&#x61;&#116;&#32;&#x75;&#x63;&#100;&#x61;&#118;&#x69;&#x73;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;&#x29;</noscript>.</p>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <img alt="Brand" src="images/cornkey_icon.png">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      
+      </button>
+      
+      <a class="navbar-brand" href="index.html">Ross-Ibarra Lab</a>
+    </div>
+    
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="pubs.html">Publications</a></li>
+        <li><a href="https://github.com/RILAB/lab-docs">Lab Docs</a></li>
+        <li><a href="rehab.html">R.E.H.A.B</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="press.html">Press</a></li>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="corn-transcriptome-analysis-group" class="section level1">
+<h1>Corn Transcriptome Analysis Group</h1>
+<p><a href="https://github.com/rossibarra/CV"><img src="http://upload.wikimedia.org/wikipedia/commons/0/0a/Corn_icon.png" style="width: 30px;"></a> The CTAG currently consists of the <a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Hufford</a> and <a href="www.rilab.org">Ross-Ibarra</a> labs. We’ve done exactly 1 RNA-seq experiment, and know how to use <a href="http://www.bioconductor.org/packages/release/bioc/html/edgeR.html">EdgeR</a>, so we feel we’re qualified. If you’d like to join the CTAG, or purchase the name from us ($10), please contact us at <a href="mailto:rossibarra@ucdavis.edu">ctag@ctag.ctag</a>.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
 </body>
 </html>

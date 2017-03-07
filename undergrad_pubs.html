@@ -1,35 +1,196 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" href="../pandoc.css" type="text/css" />
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <link rel="icon" type="image/ico" href="http://www.rilab.org/favicon.ico"/>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <meta name="generator" content="pandoc" />
-    <title></title>
-    <style type="text/css">code{white-space: pre;}</style>
-    <link rel="stylesheet" href="pandoc.css" type="text/css" />
-  </head>
-  <body>
-  <p><a href="research.html#adaptation"> <img src="http://www.rilab.org/images/teosinte.jpg" style="width: 150px;"></a> <a href="research.html#experimental"> <img src="http://www.rilab.org/images/corn.jpg" style="width: 150px;"></a> <a href="research.html#csomes"> <img src="http://www.rilab.org/images/csomes.jpg" style="width: 150px;"></a></p>
-  <h4 id="home-people-research-publications-lab-docs-r.e.h.a.b.-news-press"><a href="index.html">Home</a> || <a href="people.html">People</a> || <a href="research.html">Research</a> || <a href="pubs.html">Publications</a> || <a href="https://github.com/RILAB/lab-docs">Lab Docs</a> || <a href="rehab.html">R.E.H.A.B.</a> || <a href="news.html">News</a> || <a href="press.html">Press</a></h4>
-  </body>
-  </html>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
 </head>
+
 <body>
-<h2 id="publications">Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a></h2>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <img alt="Brand" src="images/cornkey_icon.png">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      
+      </button>
+      
+      <a class="navbar-brand" href="index.html">Ross-Ibarra Lab</a>
+    </div>
+    
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="pubs.html">Publications</a></li>
+        <li><a href="https://github.com/RILAB/lab-docs">Lab Docs</a></li>
+        <li><a href="rehab.html">R.E.H.A.B</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="press.html">Press</a></li>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="publications" class="section level2">
+<h2>Publications <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="http://www.rilab.org/images/scholar.png" style="width: 50px;"></a></h2>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <p>Journal names have been intentionally excluded. Undergraduate researcher are shown in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper.</p>
 <!-- ### Preprints  -->
-<h3 id="section">2016</h3>
+<div id="section" class="section level3">
+<h3>2016</h3>
 <ul>
 <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full">ANGSD-wrapper: utilities for analyzing next generation sequencing data</a> [<a href="https://github.com/mojaveazure/angsd-wrapper">github</a>] [<a href="https://peerj.com/preprints/1472/">preprint</a>]
 <div class="altmetric-embed" style="display: inline" data-badge-popover="right" data-doi="10.7287/peerj.preprints.1472v2" data-hide-no-mentions="true">
@@ -42,7 +203,9 @@
 </div>
 <p>Beissinger TM, Wang L, Crosby K, <strong>Durvasula A</strong>, Hufford MB, Ross-Ibarra J</p></li>
 </ul>
-<h3 id="section-1">2015</h3>
+</div>
+<div id="section-1" class="section level3">
+<h3>2015</h3>
 <ul>
 <li><a href="https://peerj.com/articles/900/">Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)</a> [<a href="https://peerj.com/preprints/685/">preprint</a>]
 <div class="altmetric-embed" style="display: inline" data-badge-popover="right" data-doi="10.7717/peerj.900" data-hide-no-mentions="true">
@@ -50,7 +213,9 @@
 </div>
 Vann LE, <strong>Kono TJ</strong>, Pyhäjärvi T, Hufford MB, Ross-Ibarra J. <!--  [[github](https://github.com/lvann/tb1)] --></li>
 </ul>
-<h3 id="section-2">2014</h3>
+</div>
+<div id="section-2" class="section level3">
+<h3>2014</h3>
 <ul>
 <li><a href="http://rilab.org/pdfs/Bilinski2014.pdf">Diversity and evolution of centromere repeats in the maize genome</a> [<a href="http://biorxiv.org/content/early/2014/05/12/005058">preprint</a>]
 <div class="altmetric-embed" style="display: inline" data-badge-popover="right" data-doi="10.1007/s00412-014-0483-8" data-hide-no-mentions="true">
@@ -58,7 +223,9 @@ Vann LE, <strong>Kono TJ</strong>, Pyhäjärvi T, Hufford MB, Ross-Ibarra J. <!-
 </div>
 Bilinski P, <strong>Distor KD</strong>, Gutierez-Lopez J, Mendoza Mendoza G, Shi J, Dawe K, Ross-Ibarra J</li>
 </ul>
-<h3 id="section-3">2013</h3>
+</div>
+<div id="section-3" class="section level3">
+<h3>2013</h3>
 <ul>
 <li><a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477">The genomic signature of crop-wild introgression in maize</a> [<a href="http://figshare.com/articles/Hufford_et_al_2013/766356">data</a>] [<a href="http://arxiv.org/abs/1208.3894">preprint</a>]
 <div class="altmetric-embed" style="display: inline" data-badge-popover="right" data-doi="10.1371/journal.pgen.1003477" data-hide-no-mentions="true">
@@ -71,7 +238,9 @@ Bilinski P, <strong>Distor KD</strong>, Gutierez-Lopez J, Mendoza Mendoza G, Shi
 </div>
 <p>Provance MC, Garcia Ruiz I, <strong>Thommes C</strong>, Ross-Ibarra J</p></li>
 </ul>
-<h3 id="section-4">2009</h3>
+</div>
+<div id="section-4" class="section level3">
+<h3>2009</h3>
 <ul>
 <li><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346">A pleistocene clone of Palmer’s Oak persisting in Southern California</a>
 <div class="altmetric-embed" style="display: inline" data-badge-popover="right" data-doi="10.1371/journal.pone.0008346" data-hide-no-mentions="true">
@@ -79,5 +248,36 @@ Bilinski P, <strong>Distor KD</strong>, Gutierez-Lopez J, Mendoza Mendoza G, Shi
 </div>
 <strong>May MR</strong>, Provance MC, Sanders AC, Ellstrand NC, Ross-Ibarra J</li>
 </ul>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
 </body>
 </html>

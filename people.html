@@ -1,36 +1,191 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" href="../pandoc.css" type="text/css" />
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <link rel="icon" type="image/ico" href="http://www.rilab.org/favicon.ico"/>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <meta name="generator" content="pandoc" />
-    <title></title>
-    <style type="text/css">code{white-space: pre;}</style>
-    <link rel="stylesheet" href="pandoc.css" type="text/css" />
-  </head>
-  <body>
-  <p><a href="research.html#adaptation"> <img src="http://www.rilab.org/images/teosinte.jpg" style="width: 150px;"></a> <a href="research.html#experimental"> <img src="http://www.rilab.org/images/corn.jpg" style="width: 150px;"></a> <a href="research.html#csomes"> <img src="http://www.rilab.org/images/csomes.jpg" style="width: 150px;"></a></p>
-  <h4 id="home-people-research-publications-lab-docs-r.e.h.a.b.-news-press"><a href="index.html">Home</a> || <a href="people.html">People</a> || <a href="research.html">Research</a> || <a href="pubs.html">Publications</a> || <a href="https://github.com/RILAB/lab-docs">Lab Docs</a> || <a href="rehab.html">R.E.H.A.B.</a> || <a href="news.html">News</a> || <a href="press.html">Press</a></h4>
-  </body>
-  </html>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
 </head>
+
 <body>
-<!-- <div style="float: left">
-<a href="http://www.rilab.org/images/nov2014.jpg">
-    <img src="http://www.rilab.org/images/nov2014.jpg" style="border:10px solid white"; width=100px>
-    </a>
-</div> -->
-<h2 id="current-r-i-lab-members">Current R-I Lab members</h2>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <img alt="Brand" src="images/cornkey_icon.png">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      
+      </button>
+      
+      <a class="navbar-brand" href="index.html">Ross-Ibarra Lab</a>
+    </div>
+    
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="pubs.html">Publications</a></li>
+        <li><a href="https://github.com/RILAB/lab-docs">Lab Docs</a></li>
+        <li><a href="rehab.html">R.E.H.A.B</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="press.html">Press</a></li>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="current-r-i-lab-members" class="section level2">
+<h2>Current R-I Lab members</h2>
 <p>Please read more information on <a href="http://www.rilab.org/prosp.html">joining the lab</a></p>
 <!-- break -->
 <p><br> <!-- break --></p>
@@ -139,7 +294,9 @@
 <p>Jinliang is a postdoctoral scholar working on the quantitative genetics of heterosis and population epigenetics in teosinte <a href="http://www.panzea.org">maize diversity project</a></p>
 <!-- break -->
 <p><br><br><br> <!-- break --></p>
-<h2 id="lab-alumni">Lab Alumni</h2>
+</div>
+<div id="lab-alumni" class="section level2">
+<h2>Lab Alumni</h2>
 <ul>
 <li><a href="https://scholar.google.fr/citations?user=FmClXYIAAAAJ&amp;hl=en">Josh Hough</a>: Postdoc 2016-2017</li>
 <li><a href="https://scholar.google.com/citations?user=c03DwHkAAAAJ&amp;hl=en">Paul Bilinski</a>: PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tübingen)</li>
@@ -157,7 +314,8 @@
 <li><a href="https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392">Tanja Pyhäjärvi</a>: Postdoc 2010-2012 (Sr. Research Fellow, U. Oulu)</li>
 <li><a href="http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm">Joost van Heerwaarden</a>: Postdoc 2009-2011 (Research Coordinator, N2Africa)</li>
 </ul>
-<h3 id="visiting-scholar-for-100-hours-of-scholastic-visitation">Visiting Scholar: for &gt;100 hours of scholastic visitation</h3>
+<div id="visiting-scholar-for-100-hours-of-scholastic-visitation" class="section level3">
+<h3>Visiting Scholar: for &gt;100 hours of scholastic visitation</h3>
 <ul>
 <li><a href="https://sites.google.com/site/ejfuchs/">Eric Fuchs</a></li>
 <li><a href="http://faculty.agronomy.cfans.umn.edu/pmorrell/">Peter Morrell</a></li>
@@ -165,11 +323,15 @@
 <li><a href="http://www.panzea.org/#!ginnie-morrison/c1lov">Ginnie Morrison</a></li>
 <li><a href="http://www.dawelab.org">Kelly Dawe</a></li>
 </ul>
-<h3 id="fellow-of-the-r-i-lab-for-500-hours-of-scholastic-fellowship">Fellow of the R-I Lab: for &gt;500 hours of scholastic fellowship</h3>
+</div>
+<div id="fellow-of-the-r-i-lab-for-500-hours-of-scholastic-fellowship" class="section level3">
+<h3>Fellow of the R-I Lab: for &gt;500 hours of scholastic fellowship</h3>
 <ul>
 <li><a href="http://www.cbs.umn.edu/lab/tiffin">Peter Tiffin</a></li>
 </ul>
-<h3 id="current-collaborators">Current Collaborators</h3>
+</div>
+<div id="current-collaborators" class="section level3">
+<h3>Current Collaborators</h3>
 <p><strong>Biology of rare alleles in maize and teosinte</strong></p>
 <ul>
 <li><a href="http://www.maizegenetics.net">Ed Buckler</a></li>
@@ -210,5 +372,36 @@
 * [Justin Gerke](http://www.linkedin.com/pub/justin-gerke/11/ab4/312)
 * Oscar (Howie) Smith
 * [Kate Crosby](https://github.com/kate-crosby) -->
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
 </body>
 </html>
