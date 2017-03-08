@@ -19,7 +19,7 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 <!-- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB, Alabady M, Wang N, Gao Z, Birchler J, Harkes AE, Hodges AL, Hiatt EN -->
 
-<!-- * [The interplay of demography and selection during maize domestication and diffusion]() Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB. -->
+* [The interplay of demography and selection during maize domestication and diffusion](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w) Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB. 
 
 <!-- * [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() **Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J** -->
 
