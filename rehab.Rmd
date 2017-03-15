@@ -14,6 +14,19 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### March
+##### Friday March 31
+[Charlesworth 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730922/)
+
+##### Friday March 24
+[TBA]()
+
+##### Friday March 17
+[Huang, Gulko & Siepel 2017](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3810.html?WT.feed_name=subjects_genetics) Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data
+
+
+##### Friday March 10
+[Maize meeting](http://www.maizegdb.org/maize_meeting/2017/) -- no R.E.H.A.B.
+
 ##### Friday March 3
 [Messer and Petrov 2013](https://www.ncbi.nlm.nih.gov/pubmed/24075201) Population genomics of rapid adaptation by soft selective sweeps.
 
