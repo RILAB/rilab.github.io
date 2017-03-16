@@ -147,15 +147,25 @@ $(document).ready(function () {
 
 
 
+<script>
+var num = Math.floor(Math.random() * 10 + 1);
+randomimage = "images/image" +num +".jpg";
+</script>
+
 <div class="navbar navbar-default  navbar-float-top" role="navigation">
     <div class="container" overflow="auto" align="left" style="width: inherit;">
-     <!––  <img alt="Brand" src="images/domestication.jpg" align='left' href="research.html" style="width: 20.1%;"> 
-     <!––  <img alt="Brand" src="images/teosinte.jpg" align="middle" style="width: 20%;"> 
-     <!––  <img alt="Brand" src="images/csomes.jpg" align='right' style="width: 20%;">  
-      <img alt="Brand" src="images/image01.jpg" align='right'>
-    
+     <!––  <img alt="Brand" src="images/domestication.jpg" align='left' href="research.html" style="width: 20.1%;">
+     <!––  <img alt="Brand" src="images/teosinte.jpg" align="middle" style="width: 20%;">
+     <!––  <img alt="Brand" src="images/csomes.jpg" align='right' style="width: 20%;">
+
+
+
+
+      <img src=randomimage alt="If you can see this, then the image didn't load properly" class="myclass1" align='center'>
+      <!-- <img alt="Brand" src="images/image01.jpg" align='right'> -->
+
     </div>
-      
+
   <div class="container">
     <div class="navbar-header">
       <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
@@ -164,12 +174,12 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-      
+
       </button>
-      
+
       <a class="navbar-brand" href="index.html">Ross-Ibarra Lab</a>
     </div>
-    
+
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav" align="center">
         <li><a href="index.html">Home</a></li>
