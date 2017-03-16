@@ -27,9 +27,6 @@ Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, H
 * [The potential role of genetic Assimilation during maize domestication](http://biorxiv.org/content/early/2017/02/03/105940)  
 **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
 
-* [The complex sequence landscape of maize revealed by single molecule technologies](http://biorxiv.org/content/early/2016/12/19/079004)  
-Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
-
 * [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://biorxiv.org/content/early/2016/11/07/086132)  
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
 
@@ -40,6 +37,9 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  
 
 ### 2017
+
+* The complex sequence landscape of maize revealed by single molecule technologies [[preprint]](http://biorxiv.org/content/early/2016/12/19/079004)
+Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
 
 * Gene fractionation and function in the ancient subgenomes of maize [[preprint]](http://biorxiv.org/content/early/2016/12/19/095547)  
 **Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
