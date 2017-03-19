@@ -17,28 +17,29 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 <!-- * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America]() Swarts K, Gutaker RM, Benz B,  Blake M, Bukowski R, Holland J, Kruse-Peeples M, Lepak N, Prim L, Romay C, **Ross-Ibarra J**, Sanchez-Gonzalez J, Schmidt C, Schuennemann VJ, Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA -->
 
-<!-- * [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome]() Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB, Alabady M, Wang N, Gao Z, Birchler J, Harkes AE, Hodges AL, Hiatt EN -->
+* A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)  
+Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]
 
-* [The interplay of demography and selection during maize domestication and diffusion](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)  
+* The interplay of demography and selection during maize domestication and diffusion [[preprint]](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)  
 Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB. 
 
 <!-- * [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() **Bilinski P**, Albert P, Birchler JA, Berg JJ, Grote M, **Lorant A**, **Quezada J**, **Yang J**, **Ross-Ibarra J** -->
 
-* [The potential role of genetic Assimilation during maize domestication](http://biorxiv.org/content/early/2017/02/03/105940)  
+* The potential role of genetic Assimilation during maize domestication [[preprint]](http://biorxiv.org/content/early/2017/02/03/105940)  
 **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
 
-* [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://biorxiv.org/content/early/2016/11/07/086132)  
+* Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize [[preprint]](http://biorxiv.org/content/early/2016/11/07/086132)  
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
 
-* [Construction of the third generation Zea mays haplotype map](http://biorxiv.org/content/early/2015/09/16/026963)   
+* Construction of the third generation Zea mays haplotype map [[preprint]](http://biorxiv.org/content/early/2015/09/16/026963)   
   Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 
-* [Evolutionary responses to conditionality in species interactions across environmental gradients](http://biorxiv.org/content/early/2017/03/01/031195)    
+* Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint]](http://biorxiv.org/content/early/2017/03/01/031195)    
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  
 
 ### 2017
 
-* The complex sequence landscape of maize revealed by single molecule technologies [[preprint]](http://biorxiv.org/content/early/2016/12/19/079004)
+* The complex sequence landscape of maize revealed by single molecule technologies [[preprint]](http://biorxiv.org/content/early/2016/12/19/079004)  
 Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
 
 * Gene fractionation and function in the ancient subgenomes of maize [[preprint]](http://biorxiv.org/content/early/2016/12/19/095547)  
