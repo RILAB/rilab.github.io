@@ -14,18 +14,21 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### April
-##### Friday April 15
+##### Friday April 21
 [Huang, Gulko & Siepel 2017](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3810.html?WT.feed_name=subjects_genetics) Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data
 
-##### Friday April 7
+##### Friday April 14
 [Wang et al. 2017](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3807.html#f1) Asymmetric subgenome selection and cis-regulatory divergence during cotton domestication
+
+##### Friday April 7
+[Charlesworth 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730922/) Stabilizing Selection, Purifying Selection, and Mutational Bias in Finite Populations
 
 ### March
 ##### Friday March 31
-[Charlesworth 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730922/) Stabilizing Selection, Purifying Selection, and Mutational Bias in Finite Populations
+[Franssen et al. 2017](http://www.nature.com/hdy/journal/v118/n1/full/hdy201698a.html) Uncovering the genetic signature of quantitative trait evolution with replicated time series data
 
 ##### Friday March 24
-[Hermisson & Pennings 2017](http://biorxiv.org/content/early/2017/03/07/114587)
+[Hermisson & Pennings 2017](http://biorxiv.org/content/early/2017/03/07/114587) Soft sweeps and beyond: Understanding the patterns and probabilities of selection footprints under rapid adaptation
 
 ##### Friday March 17
 [Brandenburg et al 2017](https://rilab.slack.com/archives/papers/p1489556863288990) Independent introductions and admixtures have contributed to adaptation of European maize and its American counterparts 
