@@ -86,6 +86,17 @@ Anne has worked as the lab manager since 2012. In addition to running the show, 
 <!-- break -->
 
 <div style="float: left">
+<img src="images/mahan.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Scott Mahan**
+
+Scott is a 3rd year genetics major, working to develop SNP assays to facilitate plant identification.
+
+<!-- break -->
+<br><br><br>
+<!-- break -->
+
+<div style="float: left">
 <img src="images/wenbin.JPG" style="border:10px solid white"; width=100px>
 </div>
 **Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
