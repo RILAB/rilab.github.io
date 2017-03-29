@@ -144,7 +144,7 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 <div style="float: left">
 <img src="images/stitzer.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+**Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mcstitzer.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://github.com/mcstitzer"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
 
@@ -155,9 +155,9 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <div style="float: left">
 <img src="images/stetter.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>
+**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mstetter"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Markus is postdoctoral scholar working on domestication and adaptation in polygenic traits in modern and ancient maize.
+Markus is postdoctoral scholar working on domestication and adaptation in polygenic traits in maize and teosinte.
 
 <!-- break -->
 <br><br><br>
