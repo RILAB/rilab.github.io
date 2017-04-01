@@ -17,6 +17,9 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 <!-- * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America]() Swarts K, Gutaker RM, Benz B,  Blake M, Bukowski R, Holland J, Kruse-Peeples M, Lepak N, Prim L, Romay C, **Ross-Ibarra J**, Sanchez-Gonzalez J, Schmidt C, Schuennemann VJ, Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA -->
 
+* How to make a domesticate [[preprint]](https://peerj.com/preprints/2902/)  
+**Stetter MG**, **Gates DJ**, **Mei W**, **Ross-Ibarra J**
+
 * A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)  
 Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]
 
