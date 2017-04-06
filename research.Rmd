@@ -1,3 +1,14 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5300959-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 ## Research
 <hr>
 <a name="adaptation"></a>
@@ -7,16 +18,36 @@
 ### Genetics of adaptation
 
 Maize spread rapidly after domestication, adapting to a wide range of environments.
-Today maize is grown across a broader geographic breadth than any of the world's other staple crops, from sea level to altitudes of $>4,000$m and from deserts to near-flooded conditions. The wild relatives of maize have also adapted to environments varying widely in elevation, temperature, and moisture availability. Our previous work has shown that adaptation in teosinte is often restricted to discrete local populations and has often made use of regulatory variation.
-We also find evidence that inversion polymorphisms are common and associated with environmental gradients and phenotypic variation. Because maize -- and likely other complex plant genomes -- can apparently circumvent cytological problems associated with large-scale structure variation, we suspect such variants are common in plant genomes. Work is underway both to characterize the genomic and phenotypic effects of individual inversions and to more broadly characterize the scope of structural variation within natural populations using both resequencing and *de novo* genome assembly.
+Today maize is grown across a broader geographic breadth than any of the world's other staple crops, from sea level to altitudes of $>4,000$m and from deserts to near-flooded conditions. The wild relatives of maize have also adapted to environments varying widely in elevation, temperature, and moisture availability. 
 
-In many instances of local adaptation, independent populations have converged on similar phenotypic adaptations.  We have worked with maize populations adapted to high elevation environments in Mexico and South America, seeking to understand whether convergent phenotypic evolution is associated with convergent changes at the molecular level. Our previous efforts pointed to a key role for adaptive introgression from wild teosinte in enabling maize to adapt to the mountains of central Mexico, but in spite of similar phenotypes we find no overlap between Mexican and Andean populations in genes showing evidence of selection. Our analyses further suggest that most local adaptation in these populations has not been mutation limited, but that instead stochastic differences in local founding populations, each with abundant standing genetic variation, likely explain the lack of convergent genetics.
+The lab is working on a number of projects using maize and its wild realtives to understand the genetic basis of adaptation, asking questions such as:
+
+#### Is adaptation mutation limited?
+
+* [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)
+**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J** 
+
+#### Is most adaptation local?
+
+* [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
+**Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
+
+#### What kinds of loci are the most frequenct targets of adaptation?
+
+* [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
+**Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
+
+#### How often do different populations or taxa adapt using similar genetics?
+
+* [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)
+**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J** 
+
+
 
 * [Evolutionary responses to conditionality in species interactions across environmental gradients](http://biorxiv.org/content/early/2017/03/01/031195)    
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY 
 
-* [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)
-**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**.   
+
 
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf)  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
@@ -26,8 +57,7 @@ Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrec
 * [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  
 Tiffin P, **Ross-Ibarra J**  
 
-* [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
-**Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
+
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
 **Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
