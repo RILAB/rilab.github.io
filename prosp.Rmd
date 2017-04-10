@@ -1,17 +1,6 @@
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-5300959-3', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
 ## Prospective lab members
 
-Please see our [lab philosophy](expectations.html) for more information on expectations of lab members.
+If you are interestd in joining the lab, please also see information on [expectations](expectations.html) for lab members.
 
 ### Prospective Undergraduates
 
@@ -24,4 +13,3 @@ I am currently accepting graduate students through the [Plant Biology](http://bi
 ### Prospective PostDocs
 
 I'm always interested in recruiting talented postdoctoral candidates. In particular, I encourage people to contact me about writing postdoc fellowship proposals for [NSF](http://www.nsf.gov/funding/education.jsp?fund_type=3), [USDA](http://www.csrees.usda.gov/fo/fellowshipsgrantprogramafri.cfm), [CPB](http://cpb.ucdavis.edu/CPB%20Postdoc%20Fellowship.html), [UC MEXUS](http://www.ucmexus.ucr.edu/funding/fellowship_post_doc.html), or any of a number of other fellowship opportunities (see [here](http://mathbionerd.blogspot.com/2014/04/some-postdoctoral-fellowships-in-biology.html) and [here](http://people.ds.cam.ac.uk/dl384/Resources_Postdocs.html) for some nice lists). Please email me with your CV, and I'd be happy to discuss fellowship possibilities.
-
