@@ -97,9 +97,9 @@ Anne has worked as the lab manager since 2012. In addition to running the show, 
 <div style="float: left">
 <img src="images/mahan.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Scott Mahan**
+**Scotty Mahan**
 
-Scott is a 3rd year genetics major, working with Jeff and Anne to develop SSR genotyping and assignment methods.
+Scotty is a 3rd year genetics major, working with Jeff and Anne to develop SSR genotyping and assignment methods.
 
 <!-- break -->
 <br><br><br>
