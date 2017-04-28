@@ -20,9 +20,9 @@ Please read more information on [joining the lab](prosp.html)
 </a><img src="images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Luis Avila**
-<a href="https://twitter.com/LuisAvilaDev"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://twitter.com/LuisAvilaDev"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://github.com/lmavila"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Luis is a postdoctoral scholar working on extant and historical recombination rate variation in maize landraces and teosinte.
+Luis is a staff computational biologist working on inversion polymorphisms and recombination rate variation in maize landraces and teosinte.
 
 <!-- break -->
 <br><br><br>
