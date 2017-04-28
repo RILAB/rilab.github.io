@@ -25,6 +25,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### April
+##### Friday April 28
+[Gilbert and Whitlock 2017](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13029/full) The genetics of adaptation to discrete heterogeneous environments: frequent mutation or large‐effect alleles can allow range expansion
+
 ##### Friday April 21
 [Huang, Gulko & Siepel 2017](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3810.html?WT.feed_name=subjects_genetics) Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data
 
