@@ -24,6 +24,21 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
+### May
+##### Friday May 19
+[Walter et al. 2017](http://biorxiv.org/content/early/2017/01/02/097642) 
+Evolution of genetic variance during adaptive radiation
+
+##### Friday May 12
+[Corbett-Detig et al. 2015](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002112) Natural Selection Constrains Neutral Diversity across A Wide Range of Species
+
+*AND*
+
+[Coop 2016](http://biorxiv.org/content/early/2016/03/07/042598) Does linked selection explain the narrow range of genetic diversity across species?
+
+##### Friday May 5
+[Gilbert et al. 2017](http://www.journals.uchicago.edu/doi/abs/10.1086/690673) Local Adaptation Interacts with Expansion Load during Range Expansion: Maladaptation Reduces Expansion Load
+
 ### April
 ##### Friday April 28
 [Gilbert and Whitlock 2017](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13029/full) The genetics of adaptation to discrete heterogeneous environments: frequent mutation or large‐effect alleles can allow range expansion
