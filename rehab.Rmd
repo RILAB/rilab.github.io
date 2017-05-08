@@ -24,10 +24,14 @@ We're proud of the fact that a number of journal clubs have now been modelled on
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
-### May
-##### Friday May 26
+### June
+##### Friday June 2
 [Walter et al. 2017](http://biorxiv.org/content/early/2017/01/02/097642) 
 Evolution of genetic variance during adaptive radiation
+
+### May
+##### Friday May 26
+[Lee et al. 2017](https://www.nature.com/articles/s41559-017-0119) Young inversion with multiple linked QTLs under selection in a hybrid zone
 
 ##### Friday May 19
 [Corbett-Detig et al. 2015](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002112) Natural Selection Constrains Neutral Diversity across A Wide Range of Species
