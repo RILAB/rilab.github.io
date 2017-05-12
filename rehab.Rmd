@@ -19,7 +19,7 @@ From time to time we also blog our thoughts on the papers we read. One or more o
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
 
-We're proud of the growing list of journal clubs modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ),  [detox](http://beissingerlab.org/Detox/), [esfoyaza](https://github.com/sawers-rellan-labs/esfoyaza), and [frydomics](https://github.com/arundurvasula/frydomics/blob/master/README.md).
+We're proud of the growing list of journal clubs modelled on R.E.H.A.B., including [EvolFri](http://evolfri.blogspot.com/), [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ),  [detox](http://beissingerlab.org/Detox/), [esfoyaza](https://github.com/sawers-rellan-labs/esfoyaza), [Q.U.I.T.](http://jyanglab.com/jc/), and [frydomics](https://github.com/arundurvasula/frydomics/blob/master/README.md).
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
