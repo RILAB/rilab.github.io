@@ -43,7 +43,7 @@ Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, H
 * Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)]  
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
 
-* Construction of the third generation Zea mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)]   
+* Construction of the third generation *Zea* mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)]   
   Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
 
 * Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)]    

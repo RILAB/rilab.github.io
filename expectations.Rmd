@@ -14,18 +14,18 @@ Your health and safety are more important than your research. This includes adhe
 
 I expect lab members to contribute to a productive and friendly environment conducive to learning and research. This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance.  The university provides a number of [resources](http://studentexpression.ucdavis.edu/get-support/index.html) (confidential and otherwise) to report or discuss any such activity you feel is inappropriate.
 
-### Expectations (for all members).
+### Expectations (for all members)
 
-#### Work hours.  
-We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours (9-5pm) during the work week, since this is when most academic activities occur. There may be times when your project requires work late at night or on the weekends, but you are *not* expected to regularly work 50+ hours a week.  It is important that you take time off for personal life, vacations, etc.  I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.
+#### Work hours
+We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours (9-5pm) during the work week, since this is when most academic activities occur. There may be times when your project requires work late at night or on the weekends, but you are *not* expected to regularly work more than a normal 40-hour work week.  It is important that you take time off for personal life, vacations, etc.  I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.
 
-#### Seminars, journal clubs and other lab and institutional activities.   
+#### Seminars, journal clubs and other lab and institutional activities   
 Attendance to regular weekly lab meetings is expected of all lab members. Participation in weekly lab coffee, [panzea](www.panzea.org) and fmeetings, and [R.E.H.A.B.](rehab.html) is encouraged but not required. Note that if you are funded on one of the lab's current grants, you are expected to attend those meetings as well.  There are a number of seminars (Plant Biology, Genetics, Population Biology, Ecology & Evolution, Plant Sciences) each week, and these are usually posted in the office. You are  strongly encouraged to regularly go to one or more each week.
 
-#### Conferences and field work.  
+#### Conferences
 Everyone is encouraged to attend at least one conference a year.  Members of the lab regularly attend such meetings as the maize meeting, SMBE, Evolution, and ESA. The department and university offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks. 
 
-#### Authorship.
+#### Authorship
 We follow the [IJME rules for authorship rules](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html):   
 1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND  
 2. Drafting the work or revising it critically for important intellectual content; AND  
@@ -37,7 +37,7 @@ Projects evolve over time and authorship, inclusion and author order will be re-
 I feel strongly about open science. We write papers on github or [overleaf](overleaf.com), often in public repos.  We publish preprints as soon as a manuscript is ready for submission.  We publish our data as soon as we can, and I am pushing to start doing so as separate data papers. We document our work -- with github, R markdown, readme files, etc. -- so it is intelligible and reusable in the future. I expect members of the lab to practice open science.
 
 
-## Specific rules for the different members of the lab.
+## Specific rules for the different members of the lab
 
 ### Postdocs and senior PhD students  
 
@@ -59,7 +59,7 @@ I feel strongly about open science. We write papers on github or [overleaf](over
 - Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors). Participate in talk rehearsals of your colleagues.
 - Optional, but encouraged: Mentor at least one undergraduate student.
 
-### Master and junior PhD students.
+### Master and junior PhD students
 
 #### My responsibilities to Master and junior PhD students:
 

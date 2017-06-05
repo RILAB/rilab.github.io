@@ -25,6 +25,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### June
+##### Friday June 16
+[Gould et al.](http://biorxiv.org/content/early/2017/06/03/145805) The Gene Regulatory Landscape of Local Adaptation
+
+##### Friday June 11
+[Berg et al. 2017](https://rilab.slack.com/files/jri/F5N2MK5L0/realpaper_gc.pdf) Evidence that Polygenic Adaptation has Impacted the Evolution of Anthropometric Traits
+
 ##### Friday June 2
 [Walter et al. 2017](http://biorxiv.org/content/early/2017/01/02/097642) 
 Evolution of genetic variance during adaptive radiation
