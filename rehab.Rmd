@@ -25,17 +25,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### June
-##### Friday June 30
+##### Friday June 23
 [Gould et al.](http://biorxiv.org/content/early/2017/06/03/145805) The Gene Regulatory Landscape of Local Adaptation
 
-##### Friday June 23
+##### Friday June 16
 [Zeng et al. 2017](http://biorxiv.org/content/early/2017/06/03/145755) Widespread signatures of negative selection in the genetic architecture of human complex traits
 
-##### Friday June 16
-[Simons et al. 2017](https://arxiv.org/abs/1704.06707) A model for the genetic architecture of quantitative traits under stabilizing selection
-
 ##### Friday June 9
-[Berg et al. 2017](https://rilab.slack.com/files/jri/F5N2MK5L0/realpaper_gc.pdf) Evidence that Polygenic Adaptation has Impacted the Evolution of Anthropometric Traits
+[Simons et al. 2017](https://arxiv.org/abs/1704.06707) A model for the genetic architecture of quantitative traits under stabilizing selection
 
 ##### Friday June 2
 [Walter et al. 2017](http://biorxiv.org/content/early/2017/01/02/097642) 
