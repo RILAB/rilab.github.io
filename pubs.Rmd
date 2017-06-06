@@ -60,8 +60,8 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 * [Gene fractionation and function in the ancient subgenomes of maize](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx121/3742530/Gene-fractionation-and-function-in-the-ancient?rss=1&utm_source=dlvr.it&utm_medium=twitter) [[preprint](http://biorxiv.org/content/early/2016/12/19/095547)]  
 **Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
 
-* Diverse origins of high copy tandem repeats in grass genomes [[preprint](https://peerj.com/preprints/2314/)]    
-**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**, Zhang P, Jiang J, **Ross-Ibarra J**
+* [Genomic abundance is not predictive of tandem repeat localization in grass genomes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177896) [[preprint](https://peerj.com/preprints/2314/)]    
+**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**,  Zhang P, Estep MC, Jiang J, **Ross-Ibarra J**
 
 ### 2016
 
