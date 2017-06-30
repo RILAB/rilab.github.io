@@ -68,16 +68,18 @@ Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucd
 
 Emily is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
 
+
+
 <!-- break -->
 <br><br><br>
 <!-- break -->
 
 <div style="float: left">
-<img src="images/may.jpg" style="border:10px solid white"; width=100px>
+<img src="images/asher.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Tanmayee Khadilkar**
+**Asher Hudson**
 
-May is an undergraduate student working with Michelle Stitzer on variation in copy number and location of the Hopscotch retrotransposon in the maize genome.
+Asher is a graduate student in PopBio and will likely be working on local adaptation in teosinte.
 
 <!-- break -->
 <br><br><br>
@@ -193,20 +195,12 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 <br><br><br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/Yang_Jinliang.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Jinliang Yang** <a href="https://twitter.com/JinliangYang"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://yangjl.com/"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://yangjl.me/vitae/"><img src="images/txt.png" style="width: 15px;"></a><a href="http://github.com/yangjl"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Jinliang is a postdoctoral scholar working on the quantitative genetics of heterosis and population epigenetics in teosinte [maize diversity project](http://www.panzea.org)
-
-<!-- break -->
-<br><br><br>
-<!-- break -->
 
 ## Lab Alumni
 
-* [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017
+* [Jinliang Yang](http://jyanglab.com): Postdoc 2014-2017 (Assistant Professor, U. Nebraska)
+* [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017 (Postdoc, UC Santa Cruz)
 * [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Postdoc, Max Planck Institute for Developmental Biology, Tübingen)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
 * [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
@@ -230,7 +224,7 @@ Jinliang is a postdoctoral scholar working on the quantitative genetics of heter
 * [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics)
 * [Ginnie Morrison](http://www.panzea.org/#!ginnie-morrison/c1lov)
 * [Kelly Dawe](http://www.dawelab.org)
-
+* [Markus Stetter](http://mstetter.github.io)
 
 ### Fellow of the R-I Lab: for >500 hours of scholastic fellowship
 
