@@ -50,6 +50,17 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 <!-- break -->
 <br><br><br>
 <!-- break -->
+
+<div style="float: left">
+<img src="images/asher.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Asher Hudson**
+
+Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) and will likely be working on local adaptation in teosinte.
+
+<!-- break -->
+<br><br><br>
+<!-- break -->
 <div style="float: left">
 <img src="images/caryn.jpg" style="border:10px solid white"; width=100px>
 </div>
@@ -68,18 +79,6 @@ Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucd
 
 Emily is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
 
-
-
-<!-- break -->
-<br><br><br>
-<!-- break -->
-
-<div style="float: left">
-<img src="images/asher.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Asher Hudson**
-
-Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) and will likely be working on local adaptation in teosinte.
 
 <!-- break -->
 <br><br><br>
