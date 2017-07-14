@@ -31,7 +31,7 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 * Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño [[preprint](http://biorxiv.org/content/early/2017/06/20/152397)]   
 Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Simpson JK, Sawers RJH
 
-* Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays* [[preprint](http://biorxiv.org/content/early/2017/05/05/134528)]  
+* Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays* [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)]  
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
 
 * A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
@@ -60,7 +60,7 @@ Swarts K, Gutaker RM, Benz B,  Blake M ...[6 authors]... **Ross-Ibarra J** ...[5
 * How to make a domesticate [[preprint](https://peerj.com/preprints/2902/)]  
 **Stetter MG**, **Gates DJ**, **Mei W**, **Ross-Ibarra J**
 
-* [Improved maize reference genome with single-molecule technologies](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature22971.html) [[preprint](http://biorxiv.org/content/early/2016/12/19/079004)]  
+* [Improved maize reference genome with single-molecule technologies](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature22971.html) [[preprint](http://biorxiv.org/content/early/2016/12/19/079004)] [github](https://github.com/mcstitzer/maize_v4_TE_annotation)]  
 Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
 
 * [Gene fractionation and function in the ancient subgenomes of maize](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx121/3742530/Gene-fractionation-and-function-in-the-ancient?rss=1&utm_source=dlvr.it&utm_medium=twitter) [[preprint](http://biorxiv.org/content/early/2016/12/19/095547)]  

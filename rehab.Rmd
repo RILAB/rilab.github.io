@@ -25,10 +25,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### July
-<!-- ##### Friday July 22 -->
+<!-- ##### Friday July 21 -->
 <!-- [Adrion et al. 2017](https://academic.oup.com/gbe/article/9/5/1329/3064433/Genome-Wide-Estimates-of-Transposable-Element) Genome-Wide Estimates of Transposable Element Insertion and Deletion Rates in Drosophila Melanogaster  -->
 
-##### Friday July 15
+##### Friday July 14
 [Chen et al. 2017](https://academic.oup.com/mbe/article-abstract/34/6/1417/3049540/Genetic-Diversity-and-the-Efficacy-of-Purifying?redirectedFrom=PDF) Genetic Diversity and the Efficacy of Purifying Selection across Plant and Animal Species
 
 ##### Friday July 7

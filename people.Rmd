@@ -30,17 +30,6 @@ Luis is a staff computational biologist working on inversion polymorphisms and r
 
 
 <div style="float: left">
-<img src="images/boardman.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Kevin Boardman**
-
-Kevin is an undergraduate student collaborating with Anna O'Brien and currently working on a [PUF](http://urc.ucdavis.edu/awards/puf/)-funded independent project to use  mutation lines to study root nodulation genes and mycorhhizal symbiosis in maize.  
-
-<!-- break -->
-<br><br><br>
-<!-- break -->
-
-<div style="float: left">
 <img src="http://www.colorado.edu/smithlab/sites/default/files/styles/small/public/people/Dan_webpic_0.jpg?itok=In6TaPb_" style="border:10px solid white"; width=100px>
 </div>
 **Dan Gates** <a href="https://twitter.com/dangates_j"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://danjgates.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://github.com/danjgates"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
@@ -56,7 +45,7 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 </div>
 **Asher Hudson**
 
-Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) and will likely be working on local adaptation in teosinte.
+Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on herbivory and local adaptation in teosinte.
 
 <!-- break -->
 <br><br><br>
@@ -66,7 +55,7 @@ Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/e
 </div>
 **Caryn Johansen** <a href="https://twitter.com/jo_caryn"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://github.com/carynJohansen"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucdavis.edu), coadvised by [Dan Runcie](http://runcielab.ucdavis.edu). Caryn is interested in local adaptation in maize, and modeling the genetic architecture underlying quantitative traits.
+Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucdavis.edu), coadvised by [Dan Runcie](http://runcielab.ucdavis.edu). Caryn is interested in local adaptation in maize and modeling the genetic architecture underlying quantitative traits.
 
 <!-- break -->
 <br><br><br>
@@ -77,7 +66,7 @@ Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucd
 </div>
 **Emily Josephs** <a href="http://emjosephs.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Emily is an NSF plant genome postdoc working on adaptation to domestication in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
+Emily is an NSF plant genome postdoc working on polygenic adaptation in plants, in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
 
 
 <!-- break -->
@@ -100,7 +89,7 @@ Anne has worked as the lab manager since 2012. In addition to running the show, 
 </div>
 **Scotty Mahan**
 
-Scotty is a 3rd year genetics major, working with Jeff and Anne to develop SSR genotyping and assignment methods.
+Scotty is a genetics major, working with Jeff and Anne to develop genotyping and assignment methods.
 
 <!-- break -->
 <br><br><br>
@@ -121,7 +110,7 @@ Niki is a 3rd year student working with Dan Gates on highland adaptation.
 </div>
 **Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Wenbin is a postdoctoral scholar who works on the population genetics of copy number variants and inversions in both maize and teosinte. Wenbin is also part of the [maize diversity project](http://www.panzea.org).
+Wenbin is a postdoctoral scholar who works on the population genetics of copy number variants and inversions in maize and teosinte. Wenbin is also part of the [maize diversity project](http://www.panzea.org).
 
 <!-- break -->
 <br><br><br>
@@ -133,7 +122,7 @@ Wenbin is a postdoctoral scholar who works on the population genetics of copy nu
 </div>
 **Anna O'Brien** <a href="https://annamobrien.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
 
-Anna is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and mycorrhizae along elevational gradients in Mexico.
+Anna is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), coadvised by [Sharon Strauss](http://sharonstrauss.wordpress.com). Anna works on the coevolution of teosinte and rhizosphere biota along elevational gradients in Mexico.
 
 <!-- break -->
 <br><br><br>
@@ -166,7 +155,7 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 </div>
 **Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mcstitzer.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://github.com/mcstitzer"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and teosinte as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
+Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and Arabidopsis as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
 
 <!-- break -->
 <br><br><br>
