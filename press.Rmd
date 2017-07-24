@@ -11,6 +11,7 @@
 
 ### 2017
 
+* Write-up in [Science](http://science.sciencemag.org.smithsonian.idm.oclc.org/content/357/6348/240.full) on Jeff's [talk at SMBE](https://www.slideshare.net/jrossibarra/adaptive-evolution-of-genome-size-across-altitudinal-clines-in-maize) on lab preprint on [genome size evolution](http://www.biorxiv.org/content/early/2017/07/13/134528).
 * [Press Release](https://eurekalert.org/pub_releases/2017-06/cshl-dng060917.php) on the AGPv4 genome.
 * JRI contributed to (but sadly not quoted in) [an article on CIMMYT SeeDs](http://www.scidev.net/america-latina/agropecuaria/noticias/maiz-criollo-va-revelando-sus-secretos-de-adaptacion.html).
 * Spending too much time on twitter has reprecussions. Like having tweets menitoned in [blog posts](https://aobblog.com/2017/02/hi-im-actuallivingscientist/). 
