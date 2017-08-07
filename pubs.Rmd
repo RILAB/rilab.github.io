@@ -28,8 +28,7 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 
 
-* Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño [[preprint](http://biorxiv.org/content/early/2017/06/20/152397)]   
-Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Simpson JK, Sawers RJH
+
 
 * Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays* [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)]  
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
@@ -54,7 +53,10 @@ Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, H
 
 ### 2017
 
-* Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America  
+* Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño [[preprint](http://biorxiv.org/content/early/2017/06/20/152397)]   
+Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Simpson JK, Sawers RJH
+
+* [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America](http://science.sciencemag.org/content/357/6350/512.full)  
 Swarts K, Gutaker RM, Benz B,  Blake M ...[6 authors]... **Ross-Ibarra J** ...[5 authors]... Weigel D, Buckler ES, Burbano HA
 
 * How to make a domesticate [[preprint](https://peerj.com/preprints/2902/)]  
