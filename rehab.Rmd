@@ -27,6 +27,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### August
+
+[González-Martínez4 et al. 2017](http://www.cell.com/current-biology/fulltext/S0960-9822(17)30865-5) Range Expansion Compromises Adaptive Evolution in an Outcrossing Plant
+
+##### Friday Aug 18
+[Zhang and Gao 2017](http://www.g3journal.org/content/7/6/1875) Rapid and Recent Evolution of LTR Retrotransposons Drives Rice Genome Evolution During the Speciation of AA-Genome Oryza Species
+
 ##### Friday Aug 11
 [Hübner et al. 2017]() The Cultivated Sunflower Pan Genome Provides Insights on the Contribution of Introgressions to Breeding of Modern Varieties 
 
