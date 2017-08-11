@@ -140,7 +140,7 @@ Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is
 <!-- break -->
 
 <div style="float: left">
-<img src="images/jri2.jpg" style="border:10px solid white"; width=100px>
+<img src="images/jri_bee.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
