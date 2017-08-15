@@ -27,8 +27,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### Sept
+##### Friday Sept 8
+[Oka et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4) Genome-wide mapping of transcriptional enhancer candidates using DNA and chromatin features in maize
+
 ##### Friday Sept 1
-[Gage et al. 2017]() The effect of artificial selection on phenotypic plasticity in maize
+[Gage et al. 2017]() The effect of artificial selection on phenotypic plasticity in maize ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
 
 ### August
 ##### Friday Aug 25
@@ -41,7 +44,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 [Hübner et al. 2017]() The Cultivated Sunflower Pan Genome Provides Insights on the Contribution of Introgressions to Breeding of Modern Varieties 
 
 ##### Friday Aug 4
-[Oka et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4) Genome-wide mapping of transcriptional enhancer candidates using DNA and chromatin features in maize
+No R.E.H.A.B.
 
 ### July
 ##### Friday July 28
