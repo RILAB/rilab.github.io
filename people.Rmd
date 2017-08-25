@@ -108,7 +108,9 @@ Niki is a 3rd year student working with Dan Gates on highland adaptation.
 <div style="float: left">
 <img src="images/wenbin.JPG" style="border:10px solid white"; width=100px>
 </div>
-**Wenbin Mei** <a href="https://twitter.com/wbmei"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
+**Wenbin Mei** 
+<a href="http://wenbinmei.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://github.com/wenbinmei"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://twitter.com/wbmei"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Wenbin is a postdoctoral scholar who works on the population genetics of copy number variants and inversions in maize and teosinte. Wenbin is also part of the [maize diversity project](http://www.panzea.org).
 
