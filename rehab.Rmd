@@ -27,11 +27,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### Sept
+##### Friday Sept 15
+[Gage et al. 2017]() The effect of artificial selection on phenotypic plasticity in maize ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
+
 ##### Friday Sept 8
 [Oka et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4) Genome-wide mapping of transcriptional enhancer candidates using DNA and chromatin features in maize
 
 ##### Friday Sept 1
-[Gage et al. 2017]() The effect of artificial selection on phenotypic plasticity in maize ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
+R.E.H.A.B. joint paper review. ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
 
 ### August
 ##### Friday Aug 25
