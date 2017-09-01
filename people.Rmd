@@ -9,13 +9,26 @@
 
 </script>
 
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+
 ## Current R-I Lab members
 Please read more information on [joining the lab](prosp.html)
 
 <!-- break -->
 <br>
 <!-- break -->
-
+<div class="col2">
 <div style="float: left">  
 </a><img src="images/avila_2.jpg" style="border:10px solid white"; width=100px>
 </div>
@@ -78,7 +91,7 @@ Emily is an NSF plant genome postdoc working on polygenic adaptation in plants, 
 </div>
 **Anne Lorant**
 
-Anne has worked as the lab manager since 2012. In addition to running the show, she works the magic to get us from seed to .bam.  Anne is concurrently doing a PhD in teosinte evolutionary genetics with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
+Anne has worked as the lab manager since 2012. In addition to running the lab, she is concurrently doing a PhD in teosinte evolutionary genetics with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
 
 <!-- break -->
 <br><br><br>
@@ -185,7 +198,7 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 <br><br><br>
 <!-- break -->
 
-
+</div>
 
 ## Lab Alumni
 
