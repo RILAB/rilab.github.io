@@ -27,6 +27,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### Sept
+##### Friday Sept 29
+[Huber et al 201](http://www.biorxiv.org/content/early/2017/08/31/182865) Gene expression drives the evolution of dominance
+
+##### Friday Sept 22
+[Jain and Stephan 2017](https://academic.oup.com/mbe/article-abstract/doi/10.1093/molbev/msx240/4110473/Modes-of-rapid-polygenic-adaptation?redirectedFrom=fulltext) Modes of rapid polygenic adaptation
+
 ##### Friday Sept 15
 [Gage et al. 2017]() The effect of artificial selection on phenotypic plasticity in maize ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
 

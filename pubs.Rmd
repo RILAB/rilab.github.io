@@ -46,7 +46,7 @@ Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, H
 
 ### 2017
 
-* The potential role of genetic assimilation during maize domestication [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
+* [The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202)  [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
 **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
 
 * [Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño](https://peerj.com/articles/3737/) [[preprint](http://biorxiv.org/content/early/2017/06/20/152397)]   
@@ -55,7 +55,7 @@ Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Si
 * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America](http://science.sciencemag.org/content/357/6350/512.full)  
 Swarts K, Gutaker RM, Benz B,  Blake M ...[6 authors]... **Ross-Ibarra J** ...[5 authors]... Weigel D, Buckler ES, Burbano HA
 
-* How to make a domesticate [[preprint](https://peerj.com/preprints/2902/)]  
+* [How to make a domesticate](http://www.sciencedirect.com/science/article/pii/S0960982217307856) [[preprint](https://peerj.com/preprints/2902/)]  
 **Stetter MG**, **Gates DJ**, **Mei W**, **Ross-Ibarra J**
 
 * [Improved maize reference genome with single-molecule technologies](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature22971.html) [[preprint](http://biorxiv.org/content/early/2016/12/19/079004)] [[github](https://github.com/mcstitzer/maize_v4_TE_annotation)]  
