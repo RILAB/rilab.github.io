@@ -38,9 +38,8 @@ Please read more information on [joining the lab](prosp.html)
 Luis is a staff computational biologist working on inversion polymorphisms and recombination rate variation in maize landraces and teosinte.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
-
 
 <div style="float: left">
 <img src="http://www.colorado.edu/smithlab/sites/default/files/styles/small/public/people/Dan_webpic_0.jpg?itok=In6TaPb_" style="border:10px solid white"; width=100px>
@@ -50,7 +49,7 @@ Luis is a staff computational biologist working on inversion polymorphisms and r
 Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -61,8 +60,9 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on herbivory and local adaptation in teosinte.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
+
 <div style="float: left">
 <img src="images/caryn.jpg" style="border:10px solid white"; width=100px>
 </div>
@@ -71,7 +71,7 @@ Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/e
 Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucdavis.edu), coadvised by [Dan Runcie](http://runcielab.ucdavis.edu). Caryn is interested in local adaptation in maize and modeling the genetic architecture underlying quantitative traits.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -83,7 +83,7 @@ Emily is an NSF plant genome postdoc working on polygenic adaptation in plants, 
 
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -94,7 +94,7 @@ Emily is an NSF plant genome postdoc working on polygenic adaptation in plants, 
 Anne has worked as the lab manager since 2012. In addition to running the lab, she is concurrently doing a PhD in teosinte evolutionary genetics with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -105,7 +105,7 @@ Anne has worked as the lab manager since 2012. In addition to running the lab, s
 Scotty is a genetics major, working with Jeff and Anne to develop genotyping and assignment methods.
 
 <!-- break -->
-<br><br><br>
+<br><br><br><br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -115,7 +115,7 @@ Scotty is a genetics major, working with Jeff and Anne to develop genotyping and
 Niki is a 3rd year student working with Dan Gates on highland adaptation.
 
 <!-- break -->
-<br><br><br><br>
+<br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -128,7 +128,7 @@ Niki is a 3rd year student working with Dan Gates on highland adaptation.
 Wenbin is a postdoctoral scholar who works on the population genetics of copy number variants and inversions in maize and teosinte. Wenbin is also part of the [maize diversity project](http://www.panzea.org).
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -140,7 +140,7 @@ Wenbin is a postdoctoral scholar who works on the population genetics of copy nu
 Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is working with Michelle Stitzer on the population genetics of transposable elements in maize and teosinte.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -151,7 +151,7 @@ Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is
 Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). He started at UC Davis in 2009.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -162,7 +162,7 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and Arabidopsis as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -173,7 +173,7 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 Markus is postdoctoral scholar working on domestication and adaptation in polygenic traits in maize and teosinte.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -184,7 +184,7 @@ Markus is postdoctoral scholar working on domestication and adaptation in polyge
 Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx). She studies domestication and evolution of peaches, almonds, and their relatives in the genus *Prunus*.
 
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
 </div>
