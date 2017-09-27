@@ -10,6 +10,9 @@
 </script>
 
 ## News
+### Sept 27
+Our first lab R package! Luis and Mike May working together to put a Baysian [clustering method together](https://cran.r-project.org/web/packages/DPP/index.html).
+
 ### Sept 20
 Anna finishes her PhD!  Dr. O'Brien leaves the lab for a postdoctoral position at U. Toronto with [Megan Frederickson](http://mutualism.ca/).
 

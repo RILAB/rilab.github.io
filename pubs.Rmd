@@ -43,7 +43,7 @@ Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, H
 
 ### 2017
 
-* Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)]  
+* [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)]  
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
 
 * [The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202)  [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
