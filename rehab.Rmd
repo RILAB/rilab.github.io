@@ -26,9 +26,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Adrion et al. 2017](https://academic.oup.com/gbe/article/9/5/1329/3064433/Genome-Wide-Estimates-of-Transposable-Element) Genome-Wide Estimates of Transposable Element Insertion and Deletion Rates in Drosophila Melanogaster  -->
 
 ## 2017
-### Sept
+### October
+##### Friday Oct 6
+[Salojärvi et al. 2017](http://dx.doi.org/10.1038/ng.3862) Genome sequencing and population genomic analyses provide insights into the adaptive landscape of silver birch.
+
+### September
 ##### Friday Sept 29
-[Huber et al 201](http://www.biorxiv.org/content/early/2017/08/31/182865) Gene expression drives the evolution of dominance
+[Huber et al 2017](http://www.biorxiv.org/content/early/2017/08/31/182865) Gene expression drives the evolution of dominance
 
 ##### Friday Sept 22
 [Jain and Stephan 2017](https://academic.oup.com/mbe/article-abstract/doi/10.1093/molbev/msx240/4110473/Modes-of-rapid-polygenic-adaptation?redirectedFrom=fulltext) Modes of rapid polygenic adaptation
