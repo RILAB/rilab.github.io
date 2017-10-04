@@ -27,6 +27,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### October
+##### Friday Oct 13
+[Forsythe et al](https://www.biorxiv.org/content/early/2017/10/02/197087) Epistatic interactions drive biased gene retention in the face of massive nuclear introgression
+
 ##### Friday Oct 6
 [Salojärvi et al. 2017](http://dx.doi.org/10.1038/ng.3862) Genome sequencing and population genomic analyses provide insights into the adaptive landscape of silver birch.
 
