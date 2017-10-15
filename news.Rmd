@@ -10,8 +10,10 @@
 </script>
 
 ## News
+### Oct 13
+JRI speaks at [CU Boulder](https://www.colorado.edu/ebio/) on [intraspecific](http://www.biorxiv.org/content/early/2017/07/13/134528) and [interspecific](https://www.biorxiv.org/content/early/2017/10/02/196501) work on genome size and adaptation. [Slides online](https://www.slideshare.net/jrossibarra/genome-size-and-adaptation-in-plants) too.
 ### Sept 27
-Our first lab R package! Luis and Mike May working together to put a Baysian [clustering method together](https://cran.r-project.org/web/packages/DPP/index.html).
+Our first lab R package! Luis and Mike May working together to put a Baysian [clustering method](https://cran.r-project.org/web/packages/DPP/index.html) together.
 
 ### Sept 20
 Anna finishes her PhD!  Dr. O'Brien leaves the lab for a postdoctoral position at U. Toronto with [Megan Frederickson](http://mutualism.ca/).
