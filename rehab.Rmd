@@ -27,6 +27,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### October
+##### Friday Oct 20
+[Lotterhos et al. 2017](https://www.biorxiv.org/content/early/2017/10/13/202481) Modular environmental pleiotropy of genes involved in local adaptation to climate despite physical linkage
+
 ##### Friday Oct 13
 [Forsythe et al](https://www.biorxiv.org/content/early/2017/10/02/197087) Epistatic interactions drive biased gene retention in the face of massive nuclear introgression
 
