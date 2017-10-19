@@ -24,6 +24,10 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
+### November
+##### Friday Nov 3
+[Good et al. 2017](https://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature24287.pdf) The dynamics of molecular evolution over 60,000 generations
+
 ### October
 ##### Friday Oct 27
 [Osada et al. 2017](http://www.genetics.org/content/206/4/2139) Cis- and Trans-regulatory Effects on Gene Expression in a Natural Population of Drosophila melanogaster
