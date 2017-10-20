@@ -25,28 +25,31 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### November
-##### Friday Nov 10
+##### Friday Nov 17
 [Good et al. 2017](https://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature24287.pdf) The dynamics of molecular evolution over 60,000 generations
 
+##### Friday Nov 10
+[ Zan and Carlborg preprint](https://www.biorxiv.org/content/early/2017/10/20/206706?rss=1&utm_source=dlvr.it&utm_medium=twitter) Explorations of the polygenic genetic architecture of flowering time in the worldwide Arabidopsis thaliana population
+
 ##### Friday Nov 3
-[Schrider & Kern 2017](https://www.biorxiv.org/content/early/2017/10/20/206482) Machine Learning for Population Genetics: A New Paradigm
+[Schrider & Kern preprint](https://www.biorxiv.org/content/early/2017/10/20/206482) Machine Learning for Population Genetics: A New Paradigm
 
 ### October
 ##### Friday Oct 27
 [Osada et al. 2017](http://www.genetics.org/content/206/4/2139) Cis- and Trans-regulatory Effects on Gene Expression in a Natural Population of Drosophila melanogaster
 
 ##### Friday Oct 20
-[Lotterhos et al. 2017](https://www.biorxiv.org/content/early/2017/10/13/202481) Modular environmental pleiotropy of genes involved in local adaptation to climate despite physical linkage
+[Lotterhos et al. preprint](https://www.biorxiv.org/content/early/2017/10/13/202481) Modular environmental pleiotropy of genes involved in local adaptation to climate despite physical linkage
 
 ##### Friday Oct 13
-[Forsythe et al](https://www.biorxiv.org/content/early/2017/10/02/197087) Epistatic interactions drive biased gene retention in the face of massive nuclear introgression
+[Forsythe et al preprint](https://www.biorxiv.org/content/early/2017/10/02/197087) Epistatic interactions drive biased gene retention in the face of massive nuclear introgression
 
 ##### Friday Oct 6
 [Salojärvi et al. 2017](http://dx.doi.org/10.1038/ng.3862) Genome sequencing and population genomic analyses provide insights into the adaptive landscape of silver birch.
 
 ### September
 ##### Friday Sept 29
-[Huber et al 2017](http://www.biorxiv.org/content/early/2017/08/31/182865) Gene expression drives the evolution of dominance
+[Huber et al preprint](http://www.biorxiv.org/content/early/2017/08/31/182865) Gene expression drives the evolution of dominance
 
 ##### Friday Sept 22
 [Jain and Stephan 2017](https://academic.oup.com/mbe/article-abstract/doi/10.1093/molbev/msx240/4110473/Modes-of-rapid-polygenic-adaptation?redirectedFrom=fulltext) Modes of rapid polygenic adaptation
@@ -92,16 +95,16 @@ Dosage, Deletions and Dominance: Simple Models of the Evolution of Gene Expressi
 [Vijay et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/mec.14195/full) Genome-wide patterns of variation in genetic diversity are shared among populations, species and higher order taxa
 
 ##### Friday June 23
-[Gould et al.](http://biorxiv.org/content/early/2017/06/03/145805) The Gene Regulatory Landscape of Local Adaptation
+[Gould et al. preprint](http://biorxiv.org/content/early/2017/06/03/145805) The Gene Regulatory Landscape of Local Adaptation
 
 ##### Friday June 16
-[Zeng et al. 2017](http://biorxiv.org/content/early/2017/06/03/145755) Widespread signatures of negative selection in the genetic architecture of human complex traits
+[Zeng et al. preprint](http://biorxiv.org/content/early/2017/06/03/145755) Widespread signatures of negative selection in the genetic architecture of human complex traits
 
 ##### Friday June 9
 [Simons et al. 2017](https://arxiv.org/abs/1704.06707) A model for the genetic architecture of quantitative traits under stabilizing selection
 
 ##### Friday June 2
-[Walter et al. 2017](http://biorxiv.org/content/early/2017/01/02/097642) 
+[Walter et al. preprint](http://biorxiv.org/content/early/2017/01/02/097642) 
 Evolution of genetic variance during adaptive radiation
 
 ### May
@@ -113,7 +116,7 @@ Evolution of genetic variance during adaptive radiation
 
 *AND*
 
-[Coop 2016](http://biorxiv.org/content/early/2016/03/07/042598) Does linked selection explain the narrow range of genetic diversity across species?
+[Coop 2016 preprint](http://biorxiv.org/content/early/2016/03/07/042598) Does linked selection explain the narrow range of genetic diversity across species?
 
 ##### Friday May 12
 [Durvasula et al. 2017](http://www.pnas.org/content/early/2017/05/03/1616736114.abstract) African genomes illuminate the early history and transition to selfing in Arabidopsis thaliana
@@ -139,7 +142,7 @@ Evolution of genetic variance during adaptive radiation
 [Franssen et al. 2017](http://www.nature.com/hdy/journal/v118/n1/full/hdy201698a.html) Uncovering the genetic signature of quantitative trait evolution with replicated time series data
 
 ##### Friday March 24
-[Hermisson & Pennings 2017](http://biorxiv.org/content/early/2017/03/07/114587) Soft sweeps and beyond: Understanding the patterns and probabilities of selection footprints under rapid adaptation
+[Hermisson & Pennings preprint](http://biorxiv.org/content/early/2017/03/07/114587) Soft sweeps and beyond: Understanding the patterns and probabilities of selection footprints under rapid adaptation
 
 ##### Friday March 17
 [Brandenburg et al 2017](https://rilab.slack.com/archives/papers/p1489556863288990) Independent introductions and admixtures have contributed to adaptation of European maize and its American counterparts 
@@ -161,7 +164,7 @@ Evolution of genetic variance during adaptive radiation
 Two papers on enhancers and diversity. If short of time, read [Ludwig et al.](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) first.
 
 **1)** [Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) Evidence for stabilizing selection in a eukaryotic enhancer element  
-**2)** [Alexandre et al 2017](http://biorxiv.org/content/early/2017/01/30/104323) Regulatory DNA in A. thaliana can tolerate high levels of sequence divergence
+**2)** [Alexandre et al preprint](http://biorxiv.org/content/early/2017/01/30/104323) Regulatory DNA in A. thaliana can tolerate high levels of sequence divergence
 
 ##### Friday Feb. 3
 [Wagner et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12653/abstract) Spatial detection of outlier loci with Moran eigenvector maps (MEM)
@@ -169,7 +172,7 @@ Two papers on enhancers and diversity. If short of time, read [Ludwig et al.](ht
 ### January 2017
 
 ##### Friday Jan 27
-[Weir and Goudet 2016](http://www.biorxiv.org/content/early/2016/11/17/088260) A unified characterization of population structure and relatedness.
+[Weir and Goudet preprint](http://www.biorxiv.org/content/early/2016/11/17/088260) A unified characterization of population structure and relatedness.
 
 ##### Friday Jan 20
 [Puzey et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13922/full) Population structure and local selection yield high genomic variation in Mimulus guttatus
@@ -193,7 +196,7 @@ No R.E.H.A.B. Happy [Festivus](https://en.wikipedia.org/wiki/Festivus)!
 [Barton 2016](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy2016109a.html) How does epistasis influence the response to selection?
 
 ##### Friday Dec. 9
-[Imprialou et al. 2016](http://biorxiv.org/content/early/2016/11/12/087387) Genomic Rearrangements Considered as Quantitative Traits
+[Imprialou et al. preprint](http://biorxiv.org/content/early/2016/11/12/087387) Genomic Rearrangements Considered as Quantitative Traits
 
 ##### Friday Dec 2
 [Klasen et al 2016](http://www.nature.com/articles/ncomms13299) A multi-marker association method for genome-wide association studies without the need for population structure correction
@@ -213,7 +216,7 @@ No R.E.H.A.B. - Veteran's Day
 
 ### October 2016
 ##### Friday Oct 28
-[Phung et al 2015](http://biorxiv.org/content/early/2015/11/14/031740) Natural selection reduces linked neutral divergence between distantly related species
+[Phung et al preprint](http://biorxiv.org/content/early/2015/11/14/031740) Natural selection reduces linked neutral divergence between distantly related species
 
 ##### Friday Oct 21
 [Johnsson](http://www.nature.com/articles/ncomms12950) Feralisation targets different genomic loci to domestication in the chicken
@@ -289,7 +292,7 @@ No R.E.H.A.B. - Veteran's Day
 [Cardoso-Moreira et al. 2016](http://m.genome.cshlp.org/content/26/6/787) Evidence for the fixation of gene duplications by positive selection in Drosophila
 
 ##### Friday June 3 2016
-[Wales et al](https://rilab.slack.com/files/jri/F1CQU52JX/th162_curbioreport_300516-2.pdf) Genome sequence of a 5300-year-old maize cob recovered from the Tehuacan Valley provides insights into the early stages of maize domestication
+[Wales et al. 2016](https://rilab.slack.com/files/jri/F1CQU52JX/th162_curbioreport_300516-2.pdf) Genome sequence of a 5300-year-old maize cob recovered from the Tehuacan Valley provides insights into the early stages of maize domestication
 
 ### May 2016
 ##### Friday May 27 2016
@@ -299,7 +302,7 @@ No R.E.H.A.B. - Veteran's Day
 [Keightley et al 2016](http://www.genetics.org/content/early/2016/04/18/genetics.116.188102) Inferring the Frequency Spectrum of Derived Variants to Quantify Adaptive Molecular Evolution in Protein-Coding Genes of Drosophila melanogaster
 
 ##### Friday May 13 2016
-[Exposito-Alonso et al 2016](http://biorxiv.org/content/early/2016/04/25/050203) The rate and effect of de novo mutations in natural populations of Arabidopsis thaliana
+[Exposito-Alonso et al preprint](http://biorxiv.org/content/early/2016/04/25/050203) The rate and effect of de novo mutations in natural populations of Arabidopsis thaliana
 
 ##### Friday May 6 2016
 [Kelley et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13573/abstract?wol1URL=/doi/10.1111/mec.13573/abstract&regionCode=US-CA&identityKey=77f2fe64-6ec1-4c14-a95a-63aa4a9960d1) The multivariate association between genomewide DNA methylation and climate across the range of Arabidopsis thaliana
@@ -310,7 +313,7 @@ No R.E.H.A.B. - Veteran's Day
 ### April 2016
 
 ##### Friday April 22 2016
-[Sanjak et al. 2016](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth
+[Sanjak et al. preprint](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth
 
 ##### Friday April 15 2016
 Novikova et al. manuscript (see \#papers channel on slack for pdf)
@@ -323,7 +326,7 @@ Novikova et al. manuscript (see \#papers channel on slack for pdf)
 
 ### March 2016
 ##### Friday Mar 25
-[Marschall et al. 2016](http://biorxiv.org/content/early/2016/03/12/043430) Computational Pan-Genomics: Status, Promises and Challenges
+[Marschall et al. preprint](http://biorxiv.org/content/early/2016/03/12/043430) Computational Pan-Genomics: Status, Promises and Challenges
 
 ##### Friday Mar 18
 No R.E.H.A.B. (Maize Meeting!)
@@ -347,7 +350,7 @@ No R.E.H.A.B. (Maize Meeting!)
 [Mäki-Tanila and Hill](http://genetics.org/content/early/2014/06/26/genetics.114.165282.full-text.pdf+html) Influence of Gene Interaction on Complex Trait Variation with Multi-Locus Models
 
 ##### Fri. Feb 5 2016
-[Sheehan and Song 2015](http://biorxiv.org/content/biorxiv/early/2015/10/02/028175.full.pdf) Deep learning for population genetic inference
+[Sheehan and Song preprint](http://biorxiv.org/content/biorxiv/early/2015/10/02/028175.full.pdf) Deep learning for population genetic inference
 
 ### January 2016
 ##### Fri. Jan 29 2016
@@ -365,7 +368,7 @@ No R.E.H.A.B. (Maize Meeting!)
 ## 2015
 ### December 2015
 ##### Fri. Dec. 18 2015
-[Steige et al. 2015](http://biorxiv.org/content/early/2015/12/10/034025) The impact of natural selection on the distribution of cis-regulatory variation across the genome of an outcrossing plant
+[Steige et al. preprint](http://biorxiv.org/content/early/2015/12/10/034025) The impact of natural selection on the distribution of cis-regulatory variation across the genome of an outcrossing plant
 
 ##### Fri. Dec. 11 2015
 [Mascagni et al. 2015](http://gbe.oxfordjournals.org/content/early/2015/11/24/gbe.evv230.short?rss=1&utm_source=dlvr.it&utm_medium=twitter) Repetitive DNA and plant domestication: variation in copy number and proximity to genes of LTR-retrotransposons among wild and cultivated sunflower (Helianthus annuus) genotypes.
@@ -433,7 +436,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 ##### Fri. Sept. 4 2015
 
-[Kuester et al. 2015](http://biorxiv.org/content/early/2015/08/20/024950) A resurrection experiment finds evidence of both reduced genetic diversity and adaptive evolution in the agricultural weed Ipomoea purpurea
+[Kuester et al. preprint](http://biorxiv.org/content/early/2015/08/20/024950) A resurrection experiment finds evidence of both reduced genetic diversity and adaptive evolution in the agricultural weed Ipomoea purpurea
 
 ### August 2015
 
@@ -451,7 +454,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 ##### Fri. Aug. 7 2015
 
-[Castellano et al. 2015](http://biorxiv.org/content/early/2015/06/27/021600) Adaptive evolution is substantially impeded by Hill-Robertson interference in Drosophila
+[Castellano et al. preprint](http://biorxiv.org/content/early/2015/06/27/021600) Adaptive evolution is substantially impeded by Hill-Robertson interference in Drosophila
 
 ### July 2015
 
@@ -489,7 +492,7 @@ No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](htt
 
 ##### Fri. June 19 2015
 
-[Mafessoni and Lachman 2015](http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf)
+[Mafessoni and Lachman preprint](http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf)
 Selective strolls: fixation and extinction in diploids are slower for weakly selected mutations than for neutral ones
 
 ##### Fri. June 12 2015
@@ -517,7 +520,7 @@ Selective strolls: fixation and extinction in diploids are slower for weakly sel
 
 ##### Fri. May 8, 2015
 
-[Sheng et al. 2015](http://biorxiv.org/content/early/2015/04/29/018721) Standing genetic variation as a major contributor to adaptation in the Virginia chicken lines selection experiment
+[Sheng et al. preprint](http://biorxiv.org/content/early/2015/04/29/018721) Standing genetic variation as a major contributor to adaptation in the Virginia chicken lines selection experiment
 
 ##### Fri. May 1, 2015
 
@@ -614,7 +617,7 @@ R.E.H.A.B. unexpectedly cancelled due to lab partying (seriously).
 
 ##### Fri. Dec. 12, 2014
 
-[Poh et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/09/29/009456.full.pdf) On the prospect of identifying adaptive loci in recently bottlenecked populations
+[Poh et al. preprint](http://biorxiv.org/content/biorxiv/early/2014/09/29/009456.full.pdf) On the prospect of identifying adaptive loci in recently bottlenecked populations
 
 ##### Fri. Dec. 5, 2014
 
@@ -632,7 +635,7 @@ No REHAB. But that doesn't meant you can't get a second helping of [turkey genom
 
 ##### Fri. Nov. 14, 2014
 
-[Gravel 2014](http://biorxiv.org/content/early/2014/10/30/010934) When is selection effective?
+[Gravel preprint](http://biorxiv.org/content/early/2014/10/30/010934) When is selection effective?
 
 ##### Fri. Nov. 7, 2014
 
@@ -650,11 +653,11 @@ No REHAB. But that doesn't meant you can't get a second helping of [turkey genom
 
 ##### Fri. Oct. 17, 2014
 
-[Crawford et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/10/01/009837.full.pdf) Reticulate speciation and adaptive introgression in the Anopheles gambiae species complex
+[Crawford et al. preprint](http://biorxiv.org/content/biorxiv/early/2014/10/01/009837.full.pdf) Reticulate speciation and adaptive introgression in the Anopheles gambiae species complex
 
 ##### Fri. Oct. 10, 2014
 
-[Martin et al 2014](http://biorxiv.org/content/early/2014/08/20/001347). Evaluating the use of ABBA-BABA statistics to locate introgressed loci.
+[Martin et al preprint](http://biorxiv.org/content/early/2014/08/20/001347). Evaluating the use of ABBA-BABA statistics to locate introgressed loci.
 
 
 ##### Fri. Oct. 3, 2014
@@ -742,7 +745,7 @@ No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) in
 
 ##### Fri. June 6, 2014
 
-[Balick et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
+[Balick et al. preprint](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
 
 ### May 2014
 
