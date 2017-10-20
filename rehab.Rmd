@@ -25,8 +25,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
 ### November
-##### Friday Nov 3
+##### Friday Nov 10
 [Good et al. 2017](https://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature24287.pdf) The dynamics of molecular evolution over 60,000 generations
+
+##### Friday Nov 3
+[Schrider & Kern 2017](https://www.biorxiv.org/content/early/2017/10/20/206482) Machine Learning for Population Genetics: A New Paradigm
 
 ### October
 ##### Friday Oct 27
