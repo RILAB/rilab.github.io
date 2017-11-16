@@ -94,17 +94,17 @@ Emily is an NSF plant genome postdoc working on polygenic adaptation in plants, 
 Anne has worked as the lab manager since 2012. In addition to running the lab, she is concurrently doing a PhD in teosinte evolutionary genetics with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
 
 <!-- break -->
-<br><br><br><br><br><br><br> 
+<br><br><br><br>
 <!-- break -->
 
-<!-- <div style="float: left"> -->
-<!-- <img src="images/mahan.jpg" style="border:10px solid white"; width=100px> -->
-<!-- </div> -->
-<!-- **Scotty Mahan** -->
+<div style="float: left">
+<img src="images/langlois.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Nathaniel Langlois**
 
-<!-- Scotty is a genetics major, working with Jeff and Anne to develop genotyping and assignment methods. -->
+Nate is a plant sciences major helping out with crosses and DNA extraction as well as prototyping thermal imaging analyses for studying highland adaptation.
 
-<!-- <br><br><br><br><br><br><br> -->
+ <br><br><br><br><br><br><br> 
 
 <!-- <div style="float: left"> -->
 <!-- <img src="images/niki.jpg" style="border:10px solid white"; width=100px> -->
