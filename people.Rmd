@@ -199,6 +199,7 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 * [Tim Beissinger](http://timbeissinger.github.io): Postdoc 2014-2015 (Research Geneticist, USDA-ARS U. Missouri)
 * [Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (PhD Student, UCLA)
 * Nivaz Brar: Undergraduate 2014-2015
+* [Chris Fiscus](https://cjfiscus.github.io/): Undergraduate 2014 (PhD Student, UC Riverside)
 * [Tyler Kent](https://github.com/tvkent): Undergraduate 2013-2015 (PhD Student, U. Toronto)
 * [Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student, UC Davis)
 * [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWS)
