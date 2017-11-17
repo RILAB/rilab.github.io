@@ -24,7 +24,15 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2017
-### December
+##### Friday Dec. 22
+[Hayward et al. 2017](http://www.genetics.org/content/early/2017/11/10/genetics.117.300498) Evidence for Selection-by-Environment but Not Genotype-by-Environment Interactions for Fitness-Related Traits in a Wild Mammal Population
+
+##### Friday Dec. 15
+[Murray et al. 2017](http://science.sciencemag.org/content/358/6365/951) Natural selection shaped the rise and fall of passenger pigeon genomic diversity
+
+##### Friday Dec. 8
+[Comeron 2017](http://rstb.royalsocietypublishing.org/content/372/1736/20160471) Background selection as null hypothesis in population genomics: insights and challenges from Drosophila studies
+
 ##### Friday Dec. 1
 [Gienapp et al. 2017](https://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S0169534717302343) Genomic Quantitative Genetics to Study Evolution in the Wild
 
