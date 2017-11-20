@@ -41,7 +41,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 [Gienapp et al. 2017](http://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(17)30234-3) Genomic Quantitative Genetics to Study Evolution in the Wild
 
 ##### Friday Nov 24
-[Good et al. 2017](https://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature24287.pdf) The dynamics of molecular evolution over 60,000 generations
+No R.E.H.A.B., but in honor of Thanksgiving you can bone up on your statistics by learning about [Turkey's test](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&q=%22turkey%27s+test%22&btnG=).
 
 ##### Friday Nov 17
 [ Zan and Carlborg preprint](https://www.biorxiv.org/content/early/2017/10/20/206706?rss=1&utm_source=dlvr.it&utm_medium=twitter) Explorations of the polygenic genetic architecture of flowering time in the worldwide Arabidopsis thaliana population
