@@ -23,9 +23,17 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
-## 2017
-##### Friday Dec. 22
+## 2018
+### January
 [Hayward et al. 2017](http://www.genetics.org/content/early/2017/11/10/genetics.117.300498) Evidence for Selection-by-Environment but Not Genotype-by-Environment Interactions for Fitness-Related Traits in a Wild Mammal Population
+
+##### Friday Jan. 5
+[Patwa & Wahl 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2607448/pdf/rsif20080248.pdf) The fixation probability of beneficial mutations
+
+## 2017
+### December
+
+##### Dec. 22, 29 No R.E.H.A.B. -- Happy Holidays!
 
 ##### Friday Dec. 15
 [Murray et al. 2017](http://science.sciencemag.org/content/358/6365/951) Natural selection shaped the rise and fall of passenger pigeon genomic diversity
@@ -36,10 +44,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ##### Friday Dec. 1
 [Gienapp et al. 2017](https://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S0169534717302343) Genomic Quantitative Genetics to Study Evolution in the Wild
 
-### November
 ##### Friday Dec 1
 [Gienapp et al. 2017](http://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(17)30234-3) Genomic Quantitative Genetics to Study Evolution in the Wild
 
+### November
 ##### Friday Nov 24
 No R.E.H.A.B., but in honor of Thanksgiving you can bone up on your statistics by learning about [Turkey's test](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&q=%22turkey%27s+test%22&btnG=).
 
