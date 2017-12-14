@@ -26,9 +26,6 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 
 ### Preprints
 
-* Adaptation in plant genomes: bigger is different  
-**Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J** [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)]
-
 * Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays* [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)]  
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
 
@@ -40,6 +37,10 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 
 * Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)]    
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  
+
+### 2018
+* Adaptation in plant genomes: bigger is different  
+**Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J** [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)]
 
 ### 2017
 
