@@ -11,6 +11,7 @@
 
 ### 2017
 
+* Genome Biology does a nice [video abstract](https://www.youtube.com/watch?v=KgIUGHEZ2nM) on our [paper on maize demography and load](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4). 
 *  Internationaler Ruhm! Eine schöne [Beschreibung](http://www.pflanzenforschung.de/index.php?cID=12286) unseres [Domestizierungsartikels](http://www.sciencedirect.com/science/article/pii/S0960982217307856).
 * Mapping teosinte is apparently really important for... [changing grant deadlines](http://www.sciencemag.org/news/2017/10/nsf-drops-preproposals-deadlines-biologists-seeking-funding)?
 * [Nice press](https://t.co/3MkC6eRDyD) on [Michelle's](https://mcstitzer.github.io) work on [TEs in maize](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature22971.html?foxtrotcallback=true), including highlights on [NSF research news](https://news.science360.gov/obj/story/2caf076f-1759-40c2-9c56-62e3fbbdf44b/tracking-down-jumping-genes-maize).
