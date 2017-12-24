@@ -37,7 +37,8 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 
 ### 2018
 
-* Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays* [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)]  
+![alt text](https://rilab.org/images/article.png "Logo Title Text 1") Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays* [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] 
+  
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
 
 * Adaptation in plant genomes: bigger is different  [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)]  
