@@ -22,11 +22,11 @@ result <- ifelse(rxiv>=3,img1,ifelse(rxiv>=2,"b","c"))
 cat("![](",result,")")
 ```
 
-Journal names have been intentionally excluded. Lab member names are in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper.
+Journal names have been intentionally excluded. Lab member names are in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper. Hover over article links for a brief synopsis of the paper.
 
 ### Preprints
 
-* A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
+A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
 Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]
 
 * Construction of the third generation *Zea* mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)]   
@@ -37,11 +37,13 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 
 ### 2018
 
-![alt text](https://rilab.org/images/article.png "Logo Title Text 1") Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays* [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] 
-  
+* <span title="We show that genome size can be analyzed as a quantitative trait and that selection on flowering time in maize has likely driven adaptive changes in genome size along multiple altitudinal clines."><a href="">Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays</a>
+</span> [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)]  
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
 
-* Adaptation in plant genomes: bigger is different  [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)]  
+* <span title="We develop the functional space hypothesis in which we posit that adaptation in large genomes uses more noncoding variation and is more likely to proceed via soft sweeps."><a href="">Adaptation in plant genomes: bigger is different</a>
+</span>
+  [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)]  
 **Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J** 
 
 ### 2017
@@ -49,7 +51,7 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 * [The interplay of demography and selection during maize domestication and diffusion](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4) [[preprint](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)][[github](https://github.com/HuffordLab/Wang_et_al._Demography)][[YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM)]  
 Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
 
-* [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)] [[github](https://github.com/yangjl/GERP-diallel)]  
+*  [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)] [[github](https://github.com/yangjl/GERP-diallel)]  
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
 
 * [The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202)  [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
@@ -90,7 +92,7 @@ Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**
 * [Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)]      
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S  
 
-*  [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full)  
+* [High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full)  
 Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
 
 
@@ -236,7 +238,7 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS
 * [A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)    
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
 
-* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346)     
+* [A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346) 
 **May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
 
 * [Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)    
