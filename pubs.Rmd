@@ -29,8 +29,7 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
 Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]
 
-* Construction of the third generation *Zea* mays haplotype map [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)]   
-  Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Buffalo V**, Buckler ES, Xu Y,  Lai J, Ware D, Sun Q  
+
 
 * Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)]    
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  
@@ -47,6 +46,9 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 **Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J** 
 
 ### 2017
+
+* [Construction of the third generation *Zea* mays haplotype map](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix134/4782225?searchresult=1)  [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] [[sequence data](http://gigadb.org/dataset/100339)] [[genotype data](https://www.panzea.org/genotypes)] [[alignment data](http://cbsusrv04.tc.cornell.edu/users/panzea/download.aspx?filegroupid=23)] [[code](https://bitbucket.org/bukowski1/maize_hapmap3_code)]  
+Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Lorant A**, **Buffalo V**, Romay MC, Buckler ES, Ware D, Lai J, Sun Q, Xu Y  
 
 * [The interplay of demography and selection during maize domestication and diffusion](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4) [[preprint](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)][[github](https://github.com/HuffordLab/Wang_et_al._Demography)][[YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM)]  
 Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
