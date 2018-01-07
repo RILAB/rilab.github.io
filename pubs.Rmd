@@ -29,12 +29,16 @@ Journal names have been intentionally excluded. Lab member names are in bold. Li
 * A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
 Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]
 
-
+<!-- <span title="SUMMARY"><a href=URL>TITLE</a></span> -->
 
 * Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)]    
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  
 
 ### 2018
+
+
+* <span title=""><a href="">Harnessing cross-border resources to confront climate change.</a></span> 
+Aburto-Oropeza, O., A. D. de la Vega, A. Ortinez... **Ross-Ibarra J** ...V. H. P. Figueroa, S. Dominguez, W. Mautz. 
 
 * <span title="We show that genome size can be analyzed as a quantitative trait and that selection on flowering time in maize has likely driven adaptive changes in genome size along multiple altitudinal clines."><a href="">Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays</a>
 </span> [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)]  
@@ -46,20 +50,21 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 **Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J** 
 
 ### 2017
-
-* [Construction of the third generation *Zea* mays haplotype map](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix134/4782225?searchresult=1)  [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] [[sequence data](http://gigadb.org/dataset/100339)] [[genotype data](https://www.panzea.org/genotypes)] [[alignment data](http://cbsusrv04.tc.cornell.edu/users/panzea/download.aspx?filegroupid=23)] [[code](https://bitbucket.org/bukowski1/maize_hapmap3_code)]  
+* <span title="We present a SNP dataset of 80M variants from a samplf of 1200 maize and teosinte genomes."><a href=https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix134/4782225?searchresult=1>Construction of the third generation Zea mays haplotype map</a></span>
+[[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] [[sequence data](http://gigadb.org/dataset/100339)] [[genotype data](https://www.panzea.org/genotypes)] [[alignment data](http://cbsusrv04.tc.cornell.edu/users/panzea/download.aspx?filegroupid=23)] [[code](https://bitbucket.org/bukowski1/maize_hapmap3_code)]  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Lorant A**, **Buffalo V**, Romay MC, Buckler ES, Ware D, Lai J, Sun Q, Xu Y  
 
-* [The interplay of demography and selection during maize domestication and diffusion](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4) [[preprint](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)][[github](https://github.com/HuffordLab/Wang_et_al._Demography)][[YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM)]  
+* <span title="We show how population bottlenecks and gene flow have shaped patterns of genetic load across the maize genome and among populatons."><a href=https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4>The interplay of demography and selection during maize domestication and diffusion</a></span>  [[preprint](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)][[github](https://github.com/HuffordLab/Wang_et_al._Demography)][[YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM)]  
 Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
 
-*  [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)] [[github](https://github.com/yangjl/GERP-diallel)]  
+* <span title="We combine phenotypic data from crosses between multiple maize inbred lines and genome-wide characterization of deleterious alleles to show that a simple model of incomplete dominance may help explain hybrid vigor."><a href=http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019>Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize</a>
+</span> [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)] [[github](https://github.com/yangjl/GERP-diallel)]  
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
 
-* [The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202)  [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
+* <span title="Gene expression data from  maize and teosinte grown in mid-Holocene environments suggests that for some genes plastic changes in expression may have preceded genetic changes during domestication"><a href=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202>The potential role of genetic assimilation during maize domestication</a></span>  [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
 **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
 
-* [Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño](https://peerj.com/articles/3737/) [[preprint](http://biorxiv.org/content/early/2017/06/20/152397)]   
+* [Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño](https://peerj.com/articles/3737/) [[preprint](http://biorxiv.org/content/early/2017/06/20/152397)]  
 Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Simpson JK, Sawers RJH
 
 * [Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America](http://science.sciencemag.org/content/357/6350/512.full)  
@@ -283,7 +288,7 @@ Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ
 * [The evolution of recombination under domestication: a test of two hypotheses](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf)    
 **Ross-Ibarra J**  
 
-* [Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf)     
+* <span title="I use genetic data to study the origin of a leafy shrub domesticated by the Maya"><a href=http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf>Origen y domesticación de la chaya (Cnidoscolus aconitifolius Mill IM Johnst): La espinaca Maya</a></span>   
 **Ross-Ibarra J**   
 
 * [The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://www.rilab.org/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)    
