@@ -96,7 +96,7 @@ Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Si
 <details>
     <summary>[Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America](http://science.sciencemag.org/content/357/6350/512.full)  
 Swarts K, Gutaker RM, Benz B,  Blake M ...[6 authors]... **Ross-Ibarra J** ...[5 authors]... Weigel D, Buckler ES, Burbano HA</summary>
-    <p style="margin-left: 30px">SUMMARY 
+    <p style="margin-left: 30px">SUMMARY [Nature News](http://www.nature.com/news/ancient-genomes-show-how-maize-adapted-to-life-at-high-altitudes-1.22403)  [Phys.org](https://phys.org/news/2017-08-precision-corn-climate.html) [Science Daily](https://www.sciencedaily.com/releases/2017/08/170803141056.htm) 
 </p></details> 
 
 <details>
@@ -126,16 +126,16 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 ### 2016
 
 <details>     <summary>[Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication](<http://www.cell.com/current-biology/abstract/S0960-9822(16)31120-4>)  
-Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N</summary>     <p style="margin-left: 30px">Genome sequence of a 5,000 year old maize cob reveals it was partially domesticated and helps identify the timing of adaptation during domestication.</p></details>  
 
 <details>     <summary>[Evolutionary genomics of peach and almond domestication](http://www.g3journal.org/content/6/12/3985.short?rss=1&ssource=mfr) [[preprint](http://biorxiv.org/content/early/2016/09/27/060160)]      
-**Velasco D**, **Hough J**, Aradhya M, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+**Velasco D**, **Hough J**, Aradhya M, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">Resequencing data from a number of peach and almond varieties show differences in population size and mating system, but little evidence for convergent selection during domestication.</p></details>  
 
 <details>     <summary>[ANGSD-wrapper: utilities for analyzing next generation sequencing data](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full) [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)]   
-**Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+**Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   </summary>     <p style="margin-left: 30px">We provide a set of scripts and configuration files to facilitate easy popgen analysis of short-read sequencing data.</p></details>  
 
 <details>     <summary>[Recent demography drives changes in linked selection across the maize genome](http://rdcu.be/kHEB) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]    
-**Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+**Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">We find little evidence for widespread hard sweeps in maize or teosinte and show that differences in demography during maize domestication and subsequent expansion have have changed the impacts of linked selection on surrounding diversity in the maize genome.</p></details>  
 
 <details>     <summary>[Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)]      
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
@@ -157,7 +157,7 @@ Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 <details>     <summary>[Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)]       
-**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. </summary>     <p style="margin-left: 30px">SUMMARY</p></details>
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
 <details>     <summary>[Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)    
