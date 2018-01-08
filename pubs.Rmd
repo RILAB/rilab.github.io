@@ -164,18 +164,18 @@ Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**
 Hake S, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
 
 <details>     <summary>[The origin and evolution of maize in the American Southwest](http://rdcu.be/kHD8) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data](ftp://ftp_20150114_27609:F+jYHhrE6t2e@ftp.dna.ku.dk)]    
-Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT    </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT    </summary>    <p style="margin-left: 30px">We use sequence data from ancient maize cobs to reveal the timing and geography of maize introduction into the Southwest US. [UC Davis Press Release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124)  [Science World Report](http://www.scienceworldreport.com/articles/21122/20150112/origins-maize-dna-tests-reveal-two-paths.htm)  [Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)  [SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana), [Science magazine](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) [Nature Plants commentary](http://www.nature.com/articles/nplants20149) [The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)  </p></details>   
 
 <details>     <summary>[Reply to Brush *et al.*: Wake-up call for crop conservation science](http://www.rilab.org/pdfs/dyer2015.pdf)    
 Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>       
 
 <details>     <summary>[Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]         
-Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</summary>     <p style="margin-left: 30px">We show that transposable elements can act as regulatory sequences that up- or down-regulate genes in maize in response to abiotic stress.</p></details>  
 
 ### 2014
 
 <details>     <summary>[Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]       
-Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>        
+Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discuss some of the outstanding questions and key challenges facing the use of population genetics to study local adaptation.</p></details>        
 
 <details>     <summary> [Diversity and evolution of centromere repeats in the maize genome](http://rilab.org/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]     
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>       
