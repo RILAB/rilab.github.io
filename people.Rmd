@@ -57,18 +57,7 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 </div>
 **Asher Hudson**
 
-Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on herbivory and local adaptation in teosinte.
-
-<!-- break -->
-<br>
-<!-- break -->
-
-<div style="float: left">
-<img src="images/caryn.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Caryn Johansen** <a href="https://twitter.com/jo_caryn"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://github.com/carynJohansen"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-
-Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucdavis.edu), coadvised by [Dan Runcie](http://runcielab.ucdavis.edu). Caryn is interested in local adaptation in maize and modeling the genetic architecture underlying quantitative traits.
+Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on hgenotype by envrionment interaction in maize as part of the [maize diversity project](http://www.panzea.org).
 
 <!-- break -->
 <br>
@@ -79,8 +68,7 @@ Caryn is a graduate student in the [Plant Biology Graduate Group](http://pbi.ucd
 </div>
 **Emily Josephs** <a href="http://emjosephs.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Emily is an NSF plant genome postdoc working on polygenic adaptation in plants, in collaboration with [Graham Coop](http://gcbias.org) and [Julin Maloof](http://malooflab.openwetware.org).
-
+Emily is an NSF plant genome postdoc working on polygenic adaptation in plants in collaboration with [Graham Coop](http://gcbias.org).
 
 <!-- break -->
 <br>
@@ -91,7 +79,7 @@ Emily is an NSF plant genome postdoc working on polygenic adaptation in plants, 
 </div>
 **Anne Lorant**
 
-Anne has worked as the lab manager since 2012. In addition to running the lab, she is concurrently doing a PhD in teosinte evolutionary genetics with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
+Anne has been lab manager since 2012. In addition to running the lab, she is doing a PhD in teosinte evolutionary genetics, co-advised with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
 
 <!-- break -->
 <br>
@@ -104,26 +92,19 @@ Anne has worked as the lab manager since 2012. In addition to running the lab, s
 
 Nate is a plant sciences major helping out with crosses and DNA extraction as well as prototyping thermal imaging analyses for studying highland adaptation.
 
- <br>
-
-<!-- <div style="float: left"> -->
-<!-- <img src="images/niki.jpg" style="border:10px solid white"; width=100px> -->
-<!-- </div> -->
-<!-- **Niki Mahmoudzadeh** -->
-<!-- Niki is a 3rd year student working with Dan Gates on highland adaptation. -->
-
-<!-- break --> 
-<!-- <br><br><br> -->
-<!-- break --> 
+<!-- break -->
+<br><br><br><br><br><br>
+<!-- break -->
 
 <div style="float: left">
 <img src="images/wenbin.JPG" style="border:10px solid white"; width=100px>
 </div>
+
 **Wenbin Mei** 
 <a href="http://wenbinmei.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://github.com/wenbinmei"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://twitter.com/wbmei"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Wenbin is a postdoctoral scholar who works on the population genetics of copy number variants and inversions in maize and teosinte. Wenbin is also part of the [maize diversity project](http://www.panzea.org).
+Wenbin is a postdoctoral scholar who works on copy number variation and inversions in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).
 
 <!-- break -->
 <br>
@@ -135,7 +116,7 @@ Wenbin is a postdoctoral scholar who works on the population genetics of copy nu
 
 **Ellen Osborn**
 
-Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is working with Michelle Stitzer on the population genetics of transposable elements in maize and teosinte.
+Ellen is an undergraduate researcher majoring in Global Disease Biology. She is working with Michelle Stitzer on the population genetics of transposable elements.
 
 <!-- break -->
 <br>
@@ -146,10 +127,10 @@ Ellen is an undergraduate researcher majoring in Global Disease Biology.  She is
 </div>
 **Jeffrey Ross-Ibarra** <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"></a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a><a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). He started at UC Davis in 2009.
+Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). 
 
 <!-- break -->
-<br>
+<br><br>
 <!-- break -->
 
 <div style="float: left">
