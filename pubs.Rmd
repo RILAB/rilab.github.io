@@ -57,7 +57,7 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 
 <details>
     <summary>[Harnessing cross-border resources to confront climate change]()  
-Aburto-Oropeza O, Edwards M, Páramo Figueroa VH, Domínguez S ...[85 authors]... Miles D, Müller J, Lara R, Sawers R]  </summary>
+Aburto-Oropeza O, Edwards M, Páramo Figueroa VH, Domínguez S ...[85 authors]... Miles D, Müller J, Lara R, Sawers R  </summary>
     <p style="margin-left: 30px">Discusses the challenges of changing climates pose for society and the environment along the Mexican-US border.</p></details>  
 
 ### 2017
@@ -154,10 +154,10 @@ Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  </summary>     <
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**, Yang B, Frommer WB  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 <details>     <summary>[Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297) [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)] [[data](https://dx.doi.org/10.6084/m9.figshare.746990.v1)]       
-**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">We find that maize adaptation to the highlands in Mexico and South America is largely independent and has made considerable use of standing genetic variation.</p></details>  
 
 <details>     <summary>[Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)]       
-**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. </summary>     <p style="margin-left: 30px">SUMMARY</p></details>
+**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. </summary>     <p style="margin-left: 30px">We find that variation in the domestication locus tb1 does not explain a substantial proportion of phenotypic variation for tillering in natural populations of teosinte.</p></details>
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
 <details>     <summary>[Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)    
@@ -181,7 +181,7 @@ Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discu
 **Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>       
 
 <details>     <summary>[The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]    
-**Mezmouk S**, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+**Mezmouk S**, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We show that deleterious mutations are abundant in modern maize breeding material and that genes with deleterious mutations are likely important contributors to phenotypic variation.</p></details>   
 
 
 ### 2013
