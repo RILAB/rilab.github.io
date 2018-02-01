@@ -28,11 +28,7 @@ Click on a triangle for a brief summary of each paper.
 
 ### Preprints
 
-<details>
-    <summary>A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
-Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]</summary>
-    <p style="margin-left: 30px">We identify a small gene family Kindr as the causal locus for meiotic drive in maize. 
-</p></details>  
+
 
 
 <details>
@@ -43,9 +39,14 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 
 ### 2018
 
+<details>
+    <summary>A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
+Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]</summary>
+    <p style="margin-left: 30px">We identify a small gene family Kindr as the causal locus for meiotic drive in maize. 
+</p></details>  
 
 <details>
-    <summary>[Parallel altitudinal clines reveal adaptive evolution of genome size in Zea mays]() [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)]  
+    <summary>[Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)]  
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** </summary>
     <p style="margin-left: 30px">We show that genome size can be analyzed as a quantitative trait and that selection on flowering time in maize has likely driven adaptive changes in genome size along multiple altitudinal clines. 
 </p></details> 
@@ -63,7 +64,7 @@ Aburto-Oropeza O, Edwards M, Páramo Figueroa VH, Domínguez S ...[85 authors]..
 ### 2017
 
 <details>
-    <summary>[Construction of the third generation Zea mays haplotype map](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix134/4782225?searchresult=1) [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] [[sequence data](http://gigadb.org/dataset/100339)] [[genotype data](https://www.panzea.org/genotypes)] [[alignment data](http://cbsusrv04.tc.cornell.edu/users/panzea/download.aspx?filegroupid=23)] [[code](https://bitbucket.org/bukowski1/maize_hapmap3_code)]  
+    <summary>[Construction of the third generation *Zea mays* haplotype map](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix134/4782225?searchresult=1) [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] [[sequence data](http://gigadb.org/dataset/100339)] [[genotype data](https://www.panzea.org/genotypes)] [[alignment data](http://cbsusrv04.tc.cornell.edu/users/panzea/download.aspx?filegroupid=23)] [[code](https://bitbucket.org/bukowski1/maize_hapmap3_code)]  
 Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Lorant A**, **Buffalo V**, Romay MC, Buckler ES, Ware D, Lai J, Sun Q, Xu Y  </summary>
     <p style="margin-left: 30px">We present a SNP dataset of 80M variants from a sample of 1200 maize and teosinte genomes. 
 </p></details> 

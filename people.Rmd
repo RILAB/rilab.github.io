@@ -28,7 +28,7 @@ Please read more information on [joining the lab](prosp.html)
 <!-- break -->
 <br>
 <!-- break -->
-
+<div class="col2">
 <div style="float: left">
 <img src="http://www.colorado.edu/smithlab/sites/default/files/styles/small/public/people/Dan_webpic_0.jpg?itok=In6TaPb_" style="border:10px solid white"; width=100px>
 </div>
@@ -81,7 +81,7 @@ Anne has been lab manager since 2012. In addition to running the lab, she is doi
 Nate is a plant sciences major helping out with crosses and DNA extraction as well as prototyping thermal imaging analyses for studying highland adaptation.
 
 <!-- break -->
-<br><br><br><br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -104,7 +104,7 @@ Wenbin is a postdoctoral scholar who works on copy number variation and inversio
 
 **Ellen Osborn**
 
-Ellen is an undergraduate researcher majoring in Global Disease Biology. She is working with Michelle Stitzer on the population genetics of transposable elements.
+Ellen is an undergraduate majoring in Global Disease Biology. She is working with Michelle Stitzer on the population genetics of transposable elements.
 
 <!-- break -->
 <br>
@@ -158,7 +158,7 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 
 ## Lab Alumni
 
-* [Luis Avila](https://lmavila.github.io): Programmer 2016-2018 (Bioinformatician, HM Clause)
+* [Luis Avila](https://lmavila.github.io): Programmer 2016-2018 (IT Breeding Tool Project Leader, HM Clause)
 * [Anna O'Brien](https://annamobrien.wordpress.com): PhD Student 2011-2017 (Postdoc, U. Toronto)
 * [Jinliang Yang](http://jyanglab.com): Postdoc 2014-2017 (Assistant Professor, U. Nebraska)
 * [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017 (Postdoc, UC Santa Cruz)
