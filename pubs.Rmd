@@ -28,8 +28,13 @@ Click on a triangle for a brief summary of each paper.
 
 ### Preprints
 
-
-
+<details>
+    <summary>Maize domestication and gene interaction
+ [[preprint](https://peerj.com/preprints/26502/)]    
+**Stitzer MC**, **Ross-Ibarra J**
+</summary>
+    <p style="margin-left: 30px">We review genetic work looking at the role of dominance, epistasis, and pleiotropy during maize domestication.   
+</p></details> 
 
 <details>
     <summary>Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)]    
@@ -52,7 +57,7 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 </p></details> 
 
 <details>
-    <summary>[Adaptation in plant genomes: bigger is different]() [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)] [[YouTube][https://www.youtube.com/watch?v=aXLuWruOmO4]][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
+    <summary>[Adaptation in plant genomes: bigger is different]() [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)] [[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
 **Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**</summary>
     <p style="margin-left: 30px">We develop the functional space hypothesis in which we posit that adaptation in large genomes uses more noncoding variation and is more likely to proceed via soft sweeps. </p></details>  
 
