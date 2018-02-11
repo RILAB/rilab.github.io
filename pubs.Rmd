@@ -51,19 +51,19 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 </p></details>  
 
 <details>
-    <summary>[Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*]() [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] [[slides](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays)] 
+    <summary>Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*    [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] [[slides](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays)] 
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** </summary>
     <p style="margin-left: 30px">We show that genome size can be analyzed as a quantitative trait and that selection on flowering time in maize has likely driven adaptive changes in genome size along multiple altitudinal clines. 
 </p></details> 
 
 <details>
-    <summary>[Adaptation in plant genomes: bigger is different]() [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)] [[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)] [[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
+    <summary>Adaptation in plant genomes: bigger is different [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)][[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)][[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
 **Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**</summary>
     <p style="margin-left: 30px">We develop the functional space hypothesis in which we posit that adaptation in large genomes uses more noncoding variation and is more likely to proceed via soft sweeps. </p></details>  
 
 <details>
-    <summary>[Harnessing cross-border resources to confront climate change]()  
-Aburto-Oropeza O, Edwards M, Páramo Figueroa VH, Domínguez S ...[85 authors]... Miles D, Müller J, Lara R, Sawers R  </summary>
+    <summary>Harnessing cross-border resources to confront climate change    
+Aburto-Oropeza O ...[85 authors in alphabetical order]... Taylor JE  </summary>
     <p style="margin-left: 30px">Discusses the challenges of changing climates pose for society and the environment along the Mexican-US border.</p></details>  
 
 ### 2017
