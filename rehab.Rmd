@@ -25,6 +25,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
 ### February
+##### Friday Feb. 23
+[Willi et al. 2018](https://www.ncbi.nlm.nih.gov/pubmed/29346601) Accumulation of mutational load at the edges of a species range.
+
+##### Friday Feb. 16
+[Huang et al. 2018](http://www.pnas.org/content/115/2/E334) ZmCCT9 enhances maize adaptation to higher latitudes
+
 ##### Friday Feb. 9
 [Kong et al. 2018](http://science.sciencemag.org/content/359/6374/424) The nature of nurture: Effects of parental genotypes
 
