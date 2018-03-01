@@ -24,6 +24,13 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
+### March
+##### Friday Mar. 9
+[Filiault et al. preprint](https://www.biorxiv.org/content/early/2018/02/12/264101) The Aquilegia genome: adaptive radiation and an extraordinarily polymorphic chromosome with a unique history
+
+##### Friday Mar. 2
+[di Iulio et al. 2018](https://www.nature.com/articles/s41588-018-0062-7) The human noncoding genome defined by genetic diversity
+
 ### February
 ##### Friday Feb. 23
 [Willi et al. 2018](https://www.ncbi.nlm.nih.gov/pubmed/29346601) Accumulation of mutational load at the edges of a species range.
