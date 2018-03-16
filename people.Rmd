@@ -12,7 +12,7 @@
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
+    -webkit-column: 2 200px; /* chrome, safari */
     -moz-columns: 2 200px;    /* firefox */
   }
   .col3 {
@@ -95,20 +95,18 @@ Nate is a plant sciences major helping out with crosses and DNA extraction as we
 Wenbin is a postdoctoral scholar who works on copy number variation and inversions in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).
 
 <!-- break -->
-<br>
+<br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
 <img src="images/odell.jpg" style="border:10px solid white"; width=100px>
 </div>
-
 **Sarah Odell** 
 <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.
-
 <!-- break -->
-<br>
+<br><br>
 <!-- break -->
 
 <div style="float: left">
