@@ -74,12 +74,12 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 </p></details> 
 
 <details>
-    <summary>Adaptation in plant genomes: bigger is different [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)][[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)][[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
+    <summary>[Adaptation in plant genomes: bigger is different](https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1002) [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)][[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)][[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
 **Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**</summary>
     <p style="margin-left: 30px">We develop the functional space hypothesis in which we posit that adaptation in large genomes uses more noncoding variation and is more likely to proceed via soft sweeps. </p></details>  
 
 <details>
-    <summary>Harnessing cross-border resources to confront climate change    
+    <summary>[Harnessing cross-border resources to confront climate change](https://www.sciencedirect.com/science/article/pii/S1462901117310602)    
 Aburto-Oropeza O ...[85 authors in alphabetical order]... Taylor JE  </summary>
     <p style="margin-left: 30px">Discusses the challenges of changing climates pose for society and the environment along the Mexican-US border.</p></details>  
 
@@ -105,7 +105,7 @@ Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, H
 </p></details> 
 
 <details>
-    <summary>[The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202) [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)  
+    <summary>[The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202) [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
 **Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**</summary>
     <p style="margin-left: 30px">Gene expression data from  maize and teosinte grown in mid-Holocene environments suggests that for some genes plastic changes in expression may have preceded genetic changes during domestication. 
 </p></details>   
