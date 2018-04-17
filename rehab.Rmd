@@ -25,6 +25,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
 ### April
+##### Friday Apr. 20  
+[Zeng et al. 2018](https://www.nature.com/articles/s41588-018-0101-4) Signatures of negative selection in the genetic architecture of human
 
 ##### Friday Apr. 13  
 [Gage et al. preprint](https://www.biorxiv.org/content/early/2018/03/18/284109) Selection signatures underlying dramatic male inflorescence transformation during modern hybrid maize breeding
