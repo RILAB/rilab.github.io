@@ -165,6 +165,17 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 <br>
 <!-- break -->
 
+<div style="float: left">
+<img src="images/zeitler" style="border:10px solid white"; width=100px>
+</div>
+**Leo Zeitler** <a href="https://twitter.com/leo_zeitler"><img src="images/Twitter_logo_blue.png" style="width: 15px;"><a href="http://github.com/mstetter"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+
+Leo is a MS student visiting the lab to work on landrace diversity and double haploids.
+
+<!-- break -->
+<br>
+<!-- break -->
+
 </div>
 
 ## Lab Alumni
