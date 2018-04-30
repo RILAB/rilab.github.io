@@ -76,7 +76,7 @@ Anne has been lab manager since 2012. In addition to running the lab, she is doi
 <div style="float: left">
 <img src="images/langlois.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Nathaniel Langlois**
+**Nathaniel Langlois-Ackerson**
 
 Nate is a plant sciences major helping out with crosses and DNA extraction as well as prototyping thermal imaging analyses for studying highland adaptation.
 
@@ -95,7 +95,7 @@ Nate is a plant sciences major helping out with crosses and DNA extraction as we
 Wenbin is a postdoctoral scholar who works on copy number variation and inversions in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).
 
 <!-- break -->
-<br><br><br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -106,7 +106,7 @@ Wenbin is a postdoctoral scholar who works on copy number variation and inversio
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.
 <!-- break -->
-<br><br>
+<br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -166,11 +166,11 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 <!-- break -->
 
 <div style="float: left">
-<img src="images/zeitler" style="border:10px solid white"; width=100px>
+<img src="images/zeitler.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Leo Zeitler** <a href="https://twitter.com/leo_zeitler"><img src="images/Twitter_logo_blue.png" style="width: 15px;"><a href="http://github.com/mstetter"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Leo Zeitler** <a href="https://twitter.com/leo_zeitler"><img src="images/Twitter_logo_blue.png" style="width: 15px;"><a href="http://github.com/LZeitler"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Leo is a MS student visiting the lab to work on landrace diversity and double haploids.
+Leo is an MS student visiting the lab to work on landrace diversity and double haploids.
 
 <!-- break -->
 <br>
