@@ -43,7 +43,7 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 <div style="float: left">
 <img src="images/asher.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Asher Hudson**
+**Asher Hudson** <a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://aihudson.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on hgenotype by envrionment interaction in maize as part of the [maize diversity project](http://www.panzea.org).
 
@@ -203,12 +203,12 @@ Leo is an MS student visiting the lab to work on landrace diversity and double h
 
 ### Visiting Scholar: for >100 hours of scholastic visitation
 
-* [Chad Niderhuth](http://niederhuthlab.com)
-* [Eric Fuchs](https://sites.google.com/site/ejfuchs/)
-* [Peter Morrell](http://faculty.agronomy.cfans.umn.edu/pmorrell/)
+* [Kelly Dawe](http://www.dawelab.org)  
 * [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics)
+* [Eric Fuchs](https://sites.google.com/site/ejfuchs/) 
+* [Peter Morrell](http://faculty.agronomy.cfans.umn.edu/pmorrell/)
+* [Chad Niederhuth](http://niederhuthlab.com)
 * [Ginnie Morrison](http://www.panzea.org/#!ginnie-morrison/c1lov)
-* [Kelly Dawe](http://www.dawelab.org)
 * [Markus Stetter](http://mstetter.github.io)
 
 ### Fellow of the R-I Lab: for >500 hours of scholastic fellowship
