@@ -63,22 +63,23 @@ Emily is an [NSF plant genome postdoc](https://www.nsf.gov/funding/pgm_summ.jsp?
 <!-- break -->
 
 <div style="float: left">
-<img src="images/lorant.png" style="border:10px solid white"; width=100px>
+<img src="images/langlois.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Anne Lorant**
+**Nathaniel Langlois-Ackerson**
 
-Anne has been lab manager since 2012. In addition to running the lab, she is doing a PhD in teosinte evolutionary genetics, co-advised with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
+Nate is a plant sciences major helping out with crosses and DNA extraction as well as prototyping thermal imaging analyses for studying highland adaptation.
 
 <!-- break -->
 <br>
 <!-- break -->
 
 <div style="float: left">
-<img src="images/langlois.jpg" style="border:10px solid white"; width=100px>
+<img src="images/lorant.png" style="border:10px solid white"; width=100px>
 </div>
-**Nathaniel Langlois-Ackerson**
+**Anne Lorant**
 
-Nate is a plant sciences major helping out with crosses and DNA extraction as well as prototyping thermal imaging analyses for studying highland adaptation.
+Anne has been lab manager since 2012. In addition to running the lab, she is doing a PhD in teosinte evolutionary genetics, co-advised with [Maud Tenaillon](http://moulon.inra.fr/~mtenaillon/).
+
 
 <!-- break -->
 <br>
@@ -106,7 +107,7 @@ Wenbin is a postdoctoral scholar who works on copy number variation and inversio
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.
 <!-- break -->
-<br><br><br><br>
+<br><br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -133,22 +134,24 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 <!-- break -->
 
 <div style="float: left">
-<img src="images/stitzer.jpg" style="border:10px solid white"; width=100px>
+<img src="images/stetter.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mcstitzer.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://github.com/mcstitzer"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mstetter"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and Arabidopsis as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
+Markus is [DFG postdoctoral fellow](http://www.dfg.de/en/research_funding/programmes/individual/research_fellowships/) working on domestication and adaptation in polygenic traits in maize and teosinte.
+
 
 <!-- break -->
 <br>
 <!-- break -->
 
 <div style="float: left">
-<img src="images/stetter.jpg" style="border:10px solid white"; width=100px>
+<img src="images/stitzer.jpg" style="border:10px solid white"; width=100px>
 </div>
-**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mstetter"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+**Michelle Stitzer** <a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mcstitzer.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://github.com/mcstitzer"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Markus is [DFG postdoctoral fellow](http://www.dfg.de/en/research_funding/programmes/individual/research_fellowships/) working on domestication and adaptation in polygenic traits in maize and teosinte.
+Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and Arabidopsis as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
+
 
 <!-- break -->
 <br>
