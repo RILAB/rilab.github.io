@@ -44,6 +44,13 @@ Click on a triangle for a brief summary of each paper.
 <!--     <p style="margin-left: 30px">    -->
 <!-- </p></details>  -->
 
+<details>
+    <summary>Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima [[preprint](https://www.biorxiv.org/content/early/2018/05/03/313247)] [[Shiny app](https://mgstetter.shinyapps.io/quantgensimAPP/)]    
+**Stetter MG**, Thornton K, **Ross-Ibarra J**
+</summary>
+    <p style="margin-left: 30px">We use simulations to study the population genetics of selection on a quantitative trait and learn which parameters drive quantitative trait evollution.   
+</p></details> 
+
 
 <details>
     <summary>Maize domestication and gene interaction
