@@ -75,7 +75,7 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 </p></details>  
 
 <details>
-    <summary>Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*    [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] [[slides](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays)]  
+    <summary>[Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) [[perspective](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007249)]  [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] [[slides](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays)]  
 **Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** </summary>
     <p style="margin-left: 30px">We show that genome size can be analyzed as a quantitative trait and that selection on flowering time in maize has likely driven adaptive changes in genome size along multiple altitudinal clines. 
 </p></details> 
@@ -87,7 +87,7 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 
 <details>
     <summary>[Harnessing cross-border resources to confront climate change](https://www.sciencedirect.com/science/article/pii/S1462901117310602)    
-Aburto-Oropeza O ...[85 authors in alphabetical order]... Taylor JE  </summary>
+Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... Taylor JE  </summary>
     <p style="margin-left: 30px">Discusses the challenges of changing climates pose for society and the environment along the Mexican-US border.</p></details>  
 
 ### 2017
@@ -125,7 +125,7 @@ Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Si
 
 <details>
     <summary>[Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America](http://science.sciencemag.org/content/357/6350/512.full)  
-Swarts K, Gutaker RM, Benz B,  Blake M ...[6 authors]... **Ross-Ibarra J** ...[5 authors]... Weigel D, Buckler ES, Burbano HA</summary>
+Swarts K, Gutaker RM ...[**Ross-Ibarra J** and 14 authors in alphabetical order]... Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA</summary>
     <p style="margin-left: 30px">SUMMARY [Nature News](http://www.nature.com/news/ancient-genomes-show-how-maize-adapted-to-life-at-high-altitudes-1.22403)  [Phys.org](https://phys.org/news/2017-08-precision-corn-climate.html) [Science Daily](https://www.sciencedaily.com/releases/2017/08/170803141056.htm) 
 </p></details> 
 
