@@ -26,6 +26,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
 ### June
+
+##### Friday June 29
+[Smith et al., preprint](https://www.biorxiv.org/content/early/2018/06/03/336503) A domestication history of dynamic adaptation and genomic deterioration in sorghum
+
+##### Friday June 22
+[Zou, et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1378-9) Adaptation of Arabidopsis thaliana to the Yangtze River basin
+
+##### Friday June 15
+[Fisher, 1918](http://www.indiana.edu/~curtweb/L567/readings/Fisher1918.pdf) The correlation between relatives on the supposition of Mendelian inheritance
+
 ##### Friday June 8
 [Barghi et al. preprint](https://www.biorxiv.org/content/early/2018/05/28/332122) Polygenic adaptation fuels genetic redundancy in Drosophila
 
