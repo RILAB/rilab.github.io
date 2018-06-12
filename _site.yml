@@ -1,31 +1,26 @@
-name: RI lab page
+name: "RI lab page"
 navbar:
-  title: Ross-Ibarra Lab
+  title: "Ross-Ibarra Lab"
   left:
-  - text: Home
-    href: index.html
-  - text: People
-    href: people.html
-  - text: Research
-    href: research.html
-  - text: Publications
-    href: pubs.html
-  - text: Lab Docs
-    href: https://github.com/RILAB/lab-docs
-  - text: R.E.H.A.B
-    href: rehab.html
-  - text: News
-    href: news.html
-  - text: Press
-    href: press.html
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Lab Docs"
+      href: https://github.com/RILAB/lab-docs
+    - text: "R.E.H.A.B"
+      href: rehab.html
+    - text: "News"
+      href: news.html
+    - text: "Press"
+      href: press.html
 output:
   html_document:
     theme: cosmo
     highlight: kate
-    lib_dir: site_libs
-    self_contained: no
-exclude:
-- .Rproj
-- README.md
-output_dir: '.'
-
+exclude: [".Rproj","README.md"]
+output_dir: "."
