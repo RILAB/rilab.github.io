@@ -45,7 +45,7 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 </div>
 **Asher Hudson** <a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://aihudson.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on hgenotype by envrionment interaction in maize as part of the [maize diversity project](http://www.panzea.org).
+Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on genotype by envrionment interaction in maize as part of the [maize diversity project](http://www.panzea.org).
 
 <!-- break -->
 <br>
@@ -107,7 +107,7 @@ Wenbin is a postdoctoral scholar who works on copy number variation and inversio
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.
 <!-- break -->
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -138,7 +138,7 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 </div>
 
 **Catherine Rushworth** 
-<a href="cathyrushworth.weebly.com"><img src="images/Home_icon_black.png" style="width: 15px;">
+<a href="https://cathyrushworth.weebly.com"><img src="images/Home_icon_black.png" style="width: 15px;">
 <a href="https://twitter.com/Dr_Crushworth"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?hl=en&user=L9MNZEQAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Cathy is a postdoctoral scholar working on the genomics and quantitative genetics of recombination rate variation in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).
