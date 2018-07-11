@@ -357,8 +357,8 @@ Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ  </summary>     <p s
 <details>     <summary>[Quantitative trait loci and the study of plant domestication](http://www.rilab.org/pdfs/Ross-Ibarra-2005-15881692.pdf)     
 **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<details>     <summary>[The evolution of recombination under domestication: a test of two hypotheses](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf)    
-**Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary>[The evolution of recombination under domestication: a test of two hypotheses](http://www.rilab.org/pdfs/Ross-Ibarra-2004.pdf) [data](http://www.rilab.org/pubs/supp_data_rossibarra2004.tgz)   
+**Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">Here I test two different hypotheses about the how recombination should relate to domestication: Does domestication itself select for increased recombination (yes), or respecies with higher recombination rates more likely to be domesticated (no). </p></details>  
 
 <details>     <summary>[Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://www.rilab.org/pdfs/Ross-Ibarra-2003.pdf)  
 **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">I use genetic data to study the origin of a leafy shrub domesticated by the Maya</p></details>  
