@@ -147,7 +147,7 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 </p></details> 
 
 <details>
-    <summary>[Genomic abundance is not predictive of tandem repeat localization in grass genomes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177896) [[preprint](https://peerj.com/preprints/2314/)]    
+    <summary>[Genomic abundance is not predictive of tandem repeat localization in grass genomes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177896) [[preprint](https://peerj.com/preprints/2314/)] [[github](https://github.com/paulbilinski/Github_centrepeat)]     
 **Bilinski P**, Han Y, **Hufford MB**, **Lorant A**,  Zhang P, Estep MC, Jiang J, **Ross-Ibarra J**</summary>
     <p style="margin-left: 30px">We show that short read sequence data allows discovery of novel tandem repeats in grass species but, unlike many other species, the most abundant repeat is frequently not centromeric. 
 </p></details>    
