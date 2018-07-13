@@ -44,6 +44,16 @@ Click on a triangle for a brief summary of each paper.
 <!--     <p style="margin-left: 30px">    -->
 <!-- </p></details>  -->
 
+
+
+
+<details>
+    <summary>Detecting adaptive differentiation in structured populations with genomic data and common gardens  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
+**Josephs EB**, Berg JJ, **Ross-Ibarra J**, Coop G
+</summary>
+    <p style="margin-left: 30px">We develop methods to detect polygenic adaptation on phenotypes from common gardens and GWAS panels.   
+</p></details> 
+
 <details>
     <summary>Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima [[preprint](https://www.biorxiv.org/content/early/2018/05/03/313247)] [[Shiny app](https://mgstetter.shinyapps.io/quantgensimAPP/)]    
 **Stetter MG**, Thornton K, **Ross-Ibarra J**
