@@ -61,13 +61,13 @@ Click on a triangle for a brief summary of each paper.
     <p style="margin-left: 30px">We use simulations to study the population genetics of selection on a quantitative trait and learn which parameters drive quantitative trait evollution.   
 </p></details> 
 
+### 2018
+
 <details>
     <summary>Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)]    
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  </summary>
     <p style="margin-left: 30px">We present the CoCoA hypothesis which describes how patterns of biotic coadpation change across varying abiotic environments   
 </p></details> 
-
-### 2018
 
 <details>
     <summary>Maize domestication and gene interaction
