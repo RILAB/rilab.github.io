@@ -25,6 +25,11 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
+### August
+##### Friday August 3
+[Jay et al. 2018](https://www.sciencedirect.com/science/article/pii/S096098221830544X?via%3Dihub) Supergene Evolution Triggered by the Introgression of a Chromosomal Inversion
+
+
 ### July
 ##### Friday July 27
 [Marques et al. 2018](https://www.nature.com/articles/s41559-018-0581-8) Experimental evidence for rapid genomic adaptation to a new niche in an adaptive radiation
