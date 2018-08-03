@@ -69,7 +69,7 @@ Click on a triangle for a brief summary of each paper.
 </p></details> 
 
 <details>
-    <summary>Maize domestication and gene interaction
+    <summary>[Maize domestication and gene interaction](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15350)
  [[preprint](https://peerj.com/preprints/26502/)]    
 **Stitzer MC**, **Ross-Ibarra J**
 </summary>
