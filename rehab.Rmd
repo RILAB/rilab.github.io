@@ -26,6 +26,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
 ### August
+##### Friday August 24
+[Fuller et al. 2018](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007526) Ancestral polymorphisms explain the role of chromosomal inversions in speciation
+
+#### Friday August 17
+[Ashander et al. preprint](https://www.biorxiv.org/content/early/2018/06/23/354530) Demographic inference in a spatially-explicit ecological model from genomic data: a proof of concept for the Mojave Desert Tortoise
+
+##### Friday August 10
+[Stankowski et al. preprint](https://www.biorxiv.org/content/early/2018/06/21/342352) The tempo of linked selection: Rapid emergence of a heterogeneous genomic landscape during a radiation of monkeyflowers
+
 ##### Friday August 3
 [Jay et al. 2018](https://www.sciencedirect.com/science/article/pii/S096098221830544X?via%3Dihub) Supergene Evolution Triggered by the Introgression of a Chromosomal Inversion
 
