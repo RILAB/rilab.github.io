@@ -63,9 +63,23 @@ Click on a triangle for a brief summary of each paper.
 ### 2018
 
 <details>
-    <summary>Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)]    
+    <summary>Evolutionary responses to conditionality in species interactions across environmental gradients [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)][[review](https://www.authorea.com/inst/14743?articles_format=list&page=5)]     
 **O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  </summary>
-    <p style="margin-left: 30px">We present the CoCoA hypothesis which describes how patterns of biotic coadpation change across varying abiotic environments   
+    <p style="margin-left: 30px">We present the CoCoA hypothesis which describes how patterns of biotic coadpation change across varying abiotic environments 
+</p></details> 
+
+<details>
+    <summary>Evolution and Adaptation in the Maize Genome  
+Manchanda N, Snodgrass SJ, **Ross-Ibarra J**, Hufford MB  
+</summary>
+    <p style="margin-left: 30px">We review progress thus far in genomic research of maize domestication and adaptation. We discuss the insights genomics has shed on our understanding of these processes and conclude with a future outlook for how genomics might be further applied.  
+</p></details> 
+
+<details>
+    <summary>Genomics of long- and short- term adaptation in maize and teosinte  
+**Lorant A**, **Ross-Ibarra J**, Tenaillon M  
+</summary>
+    <p style="margin-left: 30px">We review studies on short and long term adaptation, both natural and artificial, in maize and teosinte.  
 </p></details> 
 
 <details>
@@ -77,7 +91,7 @@ Click on a triangle for a brief summary of each paper.
 </p></details> 
 
 <details>
-    <summary>[A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome](http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7) [[pdf](http://sci-hub.hk/http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7)] [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
+    <summary>[A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome](http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7) [[pdf](http://sci-hub.tw/http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7)] [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
 Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]</summary>
     <p style="margin-left: 30px">We identify a small gene family Kindr as the causal locus for meiotic drive in maize. 
 </p></details>  
@@ -188,7 +202,7 @@ Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ib
 Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 
-<details>     <summary>[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](http://www.nature.com.sci-hub.bz/ng/journal/v47/n12/full/ng.3422.html)     
+<details>     <summary>[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](https://www.nature.com/articles/ng.3422) [[pdf](http://sci-hub.tw/https://www.nature.com/articles/ng.3422)]    
 Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**, Yang B, Frommer WB  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 <details>     <summary>[Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297) [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)] [[data](https://dx.doi.org/10.6084/m9.figshare.746990.v1)]       
