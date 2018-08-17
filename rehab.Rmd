@@ -25,9 +25,14 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
+### September
+
 ### August
-##### Friday August 24
+#### Friday August 31
 [Fuller et al. 2018](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007526) Ancestral polymorphisms explain the role of chromosomal inversions in speciation
+
+#### Friday August 24
+[Simon et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.66) Coadapted genomes and selection on hybrids: Fisher's geometric model explains a variety of empirical patterns
 
 #### Friday August 17
 [Ashander et al. preprint](https://www.biorxiv.org/content/early/2018/06/23/354530) Demographic inference in a spatially-explicit ecological model from genomic data: a proof of concept for the Mojave Desert Tortoise
