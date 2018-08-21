@@ -39,7 +39,7 @@ Click on a triangle for a brief summary of each paper.
 
 <details>
     <summary>Adaptive phenotypic divergence in teosinte differs across biotic contexts
- [[preprint](https://www.biorxiv.org/content/early/2018/08/01/382770))]
+ [[preprint](https://www.biorxiv.org/content/early/2018/08/01/382770))]  
 **O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
 </summary>
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
