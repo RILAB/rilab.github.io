@@ -22,8 +22,7 @@ result <- ifelse(rxiv>=3,img1,ifelse(rxiv>=2,"b","c"))
 cat("![](",result,")")
 ```
 
-Journal names have been intentionally excluded. Lab member names are in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper. Hover over article links for a brief synopsis of the paper. 
-
+Journal names have been intentionally excluded. Lab member names are in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper. 
 Click on a triangle for a brief summary of each paper.
 
 ### Preprints
@@ -112,6 +111,35 @@ Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wall
 Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... Taylor JE  </summary>
     <p style="margin-left: 30px">Discusses the challenges of changing climates pose for society and the environment along the Mexican-US border.</p></details>  
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+**Wenbin Mei** and **Michelle Stitzer**  
+
+    Springer, Nathan M., et al. "The maize W22 genome provides a foundation for functional genomics and transposon biology." Nature genetics (2018): 1.
+    
+**Markus Stetter**  
+
+    Joshi, Dinesh C., et al. "From zero to hero: the past, present and future of grain amaranth breeding." Theoretical and Applied Genetics (2018): 1-17.
+    
+**Anne Lorant**
+
+    Kremling, Karl AG, et al. "Dysregulation of expression correlates with rare-allele burden and fitness loss in maize." Nature 555.7697 (2018): 520.
+    
+**Daniel Gates**  
+
+    Gates, Daniel J., Diana Pilson, and Stacey D. Smith. "Filtering of target sequence capture individuals facilitates species tree construction in the plant subtribe Iochrominae (Solanaceae)." Molecular phylogenetics and evolution 123 (2018): 26-34.
+
+    Gates, Daniel J., et al. "A novel R3 MYB transcriptional repressor associated with the loss of floral pigmentation in Iochroma." New Phytologist 217.3 (2018): 1346-1356.  
+    
+**Dianne Velasco**  
+
+    Riaz, Summaira, et al. "Genetic diversity analysis of cultivated and wild grapevine (Vitis vinifera L.) accessions around the Mediterranean basin and Central Asia." BMC plant biology 18.1 (2018): 137.
+
+</p></details> 
+
+
+
 ### 2017
 
 <details>
@@ -175,6 +203,26 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
     <p style="margin-left: 30px">We show that short read sequence data allows discovery of novel tandem repeats in grass species but, unlike many other species, the most abundant repeat is frequently not centromeric. 
 </p></details>    
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+**Dianne Velasco**  
+
+    Aradhya, Mallikarjuna, et al. "Genetic and ecological insights into glacial refugia of walnut (Juglans regia L.)." PloS one 12.10 (2017): e0185974.
+
+**Wenbin Mei**  
+
+    Mei, Wenbin, et al. "A comprehensive analysis of alternative splicing in paleopolyploid maize." Frontiers in plant science 8 (2017): 694.
+    
+    Liu, Xiaoxian, et al. "Detecting alternatively spliced transcript isoforms from single‐molecule long‐read sequences without a reference genome." Molecular ecology resources 17.6 (2017): 1243-1256.
+    
+    Gault, Christine M., et al. "Aberrant splicing in maize rough endosperm3 reveals a conserved role for U12 splicing in eukaryotic multicellular development." Proceedings of the National Academy of Sciences (2017): 201616173.
+    
+    Feng, Guanqiao, et al. "Evolution of the 3R-MYB gene family in plants." Genome biology and evolution 9.4 (2017): 1013-1029.
+    
+    Mei, Wenbin, et al. "Evolutionarily conserved alternative splicing across monocots." Genetics (2017): genetics-300189.
+</p></details> 
+
 ### 2016
 
 <details>     <summary>[Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication](<http://www.cell.com/current-biology/abstract/S0960-9822(16)31120-4>)  
@@ -196,10 +244,18 @@ Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S </summary>    
 Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
 </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+**Dianne Velasco**  
+
+    Migicovsky, Zoë, et al. "Genomic ancestry estimation quantifies use of wild species in grape breeding." BMC genomics 17.1 (2016): 478.
+</p></details> 
+
 ### 2015
 
 <details>     <summary>[The genomic impacts of drift and selection for hybrid performance in maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CC0QFjABahUKEwiY8ezQoa3IAhWRL4gKHYbZCYU&url=http%3A%2F%2Fwww.genetics.org%2Fcontent%2Fearly%2F2015%2F09%2F18%2Fgenetics.115.182410.abstract&usg=AFQjCNF6HUbfJ3ij4yqX75WFIP7h0VqD8g&sig2=7Gw1t6U1cc7imLVZEUWlHQ) [[preprint](http://arxiv.org/abs/1307.7313)]      
-Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  </summary>     <p style="margin-left: 30px">We show how modern hybrid breeding approahces impact diversity across the genome. Using the Iowa Stiff Stalk synthetic population as an example, we track diversity across 16 generations of selection and compare with simulations.  We show the vast majority of the changes in diversity observed can be explained by drift, but that fixation of large haplotypes, likley including considerable linked load, leads to selection for complementation in the recirpical populations. This work provided some of the first population genetic evidence supporting the complenmentaton model of hybrid vigor.</p></details>  
 
 
 <details>     <summary>[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](https://www.nature.com/articles/ng.3422) [[pdf](http://sci-hub.tw/https://www.nature.com/articles/ng.3422)]    
@@ -224,6 +280,14 @@ Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**</summary> 
 <details>     <summary>[Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]         
 Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</summary>     <p style="margin-left: 30px">We show that transposable elements can act as regulatory sequences that up- or down-regulate genes in maize in response to abiotic stress.</p></details>  
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+**Dianne Velasco**  
+
+    Aradhya, Mallikarjuna, J. E. Preece, and Dianne Velasco. "Multivariate analysis of molecular and morphological diversity in fig (Ficus carica L.)." V International Symposium on Fig 1173. 2015.
+</p></details> 
+
 ### 2014
 
 <details>     <summary>[Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]       
@@ -235,6 +299,11 @@ Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discu
 <details>     <summary>[The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]    
 **Mezmouk S**, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We show that deleterious mutations are abundant in modern maize breeding material and that genes with deleterious mutations are likely important contributors to phenotypic variation.</p></details>   
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+    
+</p></details> 
 
 ### 2013
 
@@ -267,6 +336,15 @@ Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Iba
 <details>     <summary>[Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html) [[preprint](http://arxiv.org/abs/1209.5466)]    
 Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+**Dianne Velasco**  
+
+    Aradhya, Mallikarjuna, et al. "Genetic diversity, structure, and patterns of differentiation in the genus Vitis." Plant systematics and evolution 299.2 (2013): 317-330.
+    
+    Zdunić, Goran, et al. "Genetic diversity and differentiation within and between cultivated (Vitis vinifera L. ssp. sativa) and wild (Vitis vinifera L. ssp. sylvestris) grapes." Vitis 52.1 (2013): 29-32.
+</p></details> 
 
 ### 2012
 
@@ -297,6 +375,12 @@ Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler
 <details>     <summary> [Crop genomics: advances and applications](http://media.wix.com/ugd/fe9228_a2a75f7435ec4c569d4a6996e8b5451e.pdf)      
 Morrell PL, Buckler ES, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+    
+</p></details> 
+
 ### 2011
 
 <details>     <summary>[Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf) [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)]     
@@ -311,6 +395,11 @@ Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  </summary>     <p style="margin-
 <details>     <summary>[Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](https://www.ncbi.nlm.nih.gov/pubmed/21296765)    
 Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+    
+</p></details> 
 
 ### 2010
 
@@ -334,6 +423,12 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS </summary>     <p style="margin-left: 3
 
 <details>     <summary> [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html)    
 **van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   </summary>     <p style="margin-left: 30px">We develop a coalescent model to predict genetic structure and diversity of a crop plant in an agronomic ecosystem.</p></details> 
+
+<details>
+    <summary>**Other papers by lab-members**</summary>
+    <p style="margin-left: 30px">
+    
+</p></details> 
 
 ### 2009
 
