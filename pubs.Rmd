@@ -121,6 +121,10 @@ Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... 
 **Markus Stetter**  
 
     Joshi, Dinesh C., et al. "From zero to hero: the past, present and future of grain amaranth breeding." Theoretical and Applied Genetics (2018): 1-17.
+
+**Emily Josephs**
+
+    Josephs, Emily B. "Determining the evolutionary forces shaping G× E." New Phytologist (2018).
     
 **Anne Lorant**
 
@@ -210,6 +214,12 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 
     Aradhya, Mallikarjuna, et al. "Genetic and ecological insights into glacial refugia of walnut (Juglans regia L.)." PloS one 12.10 (2017): e0185974.
 
+**Emily Josephs**
+
+    Josephs, Emily B., et al. "The relationship between selection, network connectivity, and regulatory variation within a population of Capsella grandiflora." Genome biology and evolution 9.4 (2017): 1099-1109.
+    
+    Josephs, Emily B., John R. Stinchcombe, and Stephen I. Wright. "What can genome‐wide association studies tell us about the evolutionary forces maintaining genetic variation for quantitative traits?." New Phytologist 214.1 (2017): 21-33.
+    
 **Wenbin Mei**  
 
     Mei, Wenbin, et al. "A comprehensive analysis of alternative splicing in paleopolyploid maize." Frontiers in plant science 8 (2017): 694.
@@ -250,6 +260,11 @@ Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ib
 **Dianne Velasco**  
 
     Migicovsky, Zoë, et al. "Genomic ancestry estimation quantifies use of wild species in grape breeding." BMC genomics 17.1 (2016): 478.
+    
+**Emily Josephs**
+
+    Josephs, Emily B., and Stephen I. Wright. "On the Trail of Linked Selection." PLoS genetics 12.8 (2016): e1006240.
+
 </p></details> 
 
 ### 2015
