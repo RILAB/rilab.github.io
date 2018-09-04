@@ -126,6 +126,8 @@ Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... 
 
     Josephs, Emily B. "Determining the evolutionary forces shaping G× E." New Phytologist (2018).
     
+    Uzunović, Jasmina, et al. "Transposable elements are important contributors to standing variation in gene expression in Capsella grandiflora." bioRxiv (2018): 289173.
+    
 **Anne Lorant**
 
     Kremling, Karl AG, et al. "Dysregulation of expression correlates with rare-allele burden and fitness loss in maize." Nature 555.7697 (2018): 520.
@@ -264,6 +266,11 @@ Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ib
 **Emily Josephs**
 
     Josephs, Emily B., and Stephen I. Wright. "On the Trail of Linked Selection." PLoS genetics 12.8 (2016): e1006240.
+    
+**Tim Beissinger**
+
+    Morota, Gota, Timothy M. Beissinger, and Francisco Peñagaricano. "MeSH-informed enrichment analysis and MeSH-guided semantic similarity among functional terms and gene products in chicken." G3: Genes, Genomes, Genetics (2016): g3-116.
+
 
 </p></details> 
 
@@ -405,7 +412,11 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**</summary>     <p style="margin-left: 3
 <details>
     <summary>**Other papers by lab-members**</summary>
     <p style="margin-left: 30px">
+**Tanja Pyhäjärvi**
+
+    Krutovsky, Konstantin V., et al. "Gene flow, spatial structure, local adaptation, and assisted migration in trees." Genomics of tree crops. Springer, New York, NY, 2012. 71-116.
     
+    Pyhäjärvi, Tanja, Esa Aalto, and Outi Savolainen. "Time scales of divergence and speciation among natural populations and subspecies of Arabidopsis lyrata (Brassicaceae)." American journal of botany 99.8 (2012): 1314-1322.
 </p></details> 
 
 ### 2011
@@ -425,7 +436,12 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** </summary>     <p style
 <details>
     <summary>**Other papers by lab-members**</summary>
     <p style="margin-left: 30px">
+**Tanja Pyhäjärvi**
+
+    Savolainen, Outi, et al. "Adaptive potential of northernmost tree populations to climate change, with emphasis on Scots pine (Pinus sylvestris L.)." Journal of Heredity 102.5 (2011): 526-536.
     
+    Pyhäjärvi, Tanja, Sonja T. Kujala, and Outi Savolainen. "Revisiting protein heterozygosity in plants—nucleotide diversity in allozyme coding genes of conifer Pinus sylvestris." Tree genetics & genomes 7.2 (2011): 385-397.
+
 </p></details> 
 
 ### 2010
