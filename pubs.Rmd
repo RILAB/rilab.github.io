@@ -336,7 +336,7 @@ Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discu
 <details>
     <summary>**Other papers by lab-members**</summary>
     <p style="margin-left: 30px">
-    
+
 </p></details> 
 
 ### 2013
@@ -417,6 +417,10 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**</summary>     <p style="margin-left: 3
     Krutovsky, Konstantin V., et al. "Gene flow, spatial structure, local adaptation, and assisted migration in trees." Genomics of tree crops. Springer, New York, NY, 2012. 71-116.
     
     Pyhäjärvi, Tanja, Esa Aalto, and Outi Savolainen. "Time scales of divergence and speciation among natural populations and subspecies of Arabidopsis lyrata (Brassicaceae)." American journal of botany 99.8 (2012): 1314-1322.
+    
+**Matthew Hufford**
+
+    Hufford, Matthew B., et al. "Inferences from the historical distribution of wild and domesticated maize provide ecological and evolutionary insight." PLoS One 7.11 (2012): e47659.
 </p></details> 
 
 ### 2011
@@ -470,7 +474,9 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS </summary>     <p style="margin-left: 3
 <details>
     <summary>**Other papers by lab-members**</summary>
     <p style="margin-left: 30px">
-    
+**Matthew Hufford**
+
+    Epanchin-Niell, Rebecca S., et al. "Controlling invasive species in complex social landscapes." Frontiers in Ecology and the Environment 8.4 (2010): 210-216.
 </p></details> 
 
 ### 2009
