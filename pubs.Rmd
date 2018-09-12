@@ -59,6 +59,8 @@ Click on a triangle for a brief summary of each paper.
     <p style="margin-left: 30px">We use simulations to study the population genetics of selection on a quantitative trait and learn which parameters drive quantitative trait evollution.   
 </p></details> 
 
+
+
 ### 2018
 
 <details>
@@ -75,7 +77,7 @@ Manchanda N, Snodgrass SJ, **Ross-Ibarra J**, Hufford MB
 </p></details> 
 
 <details>
-    <summary>Genomics of long- and short- term adaptation in maize and teosinte  
+    <summary>Genomics of long- and short- term adaptation in maize and teosinte [[preprint](https://peerj.com/manuscripts/31241/)]   
 **Lorant A**, **Ross-Ibarra J**, Tenaillon M  
 </summary>
     <p style="margin-left: 30px">We review studies on short and long term adaptation, both natural and artificial, in maize and teosinte.  
