@@ -106,17 +106,17 @@ Wenbin is a postdoctoral scholar who works on copy number variation and inversio
 <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.
-<!-- break -->
-<br><br>
-<!-- break -->
+<!-- <!-- break --> 
+<!-- <br><br> -->
+<!-- <!-- break --> 
 
-<div style="float: left">
-<img src="images/E_osborn_pic.png" style="border:10px solid white"; width=100px>
-</div>
+<!-- <div style="float: left"> -->
+<!-- <img src="images/E_osborn_pic.png" style="border:10px solid white"; width=100px> -->
+<!-- </div> -->
 
-**Ellen Osborn**
+<!-- **Ellen Osborn** -->
 
-Ellen is an undergraduate majoring in Global Disease Biology. She is working with Michelle Stitzer on the population genetics of transposable elements.
+<!-- Ellen is an undergraduate majoring in Global Disease Biology. She is working with Michelle Stitzer on the population genetics of transposable elements. -->
 
 <!-- break -->
 <br>
@@ -189,16 +189,16 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 
 Li is a research scientist working half time on studying inbreeding depression and load in maize and teosinte synthetic populations. She's also crazy about ferns.
 
-<!-- break -->
-<br>
-<!-- break -->
+<!-- <!-- break --> 
+<!-- <br> -->
+<!-- <!-- break --> 
 
-<div style="float: left">
-<img src="images/zeitler.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Leo Zeitler** <a href="https://twitter.com/leo_zeitler"><img src="images/Twitter_logo_blue.png" style="width: 15px;"><a href="http://github.com/LZeitler"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<!-- <div style="float: left"> -->
+<!-- <img src="images/zeitler.jpg" style="border:10px solid white"; width=100px> -->
+<!-- </div> -->
+<!-- **Leo Zeitler** <a href="https://twitter.com/leo_zeitler"><img src="images/Twitter_logo_blue.png" style="width: 15px;"><a href="http://github.com/LZeitler"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> -->
 
-Leo is an MS student visiting the lab to work on landrace diversity and double haploids.
+<!-- Leo is an MS student visiting the lab to work on landrace diversity and double haploids. -->
 
 <!-- break -->
 <br>
