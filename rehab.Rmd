@@ -27,6 +27,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2018
 ### October
 #### Friday October 12
+[Tavares et al. 2018](http://www.pnas.org/content/early/2018/10/04/1801832115)
+Selection and gene flow shape genomic islands that control floral guides
+
+#### Friday October 12
 [Yang et al. 2018](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.15296)
 Kin recognition in rice (Oryza sativa) lines
 
