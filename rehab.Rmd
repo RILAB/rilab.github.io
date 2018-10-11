@@ -26,6 +26,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
 ### October
+#### Friday October 12
+[Yang et al. 2018](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.15296)
+Kin recognition in rice (Oryza sativa) lines
+
 #### Friday October 5
 [Albers and McVean, preprint](https://www.biorxiv.org/content/early/2018/09/13/416610) Dating genomic variants and shared ancestry in population-scale sequencing data
 
