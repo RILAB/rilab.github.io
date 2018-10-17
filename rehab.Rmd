@@ -26,7 +26,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
 ### October
-#### Friday October 12
+#### Friday October 19
 [Tavares et al. 2018](http://www.pnas.org/content/early/2018/10/04/1801832115)
 Selection and gene flow shape genomic islands that control floral guides
 
