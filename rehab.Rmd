@@ -25,7 +25,23 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2018
+
+### December 
+#### Friday December 14
+[Tenaillon et al, preprint](https://www.biorxiv.org/content/early/2018/11/05/461947)
+Transcriptomic response to divergent selection for flowering time in maize reveals convergence and key players of the underlying gene regulatory network
+
+#### Friday December 7
+[Kelleher et al, preprint](https://www.biorxiv.org/content/early/2018/11/01/458067)
+Inferring the ancestry of everyone
+
 ### November
+#### Friday November 30
+[Ruby et al, 2018](http://www.genetics.org/content/210/3/1109)
+Estimates of the Heritability of Human Longevity Are Substantially Inflated due to Assortative Mating
+
+#### Friday November 23
+No R.E.H.A.B., but in honor of Thanksgiving you can read about the origin of your favorite side dish, [sweet potato](https://www.ncbi.nlm.nih.gov/pubmed/29657119)
 
 #### Friday November 16
 [more eLife review!](mailto:rossibarra@ucdavis.edu) email Jeff for link or find on Slack
