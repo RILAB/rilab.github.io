@@ -51,16 +51,7 @@ Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/e
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/emjo.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Emily Josephs** <a href="http://emjosephs.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"><a href="https://twitter.com/emjosephs"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LeLjAToAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/emjosephs"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Emily is an [NSF plant genome postdoc](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622) working on polygenic adaptation in plants in collaboration with [Graham Coop](http://gcbias.org).
-
-<!-- break -->
-<br>
-<!-- break -->
 
 <div style="float: left">
 <img src="images/langlois.jpg" style="border:10px solid white"; width=100px>
@@ -68,18 +59,6 @@ Emily is an [NSF plant genome postdoc](https://www.nsf.gov/funding/pgm_summ.jsp?
 **Nathaniel Langlois-Ackerson**
 
 Nate is a plant sciences major working on thermogenesis and germination in highland maize.
-
-<!-- break -->
-<br>
-<!-- break -->
-
-<div style="float: left">
-<img src="images/lorant.png" style="border:10px solid white"; width=100px>
-</div>
-**Anne Lorant**
-
-Anne is a postdoctoral scholar working on the evolutionary genetics of local adaptation in teosinte. She also moonlights as lab manager.
-
 
 <!-- break -->
 <br>
@@ -208,6 +187,8 @@ Li is a research scientist working half time on studying inbreeding depression a
 
 ## Lab Alumni
 
+* [Anne Lorant](https://scholar.google.com/citations?user=mnHb3lYAAAAJ&hl=en): Lab manager, PhD student, postdoc 2013-2018 (Postdoc, UC Davis)
+* [Emily Josephs](https://josephslab.github.io): Postdoc 2015-2018 (Asst. Professor, MSU)
 * [Luis Avila](https://lmavila.github.io): Programmer 2016-2018 (IT Breeding Tool Project Leader, HM Clause)
 * [Anna O'Brien](https://annamobrien.wordpress.com): PhD Student 2011-2017 (Postdoc, U. Toronto)
 * [Jinliang Yang](http://jyanglab.com): Postdoc 2014-2017 (Assistant Professor, U. Nebraska)
