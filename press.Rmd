@@ -9,6 +9,16 @@
 
 </script>
 
+### 2019
+
+* [NPR Forum](https://www.kqed.org/forum/2010101868974/uc-takes-on-publishing-conglomerate-fights-for-open-access-to-publicly-funded-research)  references [Jeff's illegal activities](https://twitter.com/jrossibarra/status/1080893833620074496) downloading papers as part of a discussion of publishing and the UC system
+
+### 2018
+
+* JRI weighs in in the [Smithsonian](https://www.smithsonianmag.com/smart-news/rethinking-corny-history-maize-180971038/) on [recent work discussing maize in South America](http://science.sciencemag.org/content/362/6420/1309) (also [in Spanish](https://www.agronewscastillayleon.com/estudio-rastrea-la-evolucion-de-la-domesticacion-del-maiz-en-america-del-sur).  
+* [Scientific American](https://www.scientificamerican.com/article/small-farmers-in-mexico-keep-corns-genetic-diversity-alive/) asks for thoughts on work discussing the [role of campesinos in maintaining evolutionarily relevant genetic diversity in maize](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.1049).
+* Emily [talking about poylgenic adaptation](https://www.youtube.com/watch?v=CxQOrK9h6D4)  
+
 ### 2017
 
 * Genome Biology does a nice [video abstract](https://www.youtube.com/watch?v=KgIUGHEZ2nM) on our [paper on maize demography and load](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4). 

@@ -28,9 +28,23 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
+## 2019
+
+### January
+
+#### Friday Jan 4
+[Zhou et al., preprint](https://www.biorxiv.org/content/early/2018/12/31/508119?rss=1) Structural variants, clonal propagation, and genome evolution in grapevine (Vitis vinifera)
+
 ## 2018
 
 ### December 
+
+#### Friday December 28
+Happy Holidays, no R.E.H.A.B.
+
+#### Friday December 21
+Happy Holidays, no R.E.H.A.B.
+
 #### Friday December 14
 [Tenaillon et al, preprint](https://www.biorxiv.org/content/early/2018/11/05/461947)
 Transcriptomic response to divergent selection for flowering time in maize reveals convergence and key players of the underlying gene regulatory network
