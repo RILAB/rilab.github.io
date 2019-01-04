@@ -44,6 +44,9 @@ Click on a triangle for a brief summary of each paper.
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
 </p></details>
 
+### 2019
+
+### 2018
 
 <details>
     <summary>Detecting adaptive differentiation in structured populations with genomic data and common gardens  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
@@ -51,9 +54,6 @@ Click on a triangle for a brief summary of each paper.
 </summary>
     <p style="margin-left: 30px">We develop methods to detect polygenic adaptation on phenotypes from common gardens and GWAS panels.   
 </p></details> 
-
-
-### 2018
 
 <details>
     <summary>[Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1007794) [[preprint](https://www.biorxiv.org/content/early/2018/05/03/313247)] [[Shiny app](https://mgstetter.shinyapps.io/quantgensimAPP/)]    
