@@ -46,7 +46,7 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 **Sarah Hissong** 
 <a href="https://twitter.com/mishaploid"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://mishaploid.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=Va1vGdYAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mishaploid"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Sarah is a [NSF PGRP postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711347&HistoricalAwards=false) working on population and quantitative genetics of the crop species Brassica oleracea.
+Sarah is a [NSF PGRP postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711347&HistoricalAwards=false) and the Linnean Fellow of Oleraceous Genetics.  She works on population and quantitative genetics of the crop species Brassica oleracea.
 
 <!-- break -->
 <br>
