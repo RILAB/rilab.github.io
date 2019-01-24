@@ -13,6 +13,7 @@
 
 Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.
 We meet Fridays in the Tropical Room (2346) in Storer Hall at 3pm.
+Jeff will provide some beer, but more is always welcome!
 <!-- (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. -->
 
 From time to time we also blog our thoughts on the papers we read. One or more of the people present volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publication) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
@@ -30,9 +31,20 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2019
 
+### February
+#### Friday Feb 8
+ [Petr et al. 2019](https://www.pnas.org/content/early/2019/01/14/1814338116) Limits of long-term selection against Neandertal introgression
+ 
+### February
+#### Friday Feb 1
+[Lee et al. preprint](https://www.biorxiv.org/content/10.1101/525873v1) Pericentromeric heterochromatin is hierarchically organized and spatially contacts H3K9me2/3 islands located in euchromatic genome
+
 ### January
+#### Friday Jan 25
+[Ferrero-Serrano et al. 2019](https://www.nature.com/articles/s41559-018-0754-5) Phenotypic and genome-wide association with the local environment of Arabidopsis
+
 #### Friday Jan 18
-[Weng et al., 2018](http://www.genetics.org/content/early/2018/12/04/genetics.118.301721) Fine-Grained Analysis of Spontaneous Mutation Spectrum and Frequency in Arabidopsis thaliana
+[Weng et al. 2018](http://www.genetics.org/content/early/2018/12/04/genetics.118.301721) Fine-Grained Analysis of Spontaneous Mutation Spectrum and Frequency in Arabidopsis thaliana
 
 
 #### Friday Jan 11

@@ -35,10 +35,17 @@ Click on a triangle for a brief summary of each paper.
 <!--     <p style="margin-left: 30px">    -->
 <!-- </p></details>  -->
 
+<details>
+    <summary>Characterization of introgression from the teosinte Zea mays ssp. mexicana to Mexican highland maize  
+ [[preprint](https://peerj.com/preprints/27489/)]  
+**O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
+</summary>
+    <p style="margin-left: 30px">We look for introgression from teosinte in the genomes of two highland landraces and use QTL mapping to test for functional relevance of introgressed regions.""
+</p></details>
 
 <details>
     <summary>Adaptive phenotypic divergence in teosinte differs across biotic contexts
- [[preprint](https://www.biorxiv.org/content/early/2018/08/01/382770))]  
+ [[preprint](https://www.biorxiv.org/content/early/2018/08/01/382770)]  
 **O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
 </summary>
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
@@ -46,14 +53,14 @@ Click on a triangle for a brief summary of each paper.
 
 ### 2019
 
-### 2018
-
 <details>
     <summary>Detecting adaptive differentiation in structured populations with genomic data and common gardens  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
 **Josephs EB**, Berg JJ, **Ross-Ibarra J**, Coop G
 </summary>
     <p style="margin-left: 30px">We develop methods to detect polygenic adaptation on phenotypes from common gardens and GWAS panels.   
 </p></details> 
+
+### 2018
 
 <details>
     <summary>[Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1007794) [[preprint](https://www.biorxiv.org/content/early/2018/05/03/313247)] [[Shiny app](https://mgstetter.shinyapps.io/quantgensimAPP/)]    
