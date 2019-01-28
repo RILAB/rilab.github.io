@@ -32,6 +32,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2019
 
 ### February
+#### Friday Feb 15
+[Uricchio et al. 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.97) An evolutionary compass for detecting signals of polygenic selection and mutational bias
+
 #### Friday Feb 8
  [Petr et al. 2019](https://www.pnas.org/content/early/2019/01/14/1814338116) Limits of long-term selection against Neandertal introgression
  
