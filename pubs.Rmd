@@ -36,8 +36,8 @@ Click on a triangle for a brief summary of each paper.
 <!-- </p></details>  -->
 
 <details>
-    <summary>Characterization of introgression from the teosinte Zea mays ssp. mexicana to Mexican highland maize [[preprint](https://peerj.com/preprints/27489/)]  
-**O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
+    <summary>Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize [[preprint](https://peerj.com/preprints/27489/)]  
+ Gonzalez-Segovia E,  Pérez-Limon S, C Cíntora-Martínez C,  Guerrero-Zavala A,  Jansen G,  Hufford MB, **Ross-Ibarra J**, Ruairidh J H Sawers
 </summary>
     <p style="margin-left: 30px">We look for introgression from teosinte in the genomes of two highland landraces and use QTL mapping to test for functional relevance of introgressed regions.""
 </p></details>
