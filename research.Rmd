@@ -20,29 +20,22 @@
 Maize spread rapidly after domestication, adapting to a wide range of environments.
 Today maize is grown across a broader geographic breadth than any of the world's other staple crops, from sea level to altitudes of $>4,000$m and from deserts to near-flooded conditions. The wild relatives of maize have also adapted to environments varying widely in elevation, temperature, and moisture availability. 
 
-The lab is working on a number of projects using maize and its wild realtives to understand the genetic basis of adaptation. Representative publications include:
+The lab is working on a number of projects using maize and its wild relatives to understand the genetic basis of adaptation. Representative publications include:
+
+* [Detecting adaptive differentiation in structured populations with genomic data and common gardens](http://www.genetics.org/content/early/2019/01/24/genetics.118.301786)  
+**Josephs EB**, Berg JJ, **Ross-Ibarra J**, Coop G
+
+* [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) 
+**Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
+
+* [Adaptive phenotypic divergence in teosinte differs across biotic contexts](https://www.biorxiv.org/content/early/2018/08/01/382770)]  
+**O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
 
 * [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)
 **Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J** 
 
-
 * [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
 **Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
-
-
-* [Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  
-**Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J**   
-
-
-* [Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297)
-**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J** 
-
-
-
-* [Evolutionary responses to conditionality in species interactions across environmental gradients](http://biorxiv.org/content/early/2017/03/01/031195)    
-**O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY 
-
-
 
 * [The origin and evolution of maize in the American Southwest](http://www.rilab.org/pdfs/fonseca2015.pdf)  
 Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT.  
@@ -51,7 +44,6 @@ Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrec
 
 * [Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  
 Tiffin P, **Ross-Ibarra J**  
-
 
 
 * [The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477)   
@@ -91,6 +83,9 @@ New mutations in maize are thus subject to stronger selection than in teosinte, 
 Population demographic change can also impact the effect size, number, and dominance of loci underlying phenotypic traits .
 
 Building on our work highlighting the importance of deleterious alleles in phenotypic variation, we have used experimentally evolved populations to track haplotype frequencies over time and assess the genetic basis of gain in hybrid yield. Our recent analysis finds little overlap in selected haplotypes between two populations bred for increasing hybrid yield, consistent with a model for complementation of deleterious variants brought to high frequency by hitchhiking.
+
+* [Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007794)  
+**Stetter MG**, Thornton K, **Ross-Ibarra J**
 
 * [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://biorxiv.org/content/early/2016/11/07/086132)  
 **Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
@@ -176,6 +171,15 @@ Methods developed in other model organisms invariably fail to detect TE insertio
 TE polymorphism is abundant: individual lines contain hundreds of thousands of new insertions, including thousands of insertions into protein-coding genes.
 Analysis across a small set of lines has already revealed the impact of new insertions on gene expression and strong differences in insertion preference, methylation state, and allele frequency among different TE families.
 We aim to expand these analyses to include population genetic methods to identify selection on individual insertions, thus enabling us to better understand the role TEs play in driving genomic change and potentially adaptation in both natural and domesticated populations.
+
+* [Transposable elements contribute to dynamic genome content in maize](https://www.biorxiv.org/content/10.1101/547398v1?rss=1)  
+ Anderson SN,  **Stitzer MC**,  Brohammer AB, Peng Zhou P, Noshay JM,  Hirsch CD,  **Ross-Ibarra J**,  Hirsch CN,  Springer NM
+
+* [Adaptation in plant genomes: bigger is different](https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1002) 
+**Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**
+
+* [A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome](http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7) 
+Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]
 
 * [The complex sequence landscape of maize revealed by single molecule technologies](http://biorxiv.org/content/early/2016/12/19/079004)  
 
