@@ -77,40 +77,28 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 <!-- break -->
 
 <div style="float: left">
-<img src="images/wenbin.JPG" style="border:10px solid white"; width=100px>
-</div>
-
-**Wenbin Mei** 
-<a href="http://wenbinmei.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="http://github.com/wenbinmei"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-<a href="https://twitter.com/wbmei"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
-
-Wenbin is a postdoctoral scholar who works on copy number variation and inversions in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).
-
-<!-- break -->
-<br>
-<!-- break -->
-
-<div style="float: left">
 <img src="images/odell.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Sarah Odell** 
 <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.
-<!-- <!-- break --> 
-<!-- <br><br> -->
-<!-- <!-- break --> 
-
-<!-- <div style="float: left"> -->
-<!-- <img src="images/E_osborn_pic.png" style="border:10px solid white"; width=100px> -->
-<!-- </div> -->
-
-<!-- **Ellen Osborn** -->
-
-<!-- Ellen is an undergraduate majoring in Global Disease Biology. She is working with Michelle Stitzer on the population genetics of transposable elements. -->
 
 <!-- break -->
-<br><br><br><br><br><br><br><br>
+<br>
+<!-- break -->
+
+<div style="float: left">
+<img src="images/alyssa.jpg" style="border:10px solid white"; width=100px>
+</div>
+
+**Alyssa Phillips** 
+<a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+
+Alyssa is a Plant Biology graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).
+
+<!-- break -->
+<br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -123,6 +111,8 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 <!-- break -->
 <br><br>
 <!-- break -->
+
+
 
 <div style="float: left">
 <img src="images/rushworth.jpeg" style="border:10px solid white"; width=100px>
@@ -138,17 +128,6 @@ Cathy is a postdoctoral scholar working on the genomics and quantitative genetic
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/stetter.jpg" style="border:10px solid white"; width=100px>
-</div>
-**Markus Stetter** <a href="https://twitter.com/mgstetter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="http://mstetter.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mstetter"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-
-Markus is [DFG postdoctoral fellow](http://www.dfg.de/en/research_funding/programmes/individual/research_fellowships/) working on domestication and adaptation in polygenic traits in maize and teosinte.
-
-
-<!-- break -->
-<br>
-<!-- break -->
 
 <div style="float: left">
 <img src="images/stitzer.jpg" style="border:10px solid white"; width=100px>
