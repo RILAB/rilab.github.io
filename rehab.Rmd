@@ -31,6 +31,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2019
 
+### March
+#### Friday Mar 8
+[Owens and Samuk preprint](https://www.biorxiv.org/content/10.1101/553230v1) Adaptive introgression during environmental change can weaken reproductive isolation
+
+#### Friday Mar 1
+[Mee and Yeaman preprint](https://www.biorxiv.org/content/biorxiv/early/2019/02/13/549329.full.pdf) Unpacking conditional neutrality: genomic signatures of selection on conditionally beneficial and conditionally deleterious mutations
+
 ### February
 #### Friday Feb 22
 [Esnault et al. 2019](https://genome.cshlp.org/content/29/1/85.long) Transposable element insertions in fission yeast drive adaptation to environmental stress
