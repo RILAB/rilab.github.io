@@ -54,12 +54,6 @@ Click on a triangle for a brief summary of each paper.
 </p></details>
 
 
-<details>
-    <summary>Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize [[preprint](https://peerj.com/preprints/27489/)]  
- Gonzalez-Segovia E,  Pérez-Limon S, C Cíntora-Martínez C,  Guerrero-Zavala A,  Jansen G,  Hufford MB, **Ross-Ibarra J**, Ruairidh J H Sawers
-</summary>
-    <p style="margin-left: 30px">We look for introgression from teosinte in the genomes of two highland landraces and use QTL mapping to test for functional relevance of introgressed regions.""
-</p></details>
 
 <details>
     <summary>Adaptive phenotypic divergence in teosinte differs across biotic contexts
@@ -70,6 +64,14 @@ Click on a triangle for a brief summary of each paper.
 </p></details>
 
 ### 2019
+
+
+<details>
+    <summary>Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize [[preprint](https://peerj.com/preprints/27489/)]  
+ Gonzalez-Segovia E,  Pérez-Limon S, C Cíntora-Martínez C,  Guerrero-Zavala A,  Jansen G,  Hufford MB, **Ross-Ibarra J**, Ruairidh J H Sawers
+</summary>
+    <p style="margin-left: 30px">We look for introgression from teosinte in the genomes of two highland landraces and use QTL mapping to test for functional relevance of introgressed regions.
+</p></details>
 
 <details>
     <summary>[Detecting adaptive differentiation in structured populations with genomic data and common gardens](http://www.genetics.org/content/early/2019/01/24/genetics.118.301786)  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
