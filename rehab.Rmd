@@ -32,6 +32,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2019
 
 ### March
+#### Friday Mar 29
+[Monnahan et al 2019](https://www.nature.com/articles/s41559-019-0807-4) Pervasive population genomic consequences of genome duplication in Arabidopsis arenosa
+
+#### Friday Mar 22
+[Liu et al. 2019](https://www.nature.com/articles/s41467-018-08270-y) Biological relevance of computationally predicted pathogenicity of noncoding variants
+
+#### Friday Mar 15 
+Maize Genetics Conference
+
 #### Friday Mar 8
 [Owens and Samuk preprint](https://www.biorxiv.org/content/10.1101/553230v1) Adaptive introgression during environmental change can weaken reproductive isolation
 
