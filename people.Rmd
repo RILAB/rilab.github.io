@@ -44,14 +44,13 @@ Please read more information on [joining the lab](prosp.html)
 <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"></a>
 <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks. 
-
+Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks.  
 <!-- break -->
 <br>
 <!-- break -->
 
 <div style="float: left">
-<img src="http://www.colorado.edu/smithlab/sites/default/files/styles/small/public/people/Dan_webpic_0.jpg?itok=In6TaPb_" style="border:10px solid white"; width=100px>
+<img src="images/gates.jpg" style="border:10px solid white"; width=100px>
 </div>
 **Dan Gates** 
 <a href="https://danjgates.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
@@ -59,8 +58,7 @@ Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https:/
 <a href="https://github.com/danjgates"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0001-8433-833X"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
-
+Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.  
 <!-- break -->
 <br>
 <!-- break -->
@@ -75,8 +73,7 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 <a href="https://orcid.org/0000-0002-0961-0767"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=Va1vGdYAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Sarah is a [NSF PGRP postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711347&HistoricalAwards=false) and the Linnean Fellow of Oleraceous Genetics.  She works on population and quantitative genetics of the crop species Brassica oleracea.
-
+Sarah is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711347&HistoricalAwards=false) and the Linnean Fellow of Oleraceous Genetics.  She works on the population and quantitative genetics of Brassica.  
 <!-- break -->
 <br>
 <!-- break -->
@@ -89,13 +86,21 @@ Sarah is a [NSF PGRP postdoctoral fellow](https://www.nsf.gov/awardsearch/showAw
 <a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on genotype by envrionment interaction in maize as part of the [maize diversity project](http://www.panzea.org).
-
+Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on genotype by envrionment interaction in maize as part of the [maize diversity project](http://www.panzea.org).  
 <!-- break -->
 <br>
 <!-- break -->
 
+<div style="float: left">
+<img src="images/ajohnson.jpg" style="border:10px solid white"; width=100px>
+</div>
+**Ashley Johnson** 
+<a href="https://twitter.com/ashesandpeaches"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
+Ashley is a Biochemistry major, currently working on using machine learning methods to identify deleterious alleles in maize.  
+<!-- break -->
+<br>
+<!-- break -->
 
 <div style="float: left">
 <img src="images/langlois.jpg" style="border:10px solid white"; width=100px>
@@ -116,11 +121,9 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.
-
-
+Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
 <!-- break -->
-<br>
+<br><br><br><br><br><br><br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -130,9 +133,7 @@ Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runci
 **Taylor Perkins** 
 <a href="https://orcid.org/0000-0002-1076-0527"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Taylor manages the wetlab side of our research. He was previously a technician at U. Tennessee where he also earned a MS in Environmental Science working on chestnuts.
-
-
+Taylor manages the wetlab side of our research. He was previously a technician at U. Tennessee where he earned a MS in Environmental Science working on chestnuts.  
 <!-- break -->
 <br>
 <!-- break -->
@@ -146,8 +147,7 @@ Taylor manages the wetlab side of our research. He was previously a technician a
 <a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Alyssa is a Plant Biology graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).
-
+Alyssa is a Plant Biology graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).  
 <!-- break -->
 <br><br>
 <!-- break -->
@@ -163,13 +163,10 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;">
 <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). 
-
+Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).   
 <!-- break -->
 <br><br>
 <!-- break -->
-
-
 
 <div style="float: left">
 <img src="images/rushworth.jpeg" style="border:10px solid white"; width=100px>
@@ -181,12 +178,10 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 <a href="https://orcid.org/0000-0003-0715-1234"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=L9MNZEQAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Cathy is a postdoctoral scholar working on the genomics and quantitative genetics of recombination rate variation in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).
-
+Cathy is a postdoctoral scholar working on the genomics and quantitative genetics of recombination rate variation in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).  
 <!-- break -->
 <br>
 <!-- break -->
-
 
 <div style="float: left">
 <img src="images/stitzer.jpg" style="border:10px solid white"; width=100px>
@@ -199,9 +194,7 @@ Cathy is a postdoctoral scholar working on the genomics and quantitative genetic
 <a href="https://scholar.google.com/citations?user=NkohZq4AAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 
-Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and Arabidopsis as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).
-
-
+Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and Arabidopsis as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).  
 <!-- break -->
 <br>
 <!-- break -->
@@ -214,8 +207,7 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <a href="https://orcid.org/0000-0003-1432-0630"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx). She studies domestication and evolution of peaches, almonds, and their relatives in the genus *Prunus*.
-
+Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx). She studies domestication and evolution of peaches, almonds, and their relatives in the genus *Prunus*.  
 <!-- break -->
 <br>
 <!-- break -->
