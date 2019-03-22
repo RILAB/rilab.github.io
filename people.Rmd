@@ -143,6 +143,8 @@ Taylor manages the wetlab side of our research. He was previously a technician a
 
 **Alyssa Phillips** 
 <a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"></a>
 
 Alyssa is a Plant Biology graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).
 
