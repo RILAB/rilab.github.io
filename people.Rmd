@@ -218,8 +218,8 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 **Li Wang** 
 <a href="https://twitter.com/lilepisorus "><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/lepisorus"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0003-2068-7535"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=yGEvdz0AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>
-
 Li is a research scientist working  inbreeding depression and load in maize and teosinte synthetic populations. She's also crazy about ferns.
 
 <!-- <!-- break --> 

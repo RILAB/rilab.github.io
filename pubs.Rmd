@@ -35,6 +35,13 @@ Click on a triangle for a brief summary of each paper.
 <!--     <p style="margin-left: 30px">    -->
 <!-- </p></details>  -->
 
+<details>
+    <summary>Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize
+[[preprint](https://www.biorxiv.org/content/10.1101/588715v1)]
+Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Birchler JA,  **Bilinski P**,  **Stitzer MC**,  **Ross-Ibarra J**,  Flint-Garcia S,  Chen X,  Springer NM, Doebley JF
+</summary>
+    <p style="margin-left: 30px">We describe a phenomenon we name 'hybrid decay' triggered by backcrossing between domesticated maize and a specific teosinte population, resulting in genome instability, activation of transposable elements, and altered epigenetics ."
+</p></details>
 
 <details>
     <summary>The Genomic Ecosystem of Transposable Elements in Maize 
