@@ -31,6 +31,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2019
 ### April
+
+#### Friday April 26
+[Berg et al. 2019](https://elifesciences.org/articles/39725) Reduced signal for polygenic adaptation of height in UK Biobank
+
 #### Friday April 19
 [Fustier et al. preprint](https://www.biorxiv.org/content/10.1101/563585v1) Genomic footprints of local adaptation along elevation gradients associate with present phenotypic variation in teosintes
 
@@ -38,7 +42,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 [Wainschtein et al. preprint](https://www.biorxiv.org/content/10.1101/588020v1) Recovery of trait heritability from whole genome sequence data
 
 #### Friday April 5 
-[Yang et al.](https://www.pnas.org/content/116/12/5643.abstract) The genetic architecture of teosinte catalyzed and constrained maize domestication
+[Yang et al. 2019](https://www.pnas.org/content/116/12/5643.abstract) The genetic architecture of teosinte catalyzed and constrained maize domestication
 
 ### March
 #### Friday Mar 29
