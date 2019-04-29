@@ -52,9 +52,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -73,8 +71,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -90,7 +94,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -110,6 +113,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -131,19 +171,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -209,7 +315,7 @@ $(document).ready(function () {
 </script>
 <div id="r.e.h.a.b." class="section level2">
 <h2>R.E.H.A.B.</h2>
-<p>Science and beer on a Friday afternoon seem to make a good combination. Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction. This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can <a href="mailto:rossibarra@ucdavis.edu">suggest a paper</a>. There is no email list; articles are posted below along with the date. We meet Fridays in the Tropical Room (2346) in Storer Hall at 3:30pm. Jeff will provide some beer, but more is always welcome! <!-- (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. --></p>
+<p>Science and beer on a Friday afternoon seem to make a good combination. Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction. This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can <a href="mailto:rossibarra@ucdavis.edu">suggest a paper</a>. There is no email list; articles are posted below along with the date. We meet Fridays in the Tropical Room (2346) in Storer Hall at 3:30pm. Spring 2019 in Spieth (2320 Storer)! Jeff will provide some beer, but more is always welcome! <!-- (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. --></p>
 <p>From time to time we also blog our thoughts on the papers we read. One or more of the people present volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publication) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome – please <a href="mailto:rossibarra@ucdavis.edu">email</a> them along.</p>
 <p>Below are papers for Oct. 2013 and onward. For 2008-2013 papers see <a href="old_rehab.html">here</a>.</p>
 <p>We’re proud of the growing list of journal clubs modelled on R.E.H.A.B., including <a href="http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html">C.A.M.P.</a>, <a href="http://hagenetics.org/?cat=6">E.H.R.A.B.</a>, <a href="https://t.co/LYhSgcrgnZ">(Re)views</a>, <a href="https://github.com/sawers-rellan-labs/esfoyaza">esfoyaza</a>, <a href="http://jyanglab.com/jc/">Q.U.I.T.</a>, <a href="https://brandvainlab.wordpress.com/p-r-o-s-t/">p.r.o.s.t.</a>, <a href="https://github.com/arundurvasula/frydomics/blob/master/README.md">frydomics</a>, and <a href="https://www.cropevolution.org/reading.html">C.R.O.P.</a></p>
@@ -220,6 +326,21 @@ $(document).ready(function () {
 </div>
 <div id="section" class="section level2">
 <h2>2019</h2>
+<div id="may" class="section level3">
+<h3>May</h3>
+<div id="friday-may-17" class="section level4">
+<h4>Friday May 17</h4>
+<p><a href="mailto:rossibarra@ucdavis.edu">MS in development</a> email Jeff for link or find on Slack</p>
+</div>
+<div id="friday-may-10" class="section level4">
+<h4>Friday May 10</h4>
+<p><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000214">Vasseur et al. 2019</a> Nonlinear phenotypic variation uncovers the emergence of heterosis in Arabidopsis thaliana</p>
+</div>
+<div id="friday-may-3" class="section level4">
+<h4>Friday May 3</h4>
+<p><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1683-6">Wang et al. 2019</a> Genome-wide nucleotide patterns and potential mechanisms of genome divergence following domestication in maize and soybean</p>
+</div>
+</div>
 <div id="april" class="section level3">
 <h3>April</h3>
 <div id="friday-april-26" class="section level4">
@@ -451,7 +572,7 @@ $(document).ready(function () {
 <p><a href="https://www.biorxiv.org/content/early/2018/05/24/330159?rss=1">Flagel et al. preprint</a> A synthesis of mapping experiments reveals extensive genomic structural diversity in the Mimulus guttatus species complex</p>
 </div>
 </div>
-<div id="may" class="section level3">
+<div id="may-1" class="section level3">
 <h3>May</h3>
 <div id="friday-may-25" class="section level5">
 <h5>Friday May 25</h5>
@@ -695,7 +816,7 @@ $(document).ready(function () {
 <p><a href="http://biorxiv.org/content/early/2017/01/02/097642">Walter et al. preprint</a> Evolution of genetic variance during adaptive radiation</p>
 </div>
 </div>
-<div id="may-1" class="section level3">
+<div id="may-2" class="section level3">
 <h3>May</h3>
 <div id="friday-may-26" class="section level5">
 <h5>Friday May 26</h5>
