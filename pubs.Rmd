@@ -36,6 +36,15 @@ Click on a triangle for a brief summary of each paper.
 <!-- </p></details>  -->
 
 <details>
+    <summary>The temporal dynamics of background selection in non-equilibrium populations
+[[preprint](https://www.biorxiv.org/content/10.1101/618389v1
+)]
+Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**
+</summary>
+    <p style="margin-left: 30px">We use simulations to show that the effects of nonequilibrium population dynamics on linked selection differ qualitatively from predictions under equilibrium models, calling into question inferences about the efficacy of selection made from summary statistics."
+</p></details>
+
+<details>
     <summary>Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize
 [[preprint](https://www.biorxiv.org/content/10.1101/588715v1)]
 Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Birchler JA,  **Bilinski P**,  **Stitzer MC**,  **Ross-Ibarra J**,  Flint-Garcia S,  Chen X,  Springer NM, Doebley JF
