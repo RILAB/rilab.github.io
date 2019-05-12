@@ -11,7 +11,7 @@
 
 
 
-<title></title>
+<title>people.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -52,9 +52,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -73,8 +71,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -90,7 +94,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -110,6 +113,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -131,19 +171,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -226,97 +332,90 @@ $(document).ready(function () {
 <p><br> <!-- break --></p>
 <div class="col2">
 <div style="float: left">
-<p><img src="images/cryan.jpeg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/cryan.jpeg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Elli Cryan</strong> <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a></p>
 <p>Elli is a plant biology graduate student coadvised by <a href="https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/">Dan Kliebenstein</a>, working on the evolution of gene networks.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/gates.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/gates.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Dan Gates</strong> <a href="https://danjgates.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a> <a href="https://twitter.com/dangates_j"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a
 <a href="https://github.com/danjgates"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0001-8433-833X"><img src="images/orcid.png" style="width: 15px;"></a></p>
 <p>Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the <a href="http://highlandadaptation.org">HiLo</a> project.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/hissong_photo.png" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/hissong_photo.png” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Sarah Hissong</strong> <a href="https://mishaploid.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a> <a href="https://twitter.com/mishaploid"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="http://github.com/mishaploid"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0002-0961-0767"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=Va1vGdYAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a></p>
 <p>Sarah is a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711347&amp;HistoricalAwards=false">NSF postdoctoral fellow</a> and the Linnean Fellow of Oleraceous Genetics. She works on the population and quantitative genetics of Brassica.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/asher.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/asher.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Asher Hudson</strong> <a href="https://aihudson.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a> <a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a></p>
 <p>Asher is a graduate student in <a href="http://www-eve.ucdavis.edu/eve/pbg/">Population Biology</a> working on genotype by envrionment interaction in maize as part of the <a href="http://www.panzea.org">maize diversity project</a>.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/ajohnson.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/ajohnson.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Ashley Johnson</strong> <a href="https://twitter.com/ashesandpeaches"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a></p>
 <p>Ashley is a Biochemistry major, currently working on using machine learning methods to identify deleterious alleles in maize.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/langlois.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/langlois.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Nathaniel Langlois-Ackerson</strong></p>
 <p>Nate is a plant sciences major working on thermogenesis and germination in highland maize.</p>
 <!-- break -->
 <p><br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/odell.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/odell.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Sarah Odell</strong> <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a></p>
 <p>Sarah is a plant biology graduate student coadvised by <a href="http://runcielab.ucdavis.edu">Dan Runcie</a>, working on evolutionary and statistical genetics in maize.<br />
 <!-- break --> <br><br><br><br><br><br><br><br><br><br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/tperkins.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/tperkins.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Taylor Perkins</strong> <a href="https://orcid.org/0000-0002-1076-0527"><img src="images/orcid.png" style="width: 15px;"></a></p>
 <p>Taylor manages the wetlab side of our research. He was previously a technician at U. Tennessee where he earned a MS in Environmental Science working on chestnuts.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/alyssa.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/alyssa.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Alyssa Phillips</strong> <a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"></a></p>
 <p>Alyssa is a Plant Biology graduate student working on environmental adaptation in big blue stem as part of the <a href="https://panandropogoneae.com">PanAnd project</a>.<br />
 <!-- break --> <br><br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/jri_bee.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/jri_bee.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Jeffrey Ross-Ibarra</strong> <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;"> </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a></p>
 <p>Jeff is a Professor in the <a href="http://www.plantsciences.ucdavis.edu/plantsciences/">Department of Plant Sciences</a> and a faculty member of the <a href="http://cpb.ucdavis.edu">Center for Population Biology</a> and the <a href="ttp://www.genomecenter.ucdavis.edu">Genome Center</a>.<br />
 <!-- break --> <br><br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/rushworth.jpeg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/rushworth.jpeg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Catherine Rushworth</strong> <a href="https://cathyrushworth.weebly.com"><img src="images/Home_icon_black.png" style="width: 15px;"> <a href="https://twitter.com/Dr_Crushworth"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://orcid.org/0000-0003-0715-1234"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?hl=en&user=L9MNZEQAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a></p>
 <p>Cathy is a postdoctoral scholar working on the genomics and quantitative genetics of recombination rate variation in maize and teosinte as part of the <a href="http://www.panzea.org">maize diversity project</a>.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/stitzer.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“images/stitzer.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Michelle Stitzer</strong> <a href="http://mcstitzer.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a> <a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="http://github.com/mcstitzer"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0003-4140-3765"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=NkohZq4AAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a></p>
 <p>Michelle is a graduate student in <a href="http://www-eve.ucdavis.edu/eve/pbg/">Population Biology</a>, working on the population genetics of transposable elements in maize and Arabidopsis as part of the <a href="http://www.panzea.org/#!michelle-stitzer/c121o">maize diversity project</a>.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
-<p><img src="images/dvelasco.jpg" style="border:10px solid white"; width=100px></p>
+<p>&lt;img src=“<a href="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" class="uri">https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r</a>”; width=100px&gt;</p>
+</div>
+<p><strong>Silas Tittes</strong> <a href="https://www.linkedin.com/in/silas-tittes-4b41106b/"><img src="images/lin.png" style="width: 15px;"></a> <a href="https://twitter.com/silastittes"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://github.com/silastittes"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0003-4697-7434"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a> Silas is postdoc and the lab’s current Felix Andrews Statistical Fellow, working on approaches to study convergent evolution as part of the <a href="https://panandropogoneae.com">PanAnd project</a>.</p>
+<!-- break -->
+<p><br> <!-- break --></p>
+<div style="float: left">
+<p>&lt;img src=“images/dvelasco.jpg” style=“border:10px solid white”; width=100px&gt;</p>
 </div>
 <p><strong>Dianne Velasco</strong> <a href="https://twitter.com/napknscrib"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://orcid.org/0000-0003-1432-0630"><img src="images/orcid.png" style="width: 15px;"></a> <a href="http://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl"><img src="images/scholar.png" style="width: 30px;"></a></p>
-<p>Dianne is a graduate student in <a href="http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx">Integrated Genetics and Genomics</a>. She studies domestication and evolution of peaches, almonds, and their relatives in the genus <em>Prunus</em>.<br />
-<!-- break --> <br> <!-- break --></p>
-<div style="float: left">
-<p><img src="https://avatars1.githubusercontent.com/u/6485850?s=400&v=4" style="border:10px solid white"; width=100px></p>
-</div>
-<p><strong>Li Wang</strong> <a href="https://twitter.com/lilepisorus "><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://github.com/lepisorus"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0003-2068-7535"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=yGEvdz0AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a> Li is a research scientist working inbreeding depression and load in maize and teosinte synthetic populations. She’s also crazy about ferns.</p>
-<!-- <!-- break -->
-<!-- <br> -->
-<!-- <!-- break -->
-<!-- <div style="float: left"> -->
-<!-- <img src="images/zeitler.jpg" style="border:10px solid white"; width=100px> -->
-<!-- </div> -->
-<!-- **Leo Zeitler** <a href="https://twitter.com/leo_zeitler"><img src="images/Twitter_logo_blue.png" style="width: 15px;"><a href="http://github.com/LZeitler"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> -->
-<!-- Leo is an MS student visiting the lab to work on landrace diversity and double haploids. -->
+<p>Dianne is a graduate student in <a href="http://biosci3.ucdavis.edu/GradGroups/GGG/Default.aspx">Integrated Genetics and Genomics</a>. She studies domestication and evolution of peaches, almonds, and their relatives in the genus <em>Prunus</em>.</p>
 <!-- break -->
 <p><br> <!-- break --></p>
 </div>
@@ -324,6 +423,7 @@ $(document).ready(function () {
 <div id="lab-alumni" class="section level2">
 <h2>Lab Alumni</h2>
 <ul>
+<li><a href="https://scholar.google.com/citations?user=yGEvdz0AAAAJ&amp;hl=en">Li Wang</a>: Postdpc 2018-2019 (Research Scientist, Agricultural Genomics Institute Shenzhen)</li>
 <li><a href="https://www.cropevolution.org">Markus Stetter</a>: Postdoc 2017-2019 (Asst. Group Leader, U. Köln)</li>
 <li><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&amp;hl=en">Wnebin Mei</a>: Postdoc 2016-2018 (Scientist at Inari Agriculture)</li>
 <li><a href="https://scholar.google.com/citations?user=mnHb3lYAAAAJ&amp;hl=en">Anne Lorant</a>: Lab manager, PhD student, postdoc 2013-2018 (Postdoc, UC Davis)</li>
@@ -345,7 +445,7 @@ $(document).ready(function () {
 <li><a href="http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34">Sofiane Mezmouk</a>: Postdoc 2012-2014 (Research Scientist, KWS)</li>
 <li><a href="https://sites.google.com/site/shoheitakuno/">Shohei Takuno</a>: Postdoc 2012-2013 (Asst. Professor, SOKENDAI)</li>
 <li><a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matthew Hufford</a>: Postdoc 2010-2013 (Assoc. Professor, Iowa State)</li>
-<li><a href="https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392">Tanja Pyhäjärvi</a>: Postdoc 2010-2012 (Sr. Research Fellow, U. Oulu)</li>
+<li><a href="https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392">Tanja Pyhäjärvi</a>: Postdoc 2010-2012 (Sr. Research Fellow, U. Oulu)</li>
 <li><a href="http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm">Joost van Heerwaarden</a>: Postdoc 2009-2011 (Researcher, U. Wageningen)</li>
 </ul>
 <div id="visiting-scholar-for-100-hours-of-scholastic-visitation" class="section level3">

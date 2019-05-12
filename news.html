@@ -11,7 +11,7 @@
 
 
 
-<title></title>
+<title>news.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -52,9 +52,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -73,8 +71,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -90,7 +94,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -110,6 +113,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -131,19 +171,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -285,31 +391,29 @@ $(document).ready(function () {
 <h3>May 9</h3>
 <p>Michelle presents at the <a href="http://plantsymposium.uga.edu/speakers/2_speaker_stitzer/">U. Georgia plant breeding symposium</a>.</p>
 </div>
-<div id="mar.-27" class="section level3">
-<h3>Mar. 27</h3>
+<div id="mar.27" class="section level3">
+<h3>Mar. 27</h3>
 <p>Simon’s paper on <a href="http://biorxiv.org/content/early/2016/12/19/095547">subgenomes of maize</a> accepted for publication in MBE</p>
 </div>
-<div id="mar.-20" class="section level3">
-<h3>Mar. 20</h3>
+<div id="mar.20" class="section level3">
+<h3>Mar. 20</h3>
 <p>Caryn and Ellen both receive fellowships to attend the <a href="https://www.biostat.washington.edu/suminst/sisg">summer institute for statistical genetics</a>.</p>
 </div>
-<div id="feb.-20" class="section level3">
-<h3>Feb. 20</h3>
+<div id="feb.20" class="section level3">
+<h3>Feb. 20</h3>
 <p><a href="https://twitter.com/jo_caryn">Caryn Johansen</a> joins the lab, to be co-advised by the inimitable <a href="http://runcielab.ucdavis.edu">Dan Runcie</a>.</p>
 </div>
 <div id="jan-10" class="section level3">
 <h3>Jan 10</h3>
 <p>Jeff starts as Senior Editor for popgen at <a href="http://www.g3journal.org">G3</a>.</p>
+<p>##2016</p>
 </div>
-</div>
-<div id="section" class="section level2">
-<h2>2016</h2>
-<div id="dec.-8" class="section level3">
-<h3>Dec. 8</h3>
+<div id="dec.8" class="section level3">
+<h3>Dec. 8</h3>
 <p>Kevin Boardman awarded prestigious <a href="http://urc.ucdavis.edu/awards/puf/">Provost’s Undergraduate Fellowship</a>!</p>
 </div>
-<div id="nov.-25" class="section level3">
-<h3>Nov. 25</h3>
+<div id="nov.25" class="section level3">
+<h3>Nov. 25</h3>
 <p>NSF proposal bounces; good reviews and feedback from PO. Will retool and resubmit.</p>
 </div>
 <div id="aug-10" class="section level3">
@@ -343,10 +447,8 @@ $(document).ready(function () {
 <div id="feb-10" class="section level3">
 <h3>Feb 10</h3>
 <p>Josh Hough begins as new postdoc in the lab, to work on linked selection in teosinte.</p>
+<p>##2015</p>
 </div>
-</div>
-<div id="section-1" class="section level2">
-<h2>2015</h2>
 <div id="september-18" class="section level3">
 <h3>September 18</h3>
 <p><a href="https://github.com/kate-crosby">Kate Crosby</a> leaves the lab this month for her job in the Monsanto <a href="http://www.monsanto.com/careers/pages/emerging-leaders-in-science.aspx">Emerging Leaders Program</a>.</p>
@@ -363,43 +465,41 @@ $(document).ready(function () {
 <h3>June 9</h3>
 <p>After a bit less than a year in the lab, <a href="http://timbeissinger.github.io">Tim Beissinger</a> accepts a job as a research scientist at USDA at the University of Missourri. This is <a href="http://www.ars.usda.gov/pandp/people/people.htm?personid=3766">Mike McMullen’s</a> position, so some big shoes to fill. Congrats Tim!</p>
 </div>
-<div id="mar.-17" class="section level3">
-<h3>Mar. 17</h3>
+<div id="mar.17" class="section level3">
+<h3>Mar. 17</h3>
 <p>Paul Bilinski is awarded a UC Davis Dissertation Year Fellowship. Congrats Paul!</p>
 </div>
-<div id="mar.-9" class="section level3">
-<h3>Mar. 9</h3>
+<div id="mar.9" class="section level3">
+<h3>Mar. 9</h3>
 <p>The new <a href="www.panzea.org">maize diversity website</a> is live!</p>
 </div>
-<div id="jan.-28" class="section level3">
-<h3>Jan. 28</h3>
+<div id="jan.28" class="section level3">
+<h3>Jan. 28</h3>
 <p>Paul Bilinski is chosen to present his work on repeat evolution at the <a href="http://smbeba2015.imag.fr">SMBE Satellite meeting</a> in Montepllier. Both SMBE and the Dept. of Plant Sciences have agreed to fund his trip!</p>
 </div>
-<div id="jan.-9" class="section level3">
-<h3>Jan. 9</h3>
+<div id="jan.9" class="section level3">
+<h3>Jan. 9</h3>
 <p>Preprint of Shohei’s paper on convergent evolution in the highlands is up on <a href="http://biorxiv.org/content/early/2015/01/09/013607">bioRxiv</a>, and Michelle’s work on identifying new TEs as collaboration with <a href="http://www.cbs.umn.edu/lab/springer">Nathan Springer’s group</a> is out at <a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915">PLoS Genetics</a>!</p>
 </div>
-<div id="jan.-8" class="section level3">
-<h3>Jan. 8</h3>
+<div id="jan.8" class="section level3">
+<h3>Jan. 8</h3>
 <p>Our collaboration with <a href="http://rutefonseca.wix.com/bioinformatics">Rute Fonseca</a>, <a href="http://anthropology.si.edu/archaeobio/smith.html">Bruce Smith</a>, and <a href="http://geogenetics.ku.dk/research_groups/gilbert_groups/">Tom Gilbert</a> analyzing ancient maize in the US SW is out in <a href="http://www.nature.com/articles/nplants20143">Nature Plants</a>, with a nice both in <a href="http://www.nature.com/articles/nplants20149">Nature Plants commentary</a> and a highlight in <a href="http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn">Science</a> and a <a href="http://news.ucdavis.edu/search/news_detail.lasso?id=11124">press release</a> by UC Davis.</p>
 </div>
-<div id="jan.-6" class="section level3">
-<h3>Jan. 6</h3>
+<div id="jan.6" class="section level3">
+<h3>Jan. 6</h3>
 <p>Smithsonian funds our grant with <a href="http://en.wikipedia.org/wiki/Dolores_Piperno">Dolores Piperno</a> and <a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matt Hufford</a> entitled “Phenotypes, Environmental Plasticity, and Gene Expression in Teosinte and Maize in Ancient Climates Before and During the Time of Domestication”.</p>
+<p>##2014</p>
 </div>
-</div>
-<div id="section-2" class="section level2">
-<h2>2014</h2>
-<div id="dec.-15" class="section level3">
-<h3>Dec. 15</h3>
+<div id="dec.15" class="section level3">
+<h3>Dec. 15</h3>
 <p>Our Plant Genome grant was declined by NSF, but with constructive reviews. You can see reviews and proposal on <a href="https://github.com/RILAB/PGRP">github</a>.</p>
 </div>
-<div id="dec.-12" class="section level3">
-<h3>Dec. 12</h3>
+<div id="dec.12" class="section level3">
+<h3>Dec. 12</h3>
 <p>Michelle Stitzer awarded a <a href="http://www.universityofcalifornia.edu/press-room/dozens-uc-students-awarded-global-food-initiative-fellowships">Global Food Initiative Fellowship</a> for her work on the maize genome</p>
 </div>
-<div id="dec.-11" class="section level3">
-<h3>Dec. 11</h3>
+<div id="dec.11" class="section level3">
+<h3>Dec. 11</h3>
 <p>Jeff <a href="http://genestogenomes.org/?p=658&amp;preview=1&amp;_ppp=ce3cb6a6ec">joins G3</a> as an Associate Editor.</p>
 </div>
 <div id="nov-21" class="section level3">
@@ -503,60 +603,60 @@ $(document).ready(function () {
 <h3>Apr 25, 2014</h3>
 <p>Reacting to an <a href="http://www.acgt.me/blog/2014/4/25/acgttgca-has-every-possible-dna-based-initialism-been-used-by-the-bioinformatics/genomics-community?utm_content=bufferd1dd5&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">urgent call for bioinformatics acronyms</a>, <a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matt Hufford</a> and I are proud to announce the formation of the Corn Transcriptome Analysis Group, or CTAG. Because we have some RNA-seq data and can run <a href="http://www.bioconductor.org/packages/release/bioc/html/edgeR.html">EdgeR</a>, that’s why.</p>
 </div>
-<div id="apr.-4-2014" class="section level3">
-<h3>Apr. 4, 2014</h3>
+<div id="apr.4-2014" class="section level3">
+<h3>Apr. 4, 2014</h3>
 <p>Congratulations to Anna O’Brien for being awarded a three year Plant Sciences graduate student research assistantship!</p>
 </div>
-<div id="mar.-20-2014" class="section level3">
-<h3>Mar. 20, 2014</h3>
+<div id="mar.20-2014" class="section level3">
+<h3>Mar. 20, 2014</h3>
 <p>A fond au revoir to <a href="http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34">Dr. Sofiane Mezmouk</a>, who leaves the lab for a position as a research scientist at <a href="http://www.kws.de/ca/fh/thd/">KWS</a>.</p>
 </div>
-<div id="feb.-26-2014" class="section level3">
-<h3>Feb. 26, 2014</h3>
+<div id="feb.26-2014" class="section level3">
+<h3>Feb. 26, 2014</h3>
 <p><a href="http://tinyurl.com/esebvideo/?id=Dbj4Lv4QXlo">Video</a> of <a href="https://wiki.oulu.fi/pages/viewpage.action?pageId=13382392">Tanja Pyhäjärvi</a> presenting a seminar on her <a href="http://gbe.oxfordjournals.org/content/5/9/1594">postdoc work</a> in the lab at ESEB.</p>
 </div>
-<div id="feb.-5-2014" class="section level3">
-<h3>Feb. 5, 2014</h3>
+<div id="feb.5-2014" class="section level3">
+<h3>Feb. 5, 2014</h3>
 <p>My seminar <a href="http://www.slideshare.net/jrossibarra/population-genetics-of-maize-domestication-adaptation-and-improvement">slides</a> and <a href="https://t.co/89X0DTkGKD">video</a> at Dept. of Plant Ag. at U of Guelph.</p>
 </div>
-<div id="jan.-17-2014" class="section level3">
-<h3>Jan. 17, 2014</h3>
+<div id="jan.17-2014" class="section level3">
+<h3>Jan. 17, 2014</h3>
 <p>Happy to announce that <a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&amp;hl=en">Tim Beissinger</a> will be joining the lab as a postdoc in Summer 2014!</p>
 </div>
-<div id="jan.-14-2014" class="section level3">
-<h3>Jan. 14, 2014</h3>
+<div id="jan.14-2014" class="section level3">
+<h3>Jan. 14, 2014</h3>
 <p>Jeff’s talks from the Plant And Animal Genome conference are online. <a href="http://www.slideshare.net/jrossibarra/bottlenecks-some-ramblings-and-a-bit-of-data-from-maize">Bottlenecks</a> and <a href="http://www.slideshare.net/jrossibarra/deleterious-alleles-in-maize-for-pagxxii">deleterious alleles</a>, oh my!</p>
 </div>
 </div>
-<div id="section-3" class="section level2">
+<div id="section" class="section level2">
 <h2>2013</h2>
-<div id="dec.-17-2013" class="section level3">
-<h3>Dec. 17, 2013</h3>
+<div id="dec.17-2013" class="section level3">
+<h3>Dec. 17, 2013</h3>
 <p>Dianne Velasco passees her QE exams! Congrats D!</p>
 <p>Anna O’Brien receives UCMEXUS funding for her dissertation project “Do environmental gradients drive adaptation in mutualisms? A study of teosinte and mycorrhizae”.</p>
 </div>
-<div id="dec.-11-2013" class="section level3">
-<h3>Dec. 11, 2013</h3>
+<div id="dec.11-2013" class="section level3">
+<h3>Dec. 11, 2013</h3>
 <p>Lab collaborations on the <a href="http://f1000.com/prime/718032804">Wills et al.</a> and <a href="http://f1000.com/prime/718173166">Waters et al.</a> manuscripts have been written up for F1000.</p>
 </div>
-<div id="dec.-3-2013" class="section level3">
-<h3>Dec. 3, 2013</h3>
+<div id="dec.3-2013" class="section level3">
+<h3>Dec. 3, 2013</h3>
 <p><a href="http://gbe.oxfordjournals.org/content/5/9/1594">Pyhäjärvi et al.</a> featured on the <a href="http://gbe.oxfordjournals.org/content/5/12.toc">cover</a> of this months Genome Biology and Evolution.</p>
 </div>
-<div id="nov.-26-2013" class="section level3">
-<h3>Nov. 26, 2013</h3>
+<div id="nov.26-2013" class="section level3">
+<h3>Nov. 26, 2013</h3>
 <p><a href="http://m.g3journal.org/content/early/2013/11/18/g3.113.008870.full.pdf">Mezmouk et al.</a> now online at G3</p>
 </div>
-<div id="nov.-15-2013" class="section level3">
-<h3>Nov. 15, 2013</h3>
-<p>Waters et. al. is now <a href="http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf">online at PNAS</a>!</p>
+<div id="nov.15-2013" class="section level3">
+<h3>Nov. 15, 2013</h3>
+<p>Waters et. al. is now <a href="http://www.pnas.org/content/early/2013/11/08/1309182110.full.pdf">online at PNAS</a>!</p>
 </div>
-<div id="nov.-14-2013" class="section level3">
-<h3>Nov. 14, 2013</h3>
+<div id="nov.14-2013" class="section level3">
+<h3>Nov. 14, 2013</h3>
 <p>Anna O’Brien passed her qualifying exam and advances to candidacy!</p>
 </div>
-<div id="nov.-7-2013" class="section level3">
-<h3>Nov. 7, 2013</h3>
+<div id="nov.7-2013" class="section level3">
+<h3>Nov. 7, 2013</h3>
 <p>Sofiane’s <a href="http://arxiv.org/abs/1308.0380">manuscript</a> on deleterious alleles and hybrid vigor in maize accepted in <a href="http://www.g3journal.org/">G3</a>!</p>
 <p>Jeff and Vince both added to <a href="http://nextgenseek.com/2013/11/top-n-genome-scientists-to-follow-on-twitter-2013-edition/">list of top genome scientists to follow on twitter</a>.</p>
 </div>
