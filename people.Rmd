@@ -200,13 +200,14 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <div style="float: left">
 <img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" style="border:10px solid white" width="100px"></a>
 </div>
-**Silas Tittes** 
+**Silas Tittes**  
 <a href="https://www.linkedin.com/in/silas-tittes-4b41106b/"><img src="images/lin.png" style="width: 15px;"></a>
 <a href="https://twitter.com/silastittes"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/silastittes"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0003-4697-7434"><img src="images/orcid.png" style="width: 15px;"></a>
-<a href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>
-Silas is postdoc and the lab's current Felix Andrews Statistical Fellow, working on approaches to study convergent evolution as part of the [PanAnd project](https://panandropogoneae.com).
+<a href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
+
+Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, working on approaches to study convergent evolution as part of the [PanAnd project](https://panandropogoneae.com).
 
 
 <!-- break -->
