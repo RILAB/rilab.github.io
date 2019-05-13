@@ -33,12 +33,9 @@ Please read more information on [joining the lab](prosp.html)
 <br>
 <!-- break -->
 
-
-<div class="col2">
-
-<div style="float: left">
-<img src="images/cryan.jpeg" style="border:10px solid white"; width=100px>
-</div>
+<div style="float: left">  
+<img src="images/cryan.jpeg" style="border:10px solid white" width="100px;"></a>
+</div> 
 
 **Elli Cryan** 
 <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"></a>
@@ -49,9 +46,9 @@ Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https:/
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/gates.jpg" style="border:10px solid white"; width=100px>
-</div>
+<div style="float: left">  
+<img src="images/gates.jpg" style="border:10px solid white" width="100px"></a>
+</div>  
 **Dan Gates** 
 <a href="https://danjgates.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
 <a href="https://twitter.com/dangates_j"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a
@@ -64,7 +61,7 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 <!-- break -->
 
 <div style="float: left">
-<img src="images/hissong_photo.png" style="border:10px solid white"; width=100px>
+<img src="images/hissong_photo.png" style="border:10px solid white" width="100px"></a>
 </div>
 **Sarah Hissong** 
 <a href="https://mishaploid.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
@@ -79,7 +76,7 @@ Sarah is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?A
 <!-- break -->
 
 <div style="float: left">
-<img src="images/asher.jpg" style="border:10px solid white"; width=100px>
+<img src="images/asher.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Asher Hudson** 
 <a href="https://aihudson.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
@@ -92,7 +89,7 @@ Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/e
 <!-- break -->
 
 <div style="float: left">
-<img src="images/ajohnson.jpg" style="border:10px solid white"; width=100px>
+<img src="images/ajohnson.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Ashley Johnson** 
 <a href="https://twitter.com/ashesandpeaches"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
@@ -103,7 +100,7 @@ Ashley is a Biochemistry major, currently working on using machine learning meth
 <!-- break -->
 
 <div style="float: left">
-<img src="images/langlois.jpg" style="border:10px solid white"; width=100px>
+<img src="images/langlois.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Nathaniel Langlois-Ackerson**
 
@@ -114,7 +111,7 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 <!-- break -->
 
 <div style="float: left">
-<img src="images/odell.jpg" style="border:10px solid white"; width=100px>
+<img src="images/odell.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Sarah Odell** 
 <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
@@ -127,7 +124,7 @@ Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runci
 <!-- break -->
 
 <div style="float: left">
-<img src="images/tperkins.jpg" style="border:10px solid white"; width=100px>
+<img src="images/tperkins.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 
 **Taylor Perkins** 
@@ -139,7 +136,7 @@ Taylor manages the wetlab side of our research. He was previously a technician a
 <!-- break -->
 
 <div style="float: left">
-<img src="images/alyssa.jpg" style="border:10px solid white"; width=100px>
+<img src="images/alyssa.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 
 **Alyssa Phillips** 
@@ -153,7 +150,7 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 <!-- break -->
 
 <div style="float: left">
-<img src="images/jri_bee.jpg" style="border:10px solid white"; width=100px>
+<img src="images/jri_bee.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Jeffrey Ross-Ibarra** 
 <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;">
@@ -169,7 +166,7 @@ Jeff is a Professor in the [Department of Plant Sciences](http://www.plantscienc
 <!-- break -->
 
 <div style="float: left">
-<img src="images/rushworth.jpeg" style="border:10px solid white"; width=100px>
+<img src="images/rushworth.jpeg" style="border:10px solid white" width="100px"></a>
 </div>
 
 **Catherine Rushworth** 
@@ -184,7 +181,7 @@ Cathy is a postdoctoral scholar working on the genomics and quantitative genetic
 <!-- break -->
 
 <div style="float: left">
-<img src="images/stitzer.jpg" style="border:10px solid white"; width=100px>
+<img src="images/stitzer.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Michelle Stitzer** 
 <a href="http://mcstitzer.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
@@ -200,7 +197,7 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <!-- break -->
 
 <div style="float: left">
-<img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r"; width=100px>
+<img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" style="border:10px solid white" width="100px"></a>
 </div>
 **Silas Tittes** 
 <a href="https://www.linkedin.com/in/silas-tittes-4b41106b/"><img src="images/lin.png" style="width: 15px;"></a>
@@ -216,7 +213,7 @@ Silas is postdoc and the lab's current Felix Andrews Statistical Fellow, working
 <!-- break -->
 
 <div style="float: left">
-<img src="images/dvelasco.jpg" style="border:10px solid white"; width=100px>
+<img src="images/dvelasco.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Dianne Velasco** 
 <a href="https://twitter.com/napknscrib"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
@@ -241,7 +238,7 @@ Dianne is a graduate student in [Integrated Genetics and Genomics](http://biosci
 * [Luis Avila](https://lmavila.github.io): Programmer 2016-2018 (IT Breeding Tool Project Leader, HM Clause)
 * [Anna O'Brien](https://annamobrien.wordpress.com): PhD Student 2011-2017 (Postdoc, U. Toronto)
 * [Jinliang Yang](http://jyanglab.com): Postdoc 2014-2017 (Assistant Professor, U. Nebraska)
-* [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017 (Postdoc, UC Santa Cruz)
+* [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017 
 * [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Associate Professor, West Shore Community College)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
 * [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
