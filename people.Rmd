@@ -24,8 +24,9 @@
 
 ## Current R-I Lab members
 Please read more information on [joining the lab](prosp.html)
-
-
+<!-- break -->
+<p><br> <!-- break --></p>
+<div class="col2">
 
 
 

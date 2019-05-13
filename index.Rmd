@@ -20,8 +20,8 @@ Welcome to the Ross-Ibarra Lab in the [Dept. of Plant Sciences](http://www.plant
 
 <br>
 
-<a href="http://www.plantsciences.ucdavis.edu/plantsciences/"><img src="images/pslogo.png" style="width: 300px;"></a>
-<a href="http://cpb.ucdavis.edu"><img src="images/cpb_logo.jpg"" style="width: 300px;"></a>
-<a href="http://www.genomecenter.ucdavis.edu"><img src="images/GC.png" style="width: 300px;"></a>
+<a href="http://www.plantsciences.ucdavis.edu/plantsciences/"><img src="images/pslogo.png" width="300px"></a>
+<a href="http://cpb.ucdavis.edu"><img src="images/cpb_logo.jpg" width="300px"></a>
+<a href="http://www.genomecenter.ucdavis.edu"><img src="images/GC.png" width="300px"></a>
 
 
