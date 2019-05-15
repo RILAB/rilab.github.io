@@ -25,6 +25,8 @@ cat("![](",result,")")
 Journal names have been intentionally excluded. Lab member names are in bold. Links are provided to the published article and when possible an open-access version (pre- or post-print) of the paper. 
 Click on a triangle for a brief summary of each paper.
 
+<br>  
+
 ### Preprints
 
 <!-- <details> -->
@@ -59,7 +61,6 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
     <p style="margin-left: 30px">We describe the ecosystem of transposable elements within the maize genome, revealing how different transposable element families occupy different niches, much like species within an ecosystem."
 </p></details>
 
-
 <details>
     <summary>Transposable elements contribute to dynamic genome content in maize
  [[preprint](https://www.biorxiv.org/content/10.1101/547398v1?rss=1)]  
@@ -68,8 +69,6 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
     <p style="margin-left: 30px">We identify hundreds of thousands of variable transposable elements among a small set of maize genome assemblies. We find evidence of a large number of genes impacted by TEs, including TEs in genes and genes in TEs, and evidence of recent transposition as well.""
 </p></details>
 
-
-
 <details>
     <summary>Adaptive phenotypic divergence in teosinte differs across biotic contexts
  [[preprint](https://www.biorxiv.org/content/early/2018/08/01/382770)]  
@@ -77,23 +76,25 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
 </summary>
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
 </p></details>
+<br>  
 
 ### 2019
 
 
 <details>
-    <summary>Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize [[preprint](https://peerj.com/preprints/27489/)]  
+    <summary>[Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize](https://peerj.com/articles/6815/)  [[preprint](https://peerj.com/preprints/27489/)]  
  Gonzalez-Segovia E,  Pérez-Limon S, C Cíntora-Martínez C,  Guerrero-Zavala A,  Jansen G,  Hufford MB, **Ross-Ibarra J**, Ruairidh J H Sawers
 </summary>
     <p style="margin-left: 30px">We look for introgression from teosinte in the genomes of two highland landraces and use QTL mapping to test for functional relevance of introgressed regions.
 </p></details>
 
 <details>
-    <summary>[Detecting adaptive differentiation in structured populations with genomic data and common gardens](http://www.genetics.org/content/early/2019/01/24/genetics.118.301786)  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
+    <summary>[Detecting adaptive differentiation in structured populations with genomic data and common gardens](https://www.genetics.org/content/211/3/989)  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
 **Josephs EB**, Berg JJ, **Ross-Ibarra J**, Coop G
 </summary>
     <p style="margin-left: 30px">We develop methods to detect polygenic adaptation on phenotypes from common gardens and GWAS panels.   
 </p></details> 
+<br>  
 
 ### 2018
 
@@ -186,8 +187,7 @@ Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... 
     Riaz, Summaira, et al. "Genetic diversity analysis of cultivated and wild grapevine (Vitis vinifera L.) accessions around the Mediterranean basin and Central Asia." BMC plant biology 18.1 (2018): 137.
 
 </p></details> 
-
-
+<br>  
 
 ### 2017
 
@@ -278,6 +278,8 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
     Mei, Wenbin, et al. "Evolutionarily conserved alternative splicing across monocots." Genetics (2017): genetics-300189.
 </p></details> 
 
+<br>  
+
 ### 2016
 
 <details>     <summary>[Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication](<http://www.cell.com/current-biology/abstract/S0960-9822(16)31120-4>)  
@@ -316,6 +318,8 @@ Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ib
 
 
 </p></details> 
+
+<br>  
 
 ### 2015
 
@@ -365,6 +369,8 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</
     Le, Tu N., et al. "Epigenetic regulation of intragenic transposable elements impacts gene transcription in Arabidopsis thaliana." Nucleic acids research 43.8 (2015): 3911-3921.
 </p></details> 
 
+<br>  
+
 ### 2014
 
 <details>     <summary>[Advances and limits of using population genetics to understand local adaptation](http://www.rilab.org/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]       
@@ -381,6 +387,8 @@ Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discu
     <p style="margin-left: 30px">
 
 </p></details> 
+
+<br>  
 
 ### 2013
 
@@ -422,6 +430,8 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
     
     Zdunić, Goran, et al. "Genetic diversity and differentiation within and between cultivated (Vitis vinifera L. ssp. sativa) and wild (Vitis vinifera L. ssp. sylvestris) grapes." Vitis 52.1 (2013): 29-32.
 </p></details> 
+
+<br>  
 
 ### 2012
 
@@ -466,6 +476,8 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**</summary>     <p style="margin-left: 3
     Hufford, Matthew B., et al. "Inferences from the historical distribution of wild and domesticated maize provide ecological and evolutionary insight." PLoS One 7.11 (2012): e47659.
 </p></details> 
 
+<br>  
+
 ### 2011
 
 <details>     <summary>[Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf) [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)]     
@@ -490,6 +502,8 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** </summary>     <p style
     Pyhäjärvi, Tanja, Sonja T. Kujala, and Outi Savolainen. "Revisiting protein heterozygosity in plants—nucleotide diversity in allozyme coding genes of conifer Pinus sylvestris." Tree genetics & genomes 7.2 (2011): 385-397.
 
 </p></details> 
+
+<br>  
 
 ### 2010
 
@@ -522,6 +536,8 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS </summary>     <p style="margin-left: 3
     Epanchin-Niell, Rebecca S., et al. "Controlling invasive species in complex social landscapes." Frontiers in Ecology and the Environment 8.4 (2010): 210-216.
 </p></details> 
 
+<br>  
+
 ### 2009
 
 <details>     <summary>[A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)    
@@ -537,6 +553,8 @@ Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  </summary>    
 **Ross-Ibarra J**, Tenaillon M, Gaut BS </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
 
+<br>  
+
 ### 2008
 
 <details>     <summary>[Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*](http://dx.doi.org/10.1371%2Fjournal.pone.0002411)    
@@ -551,6 +569,8 @@ Lockton S, **Ross-Ibarra J**, Gaut BS</summary>     <p style="margin-left: 30px"
 <details>     <summary>[Selection on major components of angiosperm genomes](http://www.rilab.org/pdfs/Ross-Ibarra_Gaut_2008.pdf)    
 Gaut BS, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">Discusses some of the evolutionary forces responsible for shaping genome size across plants.</p></details>  
 
+<br>  
+
 ### 2007  
 
 <details>     <summary>[Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)    
@@ -558,6 +578,8 @@ Gaut BS, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">Discusses 
 
 <details>     <summary>[Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)    
 **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+
+<br>  
 
 ### 2001-2006
 

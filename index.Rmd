@@ -1,7 +1,4 @@
----
-title: "Ross-Ibarra Lab"
----
-<link rel="shortcut icon" type="image/x-icon" href="/images/cornkey.png">
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -13,6 +10,7 @@ title: "Ross-Ibarra Lab"
   ga('send', 'pageview');
 
 </script>
+# <img src="images/cornkey.png" style="width: 35px;">  Ross-Ibarra Lab
 
 Welcome to the Ross-Ibarra Lab in the [Dept. of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) at the [University of California Davis](http://www.ucdavis.edu). Our lab works on the evolutionary genetics of maize and teosinte. Click through images and links to see who we are and what we do, check out the [news](news.html) for updates and latest happenings, and read our [lab philosophy and expectations](expectations.html).  
 
