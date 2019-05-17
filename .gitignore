@@ -1,3 +1,4 @@
+*.bak
 .Rhistory
 alert.key/
 allpubs.temp
