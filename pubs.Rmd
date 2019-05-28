@@ -72,16 +72,17 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
     <p style="margin-left: 30px">We identify hundreds of thousands of variable transposable elements among a small set of maize genome assemblies. We find evidence of a large number of genes impacted by TEs, including TEs in genes and genes in TEs, and evidence of recent transposition as well.""
 </p></details>
 
+
+### 2019
+
 <br><details>
     <summary>Adaptive phenotypic divergence in teosinte differs across biotic contexts
- [[preprint](https://www.biorxiv.org/content/early/2018/08/01/382770)]  
+ [[preprint](https://www.biorxiv.org/content/10.1101/382770v2)]  
 **O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
 </summary>
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
 </p></details>
 <br> 
-
-### 2019
 
 <details>
     <summary>[Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize](https://peerj.com/articles/6815/)  [[preprint](https://peerj.com/preprints/27489/)]  
@@ -91,7 +92,7 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
 </p></details>
 
 <br><details>
-    <summary>[Detecting adaptive differentiation in structured populations with genomic data and common gardens](https://www.genetics.org/conten/211/3/989)  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
+    <summary>[Detecting adaptive differentiation in structured populations with genomic data and common gardens](https://www.genetics.org/content/211/3/989)  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
 **Josephs EB**, Berg JJ, **Ross-Ibarra J**, Coop G
 </summary>
     <p style="margin-left: 30px">We develop methods to detect polygenic adaptation on phenotypes from common gardens and GWAS panels.   
