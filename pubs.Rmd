@@ -72,8 +72,9 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
     <p style="margin-left: 30px">We identify hundreds of thousands of variable transposable elements among a small set of maize genome assemblies. We find evidence of a large number of genes impacted by TEs, including TEs in genes and genes in TEs, and evidence of recent transposition as well.""
 </p></details>
 
+<br> 
 
-### 2019
+### 2019  
 
 <br><details>
     <summary>Adaptive phenotypic divergence in teosinte differs across biotic contexts
@@ -82,7 +83,7 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
 </summary>
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
 </p></details>
-<br> 
+
 
 <details>
     <summary>[Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize](https://peerj.com/articles/6815/)  [[preprint](https://peerj.com/preprints/27489/)]  
