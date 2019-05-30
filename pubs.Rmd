@@ -82,7 +82,7 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
 **O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
 </summary>
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
-</p></details>
+</p></details>  <br>
 
 
 <details>
