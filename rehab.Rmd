@@ -31,9 +31,20 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2019
 
+### July 
+
+#### Friday July 12
+[Uricchio 2019](https://link.springer.com/article/10.1007/s00439-019-02040-6) Evolutionary perspectives on polygenic selection, missing heritability, and GWAS
+
+#### Friday July 5 
+[Bradburd and Ralph preprint](https://arxiv.org/pdf/1904.09847.pdf) Spatial Population Genetics: It’s About Time
+
 ### June
 
-### Friday June 21  
+#### Friday June 28
+[Hämälä and Savolainen 2019](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msz149/5522663?redirectedFrom=fulltext) Genomic patterns of local adaptation under gene flow in Arabidopsis lyrata
+
+#### Friday June 21  
 [Wang et al. 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000191) The architecture of intra-organism mutation rate variation in plants
 
 #### Friday June 14  
