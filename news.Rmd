@@ -10,32 +10,54 @@
 </script>
 
 ## News
-### May 13-16  
-[RILAB]() at PEQG. [Emily Josephs](https://twitter.com/biodids/status/996068681556905984) and [Michelle Stitzer]() talking, [Dan Gates](), [Wenbin Mei](), [Ellen Osborn](), [Markus Stetter](), presenting posters, as well as collabroators [Raul Torres]() and [Erin Calfee]().
 
-### May 10  
-Skype-a-scientist with [8th graders at Denville](https://twitter.com/VV_GoGreen/status/994647441948512256)
+### July
+• The lab has a new home in [EVE](http://eve.ucdavis.edu) and will be moving to Storer Hall!
 
-### May 7  
-Michelle wins a 3rd year of [ARCS](https://drewaltizer.com/event/11169-2018-arcs-symposium-advancing-science-in-america/photo/3918446-michelle_stitzer) support!
+### June
+• Dianne Velasco and Michelle Stitzer [walk at graduation](images/IMG_1750.jpg)! 
+• [Dan Gates](*https://www.youtube.com/watch?v=AIR837EjcIE) and [Michelle Stiter](https://www.youtube.com/watch?v=lkZ_tDSoMe8) give talks at the Evolution conference. Michelle wins the [WD Hamilton Award](https://www.evolutionsociety.org/content/society-awards-and-prizes/the-w-d-hamilton-award.html) for outstanding student presentation!
+• Elli wins a computational biology fellowship for summer 2019.
 
-### April 9  
-Sarah and Asher both win departmental fellowships, supporting ~40% of their PhD for the next 4 years. Congrats!
+### April 
+• Silas Tittes joins the lab to work on  [PanAnd](https://panandropogoneae.com).
+• Li Wang leaves the lab to start her new job later this summer the the [Agricultural Genomics Institute](http://agis.caas.cn/en/index.htm) in Shenzhen.
+• Sarah O, Elli, and Alyssa all get scholarships to attend the [Summer Institute of Statistical Genetics](https://www.biostat.washington.edu/suminst/sisg) in Seattle.
+• Elli wins a Dept. of Plant Sciences graduate student research fellowship.
 
-### April 3  
-Congrats to Asher for winning an NSF Graduate Research Fellowship to work on biotic interactions in teosinte. 
+### March
+• Markus Stetter starts his [new lab](https://www.cropevolution.org/index.html) at the University of Cologne.
+• Elli Cryan joins the lab, coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/) to work on network evolution.
 
-### March 28  
-Anne [defends her PhD](images/anne_phd.jpg) 
+### February
+• Wenbin Mei leaves to start a new job at [Inari Ag](https://www.inari.com).
 
-### March 23
-Jeff [gives a plenary talk](images/jri_mgc18.jpeg) at the Maize Genetics Conference
+### Januray
+• Emily Josephs starts her [new lab](https://josephslab.github.io) at Michigan State. 
 
-### Jan 31  
-Luis starts a new job at [HM Clause](http://hmclause.com).  
+##2018
 
-### Jan 13  
-JRI (slides [here](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays) and [here](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)), Emily, and [Michelle](https://twitter.com/GrameneDatabase/status/953383803875033088) all speak at PAG. More 
+### October
+Alyssa Phillips joins the lab to work on the [PanAnd](https://panandropogoneae.com) project.
+
+### May 
+• RILAB at PEQG. Emily Josephs and Michelle Stitzer talking, Dan Gates, Wenbin Mei, Ellen Osborn, Markus Stetter, presenting posters, as well as collabroators Raul Torres and Erin Calfee.
+• Skype-a-scientist with [8th graders at Denville](https://twitter.com/VV_GoGreen/status/994647441948512256)
+• Michelle wins a 3rd year of [ARCS](https://drewaltizer.com/event/11169-2018-arcs-symposium-advancing-science-in-america/photo/3918446-michelle_stitzer) support!
+
+### April  
+• Sarah and Asher both win departmental fellowships, supporting ~40% of their PhD for the next 4 years. Congrats!
+• Congrats to Asher for winning an NSF Graduate Research Fellowship to work on biotic interactions in teosinte. 
+
+### March   
+• Anne [defends her PhD](images/anne_phd.jpg) 
+• Jeff [gives a plenary talk](images/jri_mgc18.jpeg) at the Maize Genetics Conference
+
+### Jan 
+• Luis starts a new job at [HM Clause](http://hmclause.com).  
+• JRI (slides [here](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays) and [here](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)), Emily, and [Michelle](https://twitter.com/GrameneDatabase/status/953383803875033088) all speak at PAG. 
+
+##2017
 
 ### Nov 4  
 Michele [talks at BAPG](https://twitter.com/pleunipennings/status/926885771306450944).
