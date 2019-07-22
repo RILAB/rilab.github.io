@@ -33,8 +33,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### July 
 
-#### Friday July 19
+#### Friday July 26
 [Xu et al. 2019](http://www.plantcell.org/content/plantcell/early/2019/06/21/tpc.19.00111.full.pdf) Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and its Wild Ancestor, Teosinte
+
+#### Friday July 19
+No R.E.H.A.B.
 
 #### Friday July 12
 [Uricchio 2019](https://link.springer.com/article/10.1007/s00439-019-02040-6) Evolutionary perspectives on polygenic selection, missing heritability, and GWAS
