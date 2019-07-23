@@ -15,18 +15,18 @@
 • The lab has a new home in [EVE](http://eve.ucdavis.edu) and will be moving to Storer Hall!
 
 ### June
-• Dianne Velasco and Michelle Stitzer [walk at graduation](images/IMG_1750.jpg)! 
-• [Dan Gates](*https://www.youtube.com/watch?v=AIR837EjcIE) and [Michelle Stiter](https://www.youtube.com/watch?v=lkZ_tDSoMe8) give talks at the Evolution conference. Michelle wins the [WD Hamilton Award](https://www.evolutionsociety.org/content/society-awards-and-prizes/the-w-d-hamilton-award.html) for outstanding student presentation!
+• Dianne Velasco and Michelle Stitzer [walk at graduation](images/IMG_1750.jpg)!  
+• [Dan Gates](https://www.youtube.com/watch?v=AIR837EjcIE) and [Michelle Stitzer](https://www.youtube.com/watch?v=lkZ_tDSoMe8) give talks at the Evolution conference. Michelle wins the [WD Hamilton Award](https://www.evolutionsociety.org/content/society-awards-and-prizes/the-w-d-hamilton-award.html) for outstanding student presentation!  
 • Elli wins a computational biology fellowship for summer 2019.
 
 ### April 
-• Silas Tittes joins the lab to work on  [PanAnd](https://panandropogoneae.com).
-• Li Wang leaves the lab to start her new job later this summer the the [Agricultural Genomics Institute](http://agis.caas.cn/en/index.htm) in Shenzhen.
-• Sarah O, Elli, and Alyssa all get scholarships to attend the [Summer Institute of Statistical Genetics](https://www.biostat.washington.edu/suminst/sisg) in Seattle.
+• Silas Tittes joins the lab to work on  [PanAnd](https://panandropogoneae.com).  
+• Li Wang leaves the lab to start her new job later this summer the the [Agricultural Genomics Institute](http://agis.caas.cn/en/index.htm) in Shenzhen.  
+• Sarah O, Elli, and Alyssa all get scholarships to attend the [Summer Institute of Statistical Genetics](https://www.biostat.washington.edu/suminst/sisg) in Seattle.  
 • Elli wins a Dept. of Plant Sciences graduate student research fellowship.
 
 ### March
-• Markus Stetter starts his [new lab](https://www.cropevolution.org/index.html) at the University of Cologne.
+• Markus Stetter starts his [new lab](https://www.cropevolution.org/index.html) at the University of Cologne.  
 • Elli Cryan joins the lab, coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/) to work on network evolution.
 
 ### February
@@ -34,30 +34,30 @@
 
 ### Januray
 • Emily Josephs starts her [new lab](https://josephslab.github.io) at Michigan State. 
-
-##2018
-
+  
+## 2018  
+  
 ### October
 Alyssa Phillips joins the lab to work on the [PanAnd](https://panandropogoneae.com) project.
 
 ### May 
-• RILAB at PEQG. Emily Josephs and Michelle Stitzer talking, Dan Gates, Wenbin Mei, Ellen Osborn, Markus Stetter, presenting posters, as well as collabroators Raul Torres and Erin Calfee.
-• Skype-a-scientist with [8th graders at Denville](https://twitter.com/VV_GoGreen/status/994647441948512256)
+• RILAB at PEQG. Emily Josephs and Michelle Stitzer talking, Dan Gates, Wenbin Mei, Ellen Osborn, Markus Stetter, presenting posters, as well as collabroators Raul Torres and Erin Calfee.  
+• Skype-a-scientist with [8th graders at Denville](https://twitter.com/VV_GoGreen/status/994647441948512256)  
 • Michelle wins a 3rd year of [ARCS](https://drewaltizer.com/event/11169-2018-arcs-symposium-advancing-science-in-america/photo/3918446-michelle_stitzer) support!
 
 ### April  
-• Sarah and Asher both win departmental fellowships, supporting ~40% of their PhD for the next 4 years. Congrats!
+• Sarah and Asher both win departmental fellowships, supporting ~40% of their PhD for the next 4 years. Congrats!  
 • Congrats to Asher for winning an NSF Graduate Research Fellowship to work on biotic interactions in teosinte. 
 
 ### March   
-• Anne [defends her PhD](images/anne_phd.jpg) 
+• Anne [defends her PhD](images/anne_phd.jpg)   
 • Jeff [gives a plenary talk](images/jri_mgc18.jpeg) at the Maize Genetics Conference
 
 ### Jan 
 • Luis starts a new job at [HM Clause](http://hmclause.com).  
 • JRI (slides [here](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays) and [here](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)), Emily, and [Michelle](https://twitter.com/GrameneDatabase/status/953383803875033088) all speak at PAG. 
 
-##2017
+## 2017
 
 ### Nov 4  
 Michele [talks at BAPG](https://twitter.com/pleunipennings/status/926885771306450944).
@@ -101,7 +101,7 @@ Caryn and Ellen both receive fellowships to attend the [summer institute for sta
 ### Jan 10
 Jeff starts as Senior Editor for popgen at [G3](http://www.g3journal.org).
 
-##2016
+## 2016
 
 ### Dec. 8
 Kevin Boardman awarded prestigious [Provost's Undergraduate Fellowship](http://urc.ucdavis.edu/awards/puf/)!
@@ -133,7 +133,7 @@ JRI wins Mid-Career Award for Excellence in Maize Genetics at the Maize Genetics
 ### Feb 10
 Josh Hough begins as new postdoc in the lab, to work on linked selection in teosinte.
 
-##2015
+## 2015
 
 ### September 18
 
@@ -169,7 +169,7 @@ Our collaboration with [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics)
 
 Smithsonian funds our grant with [Dolores Piperno](http://en.wikipedia.org/wiki/Dolores_Piperno) and [Matt Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) entitled "Phenotypes, Environmental Plasticity, and Gene Expression in Teosinte and Maize in Ancient Climates Before and During the Time of Domestication".
 
-##2014
+## 2014
 
 ### Dec. 15
 
