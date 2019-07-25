@@ -120,7 +120,7 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 
 Sean is an undergraduate working on background selection in maize. 
 <!-- break -->
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -133,7 +133,7 @@ Sean is an undergraduate working on background selection in maize.
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
 <!-- break -->
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -159,7 +159,7 @@ Taylor is our Lab Czar, managing the wetlab side of our research. He was previou
 
 Alyssa is a Plant Biology graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).  
 <!-- break -->
-<br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -220,7 +220,6 @@ Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.ed
 <a href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
 Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, working on approaches to study convergent evolution as part of the [PanAnd project](https://panandropogoneae.com).
-
 
 <!-- break -->
 <br>
