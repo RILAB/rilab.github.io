@@ -112,7 +112,7 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 <!-- break -->
 
 <div style="float: left">  
-<img src="images/sean.jpeg" style="border:10px solid white" width="100px;"></a>
+<img src="images/sean.jpg" style="border:10px solid white" width="100px;"></a>
 </div> 
 
 **Sean McGinty** 
@@ -120,7 +120,7 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 
 Sean is an undergraduate working on background selection in maize. 
 <!-- break -->
-<br>
+<br><br>
 <!-- break -->
 
 <div style="float: left">
