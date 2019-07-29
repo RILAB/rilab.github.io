@@ -120,7 +120,7 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 
 Sean is an undergraduate working on background selection in maize. 
 <!-- break -->
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -133,7 +133,7 @@ Sean is an undergraduate working on background selection in maize.
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
 <!-- break -->
-<br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
