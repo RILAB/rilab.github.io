@@ -9,10 +9,10 @@
 
 </script>
 
-##R.E.H.A.B.
+## R.E.H.A.B.
 
 Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.
-We meet Fridays in the Tropical Room (2346) in Storer Hall at 3:30pm. Spring 2019 in Spieth (2320 Storer)! 
+We meet Fridays in the Tropical Room (2346) in Storer Hall at 3:30pm. 
 Jeff will provide some beer, but more is always welcome!
 <!-- (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. -->
 
@@ -32,6 +32,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2019
 
 ### August
+
+#### Friday August 9
+[Yan et al. 2019](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.14376) Parallels between natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize
 
 #### Friday August 2
 [Dunning et al. 2019](https://www.pnas.org/content/pnas/116/10/4416.full.pdf) Lateral transfers of large DNA fragments spread functional genes among grasses
