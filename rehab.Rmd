@@ -33,6 +33,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### August
 
+#### Friday August 17
+[Stankowski et al. 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000391) Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers
+
 #### Friday August 9
 [Yan et al. 2019](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.14376) Parallels between natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize
 
