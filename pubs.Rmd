@@ -97,7 +97,7 @@ Wei X,  Anderson SN,  Wang X,  Yang L, Crisp PA,  Li Q,  Noshay J, Albert PS, Bi
 </p></details>
 
 <br><details>
-    <summary>Adaptive phenotypic divergence in teosinte differs across biotic contexts
+    <summary>[Adaptive phenotypic divergence in teosinte differs across biotic contexts](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13818)
  [[preprint](https://www.biorxiv.org/content/10.1101/382770v2)]  
 **O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
 </summary>
