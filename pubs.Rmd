@@ -49,21 +49,12 @@ Click on a triangle for a brief summary of each paper.
 </p></details>
 
 <br><details>
-    <summary>Dynamic patterns of transcript abundance of transposable element families in maize [[preprint](
-https://www.biorxiv.org/content/10.1101/668558v1)]  
-Anderson SN, **Stitzer MC**, Zhou P, **Ross-Ibarra J**, Hirsch CD, Springer NM
-</summary>
-    <p style="margin-left: 30px">We develop an approach to estiamte family-level expression in transposable elements. While a relatively small proportion of TE families are transcribed, expression is highly dynamic with most families exhibiting tissue-specific expression. We also assay expression among different maize genotypes and use a mapping population to identify what proportion of copies in a family contribute to expression."
-</p></details>
-
-<br><details>
     <summary>The temporal dynamics of background selection in non-equilibrium populations [[preprint](https://www.biorxiv.org/content/10.1101/618389v1
 )]  
 Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**  
 </summary>
     <p style="margin-left: 30px">We use simulations to show that the effects of nonequilibrium population dynamics on linked selection differ qualitatively from predictions under equilibrium models, calling into question inferences about the efficacy of selection made from summary statistics."
 </p></details>
-
 
 
 <br><details>
@@ -79,6 +70,15 @@ Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**
 <br> 
 
 ### 2019  
+
+<br><details>
+    <summary>Dynamic patterns of transcript abundance of transposable element families in maize [[preprint](
+https://www.biorxiv.org/content/10.1101/668558v1)]  
+Anderson SN, **Stitzer MC**, Zhou P, **Ross-Ibarra J**, Hirsch CD, Springer NM
+</summary>
+    <p style="margin-left: 30px">We develop an approach to estiamte family-level expression in transposable elements. While a relatively small proportion of TE families are transcribed, expression is highly dynamic with most families exhibiting tissue-specific expression. We also assay expression among different maize genotypes and use a mapping population to identify what proportion of copies in a family contribute to expression."
+</p></details>
+
 
 <br><details>
     <summary>Transposable elements contribute to dynamic genome content in maize
