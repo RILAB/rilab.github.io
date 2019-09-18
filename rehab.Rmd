@@ -36,7 +36,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 [Gutaker et al. preprint](https://www.biorxiv.org/content/10.1101/748178v1) Genomic history and ecology of the geographic spread of rice
 
 #### Friday Sept 20
-TBA
+[Hämälä et al. 2019](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz206/5566251#.XX3Qn54_1Vo.twitter) Gene expression modularity reveals footprints of polygenic adaptation in Theobroma cacao
 
 #### Friday Sept 13
 [Booker et al. preprint](https://www.biorxiv.org/content/10.1101/742247v1) Global adaptation confounds the search for local adaptation
