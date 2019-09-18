@@ -173,7 +173,7 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;">
 <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Jeff is a Professor in the [Department of Plant Sciences](http://www.plantsciences.ucdavis.edu/plantsciences/) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).   
+Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).   
 <!-- break -->
 <br><br>
 <!-- break -->
@@ -235,20 +235,20 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 * [Wnebin Mei](https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en): Postdoc 2016-2018 (Scientist at Inari Agriculture)
 * [Anne Lorant](https://scholar.google.com/citations?user=mnHb3lYAAAAJ&hl=en): Lab manager, PhD student, postdoc 2013-2018 (Postdoc, UC Davis)
 * [Emily Josephs](https://josephslab.github.io): Postdoc 2015-2018 (Asst. Professor, MSU)
-* [Luis Avila](https://lmavila.github.io): Programmer 2016-2018 (IT Breeding Tool Project Leader, HM Clause)
+* [Luis Avila](https://lmavila.github.io): Programmer 2016-2018 (Research Scientist, Genentech)
 * [Anna O'Brien](https://annamobrien.wordpress.com): PhD Student 2011-2017 (Postdoc, U. Toronto)
 * [Jinliang Yang](http://jyanglab.com): Postdoc 2014-2017 (Assistant Professor, U. Nebraska)
 * [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017 
 * [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Associate Professor, West Shore Community College)
 * [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Dupont Pioneer)
-* [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Monsanto)
+* [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Indigo Ag)
 * Sayuri Tsukahara: Postdoc 2013-2015
 * [Tim Beissinger](https://www.uni-goettingen.de/en/599788.html): Postdoc 2014-2015 (Professor, U. Göttingen)
 * [Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (PhD Student, UCLA)
 * Nivaz Brar: Undergraduate 2014-2015
 * [Chris Fiscus](https://cjfiscus.github.io/): Undergraduate 2014 (PhD Student, UC Riverside)
 * [Tyler Kent](https://github.com/tvkent): Undergraduate 2013-2015 (PhD Student, U. Toronto)
-* [Vince Buffalo](http://www.vincebuffalo.com): Computational Biologist 2013-2014  (PhD Student, UC Davis)
+* [Vince Buffalo](http://www.vincebuffalo.com): Programmer 2013-2014  (PhD Student, UC Davis)
 * [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWS)
 * [Shohei Takuno](https://sites.google.com/site/shoheitakuno/): Postdoc 2012-2013 (Asst. Professor, SOKENDAI)
 * [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html): Postdoc 2010-2013 (Assoc. Professor, Iowa State)
@@ -286,6 +286,9 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 **Evolutionary Genetics of Transposable Elements**  
 
 * [Nathan Springer](https://cbs.umn.edu/springer-lab/home)
+* [Candice Hirsch](http://hirschlab.cfans.umn.edu)
+* [Emily Josephs](https://josephslab.github.io)
+* [Shawn Kaeppler](https://agronomy.wisc.edu/shawn-kaeppler/)
 
 **Dynamics of quantitative trait evolution and linked selection**  
 
@@ -299,17 +302,6 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 * [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
 * [Qi Sun](http://vivo.cornell.edu/display/individual24418)  
 * [Ed Buckler](http://www.maizegenetics.net)
-
-**Biology of rare alleles in maize and teosinte**
-
-* [Ed Buckler](http://www.maizegenetics.net)
-* [Peter Bradbury](http://www.panzea.org/peter-bradbury)
-* [John Doebley](http://teosinte.wisc.edu)
-* [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
-* [Jim Holland](http://www4.ncsu.edu/~jholland/homepage.htm)
-* [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
-* [Qi Sun](http://vivo.cornell.edu/display/individual24418)
-* [Doreen Ware](http://warelab.org)
 
 **Evolutionary genetics of highland adaptation in maize**
 
