@@ -118,7 +118,6 @@ Wei X,  Anderson SN,  Wang X,  Yang L, ...[**Bilinski P**,  **Stitzer MC**,  **R
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
 </p></details>  <br>
 
-
 <details>
     <summary>[Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize](https://peerj.com/articles/6815/)  [[preprint](https://peerj.com/preprints/27489/)]  
  Gonzalez-Segovia E,  Pérez-Limon S, C Cíntora-Martínez C,  Guerrero-Zavala A,  Jansen G,  Hufford MB, **Ross-Ibarra J**, Ruairidh J H Sawers
@@ -140,9 +139,24 @@ Wei X,  Anderson SN,  Wang X,  Yang L, ...[**Bilinski P**,  **Stitzer MC**,  **R
 
 **Taylor Perkins**
 
-  Perkins, M. Taylor, Tetyana Zhebentyayeva, Paul H. Sisco, and J. Hill Craddock. “Genome-wide sequence-based genotyping supports a nonhybrid origin of Castanea alabamensis.” bioRxiv (2019): 680371.  
+  Perkins, M. Taylor, Tetyana Zhebentyayeva, Paul H. Sisco, and J. Hill Craddock. “Genome-wide sequence-based genotyping supports a nonhybrid origin of Castanea alabamensis.” bioRxiv (2019): 680371.   
 
-  Craddock, J. Hill, and M. Taylor Perkins. “Chestnut (Castanea spp. Miller) Breeding.” In Advances in Plant Breeding Strategies, vol. 4. (J.M. Al-Khayri et al., eds.)(in press), 55 pages. Springer Nature Switzerland AG, Basel.
+  Craddock, J. Hill, and M. Taylor Perkins. “Chestnut (Castanea spp. Miller) Breeding.” In Advances in Plant Breeding Strategies, vol. 4. (J.M. Al-Khayri et al., eds.)(in press), 55 pages. Springer Nature Switzerland AG, Basel.  
+
+**Michelle Stitzer**
+
+  Roessler, Kyria, Aline Muyle, Concepcion M. Diez, Garren RJ Gaut, Alexandros Bousios, Michelle C. Stitzer, Danelle K. Seymour, John F. Doebley, Qingpo Liu, and Brandon S. Gaut. "The genome-wide dynamics of purging during selfing in maize." Nature plants (2019): 1-11.  
+  
+  Noshay, Jaclyn M., Sarah N. Anderson, Peng Zhou, Lexiang Ji, William Ricci, Zefu Lu, Michelle C. Stitzer et al. "Monitoring the interplay between transposable element families and DNA methylation in maize." PLoS genetics 15, no. 9 (2019): e1008291.
+Harvard	 
+
+  Marcela K. Tello-Ruiz, Cristina F. Marco, Fei-Man Hsu, Rajdeep S. Khangura, Pengfei Qiao, Sirjan Sapkota, Michelle C. Stitzer, Rachael Wasikowski, Hao Wu, Junpeng Zhan, Kapeel Chougule, Lindsay C. Barone, Cornel Ghiban, Demitri Muna, Andrew C. Olson, Liya C. Wang, Doreen C. Ware, David A. Micklos
+bioRxiv 654848; doi: https://doi.org/10.1101/654848  
+
+  Stitzer, Michelle C., and Philipp Brand. "Digest: Hybrid incompatibilities and introgression in wild monkeyflowers." Evolution 72, no. 11 (2018): 2565-2566.
+Harvard	 
+
+  
 
 </p></details> 
 <br>  
