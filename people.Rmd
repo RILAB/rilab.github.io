@@ -203,8 +203,7 @@ Cathy is a postdoctoral scholar working on the genomics and quantitative genetic
 <a href="https://orcid.org/0000-0003-4140-3765"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=NkohZq4AAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
-
-Michelle is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/), working on the population genetics of transposable elements in maize and Arabidopsis as part of the [maize diversity project](http://www.panzea.org/#!michelle-stitzer/c121o).  
+Michelle is a postdoctoral fellow working on the population genetics of transposable elements in maize as part of our grant on [TE variation in maize](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934384&HistoricalAwards=false) .  
 <!-- break -->
 <br>
 <!-- break -->
