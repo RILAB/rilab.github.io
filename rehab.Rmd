@@ -32,6 +32,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2019
 
 ### October
+
+#### Friday Oct 18
+
+[Muyle et al. preprint](https://www.biorxiv.org/content/10.1101/777037v1) Gene capture by transposable elements leads to epigenetic conflict
+
 #### Friday Oct 11
 
 [Samuk et al. preprint](https://www.biorxiv.org/content/biorxiv/early/2019/09/30/787382.full.pdf) Natural selection shapes variation in genome-wide recombination rate in Drosophila pseudoobscura
