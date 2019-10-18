@@ -86,7 +86,7 @@ Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**
 ### 2019  
 
 <br><details>
-    <summary>Dynamic patterns of transcript abundance of transposable element families in maize [[preprint](
+    <summary>[Dynamic patterns of transcript abundance of transposable element families in maize](http://www.g3journal.org/cgi/pmidlookup?view=long&pmid=31506319) [[preprint](
 https://www.biorxiv.org/content/10.1101/668558v1)]  
 Anderson SN, **Stitzer MC**, Zhou P, **Ross-Ibarra J**, Hirsch CD, Springer NM
 </summary>
@@ -95,7 +95,7 @@ Anderson SN, **Stitzer MC**, Zhou P, **Ross-Ibarra J**, Hirsch CD, Springer NM
 
 
 <br><details>
-    <summary>Transposable elements contribute to dynamic genome content in maize
+    <summary>[Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)
  [[preprint](https://www.biorxiv.org/content/10.1101/547398v1?rss=1)]  
  Anderson SN,  **Stitzer MC**,  Brohammer AB, Peng Zhou P, Noshay JM,  Hirsch CD,  **Ross-Ibarra J**,  Hirsch CN,  Springer NM
 </summary>
@@ -103,7 +103,7 @@ Anderson SN, **Stitzer MC**, Zhou P, **Ross-Ibarra J**, Hirsch CD, Springer NM
 </p></details>
 
 <br><details>
-    <summary>Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize
+    <summary>[Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize](https://www.genetics.org/content/213/1/143)
 [[preprint](https://www.biorxiv.org/content/10.1101/588715v1)]  
 Wei X,  Anderson SN,  Wang X,  Yang L, ...[**Bilinski P**,  **Stitzer MC**,  **Ross-Ibarra J** and 4 other authors]...  Flint-Garcia S,  Chen X,  Springer NM, Doebley JF
 </summary>
