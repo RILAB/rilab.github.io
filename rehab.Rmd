@@ -37,7 +37,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### Friday Nov 22
 
-[McClintock 1950](https://www.pnas.org/content/pnas/36/6/344.full.pdf) THE ORIGIN AND BEHAVIOR OF MUTABLE LOCI IN MAIZE
+[McClintock 1984](https://www.jstor.org/stable/1693251) The Significance of Responses of the Genome to Challenge
 
 #### Friday Nov 15
 [Zhao et al. 2019](https://www.nature.com/articles/s41467-019-12133-5?fbclid=IwAR0SU-1KHqKm183Au7M7w3wd5LkENycs4fSBgJfK3ppHw4lohLBeu6pq6oU) Resequencing 545 ginkgo genomes across the world reveals the evolutionary history of the living fossil
