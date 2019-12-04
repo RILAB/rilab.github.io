@@ -193,20 +193,6 @@ Cathy is a postdoctoral scholar working on the genomics and quantitative genetic
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/stitzer.jpg" style="border:10px solid white" width="100px"></a>
-</div>
-**Michelle Stitzer** 
-<a href="http://mcstitzer.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
-<a href="https://twitter.com/mcstitzer"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href="http://github.com/mcstitzer"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-<a href="https://orcid.org/0000-0003-4140-3765"><img src="images/orcid.png" style="width: 15px;"></a>
-<a href="https://scholar.google.com/citations?user=NkohZq4AAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
-
-Michelle is a postdoctoral fellow working on the population genetics of transposable elements in maize as part of our grant on [TE variation in maize](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934384&HistoricalAwards=false) .  
-<!-- break -->
-<br>
-<!-- break -->
 
 <div style="float: left">
 <img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" style="border:10px solid white" width="100px"></a>
@@ -224,10 +210,27 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 <br>
 <!-- break -->
 
+
+<div style="float: left">
+<img src="images/abstract-user-flat-3.png" style="border:10px solid white" width="100px"></a>
+</div>
+**Ning Yang** 
+<a href=""><img src="images/Home_icon_black.png" style="width: 15px;"></a>
+<a href=""><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href=""><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href=""><img src="images/orcid.png" style="width: 15px;"></a>
+<a href=""><img src="images/scholar.png" style="width: 30px;"></a>
+
+Ning is a postdoctoral fellow working on admixture between maize and teosinte.  
+<!-- break -->
+<br>
+<!-- break -->
+
 </div>
 
 ## Lab Alumni
 
+* [Michelle Stitzter](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
 * [Dianne Velasco](https://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl=en) PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm Repository)
 * [Li Wang](https://scholar.google.com/citations?user=yGEvdz0AAAAJ&hl=en): Postdoc 2018-2019 (Research Scientist, Agricultural Genomics Institute Shenzhen)
 * [Markus Stetter](https://www.cropevolution.org): Postdoc 2017-2019 (Asst. Group Leader, U. Köln)
