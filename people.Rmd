@@ -212,14 +212,11 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 
 
 <div style="float: left">
-<img src="images/abstract-user-flat-3.png" style="border:10px solid white" width="100px"></a>
+<img src="images/ningyang.JPG" style="border:10px solid white" width="100px"></a>
 </div>
 **Ning Yang** 
-<a href=""><img src="images/Home_icon_black.png" style="width: 15px;"></a>
-<a href=""><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href=""><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-<a href=""><img src="images/orcid.png" style="width: 15px;"></a>
-<a href=""><img src="images/scholar.png" style="width: 30px;"></a>
+<a href="https://twitter.com/NingYang9"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://orcid.org/0000-0002-6354-3534"><img src="images/orcid.png" style="width: 15px;"></a>
 
 Ning is a postdoctoral fellow working on admixture between maize and teosinte.  
 <!-- break -->
