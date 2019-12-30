@@ -29,10 +29,21 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
+## 2020
+
+### January
+
+#### Friday Jan. 3
+
+[Johri 2019](https://www.biorxiv.org/content/10.1101/2019.12.18.881516v1) Towards an evolutionarily appropriate null model: jointly inferring demography and purifying selection.
+
 ## 2019
 
 ### December
 
+#### Friday Dec. 20 
+
+[Bierne 2010](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2010.01050.x) The distinctive footprints of local hitchhiking in a varied environment and global hitchhiking in a subdivided population
 
 #### Friday Dec. 13 
 
