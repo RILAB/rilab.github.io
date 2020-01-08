@@ -209,7 +209,7 @@ Cathy is a postdoctoral scholar working on the genomics and quantitative genetic
 <div style="float: left">
 <img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" style="border:10px solid white" width="100px"></a>
 </div>
-**Silas Tittes**  
+**Silas Tittes**
 <a href="https://www.linkedin.com/in/silas-tittes-4b41106b/"><img src="images/lin.png" style="width: 15px;"></a>
 <a href="https://twitter.com/silastittes"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/silastittes"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
