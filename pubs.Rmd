@@ -67,13 +67,6 @@ Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, **R
 </p></details>
 
 <br><details>
-    <summary>Evolutionary insights into plant breeding  [[preprint](https://agrixiv.org/akdt8)]  
-**Turner-Hissong SD**, Mabry ME, Beissinger TM, **Ross-Ibarra J**, Pires JC
-</summary>
-    <p style="margin-left: 30px">Crop domestication is a fascinating area of study, as evidencedby a multitude of recent reviews. Coupled with the increasing availability of genomic and phenomic resources in numerous crop species, insights from evolutionary biology will enable a deeper understanding of the genetic architecture and short-term evolution of complex traits, which can be used to inform selection strategies. Future advances in crop improvement will rely on the integration of population genetics with  plant  breeding  methodology,  and  the  development  of  community  resources  to  support research in a variety of crop life histories and reproductive strategies. We highlight recent advances in the role of selective sweeps and demographic history in shaping genetic architecture, how these breakthroughs can inform selection strategies, and the application of precision gene editing to leverage these connections."
-</p></details>
-
-<br><details>
     <summary>Single gene resolution of locally adaptive genetic variation in Mexican maize [[preprint](https://www.biorxiv.org/content/10.1101/706739v1)]  
 **Gates DJ**, Runcie D, Janzen GM, Romero Navarro A ...[4 authors]... Buckler ES, Hearne S, Hufford MB, **Ross-Ibarra J**  
 </summary>
@@ -91,6 +84,13 @@ Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, **R
 <br> 
 
 ### 2020
+
+<br><details>
+    <summary>Evolutionary insights into plant breeding  [[preprint](https://agrixiv.org/akdt8)]  
+**Turner-Hissong SD**, Mabry ME, Beissinger TM, **Ross-Ibarra J**, Pires JC
+</summary>
+    <p style="margin-left: 30px">Crop domestication is a fascinating area of study, as evidencedby a multitude of recent reviews. Coupled with the increasing availability of genomic and phenomic resources in numerous crop species, insights from evolutionary biology will enable a deeper understanding of the genetic architecture and short-term evolution of complex traits, which can be used to inform selection strategies. Future advances in crop improvement will rely on the integration of population genetics with  plant  breeding  methodology,  and  the  development  of  community  resources  to  support research in a variety of crop life histories and reproductive strategies. We highlight recent advances in the role of selective sweeps and demographic history in shaping genetic architecture, how these breakthroughs can inform selection strategies, and the application of precision gene editing to leverage these connections."
+</p></details>
 
 <br><details>
     <summary>The temporal dynamics of background selection in non-equilibrium populations [[preprint](https://www.biorxiv.org/content/10.1101/618389v1
