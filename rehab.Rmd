@@ -31,7 +31,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2020
 
+<!-- [Lesaffre and Billiard preprint](https://www.biorxiv.org/content/10.1101/865220v1) On deleterious mutations in perennials: inbreeding depression, mutation load and life-history evolution -->
+
 ### January
+
+#### Friday Jan. 31
+[Battey et al. preprint](https://www.biorxiv.org/content/10.1101/659235v2) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data
+
+#### Friday Jan. 24
+[Xu et al. manuscript](https://rilab.slack.com/files/U0DUKG5FE/FSQPH51TM/methylome_gen-2.pdf) Adaptive evolution of DNA methylation reshaped gene regulation in maize
 
 #### Friday Jan. 17
 

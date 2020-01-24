@@ -61,20 +61,6 @@ Dan is a postdoctoral scholar who studies adaptive introgression and local adapt
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/hissong_photo.png" style="border:10px solid white" width="100px"></a>
-</div>
-**Sarah Hissong** 
-<a href="https://mishaploid.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
-<a href="https://twitter.com/mishaploid"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href="http://github.com/mishaploid"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-<a href="https://orcid.org/0000-0002-0961-0767"><img src="images/orcid.png" style="width: 15px;"></a>
-<a href="https://scholar.google.com/citations?user=Va1vGdYAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>
-
-Sarah is a [NSF postdoctoral fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1711347&HistoricalAwards=false) and the Linnean Fellow of Oleraceous Genetics.  She works on the population and quantitative genetics of Brassica.  
-<!-- break -->
-<br>
-<!-- break -->
 
 <div style="float: left">
 <img src="images/asher.jpg" style="border:10px solid white" width="100px"></a>
@@ -239,6 +225,7 @@ Ning is a postdoctoral fellow working on admixture between maize and teosinte.
 
 ## Lab Alumni
 
+* [Sarah Turner-Hissong](https://mishaploid.github.io): Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)
 * [Michelle Stitzter](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
 * [Dianne Velasco](https://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl=en) PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm Repository)
 * [Li Wang](https://scholar.google.com/citations?user=yGEvdz0AAAAJ&hl=en): Postdoc 2018-2019 (Research Scientist, Agricultural Genomics Institute Shenzhen)
