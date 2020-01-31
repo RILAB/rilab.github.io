@@ -33,6 +33,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- [Lesaffre and Billiard preprint](https://www.biorxiv.org/content/10.1101/865220v1) On deleterious mutations in perennials: inbreeding depression, mutation load and life-history evolution -->
 
+### February Feb 28
+
+[Chen et al 2020](pdfs/IBDmix-cell.pdf) Identifying and Interpreting Apparent Neanderthal Ancestry in African Individuals
+
+#### Friday Feb. 21
+
+[Aguirre-Liguori et al. 2019](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0486?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#d3e580) Climate change is predicted to disrupt patterns of local adaptation in wild and cultivated maize.
+
+#### Friday Feb. 7
+
+[Brown and Kelly 2019](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13876) Severe inbreeding depression is predicted by the “rare allele load” in **Mimulus guttatus**
+
 ### January
 
 #### Friday Jan. 31

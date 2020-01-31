@@ -9,6 +9,10 @@
 
 </script>
 
+### 2020
+
+* JRI on [Radiolab](https://www.wnycstudios.org/podcasts/radiolab/articles/body-count) explaining corn time.
+
 ### 2019
 
 * Nice [write-up in Science](https://science.sciencemag.org/content/365/6460/1415.1) on the [hybrid decay paper](https://www.genetics.org/content/213/1/143) we collaborated on.
