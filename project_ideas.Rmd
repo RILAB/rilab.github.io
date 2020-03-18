@@ -10,7 +10,7 @@ output: html_document
 
 ### Estimate migration surface for maize Mexico
 
-* Uses [SEEDs]Gates](https://www.biorxiv.org/content/10.1101/706739v1) data of ~2500 landraces in Mexico
+* Uses [SEEDs](https://www.biorxiv.org/content/10.1101/706739v1) data of ~2500 landraces in Mexico
 * Run [Petkova 2016](https://www.nature.com/articles/ng.3464) or similar methods
 
 ### Recent bottlenecks due to European contact
@@ -20,7 +20,7 @@ output: html_document
 
 ### Geographic distribution of incompatibility loci
 
-* Uses public data on teosintes from [Swarts et al](https://science.sciencemag.org/content/357/6350/512.abstract) and [SEEDs]Gates](https://www.biorxiv.org/content/10.1101/706739v1)
+* Uses public data on teosintes from [Swarts et al](https://science.sciencemag.org/content/357/6350/512.abstract) and [SEEDs](https://www.biorxiv.org/content/10.1101/706739v1)
 * Align to published cloned sequences of [tcb1](https://www.nature.com/articles/s41467-019-10259-0) and [ga1 female](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5684833/) and [ga1 male](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131150/)
 
 ### Dating everything
