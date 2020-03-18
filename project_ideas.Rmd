@@ -1,0 +1,19 @@
+---
+title: "Project Ideas"
+output: html_document
+---
+
+### Genetic Architecture of Adaptation
+
+* Uses existing GWAS and demographic model.
+* Build CNN to predict parameters of an optimum shift model [Stetter 2018](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1007794)
+
+### Estimate migratino surface maize Mexico
+
+* Uses SEEDs data of ~2500 landraces in Mexico
+* Run [Petkova 2016](https://www.nature.com/articles/ng.3464) or similar methods
+
+### Recent bottlenecks due to European contact
+
+* Uses landrace data from C2 (unpublished) or other samples
+* [IBD](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007385) or other approaches to identify recent bottleneck
