@@ -27,3 +27,7 @@ output: html_document
 
 * Uses [Albers](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000586) to build model to date SNPs
 * Estimate age of lots of cool SNPs -- tga1, etc.
+
+### Driving miss genome
+* Uses new assembly of [Ab10](https://www.biorxiv.org/content/10.1101/2020.01.14.906230v2.full.pdf) to determine reads that can be used to genotype kindr and trkin. 
+* Do GWAS on flowering time, other traits, association with elevation, population frequencies, etc. of drive loci.
