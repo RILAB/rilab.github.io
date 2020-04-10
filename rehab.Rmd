@@ -40,7 +40,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### April
 
-### Friday Apr 3
+#### Friday Apr 17
+
+[Thompson 2020](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/708722) Experimental hybridization studies suggest that pleiotropic alleles commonly underlie adaptive divergence between natural populations
+
+#### Friday April 10
+
+[Hamlin et a l. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.159#.Xl58IugRs38.twitter) Assessing biological factors affecting postspeciation introgression
+
+
+#### Friday Apr 3
 
 [Khromov and Morozov preprint](https://www.biorxiv.org/content/10.1101/2020.02.12.946392v1.abstract) Widespread selection against deleterious mutations in the Drosophila genome
 
