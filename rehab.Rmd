@@ -38,7 +38,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- [Baduel et al. 2019](https://www.nature.com/articles/s41467-019-13730-0.pdf) Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation -->
 
+### May
+
+#### Friday May 1
+
+[Kiefer et al. 2019](https://www.nature.com/articles/s41477-019-0486-9) Interspecies association mapping links reduced CG to TG substitution rates to the loss of gene-body methylation
+
 ### April
+
+#### Friday Apr 24
+
+[Voichek Weigel 2020](https://www.nature.com/articles/s41588-020-0612-7#Bib1) Identifying genetic variants underlying phenotypic variation in plants without complete genomes
 
 #### Friday Apr 17
 
