@@ -89,13 +89,13 @@ We identify thousands of SNPs that exhibit allele frequency differences larger t
 Although we were unable to uncover more details about the mode of selection, we conclude that while landrace DH lines may be a valuable tool for the introduction of variation into maize breeding programs they come at the cost of decreased genetic diversity and increased genetic load.
 </p></details>
 
-<!-- <br><details> -->
-<!--   <summary>Genome-wide selection and genetic improvement during modern maize breeding   -->
-<!-- Wang B, Lin Z, Li X, Zhao Y ...[17 authors]... Hufford MB, **Ross-Ibarra J**, He H, Wang H.   -->
-<!-- </summary> -->
-<!--     <p style="margin-left: 30px"> -->
-<!--     Modern crop breeding has made a profound impact on food production to sustain population growth during the past century; however, systematic analyses of the genomic basis underlying the dramatic increase in crop yields during modern breeding remain limited in scope. Here we report an analysis of the genomic and phenotypic changes associated with modern maize breeding across a chronological sampling of 350 elite inbred lines representing multiple eras of both Chinese and U.S. germplasm. We document a number of convergent phenotypic changes in both countries. Using genome-wide association and selection scan methods, we identify 160 loci underlying adaptive agronomic phenotypes and more than 1,800 genomic regions representing the targets of selection during modern breeding. We functionally validate two candidate genes underpinning variation in ear height and tassel branch number using CRISPR knockout mutants. In sum, this work demonstrates the utility of breeding-era approach for identifying breeding signatures and lays the foundation for future genomics-enabled maize breeding." -->
-<!-- </p></details> -->
+<br><details>
+  <summary>[Genome-wide selection and genetic improvement during modern maize breeding](https://drive.google.com/file/d/1UxPN_Yf2HQ0OOJdqbP537Bwxlm2N1EkL/view?usp=sharing)  
+Wang B, Lin Z, Li X, Zhao Y ...[17 authors]... Hufford MB, **Ross-Ibarra J**, He H, Wang H.
+</summary>
+    <p style="margin-left: 30px">
+    Modern crop breeding has made a profound impact on food production to sustain population growth during the past century; however, systematic analyses of the genomic basis underlying the dramatic increase in crop yields during modern breeding remain limited in scope. Here we report an analysis of the genomic and phenotypic changes associated with modern maize breeding across a chronological sampling of 350 elite inbred lines representing multiple eras of both Chinese and U.S. germplasm. We document a number of convergent phenotypic changes in both countries. Using genome-wide association and selection scan methods, we identify 160 loci underlying adaptive agronomic phenotypes and more than 1,800 genomic regions representing the targets of selection during modern breeding. We functionally validate two candidate genes underpinning variation in ear height and tassel branch number using CRISPR knockout mutants. In sum, this work demonstrates the utility of breeding-era approach for identifying breeding signatures and lays the foundation for future genomics-enabled maize breeding."
+</p></details>
 
 <br><details>  
 <summary>[Evolutionary insights into plant breeding](https://www.sciencedirect.com/science/article/pii/S1369526620300339) [[preprint](https://agrixiv.org/akdt8)]  
