@@ -4,6 +4,8 @@ output: html_document
 ---
 
 ## General TE biology
+* [Long-term evolution of transposable elements](https://www.pnas.org/content/104/49/19375)
+* [On the Population Dynamics of Junk: A Review on the Population Genomics of Transposable Elements](https://www.mdpi.com/2073-4425/10/6/419)
 * [How important are transposons for plant evolution?](https://www.nature.com/articles/nrg3374)
 
 ## Maize TEs
@@ -11,5 +13,11 @@ output: html_document
 * [Dynamic Patterns of Transcript Abundance of Transposable Element Families in Maize](https://www.g3journal.org/content/9/11/3673)
 * [The Genomic Ecosystem of Transposable Elements in Maize](https://www.biorxiv.org/content/10.1101/559922v1)
 
-## General TE popgen
-* [Long-term evolution of transposable elements](https://www.pnas.org/content/104/49/19375)
+## Other Empirical Systems
+
+#### Drosophila
+* [Population Genomics of Transposable Elements in Drosophila](https://www.annualreviews.org/doi/10.1146/annurev-genet-120213-092359)
+
+#### Arabidopsis
+* [The Arabidopsis thaliana mobilome and its impact at the species level](https://elifesciences.org/articles/15716)
+* [Population scale mapping of transposable element diversity reveals links to gene regulation and epigenomic variation](https://elifesciences.org/articles/20777)
