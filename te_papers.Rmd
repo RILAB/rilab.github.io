@@ -1,0 +1,17 @@
+---
+title: "te_papers"
+output: html_document
+---
+
+# TE Papers
+
+
+## General TE biology
+* [The Genomic Ecosystem of Transposable Elements in Maize](https://www.biorxiv.org/content/10.1101/559922v1)
+
+## Maize TEs
+* [Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)  
+* [Dynamic Patterns of Transcript Abundance of Transposable Element Families in Maize](https://www.g3journal.org/content/9/11/3673)
+
+## General TE popgen
+* [Long-term evolution of transposable elements](https://www.pnas.org/content/104/49/19375)
