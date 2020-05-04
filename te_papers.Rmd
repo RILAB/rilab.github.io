@@ -7,6 +7,8 @@ output: html_document
 * [Long-term evolution of transposable elements](https://www.pnas.org/content/104/49/19375)
 * [On the Population Dynamics of Junk: A Review on the Population Genomics of Transposable Elements](https://www.mdpi.com/2073-4425/10/6/419)
 * [How important are transposons for plant evolution?](https://www.nature.com/articles/nrg3374)
+* [Sure Facts, Speculations, and Open Questions About the Evolution of Transposable Element Copy Number](https://pubmed.ncbi.nlm.nih.gov/10952206/)
+* [The Selfishness of Law-Abiding Genes](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30191-X#)
 
 ## Maize TEs
 * [Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)  
