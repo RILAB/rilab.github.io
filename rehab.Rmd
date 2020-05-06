@@ -40,6 +40,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### May
 
+#### Friday May 8
+
+[MacPherson et al. 2020](https://www.biorxiv.org/content/10.1101/2020.04.28.066308v1) Parental population range expansion before secondary contact promotes heterosis
+
 #### Friday May 1
 
 [Kiefer et al. 2019](https://www.nature.com/articles/s41477-019-0486-9) Interspecies association mapping links reduced CG to TG substitution rates to the loss of gene-body methylation
