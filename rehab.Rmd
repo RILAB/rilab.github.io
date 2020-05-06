@@ -33,10 +33,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- Dominance effects and functional enrichments improve prediction of agronomic traits in hybrid maize -->
 
-
 <!-- [Ramachandran et al. preprint](https://www.biorxiv.org/content/10.1101/2020.03.05.978643v1?rss=1&utm_source=dlvr.it&utm_medium=twitter) Evolutionary dynamics of transposable elements following a shared polyploidization event in the tribe Andropogoneae -->
 
 <!-- [Baduel et al. 2019](https://www.nature.com/articles/s41467-019-13730-0.pdf) Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation -->
+
+
+<!-- [Kyriazis et al. 2019](https://www.biorxiv.org/content/10.1101/678524v1) High genetic diversity can contribute to extinction in small populations -->
 
 ### May
 
