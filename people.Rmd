@@ -109,6 +109,23 @@ Sean is an undergraduate working on background selection in maize.
 <br><br><br>
 <!-- break -->
 
+
+<div style="float: left">
+<img src="images/MeWthCone.jpg" style="border:10px solid white" width="100px"></a>
+</div>
+**Mitra Menon**
+<a href="https://github.com/mitramenon"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0003-2263-9764"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
+
+Mitra is a postdoctoral scholar and the lab Linnean Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
+
+<!-- break -->
+<br>
+<!-- break -->
+
+
+
 <div style="float: left">
 <img src="images/odell.jpg" style="border:10px solid white" width="100px"></a>
 </div>
