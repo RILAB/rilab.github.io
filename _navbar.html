@@ -1,0 +1,40 @@
+<script>
+  window.onload = choosePic;
+  var myPix = new Array("images/image1.jpg","images/image2.jpg","images/image3.jpg","images/image4.jpg","images/image5.jpg","images/image6.jpg","images/image7.jpg","images/image8.jpg","images/image8.jpg","images/image10.jpg");
+  function choosePic() {
+     var randomNum = Math.floor(Math.random() * myPix.length);
+     document.getElementById("myPicture").src = myPix[randomNum];
+  }
+</script>
+
+<div class="navbar navbar-default  navbar-float-top" role="navigation">
+    <div class="container" overflow="auto" align="left" style="width: inherit;">
+      <img id="myPicture" alt="Brand" src="" align='center'>
+    </div>
+
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+
+      </button>
+
+      <a class="navbar-brand" href="index.html">Ross-Ibarra Lab</a>
+    </div>
+
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav" align="center">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="pubs.html">Publications</a></li>
+        <li><a href="https://github.com/RILAB/lab-docs/wiki">Lab Docs</a></li>
+        <li><a href="rehab.html">R.E.H.A.B</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="press.html">Press</a></li>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
