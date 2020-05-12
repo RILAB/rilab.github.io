@@ -40,9 +40,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### May
 
-#### Friday May 8
+#### Friday May 15
 
 [Baduel et al. 2019](https://www.nature.com/articles/s41467-019-13730-0.pdf) Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation 
+
+#### Friday May  8
+
+[Monroe et al. manuscript](mailto:rossibarra@ucdavis.edu) Is mutation rate variation across the Arabidopsis thaliana genome adaptive? (email/slack JRI for copy)
 
 #### Friday May 1
 
