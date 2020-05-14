@@ -56,7 +56,7 @@ Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, **R
 
 <br><details>
     <summary>The Genomic Ecosystem of Transposable Elements in Maize 
-[[preprint](https://www.biorxiv.org/content/10.1101/559922v1)] [[interactive](https://mcstitzer.shinyapps.io/maize_te_families/)]   
+[[preprint](https://www.biorxiv.org/content/10.1101/559922v1)][[github](https://github.com/mcstitzer/maize_genomic_ecosystem)] [[interactive](https://mcstitzer.shinyapps.io/maize_te_families/)]   
 **Stitzer MC**,   Anderson SN,  Springer NM,  **Ross-Ibarra J**
 </summary>
     <p style="margin-left: 30px">We describe the ecosystem of transposable elements within the maize genome, revealing how different transposable element families occupy different niches, much like species within an ecosystem.
@@ -76,7 +76,7 @@ Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, **R
 
 <br><details>
     <summary>Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landraces
- [[preprint](https://www.biorxiv.org/content/10.1101/817791v1)]  
+ [[preprint](https://www.biorxiv.org/content/10.1101/817791v1)][[github](https://github.com/LZeitler/eurodh-scripts/blob/master/README.org)]  
 **Zeitler L**, **Ross-Ibarra J**, **Stetter MGS**
 </summary>
     <p style="margin-left: 30px"> Maize landraces are well adapted to their local environments and present valuable sources of genetic diversity for breeding and conservation.
@@ -106,7 +106,7 @@ Wang B, Lin Z, Li X, Zhao Y ...[17 authors]... Hufford MB, **Ross-Ibarra J**, He
 
 <br><details>
     <summary>[The temporal dynamics of background selection in non-equilibrium populations](https://www.genetics.org/content/214/4/1019) [[preprint](https://www.biorxiv.org/content/10.1101/618389v1
-)]  
+)][[github](https://github.com/RILAB/BGS_sims/)]  
 Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**  
 </summary>
     <p style="margin-left: 30px">We use simulations to show that the effects of nonequilibrium population dynamics on linked selection differ qualitatively from predictions under equilibrium models, calling into question inferences about the efficacy of selection made from summary statistics.

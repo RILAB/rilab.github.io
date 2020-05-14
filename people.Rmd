@@ -118,7 +118,7 @@ Sean is an undergraduate working on background selection in maize.
 <a href="https://orcid.org/0000-0003-2263-9764"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
-Mitra is a postdoctoral scholar and the lab Linnean Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
+Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
 
 <!-- break -->
 <br>
@@ -191,7 +191,7 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 <a href="https://orcid.org/0000-0003-0715-1234"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=L9MNZEQAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Cathy is a postdoctoral scholar working on the genomics and quantitative genetics of recombination rate variation in maize and teosinte as part of the [maize diversity project](http://www.panzea.org).  
+Cathy is the lab's Irene Manton Postdoctoral Fellow for Plant Hybridization, working on the evolution of reproductive incompatibilities between maize and teosinte with collaborator [Yaniv Brandvain](https://brandvainlab.wordpress.com).  
 <!-- break -->
 <br>
 <!-- break -->
@@ -221,7 +221,7 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 <a href="https://twitter.com/NingYang9"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://orcid.org/0000-0002-6354-3534"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Ning is a postdoctoral scholar and the lab E.S. Anderson Hybridization Fellow, working to document hybridiziation and admixture between maize and wild teosinte.  
+Ning is the lab's E.S. Anderson Postdoctoral Fellow, working to document hybridiziation and admixture between maize and wild teosinte.  
 <!-- break -->
 <br>
 <!-- break -->
