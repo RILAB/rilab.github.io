@@ -70,7 +70,7 @@ Dan is the lab's CKH Postdoctoral Fellow for Local Adaptation, studying local ad
 <a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on genotype by envrionment interaction in maize as part of the [maize diversity project](http://www.panzea.org).  
+Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on genotype by environment interaction in maize as part of the [maize diversity project](http://www.panzea.org).  
 <!-- break -->
 <br>
 <!-- break -->
