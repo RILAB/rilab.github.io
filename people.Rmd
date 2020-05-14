@@ -56,7 +56,7 @@ Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https:/
 <a href="https://github.com/danjgates"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0001-8433-833X"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Dan is a postdoctoral scholar who studies adaptive introgression and local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.  
+Dan is the lab's CKH Postdoctoral Fellow for Local Adaptation, studying local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.  
 <!-- break -->
 <br>
 <!-- break -->
@@ -121,7 +121,7 @@ Sean is an undergraduate working on background selection in maize.
 Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
 
 <!-- break -->
-<br>
+<br><br><br>
 <!-- break -->
 
 
