@@ -3,48 +3,41 @@ title: "TE Papers"
 output: html_document
 ---
 
-<!-- perhaps heretical but I like it -->
-<!-- https://science.sciencemag.org/content/338/6108/758.long -->
-
-<!-- begin to appreciate maize diversity -->
-<!-- https://www.pnas.org/content/103/47/17644 -->
-
-<!-- plants -->
-<!-- http://www.plantcell.org/content/9/9/1509.long -->
-
-<!-- fly popgen -->
-<!-- https://www.pnas.org/content/104/27/11340 -->
-
-<!-- thaliana popgen -->
-<!-- https://genome.cshlp.org/content/13/8/1897.long -->
-
 <!-- still some problems, brachypodium -->
 <!-- https://academic.oup.com/gbe/article/10/1/304/4769669 -->
 
 
 ## General TE biology
-* [Long-term evolution of transposable elements](https://www.pnas.org/content/104/49/19375)
-* [On the Population Dynamics of Junk: A Review on the Population Genomics of Transposable Elements](https://www.mdpi.com/2073-4425/10/6/419)
-* [Ten things you should know about transposable elements](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1577-z)
-* [How important are transposons for plant evolution?](https://www.nature.com/articles/nrg3374)
-* [Sure Facts, Speculations, and Open Questions About the Evolution of Transposable Element Copy Number](https://pubmed.ncbi.nlm.nih.gov/10952206/)
-* [The Selfishness of Law-Abiding Genes](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30191-X#)
+*[Long-term evolution of transposable elements](https://www.pnas.org/content/104/49/19375)
+*[On the Population Dynamics of Junk: A Review on the Population Genomics of Transposable Elements](https://www.mdpi.com/2073-4425/10/6/419)
+*[Ten things you should know about transposable elements](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1577-z)
+*[How important are transposons for plant evolution?](https://www.nature.com/articles/nrg3374)
+*[Sure Facts, Speculations, and Open Questions About the Evolution of Transposable Element Copy Number](https://pubmed.ncbi.nlm.nih.gov/10952206/)
+*[The Selfishness of Law-Abiding Genes](https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30191-X#)
+*[A triptych of the evolution of plant transposable elements](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(10)00096-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138510000968%3Fshowall%3Dtrue)
+*[Do Plants Have a One-Way Ticket to Genomic Obesity?](http://www.plantcell.org/content/9/9/1509.long)  
+*[Transposable Elements, Epigenetics, and Genome Evolution](https://science.sciencemag.org/content/338/6108/758.long)  
 
 ## TE Popgen
-* [The population dynamics of transposable elements](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B3815EB0AE7CDB71B27FDAE08A282B8A/S0016672300021455a.pdf/population_dynamics_of_transposable_elements.pdf)
-* [Epigenetic Silencing of Transposable Elements: A Trade-Off Between Reduced Transposition and Deleterious Effects on Neighboring Gene Expression](https://pubmed.ncbi.nlm.nih.gov/19478138/) 
+*[The population dynamics of transposable elements](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B3815EB0AE7CDB71B27FDAE08A282B8A/S0016672300021455a.pdf/population_dynamics_of_transposable_elements.pdf)
+*[Epigenetic Silencing of Transposable Elements: A Trade-Off Between Reduced Transposition and Deleterious Effects on Neighboring Gene Expression](https://pubmed.ncbi.nlm.nih.gov/19478138/) 
+*[](https://science.sciencemag.org/content/338/6108/758.long)
 
-## Maize TEs
-* [Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)  
-* [Dynamic Patterns of Transcript Abundance of Transposable Element Families in Maize](https://www.g3journal.org/content/9/11/3673)
-* [The Genomic Ecosystem of Transposable Elements in Maize](https://www.biorxiv.org/content/10.1101/559922v1) 
-* [A triptych of the evolution of plant transposable elements](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(10)00096-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138510000968%3Fshowall%3Dtrue)
+## Maize TEs  
+*[Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)  
+*[Dynamic Patterns of Transcript Abundance of Transposable Element Families in Maize](https://www.g3journal.org/content/9/11/3673)
+*[The Genomic Ecosystem of Transposable Elements in Maize](https://www.biorxiv.org/content/10.1101/559922v1) 
+*[Remarkable variation in maize genome structure inferred from haplotype diversity at the bz locus](https://www.pnas.org/content/103/47/17644)  
 
-## Other Empirical Systems
 
-#### Drosophila
-* [Population Genomics of Transposable Elements in Drosophila](https://www.annualreviews.org/doi/10.1146/annurev-genet-120213-092359)
+## Other Empirical Systems   
 
-#### Arabidopsis
-*  [The Arabidopsis thaliana mobilome and its impact at the species level](https://elifesciences.org/articles/15716)
-* [Population scale mapping of transposable element diversity reveals links to gene regulation and epigenomic variation](https://elifesciences.org/articles/20777)
+#### Drosophila  
+*[Population Genomics of Transposable Elements in Drosophila](https://www.annualreviews.org/doi/10.1146/annurev-genet-120213-092359)
+*[Recent LTR retrotransposon insertion contrasts with waves of non-LTR insertion since speciation in Drosophila melanogaster](https://www.pnas.org/content/104/27/11340)
+*[The population genetics of Drosophila transposable elements](https://www.annualreviews.org/doi/abs/10.1146/annurev.ge.23.120189.001343)
+
+#### Arabidopsis  
+*[The Arabidopsis thaliana mobilome and its impact at the species level](https://elifesciences.org/articles/15716)
+*[Population scale mapping of transposable element diversity reveals links to gene regulation and epigenomic variation](https://elifesciences.org/articles/20777)
+*[Effects of Recombination Rate and Gene Density on Transposable Element Distributions in Arabidopsis thaliana](https://genome.cshlp.org/content/13/8/1897.long)
