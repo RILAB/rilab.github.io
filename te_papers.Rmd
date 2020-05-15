@@ -21,7 +21,6 @@ output: html_document
 ## TE Popgen
 * [The population dynamics of transposable elements](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B3815EB0AE7CDB71B27FDAE08A282B8A/S0016672300021455a.pdf/population_dynamics_of_transposable_elements.pdf)
 * [Epigenetic Silencing of Transposable Elements: A Trade-Off Between Reduced Transposition and Deleterious Effects on Neighboring Gene Expression](https://pubmed.ncbi.nlm.nih.gov/19478138/) 
-*[](https://science.sciencemag.org/content/338/6108/758.long)
 
 ## Maize TEs  
 * [Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)  
