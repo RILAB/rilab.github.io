@@ -169,25 +169,19 @@ Wei X,  Anderson SN,  Wang X,  Yang L, ...[**Bilinski P**,  **Stitzer MC**,  **R
 
 **Taylor Perkins**
 
-  Perkins, M. Taylor, Tetyana Zhebentyayeva, Paul H. Sisco, and J. Hill Craddock. “Genome-wide sequence-based genotyping supports a nonhybrid origin of Castanea alabamensis.” bioRxiv (2019): 680371.   
+    Perkins, M. Taylor, Tetyana Zhebentyayeva, Paul H. Sisco, and J. Hill Craddock. “Genome-wide sequence-based genotyping supports a nonhybrid origin of Castanea alabamensis.” bioRxiv (2019): 680371.   
 
-  Craddock, J. Hill, and M. Taylor Perkins. “Chestnut (Castanea spp. Miller) Breeding.” In Advances in Plant Breeding Strategies, vol. 4. (J.M. Al-Khayri et al., eds.)(in press), 55 pages. Springer Nature Switzerland AG, Basel.  
+    Craddock, J. Hill, and M. Taylor Perkins. “Chestnut (Castanea spp. Miller) Breeding.” In Advances in Plant Breeding Strategies, vol. 4. (J.M. Al-Khayri et al., eds.)(in press), 55 pages. Springer Nature Switzerland AG, Basel.  
 
 **Michelle Stitzer**
 
-  Roessler, Kyria, Aline Muyle, Concepcion M. Diez, Garren RJ Gaut, Alexandros Bousios, Michelle C. Stitzer, Danelle K. Seymour, John F. Doebley, Qingpo Liu, and Brandon S. Gaut. "The genome-wide dynamics of purging during selfing in maize." Nature plants (2019): 1-11.  
+    Roessler, Kyria, Aline Muyle, Concepcion M. Diez, Garren RJ Gaut, Alexandros Bousios, Michelle C. Stitzer, Danelle K. Seymour, John F. Doebley, Qingpo Liu, and Brandon S. Gaut. "The genome-wide dynamics of purging during selfing in maize." Nature plants (2019): 1-11.  
   
-  Noshay, Jaclyn M., Sarah N. Anderson, Peng Zhou, Lexiang Ji, William Ricci, Zefu Lu, Michelle C. Stitzer et al. "Monitoring the interplay between transposable element families and DNA methylation in maize." PLoS genetics 15, no. 9 (2019): e1008291.
-Harvard	 
+    Noshay, Jaclyn M., Sarah N. Anderson, Peng Zhou, Lexiang Ji, William Ricci, Zefu Lu, Michelle C. Stitzer et al. "Monitoring the interplay between transposable element families and DNA methylation in maize." PLoS genetics 15, no. 9 (2019): e1008291. 	 
 
-  Marcela K. Tello-Ruiz, Cristina F. Marco, Fei-Man Hsu, Rajdeep S. Khangura, Pengfei Qiao, Sirjan Sapkota, Michelle C. Stitzer, Rachael Wasikowski, Hao Wu, Junpeng Zhan, Kapeel Chougule, Lindsay C. Barone, Cornel Ghiban, Demitri Muna, Andrew C. Olson, Liya C. Wang, Doreen C. Ware, David A. Micklos
-bioRxiv 654848; doi: https://doi.org/10.1101/654848  
+    Marcela K. Tello-Ruiz, Cristina F. Marco, Fei-Man Hsu, Rajdeep S. Khangura, Pengfei Qiao, Sirjan Sapkota, Michelle C. Stitzer, Rachael Wasikowski, Hao Wu, Junpeng Zhan, Kapeel Chougule, Lindsay C. Barone, Cornel Ghiban, Demitri Muna, Andrew C. Olson, Liya C. Wang, Doreen C. Ware, David A. Micklos bioRxiv 654848; doi: https://doi.org/10.1101/654848  
 
-  Stitzer, Michelle C., and Philipp Brand. "Digest: Hybrid incompatibilities and introgression in wild monkeyflowers." Evolution 72, no. 11 (2018): 2565-2566.
-Harvard	 
-
-  
-
+    Stitzer, Michelle C., and Philipp Brand. "Digest: Hybrid incompatibilities and introgression in wild monkeyflowers." Evolution 72, no. 11 (2018): 2565-2566.
 </p></details> 
 <br>  
 
@@ -622,8 +616,9 @@ Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK </summary>     <p
 <br><details> <summary>[Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract)     
 Hollister JD, **Ross-Ibarra J**, Gaut BS </summary>     <p style="margin-left: 30px">We show that mating system differences in heterozygosity mitigate the effects of insertion and deletion polymorphisms on nucleotide diversity.  </p></details>    
 
-<br><details>     <summary> [Genetic diversity in a crop metapopulation](http://www.nature.com/hdy/journal/v104/n1/full/hdy2009110a.html)    
-**van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   </summary>     <p style="margin-left: 30px">We develop a coalescent model to predict genetic structure and diversity of a crop plant in an agronomic ecosystem.</p></details> 
+<br><details>     <summary> [Genetic diversity in a crop metapopulation](https://pubmed.ncbi.nlm.nih.gov/19738636/)    
+**van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   </summary>     <p style="margin-left: 30px">The need to protect crop genetic resources has sparked a growing interest in the genetic diversity maintained in traditional farming systems worldwide. Although traditional seed management has been proposed as an important determinant of genetic diversity and structure in crops, no models exist that can adequately describe the genetic effects of seed management. We present a metapopulation model that accounts for several features unique to managed crop populations. Using traditional maize agriculture as an example, we develop a coalescence-based model of a crop metapopulation undergoing pollen and seed flow as well as seed replacement. In contrast to metapopulation work on natural systems, we model seed migration as episodic and originating from a single source per population rather than as a constant immigration from the entire metapopulation. We find that the correlated origin of migrants leads to surprising results, including a loss of invariance of within-deme diversity and a parabolic relationship between F(ST) and migration quantity. In contrast, the effects of migration frequency on diversity and structure are more similar to classical predictions, suggesting that seed migration in managed crop populations cannot be described by a single parameter. In addition to migration, we investigate the effects of deme size and extinction rates on genetic structure, and show that high levels of pollen migration may mask the effects of seed management on structure. Our results highlight the importance of analytically evaluating the effects of deviations from classical metapopulation models, especially in systems for which data are available to estimate specific model parameters.
+</p></details> 
 
 <br><details>
     <summary>**Other papers by lab-members**</summary>
@@ -640,8 +635,8 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS </summary>     <p style="margin-left: 3
 <details>     <summary>[A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)    
 Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346) 
-**May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">We discover a 13,000 year old oak clone in the hilss of Southern California</p></details>  
+<br><details>     <summary>[A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346)  
+**May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">We discover a 13,000 year old oak clone in the hills of Southern California</p></details>  
 
 <br><details>     <summary>[Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)    
 Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
