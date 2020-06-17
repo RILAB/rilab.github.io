@@ -40,6 +40,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### June
 
+### Friday June 26
+
+[DeWitt et al.](https://www.biorxiv.org/content/10.1101/2020.06.16.153452v1) Joint nonparametric coalescent inference of mutation spectrum history and demography
+
 ### Friday June 19
 
 [Hämälä and Tiffin](https://www.genetics.org/content/early/2020/05/15/genetics.120.303335) Biased Gene Conversion Constrains Adaptation in Arabidopsis thaliana
