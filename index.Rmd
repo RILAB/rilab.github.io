@@ -14,8 +14,6 @@
 
 Welcome to the Ross-Ibarra Lab in the [Dept. of Evolution and Ecology](http://eve.ucdavis.edu) as well as the [Center for Population Biology](http://eve.ucdavis.edu) and the [Genome Center](http://eve.ucdavis.edu) at the [University of California Davis](http://www.ucdavis.edu). We work on the evolutionary genetics of maize and teosinte. Please explore to see [who we are](people.html) and [what we do](research.html), check out the [news](news.html) for updates and latest happenings, read our [lab philosophy and expectations](expectations.html), or even join our [journal club](rehab.html).  
 
-## [We're hiring a postdoc!](te_pdoc.html) 
-
 <br>
 
 <!-- <a href="http://www.plantsciences.ucdavis.edu/plantsciences/"><img src="images/pslogo.png" width="300px"></a> -->
