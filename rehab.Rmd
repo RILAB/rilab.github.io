@@ -12,9 +12,9 @@
 ## R.E.H.A.B.
 
 Science and beer on a Friday afternoon seem to make a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.
-We meet Fridays in the Tropical Room (2346) in Storer Hall at 3:30pm. 
+We meet Fridays in the Tropical Room (2346) in Storer Hall at 3:30pm, or when the world is closed due to a pandemic, online via Zoom -- email for the link! 
 Jeff will provide some beer, but more is always welcome!
-<!-- (on rare occasions when the pub is closed we improvise; email or call to find out the location). Sometimes we're done at 5 and sometimes not until 6, depending on the paper and the crowd and interest and amount of beer being consumed. -->
+
 
 From time to time we also blog our thoughts on the papers we read. One or more of the people present volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publication) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
 
@@ -38,21 +38,27 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- -->
 
+### July
+
+#### Friday July 3
+
+[Fang et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14539) Genetic basis of kernel nutritional traits during maize domestication and improvement
+
 ### June
 
-### Friday June 26
+#### Friday June 26
 
 [DeWitt et al.](https://www.biorxiv.org/content/10.1101/2020.06.16.153452v1) Joint nonparametric coalescent inference of mutation spectrum history and demography
 
-### Friday June 19
+#### Friday June 19
 
 [Hämälä and Tiffin](https://www.genetics.org/content/early/2020/05/15/genetics.120.303335) Biased Gene Conversion Constrains Adaptation in Arabidopsis thaliana
 
-### Friday June 12
+#### Friday June 12
 
 [Shah et al.](https://www.nature.com/articles/s41467-019-14213-y) Extreme genetic signatures of local adaptation during Lotus japonicus colonization of Japan
 
-### Friday June 5
+#### Friday June 5
 
 [Kyriazis, Wayne, and Lohmueller](https://www.biorxiv.org/content/10.1101/678524v1.abstract) High genetic diversity can contribute to extinction in small populations
 
