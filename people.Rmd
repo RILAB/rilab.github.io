@@ -22,6 +22,10 @@
   }
 </style>
 
+<style>
+.forceBreak { -webkit-column-break-after: always; break-after: column; }
+</style>
+
 ## Current R-I Lab members
 Please read more information on [joining the lab](prosp.html)
 <!-- break -->
@@ -31,7 +35,7 @@ Please read more information on [joining the lab](prosp.html)
 
 
 <!-- break -->
-<br>
+
 <!-- break -->
 
 <div style="float: left">  
@@ -86,28 +90,28 @@ Ashley is a Biochemistry major, currently working on using machine learning meth
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/langlois.jpg" style="border:10px solid white" width="100px"></a>
-</div>
-**Nathaniel Langlois-Ackerson**
+<!-- <div style="float: left"> -->
+<!-- <img src="images/langlois.jpg" style="border:10px solid white" width="100px"></a> -->
+<!-- </div> -->
+<!-- **Nathaniel Langlois-Ackerson** -->
 
-Nate is a plant sciences major working on thermogenesis and germination in highland maize.
+<!-- Nate is a plant sciences major working on thermogenesis and germination in highland maize. -->
 
-<!-- break -->
-<br>
-<!-- break -->
+<!-- <!-- break --> 
+<!-- <br> -->
+<!-- <!-- break --> 
 
-<div style="float: left">  
-<img src="images/sean.jpg" style="border:10px solid white" width="100px;"></a>
-</div> 
+<!-- <div style="float: left">   -->
+<!-- <img src="images/sean.jpg" style="border:10px solid white" width="100px;"></a> -->
+<!-- </div>  -->
 
-**Sean McGinty** 
-<a href="https://www.linkedin.com/in/sean-mcginty-418ba014a/"><img src="images/lin.png" style="width: 15px;"></a>
+<!-- **Sean McGinty**  -->
+<!-- <a href="https://www.linkedin.com/in/sean-mcginty-418ba014a/"><img src="images/lin.png" style="width: 15px;"></a> -->
 
-Sean is an undergraduate working on background selection in maize. 
-<!-- break -->
-<br><br><br>
-<!-- break -->
+<!-- Sean is an undergraduate working on background selection in maize.  -->
+<!-- <!-- break --> 
+<!-- <br><br><br> -->
+<!-- <!-- break --> 
 
 
 <div style="float: left">
@@ -119,12 +123,20 @@ Sean is an undergraduate working on background selection in maize.
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
 Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
-
 <!-- break -->
-<br><br><br>
+<br>
 <!-- break -->
 
+<div style="float: left">   
+<img src="images/mustafa.jpg" style="border:10px solid white" width="100px;"></a>
+</div>  
 
+**Sirajul Momin Mustafa**  <a href="https://www.linkedin.com/in/sirajul-momin-mustafa-081b40156/"><img src="images/lin.png" style="width: 15px;"></a>
+
+Mustafa is a senior Biology major at Howard and summer intern in the lab, investigating the role of structural variants in GxE in a maize association popultion.   
+<!-- break --> 
+<br>
+<!-- break --> 
 
 <div style="float: left">
 <img src="images/odell.jpg" style="border:10px solid white" width="100px"></a>
@@ -135,9 +147,11 @@ Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having 
 <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
+<br>
 <!-- break -->
-<br><br>
+<p class="forceBreak"></p>
 <!-- break -->
+
 
 <div style="float: left">
 <img src="images/tperkins.jpg" style="border:10px solid white" width="100px"></a>
