@@ -40,6 +40,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### July
 
+#### Friday July 10
+
+[Monnahan et al. 2020](https://www.biorxiv.org/content/10.1101/2020.06.23.166736v1) Predicting evolutionary change at the DNA level in a natural Mimulus population
+
 #### Friday July 3
 
 [Fang et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14539) Genetic basis of kernel nutritional traits during maize domestication and improvement
