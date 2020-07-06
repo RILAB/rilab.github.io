@@ -36,9 +36,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- [Ramachandran et al. preprint](https://www.biorxiv.org/content/10.1101/2020.03.05.978643v1?rss=1&utm_source=dlvr.it&utm_medium=twitter) Evolutionary dynamics of transposable elements following a shared polyploidization event in the tribe Andropogoneae -->
 
-<!-- -->
+<!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
 ### July
+
+#### Friday July 17
+
+[Boukas et al. preprint](https://www.biorxiv.org/content/10.1101/2020.07.04.187880v1) Purifying selection acts on germline methylation to modify the CpG mutation rate at promoters
 
 #### Friday July 10
 
