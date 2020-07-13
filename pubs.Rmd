@@ -40,6 +40,15 @@ Click on a triangle for the article abstract.
 <!--     <p style="margin-left: 30px"> -->
 <!-- </p></details> -->
 
+
+<details>
+    <summary>Constrained non-coding sequence provides insights into regulatory elements and loss of gene expression in maize.  [[preprint]( https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2)]   
+    ong CB, Wang H, Wu, Y, Rees E, **Gates DJ**, Burch M,  Bradbury PJ, **Ross-Ibarra J**, Kellogg EA, Hufford MB, Romay MC, Buckler ES.  
+</summary>
+    <p style="margin-left: 30px">DNA sequencing technology has advanced so quickly, identifying key functional regions using evolutionary approaches is required to understand how those genomes work. This research develops a sensitive sequence alignment approach to identify functional constrained non-coding sequences in the Andropogoneae tribe. The grass tribe Andropogoneae contains several crop species descended from a common ancestor ~18 million years ago. Despite broadly similar phenotypes, they have tremendous genomic diversity with a broad range of ploidy levels and transposons. These features make Andropogoneae a powerful system for studying conserved non-coding sequence (CNS), here we used it to understand the function of CNS in maize. We find that 86% of CNS comprise known genomic elements e.g., cis-regulatory elements, chromosome interactions, introns, several transposable element superfamilies, and are linked to genomic regions related to DNA replication initiation, DNA methylation and histone modification. In maize, we show that CNSs regulate gene expression and variants in CNS are associated with phenotypic variance, and rare CNS absence contributes to loss of gene expression. Furthermore, we find the evolution of CNS is associated with the functional diversification of duplicated genes in the context of the maize subgenomes. Our results provide a quantitative understanding of constrained non-coding elements and identify functional non-coding variation in maize.
+</p></details>
+
+
 <br><details>
     <summary>Adaptive evolution of DNA methylation reshaped gene regulation in maize  [[preprint]( https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1)]   
     Xu G, Lyu J, Li Q, Liu H, Wang D, Zhang M, Springer NM, **Ross-Ibarra J**, Yang J
