@@ -180,7 +180,7 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 <!-- break -->
 
 <div style="float: left">
-<img src="images/jri_bee.jpg" style="border:10px solid white" width="100px"></a>
+<img src="images/jri_new.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Jeffrey Ross-Ibarra** 
 <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;">
