@@ -38,11 +38,27 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
-### July
+
+### August
+
+
+#### Friday August 21
+
+[James et al.](https://www.biorxiv.org/content/10.1101/2020.02.05.936450v2.full.pdf) A framework to quantify phenotypic and genotypic parallel evolution
+
+#### Friday August 14
+
+[Kon et al.](https://www.cell.com/current-biology/pdf/S0960-9822(20)30548-0.pdf) The Genetic Basis of Morphological Diversity in Domesticated Goldfish
+
 
 #### Friday August 7
 
+
 [Exposito-Alonso et al. preprint](https://www.biorxiv.org/content/10.1101/2020.07.14.194407v1) Non-additive polygenic models improve predictions of fitness traits in three eukaryote model species
+
+
+### July
+
 
 #### Friday July 31
 
