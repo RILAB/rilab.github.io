@@ -58,7 +58,7 @@ Click on a triangle for the article abstract.
 
 <br><details>
     <summary>Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize [[preprint]( https://doi.org/10.1101/777623)]  
-Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, **Ross-Ibarra J**, Buckler ES, Gore MA
+Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, Buckler ES,  **Ross-Ibarra J**, Gore MA
 </summary>
     <p style="margin-left: 30px">Sorghum and maize share a close evolutionary history that can be explored through comparative genomics. To perform a large-scale comparison of the genomic variation between these two species, we analyzed 13M variants identified from whole genome resequencing (WGS) of 468 sorghum lines together with 25M variants previously identified in 1,218 maize lines. Deleterious mutations in both species were prevalent in pericentromeric regions, enriched in non-syntenic genes, and present at low allele frequencies. A comparison of deleterious burden between sorghum and maize revealed that sorghum, in contrast to maize, departed from the “domestication cost” hypothesis that predicts a higher deleterious burden among domesticates compared to wild lines. Additionally, sorghum and maize population genetic summary statistics were used to predict a gene deleterious index with an accuracy higher than 0.5. This research represents a key step towards understanding the evolutionary dynamics of deleterious variants in sorghum and provides a comparative genomics framework to start prioritizing them for removal through genome editing and breeding.
 </p></details>
