@@ -90,28 +90,29 @@ Ashley is a Biochemistry major, currently working on using machine learning meth
 <br>
 <!-- break -->
 
-<!-- <div style="float: left"> -->
-<!-- <img src="images/langlois.jpg" style="border:10px solid white" width="100px"></a> -->
-<!-- </div> -->
-<!-- **Nathaniel Langlois-Ackerson** -->
+<div style="float: left">
+<img src="images/langlois.jpg" style="border:10px solid white" width="100px"></a>
+</div>
+**Nathaniel Langlois-Ackerson**
 
-<!-- Nate is a plant sciences major working on thermogenesis and germination in highland maize. -->
+Nate is a plant sciences major working on thermogenesis and germination in highland maize.
 
-<!-- <!-- break --> 
-<!-- <br> -->
-<!-- <!-- break --> 
+<!-- break -->
+<br>
+<!-- break -->
 
-<!-- <div style="float: left">   -->
-<!-- <img src="images/sean.jpg" style="border:10px solid white" width="100px;"></a> -->
-<!-- </div>  -->
+<div style="float: left">
+<img src="images/sean.jpg" style="border:10px solid white" width="100px;"></a>
+</div>
 
-<!-- **Sean McGinty**  -->
-<!-- <a href="https://www.linkedin.com/in/sean-mcginty-418ba014a/"><img src="images/lin.png" style="width: 15px;"></a> -->
+**Sean McGinty**
+<a href="https://github.com/Sean-McGinty/"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://www.linkedin.com/in/sean-mcginty-418ba014a/"><img src="images/lin.png" style="width: 15px;"></a>
 
-<!-- Sean is an undergraduate working on background selection in maize.  -->
-<!-- <!-- break --> 
-<!-- <br><br><br> -->
-<!-- <!-- break --> 
+Sean is an undergraduate working on background selection in maize.
+<!-- break -->
+<br><br><br>
+<!-- break -->
 
 
 <div style="float: left">
@@ -123,19 +124,9 @@ Ashley is a Biochemistry major, currently working on using machine learning meth
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
 Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
-<!-- break -->
-<br>
-<!-- break -->
 
-<div style="float: left">   
-<img src="images/mustafa.jpg" style="border:10px solid white" width="100px;"></a>
-</div>  
-
-**Sirajul Momin Mustafa**  <a href="https://www.linkedin.com/in/sirajul-momin-mustafa-081b40156/"><img src="images/lin.png" style="width: 15px;"></a>
-
-Mustafa is a senior Biology major at Howard and summer intern in the lab, investigating the role of structural variants in GxE in a maize association popultion.   
 <!-- break --> 
-<br>
+<p class="forceBreak"></p>
 <!-- break --> 
 
 <div style="float: left">
@@ -148,19 +139,6 @@ Mustafa is a senior Biology major at Howard and summer intern in the lab, invest
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
 <br>
-<!-- break -->
-<p class="forceBreak"></p>
-<!-- break -->
-
-
-<div style="float: left">
-<img src="images/tperkins.jpg" style="border:10px solid white" width="100px"></a>
-</div>
-
-**Taylor Perkins** 
-<a href="https://orcid.org/0000-0002-1076-0527"><img src="images/orcid.png" style="width: 15px;"></a>
-
-Taylor is our Lab Czar, managing the wetlab side of our research. He was previously at U. Tennessee where he earned a MS in Environmental Science working on chestnuts.  
 <!-- break -->
 <br>
 <!-- break -->
@@ -192,7 +170,7 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 
 Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).   
 <!-- break -->
-<br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">
@@ -227,7 +205,6 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 <br>
 <!-- break -->
 
-
 <div style="float: left">
 <img src="images/ningyang.JPG" style="border:10px solid white" width="100px"></a>
 </div>
@@ -244,6 +221,7 @@ Ning is the lab's E.S. Anderson Postdoctoral Fellow, working to document hybridi
 
 ## Lab Alumni
 
+* [Taylor Perkins](https://orcid.org/0000-0002-1076-0527): Lab Manager 2019-2020 (Graduate Student, University of Florida)
 * [Sarah Turner-Hissong](https://mishaploid.github.io): Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)
 * [Michelle Stitzter](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
 * [Dianne Velasco](https://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl=en) PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm Repository)
