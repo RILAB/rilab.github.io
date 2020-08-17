@@ -42,6 +42,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ### August
 
 
+#### Friday August 28
+
+[Wang et al.](https://www.biorxiv.org/content/10.1101/2020.08.05.237834v1) Automatic Inference of Demographic Parameters Using Generative Adversarial Networks
+
 #### Friday August 21
 
 [James et al.](https://www.biorxiv.org/content/10.1101/2020.02.05.936450v2.full.pdf) A framework to quantify phenotypic and genotypic parallel evolution
