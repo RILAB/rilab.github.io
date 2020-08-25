@@ -1,6 +1,9 @@
 <!-- break -->
 <br>
 <!-- break -->
+---
+title: "Lab Expectations" 
+---
 
 I view my relationship with students and postdocs as a partnership. My job is to ensure people in the lab get the training and opportunities they need to advance in their chosen careers, whether in academia, industry, teaching, or other options. Below you can find information on the lab philosophy and expectations of lab members. Text and ideas in places borrow heavily from [Rubén Rellán-Álvarez](http://www.rrlab.org/expectations.html).
 

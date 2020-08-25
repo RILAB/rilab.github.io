@@ -9,7 +9,9 @@
 
 </script>
 
-## Research
+---
+title: "Research" 
+---
 <hr>
 <a name="adaptation"></a>
 ![](images/teosinte.jpg)

@@ -26,6 +26,10 @@
 .forceBreak { -webkit-column-break-after: always; break-after: column; }
 </style>
 
+---
+title: "People" 
+---
+
 ## Current R-I Lab members
 Please read more information on [joining the lab](prosp.html)
 <!-- break -->

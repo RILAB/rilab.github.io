@@ -9,7 +9,9 @@
 
 </script>
 
-## News
+---
+title: "Lab News" 
+---
 
 ### September
 • Michelle turns in her dissertation and [is now Dr. Stitzer!](https://twitter.com/jrossibarra/status/1176992644255272961?s=20)  
