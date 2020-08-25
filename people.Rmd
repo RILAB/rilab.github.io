@@ -29,14 +29,21 @@
 ## Current R-I Lab members
 Please read more information on [joining the lab](prosp.html)
 <!-- break -->
-<p><br> <!-- break --></p>
+<p><br> 
+<!-- break --></p>
 <div class="col2">
 
+<div style="float: left">  
+<img src="images/cameron.jpg" style="border:10px solid white" width="100px;"></a>
+</div> 
 
+**Brenda Cameron** 
 
+Brenda is the lab manager and czar. In addition to working with us, she manages the  [Bay](https://baylab.github.io),  [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well.
+<!-- break -->
+<br><br> 
 <!-- break -->
 
-<!-- break -->
 
 <div style="float: left">  
 <img src="images/cryan.jpeg" style="border:10px solid white" width="100px;"></a>
@@ -60,7 +67,22 @@ Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https:/
 <a href="https://github.com/danjgates"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0001-8433-833X"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Dan is the lab's CKH Postdoctoral Fellow for Local Adaptation, studying local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.  
+Dan is the lab's CKH Postdoctoral Fellow for Local Adaptation, studying local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
+<!-- break -->
+<br><br>
+<!-- break -->
+
+<div style="float: left">  
+<img src="images/horvath.jpg" style="border:10px solid white" width="100px"></a>
+</div>  
+**Robert Horvath** 
+<a href="www.linkedin.com/in/robert-horvath-337079101"><img src="images/lin.png" style="width: 15px;"></a>
+<a href="https://twitter.com/Horvath_Rob"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a
+<a href="https://orcid.org/0000-0002-3221-8835"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://scholar.google.com/citations?hl=en&user=U9evFmUAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>  
+
+Robert is the lab's Jo Messing Postdoctoral Fellow for Plant Genomics, currently studying the population genomics of TEs in maize.
+
 <!-- break -->
 <br>
 <!-- break -->
@@ -96,9 +118,8 @@ Ashley is a Biochemistry major, currently working on using machine learning meth
 **Nathaniel Langlois-Ackerson**
 
 Nate is a plant sciences major working on thermogenesis and germination in highland maize.
-
 <!-- break -->
-<br>
+<br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -111,9 +132,8 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 
 Sean is an undergraduate working on background selection in maize.
 <!-- break -->
-<br><br><br>
+<br><br><br><br><p class="forceBreak"></p>
 <!-- break -->
-
 
 <div style="float: left">
 <img src="images/MeWthCone.jpg" style="border:10px solid white" width="100px"></a>
@@ -124,9 +144,8 @@ Sean is an undergraduate working on background selection in maize.
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
 Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
-
 <!-- break --> 
-<p class="forceBreak"></p>
+<br>
 <!-- break --> 
 
 <div style="float: left">
@@ -138,7 +157,6 @@ Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having 
 <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
-<br>
 <!-- break -->
 <br>
 <!-- break -->

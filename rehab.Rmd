@@ -38,9 +38,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
+### Sept
+
+#### Friday Sept 4
+
+[Liu et al. 2020](https://www.sciencedirect.com/science/article/abs/pii/S0092867420306188) Pan-Genome of Wild and Cultivated Soybeans
 
 ### August
 
+#### Friday August 28
+
+[Kreiner et al. preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257972v1) The genetic architecture and genomic context of glyphosate resistance
 
 #### Friday August 21
 
