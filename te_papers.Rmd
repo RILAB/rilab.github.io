@@ -26,6 +26,7 @@ output: html_document
 
 #### 2020  
 
+* [Gene capture by transposable elements leads to epigenetic conflict in maize](https://www.biorxiv.org/content/10.1101/777037v2)  
 * [Genetic and epigenetic contributions to variation in transposable element expression responses to abiotic stress in maize](https://www.biorxiv.org/content/10.1101/2020.08.26.268102v1)  
 * [The Genomic Ecosystem of Transposable Elements in Maize](https://www.biorxiv.org/content/10.1101/559922v1)   
 * [Cis-regulatory elements within TEs can influence expression of nearby maize genes](https://www.biorxiv.org/content/10.1101/2020.05.20.107169v1.abstract)  
