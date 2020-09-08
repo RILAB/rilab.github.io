@@ -41,9 +41,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### Sept
 
-#### Friday Sept 18
+#### Friday Sept 25
 
 [Franco et al. preprint](https://www.biorxiv.org/content/10.1101/2020.08.31.268425v1.full.pdf) A Maize Practical Haplotype Graph Leverages Diverse NAM Assemblies  
+
+#### Friday Sept 18
+
+[Ahrens et al.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15614?casa_token=AhYswM2_1OQAAAAA:afdynHvcGBc3Vf8_oVBzO8KG2m_bh8BvDW6kJ6hj8qDU4H6DeymYWem2TkariGYmAKJ8MtwgVQABurPX) Spatial, climate, and ploidy factors drive genomic diversity and resilience in the widespread grass Themeda triandra
 
 #### Friday Sept 11
 
