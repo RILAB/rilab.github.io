@@ -39,6 +39,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### Oct
 
+#### Friday Oct 9
+
+[Spencer et al. 2006](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0020148&type=printable) The Influence of Recombination on Human Genetic Diversity
+
 #### Friday Oct 2
 
 [Bourgeois et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14042) Genome‐wide scans of selection highlight the impact of biotic and abiotic constraints in natural populations of the model grass Brachypodium distachyon
