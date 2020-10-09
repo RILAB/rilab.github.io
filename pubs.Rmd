@@ -79,12 +79,7 @@ In sum, greater adaptation to biotic interactions in cold sites was revealed by 
 </p></details>
 
 
-<br><details>
-    <summary>Adaptive evolution of DNA methylation reshaped gene regulation in maize  [[preprint]( https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1)]   
-    Xu G, Lyu J, Li Q, Liu H, Wang D, Zhang M, Springer NM, **Ross-Ibarra J**, Yang J
-</summary>
-    <p style="margin-left: 30px">DNA methylation is a ubiquitous chromatin feature – in maize, more than 25% of cytosines in the genome are methylated. Recently, major progress has been made in describing the molecular mechanisms driving methylation, yet variation and evolution of the methylation landscape during maize domestication remain largely unknown. Here we leveraged whole-genome sequencing (WGS) and whole-genome bisulfite sequencing (WGBS) on populations of modern maize, landrace, and teosinte (Zea mays ssp. parviglumis) to investigate the adaptive and phenotypic consequences of methylation variations in maize. By using a novel estimation approach, we inferred the methylome site frequency spectrum (mSFS) to estimate forward and backward methylation mutation rates and selection coefficients. We only found weak evidence for direct selections on methylations in any context, but thousands of differentially methylated regions (DMRs) were identified in population-wide that are correlated with recent selections. Further investigation revealed that DMRs are enriched in 5’ untranslated regions, and that maize hypomethylated DMRs likely helped rewire distal gene regulation. For two trait-associated DMRs, vgt1-DMR and tb1-DMR, our HiChIP data indicated that the interactive loops between DMRs and respective downstream genes were present in B73, a modern maize line, but absent in teosinte. And functional analyses suggested that these DMRs likely served as cis-acting elements that modulated gene regulation after domestication. Our results enable a better understanding of the evolutionary forces acting on patterns of DNA methylation and suggest a role of methylation variation in adaptive evolution.
-</p></details>
+
 
 <br><details>
     <summary>Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize [[preprint]( https://doi.org/10.1101/777623)][[github](https://github.com/GoreLab/Sorghum-HapMap)]  
@@ -112,7 +107,14 @@ Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, Buc
 
 ### 2020
 
-<details>
+<br><details>
+    <summary>Adaptive evolution of DNA methylation reshaped gene regulation in maize  [[preprint]( https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1)]   
+    Xu G, Lyu J, Li Q, Liu H, Wang D, Zhang M, Springer NM, **Ross-Ibarra J**, Yang J
+</summary>
+    <p style="margin-left: 30px">DNA methylation is a ubiquitous chromatin feature – in maize, more than 25% of cytosines in the genome are methylated. Recently, major progress has been made in describing the molecular mechanisms driving methylation, yet variation and evolution of the methylation landscape during maize domestication remain largely unknown. Here we leveraged whole-genome sequencing (WGS) and whole-genome bisulfite sequencing (WGBS) on populations of modern maize, landrace, and teosinte (Zea mays ssp. parviglumis) to investigate the adaptive and phenotypic consequences of methylation variations in maize. By using a novel estimation approach, we inferred the methylome site frequency spectrum (mSFS) to estimate forward and backward methylation mutation rates and selection coefficients. We only found weak evidence for direct selections on methylations in any context, but thousands of differentially methylated regions (DMRs) were identified in population-wide that are correlated with recent selections. Further investigation revealed that DMRs are enriched in 5’ untranslated regions, and that maize hypomethylated DMRs likely helped rewire distal gene regulation. For two trait-associated DMRs, vgt1-DMR and tb1-DMR, our HiChIP data indicated that the interactive loops between DMRs and respective downstream genes were present in B73, a modern maize line, but absent in teosinte. And functional analyses suggested that these DMRs likely served as cis-acting elements that modulated gene regulation after domestication. Our results enable a better understanding of the evolutionary forces acting on patterns of DNA methylation and suggest a role of methylation variation in adaptive evolution.
+</p></details>
+
+<br><details>
     <summary>[The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008791)  
 Chen Q, Fernando Samayoa L, Yang CJ, ...[5 authors]... **Lorant A**, Buckler ES, **Ross-Ibarra J**, Holland JB, Doebley JF
 </summary>
