@@ -39,6 +39,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### Oct
 
+#### Friday October 30
+
+[Geiler-Samerotte et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000836) Extent and context dependence of pleiotropy revealed by high-throughput single-cell phenotyping
+
 #### Friday Oct 23
 
 [Wyler et al. 2020](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa180/5898196) Impact of transposable elements on methylation and gene expression across natural accessions of Brachypodium distachyon
