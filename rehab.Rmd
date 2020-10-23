@@ -37,6 +37,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
+### Nov
+
+#### Friday November 13
+
+[Crouse et al. 2020](https://www.genetics.org/content/early/2020/10/16/genetics.120.303393) Inferring the Allelic Series at QTL in Multiparental Populations
+
+#### Friday November 6
+
+[Batstone et al. 2020 et al.](https://science.sciencemag.org/content/370/6515/476) Experimental evolution makes microbes more cooperative with their local host genotype
+
 ### Oct
 
 #### Friday Oct 23
