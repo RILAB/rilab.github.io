@@ -20,6 +20,17 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 
 
@@ -316,9 +327,13 @@ $(document).ready(function () {
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 <div id="january" class="section level3">
 <h3>January</h3>
+<div id="friday-jan-15" class="section level4">
+<h4>Friday Jan 15</h4>
+<p><a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa309/6008718">Göktay et al. 2020</a> A new catalogue of structural variants in 1301 A. thaliana lines from Africa, Eurasia and North America reveals a signature of balancing at defense response genes</p>
+</div>
 <div id="friday-jan-8" class="section level4">
 <h4>Friday Jan 8</h4>
-<p><a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa309/6008718">Göktay et al. 2020</a> A new catalogue of structural variants in 1301 A. thaliana lines from Africa, Eurasia and North America reveals a signature of balancing at defense response genes</p>
+<p><a href="https://www.biorxiv.org/content/10.1101/2020.12.22.423930v1.full">Desbiez-Piat et al. preprint</a> Interplay between high-drift and high-selection limits the genetic load in small selfing maize populations</p>
 </div>
 </div>
 <div id="december" class="section level3">
@@ -2121,7 +2136,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

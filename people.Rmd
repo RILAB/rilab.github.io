@@ -62,19 +62,7 @@ Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https:/
 <br>
 <!-- break -->
 
-<div style="float: left">  
-<img src="images/gates.jpg" style="border:10px solid white" width="100px"></a>
-</div>  
-**Dan Gates** 
-<a href="https://danjgates.wordpress.com"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
-<a href="https://twitter.com/dangates_j"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a
-<a href="https://github.com/danjgates"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-<a href="https://orcid.org/0000-0001-8433-833X"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Dan is the lab's CKH Postdoctoral Fellow for Local Adaptation, studying local adaptation in maize landraces as part of the [HiLo](http://highlandadaptation.org) project.
-<!-- break -->
-<br><br>
-<!-- break -->
 
 <div style="float: left">  
 <img src="images/horvath.jpg" style="border:10px solid white" width="100px"></a>
@@ -244,6 +232,7 @@ Ning is the lab's E.S. Anderson Postdoctoral Fellow, working to document hybridi
 
 ## Lab Alumni
 
+* [Daniel Gates](https://danjgates.wordpress.com): Postdoc 2016-2020 (Bioinformatician, Checkerspot)
 * [Taylor Perkins](https://orcid.org/0000-0002-1076-0527): Lab Manager 2019-2020 (Graduate Student, University of Florida)
 * [Sarah Turner-Hissong](https://mishaploid.github.io): Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)
 * [Michelle Stitzter](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
@@ -294,6 +283,9 @@ Ning is the lab's E.S. Anderson Postdoctoral Fellow, working to document hybridi
 
 ### Current Collaborators
 
+**Genetic diversity in maize and teosinte**
+* [Jianbing Yan](http://maizego.org)
+
 **Evolution of Incompatibility Loci in Maize and Teosinte**  
 
 * [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)  
@@ -311,10 +303,6 @@ Ning is the lab's E.S. Anderson Postdoctoral Fellow, working to document hybridi
 * [Emily Josephs](https://josephslab.github.io)
 * [Shawn Kaeppler](https://agronomy.wisc.edu/shawn-kaeppler/)
 
-**Dynamics of quantitative trait evolution and linked selection**  
-
-* [Ryan Hernandez](http://hernandezlab.ucsf.edu)  
-* [Kevin Thornton](http://www.molpopgen.org)  
 
 **Convergent Evolution in the Andropogoneae**  
 
