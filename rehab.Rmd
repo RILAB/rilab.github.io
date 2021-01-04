@@ -40,6 +40,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### January
 
+#### Friday Jan 22
+[Domb et al. 2020](https://www.pnas.org/content/117/52/33700.short) DNA methylation mutants in Physcomitrella patens elucidate individual roles of CG and non-CG methylation in genome regulation
+
 #### Friday Jan 15
 
 [Göktay et al. 2020](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa309/6008718) A new catalogue of structural variants in 1301 A. thaliana lines from Africa, Eurasia and North America reveals a signature of balancing at defense response genes
