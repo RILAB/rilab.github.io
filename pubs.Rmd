@@ -190,7 +190,33 @@ Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**
 </summary>
     <p style="margin-left: 30px">We use simulations to show that the effects of nonequilibrium population dynamics on linked selection differ qualitatively from predictions under equilibrium models, calling into question inferences about the efficacy of selection made from summary statistics.
 </p></details>
-<br>  
+
+<br><details>
+    <summary>**Other papers by lab members**</summary>
+    <p style="margin-left: 30px">
+
+**Catherine Rushworth**
+
+    Rushworth, C.A., R.S. Baucom, B.K. Blackman, M. Neiman, M.E. Orive, A. Sethuraman, J. Ware, and D.R. Matute. 2021. Who are we now? A demographic assessment of the evolution societies. In press, Evolution. Early View: https://onlinelibrary.wiley.com/doi/10.1111/evo.14168.  
+
+    Rushworth, C.A., and T. Mitchell-Olds. 2021. The evolution of sex is tempered by costly hybridization in Boechera (rock cress). Journal of Heredity Early View: https://doi.org/10.1093/jhered/esaa041.  
+
+    Rushworth, C.A., Y. J. Brandvain, and T. Mitchell-Olds. 2020. Identifying the fitness consequences of sex in complex natural environments. Evolution Letters 4-6: 516-529. https://dx.doi.org/10.1002/evl3.194  
+
+    Jordon-Thaden, I., J. Beck, C.A. Rushworth, M.D. Windham, N. Diaz, J. Cantley, C. Martine, and C.J. Rothfels. 2020. RADseq for any lab: a basic two-enzyme protocol performs well in herbarium and silica-dried tissues across four genera. Applications in Plant Sciences 8(4): e11344.  
+
+**Silas Tittes**
+
+    Tittes, Silas. "rdmc: an open source R package implementing convergent adaptation models of Lee and Coop (2017)." G3: Genes, Genomes, Genetics 10.9 (2020): 3041-3046.  
+
+    O'Hara, N. B., Franks, S. J., Kane, N. C., Tittes, S., & Rest, J. S. (2020). Evolution of pathogen response genes associated with increased disease susceptibility during adaptation to an extreme drought in a Brassica rapa plant population.  
+
+    Wooliver, R., Tittes, S. B., & Sheth, S. N. (2020). A resurrection study reveals limited evolution of thermal performance in response to recent climate change across the geographic range of the scarlet monkeyflower. Evolution, 74(8), 1699-1710.  
+
+    Comeault, A. A., Wang, J., Tittes, S., Isbell, K., Ingley, S., Hurlbert, A. H., & Matute, D. R. (2020). Genetic diversity and thermal performance in invasive and native populations of African fig flies. Molecular biology and evolution, 37(7), 1893-1906.
+
+</p></details> 
+<br>   
 
 ### 2019  
 
@@ -243,7 +269,7 @@ Wei X,  Anderson SN,  Wang X, ...[**Bilinski P**,  **Stitzer MC**,  **Ross-Ibarr
  
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 
 **Taylor Perkins**
@@ -319,7 +345,7 @@ Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... 
     <p style="margin-left: 30px">Discusses the challenges of changing climates pose for society and the environment along the Mexican-US border.</p></details>  
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Wenbin Mei** and **Michelle Stitzer**  
 
@@ -416,7 +442,7 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
 </p></details>    
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -465,7 +491,7 @@ Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ib
 </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -513,7 +539,7 @@ Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**</summary> 
 Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</summary>     <p style="margin-left: 30px">We show that transposable elements can act as regulatory sequences that up- or down-regulate genes in maize in response to abiotic stress.</p></details>  
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -546,7 +572,7 @@ Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discu
 **Mezmouk S**, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We show that deleterious mutations are abundant in modern maize breeding material and that genes with deleterious mutations are likely important contributors to phenotypic variation.</p></details>   
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 
 </p></details> 
@@ -585,7 +611,7 @@ Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Iba
 Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -626,7 +652,7 @@ Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler
 Morrell PL, Buckler ES, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Tanja Pyhäjärvi**
 
@@ -656,7 +682,7 @@ Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  </summary>     <p style="margin-
 Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Tanja Pyhäjärvi**
 
@@ -693,7 +719,7 @@ Hollister JD, **Ross-Ibarra J**, Gaut BS </summary>     <p style="margin-left: 3
 </p></details> 
 
 <br><details>
-    <summary>**Other papers by lab-members**</summary>
+    <summary>**Other papers by lab members**</summary>
     <p style="margin-left: 30px">
 **Matthew Hufford**
 
@@ -764,5 +790,4 @@ Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ  </summary>     <p s
 
 <br><details>     <summary>[Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)     
 Neel MC, **Ross-Ibarra J**, Ellstrand NC</summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
-
 
