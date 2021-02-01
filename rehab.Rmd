@@ -41,7 +41,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ### February
 
 
+#### Friday Feb 12
+[Wei et al. 2021](https://www.nature.com/articles/s41588-020-00769-9) A quantitative genomics map of rice provides genetic insights and guides breeding
+
 #### Friday Feb 5
+[Nelson et al. preprint](https://www.biorxiv.org/content/10.1101/2020.09.08.287151v1) Ancient and recent introgression shape the evolutionary history of pollinator adaptation and speciation in a model monkeyflower radiation (*Mimulus section Erythranthe*)
 
 [Schluter et al. 2021](https://www.pnas.org/content/118/3/e1914889118) Fitness maps to a large-effect locus in introduced stickleback populations
 
