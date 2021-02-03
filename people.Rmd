@@ -124,7 +124,7 @@ Nate is a plant sciences major working on thermogenesis and germination in highl
 
 Sean is an undergraduate working on background selection in maize.
 <!-- break -->
-<br><br><br><br><p class="forceBreak"></p>
+<br><br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -136,8 +136,9 @@ Sean is an undergraduate working on background selection in maize.
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
 Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
+
 <!-- break --> 
-<br>
+<br><p class="forceBreak"></p>
 <!-- break --> 
 
 <div style="float: left">
@@ -168,7 +169,7 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 <!-- break -->
 
 <div style="float: left">
-<img src="images/jri_new.jpg" style="border:10px solid white" width="100px"></a>
+<img src="images/jri12.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Jeffrey Ross-Ibarra** 
 <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;">
@@ -194,6 +195,18 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 <a href="https://scholar.google.com/citations?hl=en&user=L9MNZEQAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
 Cathy is the lab's Irene Manton Postdoctoral Fellow for Plant Hybridization, working on the evolution of reproductive incompatibilities between maize and teosinte with collaborator [Yaniv Brandvain](https://brandvainlab.wordpress.com).  
+<!-- break -->
+<br>
+<!-- break -->
+
+<div style="float: left">
+<img src="images/defne.jpg" style="border:10px solid white" width="100px"></a>
+</div>
+**Defne Sime**
+<a href="https://www.linkedin.com/in/defne-sime-12l19m/"><img src="images/lin.png" style="width: 15px;"></a>
+
+Defne is an undergraduate working with Mitra to udnerstand how indigenous language groups may have structured genetic diversity in traditional maize landraces.
+
 <!-- break -->
 <br>
 <!-- break -->
