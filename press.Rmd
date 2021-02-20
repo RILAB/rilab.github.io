@@ -12,6 +12,9 @@
 title: "Lab Press" 
 ---
 
+### 2021
+
+* [Press release](https://www.eurekalert.org/pub_releases/2021-01/cu-ebr012021.php) on sorghum/maize deleterious alleles work.
 
 ### 2020
 
