@@ -228,23 +228,11 @@ Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, worki
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/ningyang.JPG" style="border:10px solid white" width="100px"></a>
-</div>
-**Ning Yang** 
-<a href="https://twitter.com/NingYang9"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href="https://orcid.org/0000-0002-6354-3534"><img src="images/orcid.png" style="width: 15px;"></a>
-<a href="https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN"><img src="images/scholar.png" style="width: 30px;"></a>  
-
-Ning is the lab's E.S. Anderson Postdoctoral Fellow, working to document hybridiziation and admixture between maize and wild teosinte.  
-<!-- break -->
-<br>
-<!-- break -->
-
 </div>
 
 ## Lab Alumni
 
+* [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN): Postdoc 2019-2021 (Professor, Huazhong Ag. University)
 * [Daniel Gates](https://danjgates.wordpress.com): Postdoc 2016-2020 (Bioinformatician, Checkerspot)
 * [Taylor Perkins](https://orcid.org/0000-0002-1076-0527): Lab Manager 2019-2020 (Graduate Student, University of Florida)
 * [Sarah Turner-Hissong](https://mishaploid.github.io): Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)
