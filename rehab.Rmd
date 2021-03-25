@@ -39,6 +39,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### April
 
+#### Friday Apr 23
+[Yamaguchi & Otto, 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14032) Insights from Fisher's geometric model on the likelihood of speciation under different histories of environmental change
+
+
+#### Friday Apr 16
+[Kirch et al. 2021](https://www.sciencedirect.com/science/article/abs/pii/S0960982221002682) Ancient and modern stickleback genomes reveal the demographic constraints on adaptation
+
+
+#### Friday Apr 9
+[Burban et al. 2021](https://www.biorxiv.org/content/10.1101/2021.03.19.436202v1) Gene network simulations provide testable predictions for the molecular domestication syndrome
+
+
 #### Friday Apr 2
 [Shahzad et al 2021](https://www.biorxiv.org/content/10.1101/2021.03.15.435374v1.article-info) Gene body methylation mediates epigenetic inheritance of plant traits.
 
