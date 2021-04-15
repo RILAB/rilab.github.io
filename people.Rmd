@@ -175,8 +175,8 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 **Julianna Porter** 
 <a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Julianna is an undergraduate genetics & genomics major working on clinal adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  She's the recipient  of the Nieland Family Award to  do  independennt research.
-.  
+Julianna is an undergraduate genetics & genomics major. She's the recipient  of the Nieland Family Award to  do  independennt research on clinal adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
+
 <!-- break -->
 <br>
 <!-- break -->
