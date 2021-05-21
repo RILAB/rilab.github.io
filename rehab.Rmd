@@ -40,6 +40,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### May
 
+#### Friday May 28
+
+[DeWitt et al 2021](https://www.pnas.org/content/118/21/e2013798118) Nonparametric coalescent inference of mutation spectrum history and demography
+
 #### Friday May 21
 
 [Hejase et al. 2020](https://www.pnas.org/content/117/48/30554.short) Genomic islands of differentiation in a rapid avian radiation have been driven by recent selective sweeps
