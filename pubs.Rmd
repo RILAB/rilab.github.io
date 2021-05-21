@@ -589,7 +589,7 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</
 
 ### 2014
 
-<details>     <summary>[Advances and limits of using population genetics to understand local adaptation](http://rilab.ucdavis.edu/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)]       
+<details>     <summary>[Advances and limits of using population genetics to understand local adaptation](http://rilab.ucdavis.edu/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)] [[correction](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(17)30188-X)]       
 Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discuss some of the outstanding questions and key challenges facing the use of population genetics to study local adaptation.</p></details>        
 
 <br><details>     <summary> [Diversity and evolution of centromere repeats in the maize genome](http://rilab.ucdavis.edu/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]     
