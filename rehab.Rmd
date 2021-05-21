@@ -38,7 +38,29 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
 
+### June
+
+#### June 25
+
+[Yamaguchi & Otto, 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14032) Insights from Fisher's geometric model on the likelihood of speciation under different histories of environmental change
+
+#### June 18
+
+TBD
+
+#### June 11
+
+[Kirch et al. 2021](https://www.sciencedirect.com/science/article/abs/pii/S0960982221002682) Ancient and modern stickleback genomes reveal the demographic constraints on adaptation
+
+#### June 4
+
+TBD
+
 ### May
+
+#### Friday May 28
+
+[Burban et al. 2021](https://www.biorxiv.org/content/10.1101/2021.03.19.436202v1) Gene network simulations provide testable predictions for the molecular domestication syndrome
 
 #### Friday May 21
 
