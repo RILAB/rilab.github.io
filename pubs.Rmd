@@ -130,8 +130,9 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 ### 2021
 
 <br><details>
-    <summary>Constrained non-coding sequence provides insights into regulatory elements and loss of gene expression in maize. [[preprint]( https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2)]   
-    Song B, Wang H, Wu, Y, Rees E, **Gates DJ**, Burch M,  Bradbury PJ, **Ross-Ibarra J**, Kellogg EA, Hufford MB, Romay MC, Buckler ES.  
+    <summary>[Conserved noncoding sequences provide insights into regulatory sequence and loss of gene expression in maize
+](https://genome.cshlp.org/content/early/2021/05/27/gr.266528.120.abstract#aff-4). [[preprint]( https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2)]   
+Song B, Buckler ES, Wang H, Wu Y, ...[4 authors including **D Gates**]... Bradbury PJ, **Ross-Ibarra J**,  Hufford MB, Romay MC.  
 </summary>
     <p style="margin-left: 30px">DNA sequencing technology has advanced so quickly, identifying key functional regions using evolutionary approaches is required to understand how those genomes work. This research develops a sensitive sequence alignment approach to identify functional constrained non-coding sequences in the Andropogoneae tribe. The grass tribe Andropogoneae contains several crop species descended from a common ancestor ~18 million years ago. Despite broadly similar phenotypes, they have tremendous genomic diversity with a broad range of ploidy levels and transposons. These features make Andropogoneae a powerful system for studying conserved non-coding sequence (CNS), here we used it to understand the function of CNS in maize. We find that 86% of CNS comprise known genomic elements e.g., cis-regulatory elements, chromosome interactions, introns, several transposable element superfamilies, and are linked to genomic regions related to DNA replication initiation, DNA methylation and histone modification. In maize, we show that CNSs regulate gene expression and variants in CNS are associated with phenotypic variance, and rare CNS absence contributes to loss of gene expression. Furthermore, we find the evolution of CNS is associated with the functional diversification of duplicated genes in the context of the maize subgenomes. Our results provide a quantitative understanding of constrained non-coding elements and identify functional non-coding variation in maize.
 </p></details>
@@ -514,7 +515,7 @@ Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**
 Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
 <br><details>     <summary>[High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full)  
-Wolfgruber TK, Nakashima MM ...(5 authors)... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
+Wolfgruber TK, Nakashima MM ...[5 authors]... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
 </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 <br><details>
