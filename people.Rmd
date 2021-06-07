@@ -41,7 +41,7 @@ Please read more information on [joining the lab](prosp.html)
 <img src="images/cameron.jpg" style="border:10px solid white" width="100px;"></a>
 </div> 
 
-**Brenda Cameron** 
+**Brenda Cameron (she/her/hers)** 
 
 Brenda is the lab manager and czar. In addition to working with us, she manages the  [Bay](https://baylab.github.io),  [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well.
 <!-- break -->
@@ -53,7 +53,7 @@ Brenda is the lab manager and czar. In addition to working with us, she manages 
 <img src="images/cryan.jpeg" style="border:10px solid white" width="100px;"></a>
 </div> 
 
-**Elli Cryan** 
+**Elli Cryan (she/her/hers)** 
 <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"></a>
 <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
@@ -67,23 +67,23 @@ Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https:/
 <div style="float: left">  
 <img src="images/horvath.jpg" style="border:10px solid white" width="100px"></a>
 </div>  
-**Robert Horvath** 
+**Robert Horvath (he/his/him)** 
 <a href="https://www.linkedin.com/in/robert-horvath-337079101"><img src="images/lin.png" style="width: 15px;"></a>
 <a href="https://twitter.com/Horvath_Rob"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://orcid.org/0000-0002-3221-8835"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=U9evFmUAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>  
 
-Robert is the lab's Jo Messing Postdoctoral Fellow for Plant Genomics, currently studying the population genomics of TEs in maize.
+Robert is a postdoc currently studying the population genomics of TEs in maize.
 
 <!-- break -->
-<br>
+<br><br>
 <!-- break -->
 
 
 <div style="float: left">
 <img src="images/asher.jpg" style="border:10px solid white" width="100px"></a>
 </div>
-**Asher Hudson** 
+**Asher Hudson (he/his/him)** 
 <a href="https://aihudson.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
 <a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
@@ -101,41 +101,18 @@ Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/e
 
 Ashley is a Biochemistry major, currently working on using machine learning methods to identify deleterious alleles in maize.  
 <!-- break -->
-<br>
-<!-- break -->
-
-<div style="float: left">
-<img src="images/langlois.jpg" style="border:10px solid white" width="100px"></a>
-</div>
-**Nathaniel Langlois-Ackerson**
-
-Nate is a plant sciences major working on thermogenesis and germination in highland maize.
-<!-- break -->
-<br><br><br>
-<!-- break -->
-
-<div style="float: left">
-<img src="images/sean.jpg" style="border:10px solid white" width="100px;"></a>
-</div>
-
-**Sean McGinty**
-<a href="https://github.com/Sean-McGinty/"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-<a href="https://www.linkedin.com/in/sean-mcginty-418ba014a/"><img src="images/lin.png" style="width: 15px;"></a>
-
-Sean is an undergraduate working on background selection in maize.
-<!-- break -->
 <br><br><br>
 <!-- break -->
 
 <div style="float: left">
 <img src="images/MeWthCone.jpg" style="border:10px solid white" width="100px"></a>
 </div>
-**Mitra Menon**
+**Mitra Menon (she/her/hers**
 <a href="https://github.com/mitramenon"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0003-2263-9764"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
-Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having moved from conifer ecological genetics to population genetics of maize transposable elements.
+Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her previous work focuserd on ecological and evolutionary genomics of conifers.
 
 <!-- break --> 
 <br><p class="forceBreak"></p>
@@ -144,7 +121,7 @@ Mitra is the lab's Linnean Postdoctoral Fellow for Phylogenetic Breadth, having 
 <div style="float: left">
 <img src="images/odell.jpg" style="border:10px solid white" width="100px"></a>
 </div>
-**Sarah Odell** 
+**Sarah Odell (she/her/hers)** 
 <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
@@ -158,7 +135,7 @@ Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runci
 <img src="images/alyssa.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 
-**Alyssa Phillips** 
+**Alyssa Phillips (she/her/hers)** 
 <a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"></a>
@@ -172,7 +149,7 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 <img src="images/julianna.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 
-**Julianna Porter** 
+**Julianna Porter (she/her/hers)** 
 <a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
 Julianna is an undergraduate genetics & genomics major. She's the recipient  of the Nieland Family Award to  do  independennt research on clinal adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
@@ -186,7 +163,7 @@ Julianna is an undergraduate genetics & genomics major. She's the recipient  of 
 <div style="float: left">
 <img src="images/jri12.jpg" style="border:10px solid white" width="100px"></a>
 </div>
-**Jeffrey Ross-Ibarra** 
+**Jeffrey Ross-Ibarra (he/his/him)** 
 <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;">
 </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
@@ -203,13 +180,13 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 <img src="images/rushworth.jpeg" style="border:10px solid white" width="100px"></a>
 </div>
 
-**Catherine Rushworth** 
+**Catherine Rushworth (she/her/hers)** 
 <a href="https://cathyrushworth.weebly.com"><img src="images/Home_icon_black.png" style="width: 15px;">
 <a href="https://twitter.com/Dr_Crushworth"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://orcid.org/0000-0003-0715-1234"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=L9MNZEQAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Cathy is the lab's Irene Manton Postdoctoral Fellow for Plant Hybridization, working on the evolution of reproductive incompatibilities between maize and teosinte with collaborator [Yaniv Brandvain](https://brandvainlab.wordpress.com).  
+Cathy works on the evolution of reproductive incompatibilities between maize and teosinte with collaborator [Yaniv Brandvain](https://brandvainlab.wordpress.com).  
 <!-- break -->
 <br>
 <!-- break -->
@@ -217,7 +194,7 @@ Cathy is the lab's Irene Manton Postdoctoral Fellow for Plant Hybridization, wor
 <div style="float: left">
 <img src="images/defne.jpg" style="border:10px solid white" width="100px"></a>
 </div>
-**Defne Sime**
+**Defne Sime (she/her/hers)**
 <a href="https://www.linkedin.com/in/defne-sime-12l19m/"><img src="images/lin.png" style="width: 15px;"></a>
 
 Defne is an undergraduate working with Mitra to udnerstand how indigenous language groups may have structured genetic diversity in traditional maize landraces.
@@ -230,14 +207,14 @@ Defne is an undergraduate working with Mitra to udnerstand how indigenous langua
 <div style="float: left">
 <img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" style="border:10px solid white" width="100px"></a>
 </div>
-**Silas Tittes**
+**Silas Tittes (he/his/him)**
 <a href="https://www.linkedin.com/in/silas-tittes-4b41106b/"><img src="images/lin.png" style="width: 15px;"></a>
 <a href="https://twitter.com/silastittes"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/silastittes"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0003-4697-7434"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
-Silas is a postdoc and the lab's current Felix Andrews Statistical Fellow, working on approaches to study convergent evolution as part of the [PanAnd project](https://panandropogoneae.com).
+Silas is a postdoc working on approaches to study convergent evolution as part of the [PanAnd project](https://panandropogoneae.com).
 
 <!-- break -->
 <br>

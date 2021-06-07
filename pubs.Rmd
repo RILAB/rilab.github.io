@@ -83,13 +83,7 @@ Rodríguez-Zapata F, Barnes AC, Blöcher-Juárez KA, **Gates DJ** ...[16 authors
 After domestication from lowland teosinte parviglumis (Zea mays ssp. parviglumis) in the warm Mexican southwest, maize (Zea mays ssp. mays) colonized the highlands of Mexico and South America. In the highlands, maize was exposed to lower temperatures that imposed strong selection on flowering time. Previous work in maize and other has linked variation in phospholipid metabolism to low temperature stress as well as changes in flowering time. Here, we combined linkage mapping analysis with genome scans to identify High PhosphatidylCholine 1 (HPC1), a gene which encodes a phospholipase A1 enzyme, as a major driver of phospholipid variation in highland maize. Common garden experiments demonstrated strong genotype-by-environment interactions associated with variation at HPC1, with the highland HPC1 allele leading to higher fitness in highlands, possibly by hastening flowering. The HPC1 variant we identified in highland maize results in impaired function of the encoded protein due to a polymorphism in a highly conserved sequence. A meta-analysis indicated a strong association between the identity of the amino acid at this position in a prokaryotic protein harboring this conserved sequence and optimal growth temperature of the organism. Mutagenesis of HPC1 via genome editing validated its role in regulating phospholipid metabolism. Finally, we show that the highland HPC1 allele entered cultivated maize by introgression from the wild highland teosinte Zea mays ssp. mexicana and has been maintained in maize breeding lines from Northern US, Canada and Europe. Thus, HPC1 introgressed from teosinte mexicana underlies a large metabolic QTL that modulates phosphatidylcholine levels and has an adaptive effect at least in part via induction of early flowering time.
 </p></details>
 
-<br><details>
-    <summary>*De novo* assembly, annotation, and comparative analysis of 26 diverse maize genomes.  [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426684v1)]  
-    Hufford MB, Seetharam AS, ...[40 authors including **Hudson AI** and **Tittes S**]... **Ross-Ibarra J**, Yu J, Gent JI, Hirsch CN, Ware D, Dawe RK.
-</summary>
-    <p style="margin-left: 30px">
- We report de novo genome assemblies, transcriptomes, annotations, and methylomes for the 26 inbreds that serve as the founders for the maize nested association mapping population. The data indicate that the number of pan-genes exceeds 103,000 and that the ancient tetraploid character of maize continues to degrade by fractionation to the present day. Excellent contiguity over repeat arrays and complete annotation of centromeres further reveal the locations and internal structures of major cytological landmarks. We show that combining structural variation with SNPs can improve the power of quantitative mapping studies. Finally, we document variation at the level of DNA methylation, and demonstrate that unmethylated regions are enriched for cis-regulatory elements that overlap QTL and contribute to changes in gene expression.
-</p></details>
+
 
 <br><details>
     <summary>Conflict over fertilization underlies the transient evolution of reinforcement.  [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.10.377481v1)]  
@@ -128,6 +122,14 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 <br> 
 
 ### 2021
+
+<br><details>
+    <summary>*De novo* assembly, annotation, and comparative analysis of 26 diverse maize genomes.  [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426684v1)]  
+    Hufford MB, Seetharam AS, ...[40 authors including **Hudson AI** and **Tittes S**]... **Ross-Ibarra J**, Yu J, Gent JI, Hirsch CN, Ware D, Dawe RK.
+</summary>
+    <p style="margin-left: 30px">
+We report de novo genome assemblies, transcriptomes, annotations, and methylomes for the 26 inbreds that serve as the founders for the maize nested association mapping population. The data indicate that the number of pan-genes exceeds 103,000 and that the ancient tetraploid character of maize continues to degrade by fractionation to the present day. Excellent contiguity over repeat arrays and complete annotation of centromeres further reveal the locations and internal structures of major cytological landmarks. We show that combining structural variation with SNPs can improve the power of quantitative mapping studies. Finally, we document variation at the level of DNA methylation, and demonstrate that unmethylated regions are enriched for cis-regulatory elements that overlap QTL and contribute to changes in gene expression.
+</p></details>
 
 <br><details>
     <summary>[Conserved noncoding sequences provide insights into regulatory sequence and loss of gene expression in maize
