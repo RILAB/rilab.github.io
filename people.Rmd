@@ -31,7 +31,7 @@ title: "People"
 ---
 
 ## Current R-I Lab members
-Please read more information on [joining the lab](prosp.html)
+Please read more information on [joining the lab](prosp.html) and [lab expectations](expectations.html).
 <!-- break -->
 <p><br> 
 <!-- break --></p>

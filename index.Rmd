@@ -15,6 +15,13 @@ Welcome to the Ross-Ibarra Lab in the [Dept. of Evolution and Ecology](http://ev
 
 <br>
 
+### Contact Info  
+Jeffrey Ross-Ibarra  
+Dept. of Evolution and Ecology  
+University of California  
+Storer Hall, One Shields Ave  
+Davis, CA 95616
+
 <!-- <a href="http://www.plantsciences.ucdavis.edu/plantsciences/"><img src="images/pslogo.png" width="300px"></a> -->
 <!-- <a href="http://cpb.ucdavis.edu"><img src="images/cpb_logo.jpg" width="300px"></a> -->
 <!-- <a href="http://www.genomecenter.ucdavis.edu"><img src="images/GC.png" width="300px"></a> -->
