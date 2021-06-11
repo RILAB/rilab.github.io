@@ -40,13 +40,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### June
 
+
 #### June 25
 
 [Yamaguchi & Otto, 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14032) Insights from Fisher's geometric model on the likelihood of speciation under different histories of environmental change
 
 #### June 18
 
-TBD
+[Booker et al. 2021](https://www.biorxiv.org/content/10.1101/2021.06.10.447924v1)  Selective sweeps influence diversity over large regions of the mouse genome
 
 #### June 11
 
