@@ -37,6 +37,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
+### July
+
+
+#### July 23
+[Moutinho et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.28.441765v1) Testing the adaptive walk model of gene evolution. 
+
+#### July 16
+[Brown & Kelly, 2021](https://www.biorxiv.org/content/10.1101/2021.06.02.446804v1) Genome-wide association mapping of transcriptome variation in Mimulus guttatus indicates differing patterns of selection on cis- versus trans-acting mutations
+
 
 ### June
 
