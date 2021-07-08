@@ -41,7 +41,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 #### August 6
 
-(Szukala et al)[https://www.biorxiv.org/content/10.1101/2021.07.05.451094v2] Polygenic routes lead to parallel altitudinal adaptation in Heliosperma pusillum (Caryophyllaceae). 
+[Szukala et al](https://www.biorxiv.org/content/10.1101/2021.07.05.451094v2) Polygenic routes lead to parallel altitudinal adaptation in Heliosperma pusillum (Caryophyllaceae). 
 
 ### July
 
