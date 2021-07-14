@@ -1,15 +1,11 @@
 ---
-title: "ID"
+title: "Some fun inbreeding depression (ID) results"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## R Markdown
-
-## Some fun inbreeding depression (ID) results
 
 Jim Holland shows maize has higher ID than teosinte
 
