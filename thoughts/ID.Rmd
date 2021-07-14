@@ -17,7 +17,7 @@ We thought this odd, because we showed w/ GERP ([Wang 2017](https://genomebiolog
 
 In this light, Jim’s result seemed weird, since del. sites fixed in maize can’t contribute to ID in maize (measured as self vs outcross progeny).
 
-Today we (Markus Stetter) looked at GERP in the parents of Jim's pops, focusing only on segregating sites.  We see the same pattern as becore for number of deleterious sites:
+Today we ([Markus Stetter](https://cropevolution.org)) looked at GERP in the parents of Jim's pops, focusing only on segregating sites.  We see the same pattern as before for number of deleterious sites:
 
 <img src=/Users/jri/Downloads/gerp_sites.pdf alt="GERP counts Holland" width="400"/>
 
