@@ -36,6 +36,15 @@ Click on a triangle for the article abstract.
 ### Preprints
 
 <br><details> 
+    <summary> Modeling Allelic Diversity of Multi-parent Mapping Populations Affects Detection of Quantitative Trait Loci
+  [[preprint](https://www.biorxiv.org/content/10.1101/2021.07.14.452335v1)]  
+**Odell SG**, **Hudson AI**, Praud S, Dubreuil P, Tixier M-H, **Ross-Ibarra J**, Runcie DE
+</summary> 
+    <p style="margin-left: 30px">The search for quantitative trait loci (QTL) that explain complex traits such as yield and flowering time has been ongoing in all crops. Methods such as bi-parental QTL mapping and genome-wide association studies (GWAS) each have their own advantages and limitations. Multi-parent advanced generation intercross (MAGIC) populations contain more recombination events and genetic diversity than bi-parental mapping populations and reduce the confounding effect of population structure that is an issue in association mapping populations. Here we discuss the results of using a MAGIC population of doubled haploid (DH) maize lines created from 16 diverse founders to perform QTL mapping. We compare three models that assume bi-allelic, founder, and ancestral haplotype allelic states for QTL. The three methods have different power to detect QTL for a variety of agronomic traits. Although the founder approach finds the most QTL, there are also QTL unique to each method, suggesting that each model has advantages for traits with different genetic architectures. A closer look at a well-characterized flowering time QTL, qDTA8, which contains vgt1, suggests a potential epistatic interaction and highlights the strengths and weaknesses of each method. Overall, our results reinforce the importance of considering different approaches to analyzing genotypic datasets, and show the limitations of binary SNP data for identifying multi-allelic QTL.
+</p></details> 
+
+
+<br><details> 
     <summary> Strengthened mutualistic adaptation between teosinte and its rhizosphere biota in cold climates
   [[preprint](https://www.biorxiv.org/content/10.1101/2021.04.20.440703v1)]  
  **O'Brien AM**, Sawers RJH, Gasca-Pineda J, Baxter, I, Eguiarte LE,   **Ross-Ibarra J**, Strauss SY 
