@@ -35,6 +35,19 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
+https://www.biorxiv.org/content/10.1101/2021.08.16.456262v1
+
+
+
+<br><details> 
+    <summary> Controlling for variable transposition rate with an age-adjusted site frequency spectrum [[preprint](https://www.biorxiv.org/content/10.1101/2021.08.16.456262v1)]  
+**Horvath R**, **Menon M**, Stitzer MC,  **Ross-Ibarra J**
+</summary> 
+    <p style="margin-left: 30px">
+    
+    
+</p></details> 
+
 
 
 
