@@ -11,9 +11,9 @@
 
 <style>
   .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-column: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
+    columns: 2 250px;         /* number of columns and width in pixels*/
+    -webkit-column: 2 250px; /* chrome, safari */
+    -moz-columns: 2 250px;    /* firefox */
   }
   .col3 {
     columns: 3 100px;
@@ -57,11 +57,22 @@ Brenda is the lab manager and czar. In addition to working with us, she manages 
 <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"></a>
 <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Elli is a plant biology graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks.  
+Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks.  
 <!-- break -->
 <br>
 <!-- break -->
 
+
+<div style="float: left">  
+<img src="images/fairbanks.jpg" style="border:10px solid white" width="100px"></a>
+</div>  
+**Regina Fairbanks (she/her/hers; they/them/theirs)** 
+<a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+
+Regina is a first year student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including archaeology, genomics, and plant domestication.
+<!-- break -->
+<br><br>
+<!-- break -->
 
 
 <div style="float: left">  
@@ -88,35 +99,38 @@ Robert is a postdoc currently studying the population genomics of TEs in maize.
 <a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Asher is a graduate student in [Population Biology](http://www-eve.ucdavis.edu/eve/pbg/) working on genotype by environment interaction in maize as part of the [maize diversity project](http://www.panzea.org).  
+Asher is a graduate student in [Population Biology](https://pbg.ucdavis.edu) working on genotype by environment interaction in maize as part of the [maize diversity project](http://www.panzea.org).  
 <!-- break -->
 <br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/ajohnson.jpg" style="border:10px solid white" width="100px"></a>
-</div>
-**Ashley Johnson** 
-<a href="https://twitter.com/ashesandpeaches"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<!-- <div style="float: left"> -->
+<!-- <img src="images/ajohnson.jpg" style="border:10px solid white" width="100px"></a> -->
+<!-- </div> -->
+<!-- **Ashley Johnson**  -->
+<!-- <a href="https://twitter.com/ashesandpeaches"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> -->
 
-Ashley is a Biochemistry major, currently working on using machine learning methods to identify deleterious alleles in maize.  
-<!-- break -->
-<br><br><br>
-<!-- break -->
+<!-- Ashley is a Biochemistry major, currently working on using machine learning methods to identify deleterious alleles in maize.   -->
+<!-- <!-- break --> 
+<!-- <br><br><br> -->
+<!-- <!-- break --> 
 
 <div style="float: left">
 <img src="images/MeWthCone.jpg" style="border:10px solid white" width="100px"></a>
 </div>
 **Mitra Menon (she/her/hers**
+<a href="https://twitter.com/evolmm?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="https://github.com/mitramenon"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0003-2263-9764"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 
 Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her previous work focuserd on ecological and evolutionary genomics of conifers.
 
-<!-- break --> 
-<br><p class="forceBreak"></p>
-<!-- break --> 
+
+<!-- break -->
+<br>
+<!-- break -->
+
 
 <div style="float: left">
 <img src="images/odell.jpg" style="border:10px solid white" width="100px"></a>
@@ -126,10 +140,10 @@ Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her 
 <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"></a>
 <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a>
 
-Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
-<!-- break -->
-<br>
-<!-- break -->
+Sarah is a [Plant Biology](https://pbi.ucdavis.edu)  graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
+<!-- break --> 
+<br><p class="forceBreak"></p>
+<!-- break --> 
 
 <div style="float: left">
 <img src="images/alyssa.jpg" style="border:10px solid white" width="100px"></a>
@@ -140,7 +154,7 @@ Sarah is a plant biology graduate student coadvised by [Dan Runcie](http://runci
 <a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"></a>
 
-Alyssa is a Plant Biology graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).  
+Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).  
 <!-- break -->
 <br>
 <!-- break -->
@@ -152,7 +166,7 @@ Alyssa is a Plant Biology graduate student working on environmental adaptation i
 **Julianna Porter (she/her/hers)** 
 <a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 
-Julianna is an undergraduate genetics & genomics major. She's the recipient  of the Nieland Family Award to  do  independennt research on clinal adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
+Julianna is an undergraduate [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-and-genomics) major. She's the recipient  of the Nieland Family Award to  do  independennt research on clinal adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
 
 <!-- break -->
 <br>
@@ -161,7 +175,7 @@ Julianna is an undergraduate genetics & genomics major. She's the recipient  of 
 
 
 <div style="float: left">
-<img src="images/jri12.jpg" style="border:10px solid white" width="100px"></a>
+<img src="images/cornjri.png" style="border:10px solid white" width="100px"></a>
 </div>
 **Jeffrey Ross-Ibarra (he/his/him)** 
 <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;">
@@ -203,7 +217,20 @@ Defne is an undergraduate working with Mitra to udnerstand how indigenous langua
 <br>
 <!-- break -->
 
+<div style="float: left">
+<img src="images/solares.jpg" style="border:10px solid white" width="100px"></a>
+</div>
 
+**Edwin Solares (he/his/him)** 
+<a href="https://twitter.com/edwinsolares10?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://github.com/esolares"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0002-3220-4927"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>
+
+Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index.html) interested in applying computational solution to problems in genetics and genomics.  
+<!-- break -->
+<br>
+<!-- break -->
 <div style="float: left">
 <img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" style="border:10px solid white" width="100px"></a>
 </div>
