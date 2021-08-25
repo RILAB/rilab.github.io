@@ -28,3 +28,4 @@ Davis, CA 95616
 <!-- <a href="http://www.genomecenter.ucdavis.edu"><img src="images/GC.png" width="300px"></a> -->
 
 
+<a href="images/lab25.08.2021.jpeg"><img src="images/pslogo.png" width="300px"></a> 
