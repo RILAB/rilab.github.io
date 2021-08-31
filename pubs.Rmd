@@ -40,9 +40,8 @@ Click on a triangle for the article abstract.
 **Horvath R**, **Menon M**, Stitzer MC,  **Ross-Ibarra J**
 </summary> 
     <p style="margin-left: 30px">
-    
-    
-</p></details> 
+    Recognition of the important role of transposable elements (TEs) in eukaryotic genomes quickly led to a burgeoning literature modeling and estimating the effects of selection on TEs. Much of the empirical work on selection has focused on analyzing the site frequency spectrum (SFS) of TEs. But TEs differ from standard evolutionary models in a number of ways that can impact the power and interpretation of the SFS. For example, rather than mutating under a clock-like model, transposition often occurs in bursts which can inflate particular frequency categories compared to expectations under a standard neutral model. If a TE burst has been recent, the excess of low frequency polymorphisms can mimic the effect of purifying selection. Here, we investigate how transposition bursts affect the frequency distribution of TEs and the correlation between age and allele frequency. Using information on the TE age distribution, we propose an age-adjusted site frequency spectrum to compare TEs and neutral polymorphisms to more effectively evaluate whether TEs are under selective constraints. We show that our approach can minimize instances of false inference of selective constraint, but also allows for a correct identification of even weak selection affecting TEs which experienced a transposition burst and is robust to at least simple demographic changes. The results presented here will help researchers working on TEs to more reliably identify the effects of selection on TEs without having to rely on the assumption of a constant transposition rate.
+    </p></details> 
 
 
 
@@ -156,7 +155,7 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 </p></details>  
 
 <br><details>
-    <summary>*De novo* assembly, annotation, and comparative analysis of 26 diverse maize genomes.  [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426684v1)]  
+    <summary>[*De novo* assembly, annotation, and comparative analysis of 26 diverse maize genomes](https://science.sciencemag.org/content/373/6555/655.abstract).  [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426684v1)]  
     Hufford MB, Seetharam AS, ...[40 authors including **Hudson AI** and **Tittes S**]... **Ross-Ibarra J**, Yu J, Gent JI, Hirsch CN, Ware D, Dawe RK.
 </summary>
     <p style="margin-left: 30px">
