@@ -36,8 +36,23 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Ramachandran et al. preprint](https://www.biorxiv.org/content/10.1101/2020.03.05.978643v1?rss=1&utm_source=dlvr.it&utm_medium=twitter) Evolutionary dynamics of transposable elements following a shared polyploidization event in the tribe Andropogoneae -->
 
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
+
+## October
+
+#### Oct 1
+[Battlay et al preprint](https://www.biorxiv.org/content/10.1101/2021.09.13.459985v1?ct=) Pleiotropy drives repeatability in the genetic basis of adaptation
+
 ### September
 
+#### Sept 24 
+[Grieshop et al. preprint](https://arxiv.org/abs/2109.01571) Dominance reversals, antagonistic pleiotropy, and the maintenance of genetic variation
+
+#### Sept 17
+[Howe et al. preprint](https://www.biorxiv.org/content/10.1101/2021.03.05.433935v1) Within-sibship GWAS improve estimates of direct genetic effects
+
+*AND*
+
+[Paige Harden 2018](https://www.nytimes.com/2018/07/24/opinion/dna-nature-genetics-education.html) Why Progressives Should Embrace the Genetics of Education
 
 #### Sept 10
 [Brown and Kelly preprint](https://www.biorxiv.org/content/10.1101/2021.06.02.446804v1) Genome-wide association mapping of transcriptome variation in Mimulus guttatus indicates differing patterns of selection on cis- versus trans-acting mutations
