@@ -74,23 +74,6 @@ Regina is a first year student in the [Population Biology](https://pbg.ucdavis.e
 <!-- break -->
 
 
-<div style="float: left">  
-<img src="images/horvath.jpg" style="border:10px solid white" width="125px"></a>
-</div>  
-**Robert Horvath** 
-<a href="https://www.linkedin.com/in/robert-horvath-337079101"><img src="images/lin.png" style="width: 15px;"></a>
-<a href="https://twitter.com/Horvath_Rob"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href="https://orcid.org/0000-0002-3221-8835"><img src="images/orcid.png" style="width: 15px;"></a>
-<a href="https://scholar.google.com/citations?hl=en&user=U9evFmUAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>  
-(he/him/his)  
-
-Robert is a postdoc currently studying the population genomics of TEs in maize.
-
-<!-- break -->
-<br><br>
-<!-- break -->
-
-
 <div style="float: left">
 <img src="images/asher.jpg" style="border:10px solid white" width="125px"></a>
 </div>
