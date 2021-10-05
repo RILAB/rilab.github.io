@@ -65,7 +65,7 @@ Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by
 <img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"></a>
 </div>  
 **Regina Fairbanks** <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>  
-(she/her/hers; they/them/theirs)  
+(they/them/theirs)  
 
 
 Regina is a first year student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including archaeology, genomics, and plant domestication.
