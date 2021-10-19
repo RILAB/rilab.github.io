@@ -171,7 +171,7 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 ### 2021
 
 <br><details>
-    <summary>Selective sorting of ancestral introgression in maize and teosinte along an elevational cline   [[preprint](https://www.biorxiv.org/content/10.1101/2021.03.05.434040v1)]  
+    <summary>[Selective sorting of ancestral introgression in maize and teosinte along an elevational cline](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1009810)   [[preprint](https://www.biorxiv.org/content/10.1101/2021.03.05.434040v1)]  
 Calfee E, **Gates DJ**, **Lorant A**, **Perkins MT**, Coop G, **Ross-Ibarra J**.
 </summary>
     <p style="margin-left: 30px">
@@ -179,8 +179,7 @@ While often deleterious, hybridization can also be a key source of genetic varia
 </p></details>  
 
 <br><details>
-    <summary>The Genomic Ecosystem of Transposable Elements in Maize 
-[[preprint](https://www.biorxiv.org/content/10.1101/559922v1)][[github](https://github.com/mcstitzer/maize_genomic_ecosystem)][[interactive](https://mcstitzer.shinyapps.io/maize_te_families/)]   
+    <summary>[The Genomic Ecosystem of Transposable Elements in Maize](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009768) [[preprint](https://www.biorxiv.org/content/10.1101/559922v1)][[github](https://github.com/mcstitzer/maize_genomic_ecosystem)][[interactive](https://mcstitzer.shinyapps.io/maize_te_families/)]   
 **Stitzer MC**,   Anderson SN,  Springer NM,  **Ross-Ibarra J**
 </summary>
     <p style="margin-left: 30px">Transposable elements (TEs) constitute the majority of flowering plant DNA, reflecting their tremendous success in subverting, avoiding, and surviving the defenses of their host genomes to ensure their selfish replication. More than 85% of the sequence of the maize genome can be ascribed to past transposition, providing a major contribution to the structure of the genome. Evidence from individual loci has informed our understanding of how transposition has shaped the genome, and a number of individual TE insertions have been causally linked to dramatic phenotypic changes. But genome-wide analyses in maize and other taxa have frequently represented TEs as a relatively homogeneous class of fragmentary relics of past transposition, obscuring their evolutionary history and interaction with their host genome. Using an updated annotation of structurally intact TEs in the maize reference genome, we investigate the family-level ecological and evolutionary dynamics of TEs in maize. Integrating a variety of data, from descriptors of individual TEs like coding capacity, expression, and methylation, as well as similar features of the sequence they inserted into, we model the relationship between these attributes of the genomic environment and the survival of TE copies and families. Our analyses reveal a diversity of ecological strategies of TE families, each representing the evolution of a distinct ecological niche allowing survival of the TE family. In contrast to the wholesale relegation of all TEs to a single category of junk DNA, these differences generate a rich ecology of the genome, suggesting families of TEs that coexist in time and space compete and cooperate with each other. We conclude that while the impact of transposition is highly family- and context-dependent, a family-level understanding of the ecology of TEs in the genome can refine our ability to predict the role of TEs in generating genetic and phenotypic diversity.

@@ -38,6 +38,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
 ### October
+#### Oct 29
+[Kulbaba et al. preprint](https://www.biorxiv.org/content/10.1101/2021.10.12.464067v1) Chasing the fitness optimum: temporal variation in the genetic and environmental expression of life-history traits for a perennial plant
 
 #### Oct 22
 [Ye et al. 2019](https://www.nature.com/articles/s41559-019-0976-1) Genomic evidence of human selection on Vavilovian mimicry

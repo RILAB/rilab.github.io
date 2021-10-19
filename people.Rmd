@@ -219,30 +219,16 @@ Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index
 <!-- break -->
 <br>
 <!-- break -->
-<div style="float: left">
-<img src="https://www.colorado.edu/lab/emery/sites/default/files/styles/small/public/people/tittes_headshot_5x5.jpg?itok=oRD9YJ4r" style="border:10px solid white" width="125px"></a>
-</div>
-**Silas Tittes** 
-<a href="https://www.linkedin.com/in/silas-tittes-4b41106b/"><img src="images/lin.png" style="width: 15px;"></a>
-<a href="https://twitter.com/silastittes"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href="https://github.com/silastittes"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
-<a href="https://orcid.org/0000-0003-4697-7434"><img src="images/orcid.png" style="width: 15px;"></a>
-<a href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
-(he/him/his)  
-
-Silas is a postdoc working on approaches to study convergent evolution as part of the [PanAnd project](https://panandropogoneae.com).
-
-<!-- break -->
-<br>
-<!-- break -->
 
 </div>
 
 ## Lab Alumni
 
+* [Silas Tittes](https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en): Postdoc 2018-2021 (Bioinformatician, Fulcrum Genomics)
+* [Robert Horvath](https://scholar.google.com/citations?user=U9evFmUAAAAJ&hl=en&oi=sra): Postdoc 2020-2021 (Postdoc, U. Zurich)
 * [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN): Postdoc 2019-2021 (Professor, Huazhong Ag. University)
 * [Daniel Gates](https://danjgates.wordpress.com): Postdoc 2016-2020 (Bioinformatician, Checkerspot)
-* [Taylor Perkins](https://orcid.org/0000-0002-1076-0527): Lab Manager 2019-2020 (Graduate Student, University of Florida)
+* [Taylor Perkins](https://orcid.org/0000-0002-1076-0527): Lab Manager 2019-2020 
 * [Sarah Turner-Hissong](https://mishaploid.github.io): Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)
 * [Michelle Stitzter](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
 * [Dianne Velasco](https://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl=en) PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm Repository)
