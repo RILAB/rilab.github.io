@@ -37,6 +37,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
+### November
+#### Nov 19
+[Exposito-Alonso et al preprint](https://www.biorxiv.org/content/10.1101/2021.10.13.464000v1) Quantifying the scale of genetic diversity extinction in the Anthropocene.
+
+#### Nov 12
+[Johri et al preprint] (https://www.biorxiv.org/content/10.1101/2021.10.27.466171v1.full.pdf) Statistical inference in population genomics.
+
 ### October
 #### Oct 29
 [Kulbaba et al. preprint](https://www.biorxiv.org/content/10.1101/2021.10.12.464067v1) Chasing the fitness optimum: temporal variation in the genetic and environmental expression of life-history traits for a perennial plant
