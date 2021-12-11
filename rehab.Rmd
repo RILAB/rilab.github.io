@@ -37,12 +37,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
 
-### December
+##2022
 
-### Dec 10
+### January
+
+#### Jan 7
 [Exposito-Alonso et al preprint](https://www.biorxiv.org/content/10.1101/2021.10.13.464000v1) Quantifying the scale of genetic diversity extinction in the Anthropocene.
 
-### Dec 3
+## 2021
+
+### December
+
+#### Dec 3
 [Matheson et al. preprint](https://www.biorxiv.org/content/10.1101/2021.11.01.466728v1) Haldane’s cost of selection imposes a mild constraint on adaptation, with a high proportion of deaths in A. thaliana being selective
 
 ### November
