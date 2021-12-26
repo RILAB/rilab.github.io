@@ -58,16 +58,6 @@ What is the genetic architecture of local adaptation and what is the geographic 
 
 
 
-
-<br><details> 
-    <summary> Analysis of genotype by environment interactions in a maize mapping population
-  [[preprint](https://www.biorxiv.org/content/10.1101/2021.07.21.453280v1)]  
-**Hudson AI**, **Odell SG**, Dubreuil P, Tixier M-H, Praud S, Runcie DE, **Ross-Ibarra J**
-</summary> 
-    <p style="margin-left: 30px">Genotype by environment interactions are a significant challenge for crop breeding as well as being important for understanding the genetic basis of environmental adaptation. In this study, we analyzed genotype by environment interaction in a maize multi-parent advanced generation intercross population grown across five environments. We found that genotype by environment interactions contributed as much as genotypic effects to the variation in some agronomically important traits. In order to understand how genetic correlations between traits change across environments, we estimated the genetic variance-covariance matrix in each environment. Changes in genetic covariances between traits across environments were common, even among traits that show low genotype by environment variance. We also performed a genome-wide association study to identify markers associated with genotype by environment interactions but found only a small number of significantly associated markers, possibly due to the highly polygenic nature of genotype by environment interactions in this population.
-</p></details> 
-
-
 <br><details> 
     <summary> Strengthened mutualistic adaptation between teosinte and its rhizosphere biota in cold climates
   [[preprint](https://www.biorxiv.org/content/10.1101/2021.04.20.440703v1)]  
@@ -137,6 +127,13 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 
 ### 2022
 
+<br><details> 
+    <summary> Analysis of genotype by environment interactions in a maize mapping population
+  [[preprint](https://www.biorxiv.org/content/10.1101/2021.07.21.453280v1)]  
+**Hudson AI**, **Odell SG**, Dubreuil P, Tixier M-H, Praud S, Runcie DE, **Ross-Ibarra J**
+</summary> 
+    <p style="margin-left: 30px">Genotype by environment interactions are a significant challenge for crop breeding as well as being important for understanding the genetic basis of environmental adaptation. In this study, we analyzed genotype by environment interaction in a maize multi-parent advanced generation intercross population grown across five environments. We found that genotype by environment interactions contributed as much as genotypic effects to the variation in some agronomically important traits. In order to understand how genetic correlations between traits change across environments, we estimated the genetic variance-covariance matrix in each environment. Changes in genetic covariances between traits across environments were common, even among traits that show low genotype by environment variance. We also performed a genome-wide association study to identify markers associated with genotype by environment interactions but found only a small number of significantly associated markers, possibly due to the highly polygenic nature of genotype by environment interactions in this population.
+</p></details> 
 
 <br><details> 
     <summary> Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte
