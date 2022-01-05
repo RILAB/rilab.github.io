@@ -48,15 +48,6 @@ What is the genetic architecture of local adaptation and what is the geographic 
 
 
 
-<br><details> 
-    <summary> Controlling for variable transposition rate with an age-adjusted site frequency spectrum [[preprint](https://www.biorxiv.org/content/10.1101/2021.08.16.456262v1)]  
-**Horvath R**, **Menon M**, Stitzer MC,  **Ross-Ibarra J**
-</summary> 
-    <p style="margin-left: 30px">
-    Recognition of the important role of transposable elements (TEs) in eukaryotic genomes quickly led to a burgeoning literature modeling and estimating the effects of selection on TEs. Much of the empirical work on selection has focused on analyzing the site frequency spectrum (SFS) of TEs. But TEs differ from standard evolutionary models in a number of ways that can impact the power and interpretation of the SFS. For example, rather than mutating under a clock-like model, transposition often occurs in bursts which can inflate particular frequency categories compared to expectations under a standard neutral model. If a TE burst has been recent, the excess of low frequency polymorphisms can mimic the effect of purifying selection. Here, we investigate how transposition bursts affect the frequency distribution of TEs and the correlation between age and allele frequency. Using information on the TE age distribution, we propose an age-adjusted site frequency spectrum to compare TEs and neutral polymorphisms to more effectively evaluate whether TEs are under selective constraints. We show that our approach can minimize instances of false inference of selective constraint, but also allows for a correct identification of even weak selection affecting TEs which experienced a transposition burst and is robust to at least simple demographic changes. The results presented here will help researchers working on TEs to more reliably identify the effects of selection on TEs without having to rely on the assumption of a constant transposition rate.
-    </p></details> 
-
-
 
 <br><details> 
     <summary> Strengthened mutualistic adaptation between teosinte and its rhizosphere biota in cold climates
@@ -127,6 +118,15 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 
 ### 2022
 
+
+<br><details> 
+    <summary> Controlling for variable transposition rate with an age-adjusted site frequency spectrum [[preprint](https://www.biorxiv.org/content/10.1101/2021.08.16.456262v1)]  
+**Horvath R**, **Menon M**, Stitzer MC,  **Ross-Ibarra J**
+</summary> 
+    <p style="margin-left: 30px">
+    Recognition of the important role of transposable elements (TEs) in eukaryotic genomes quickly led to a burgeoning literature modeling and estimating the effects of selection on TEs. Much of the empirical work on selection has focused on analyzing the site frequency spectrum (SFS) of TEs. But TEs differ from standard evolutionary models in a number of ways that can impact the power and interpretation of the SFS. For example, rather than mutating under a clock-like model, transposition often occurs in bursts which can inflate particular frequency categories compared to expectations under a standard neutral model. If a TE burst has been recent, the excess of low frequency polymorphisms can mimic the effect of purifying selection. Here, we investigate how transposition bursts affect the frequency distribution of TEs and the correlation between age and allele frequency. Using information on the TE age distribution, we propose an age-adjusted site frequency spectrum to compare TEs and neutral polymorphisms to more effectively evaluate whether TEs are under selective constraints. We show that our approach can minimize instances of false inference of selective constraint, but also allows for a correct identification of even weak selection affecting TEs which experienced a transposition burst and is robust to at least simple demographic changes. The results presented here will help researchers working on TEs to more reliably identify the effects of selection on TEs without having to rely on the assumption of a constant transposition rate.
+    </p></details> 
+
 <br><details> 
     <summary> Analysis of genotype by environment interactions in a maize mapping population
   [[preprint](https://www.biorxiv.org/content/10.1101/2021.07.21.453280v1)]  
@@ -136,7 +136,7 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 </p></details> 
 
 <br><details> 
-    <summary> Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte
+    <summary> [Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009797)
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.01.458502v1)]  
 Holland JB, Samayoa LF,  Olukolu BA, Yang CJ, ...[7 authors]...  **Yang J**,  **Ross-Ibarra J**, Buckler ES,  Doebley JF.
 </summary> 
