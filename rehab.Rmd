@@ -38,7 +38,7 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ### January
 
 #### Jan 21  
-[Ramachandran et al. preprint](https://www.biorxiv.org/content/10.1101/2020.03.05.978643v1?rss=1&utm_source=dlvr.it&utm_medium=twitter)  Evolutionary dynamics of transposable elements following a shared polyploidization event in the tribe Andropogoneae.
+[Dahan-Meir preprint](https://www.biorxiv.org/content/10.1101/2022.01.10.475641v1) The genetic structure of a wild wheat population has remained associated with microhabitats over 36 years
 
 #### Jan 14
 [Ho et al.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009827) Engines of change: Transposable element mutation rates are high and variable within *Daphnia magna*.
