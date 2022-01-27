@@ -35,7 +35,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2022
 
+### February
+
+#### Feb 4 
+[van der Zee et al. 2022](https://onlinelibrary.wiley.com/doi/10.1002/evl3.272) Rapid genomic convergent evolution in experimental populations of Trinidadian guppies (Poecilia reticulata)
+
 ### January
+
+#### Jan 28
+[Saleh et al. 2022](https://onlinelibrary.wiley.com/doi/10.1002/evl3.269) Genome-wide evolutionary response of European oaks during the Anthropocene
 
 #### Jan 21  
 [Dahan-Meir preprint](https://www.biorxiv.org/content/10.1101/2022.01.10.475641v1) The genetic structure of a wild wheat population has remained associated with microhabitats over 36 years
