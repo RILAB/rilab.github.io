@@ -37,8 +37,11 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2022
 ## March
-#### March 11
+#### March 18
 [White et al. 2022](https://www.sciencedirect.com/science/article/pii/S0960982222001105?dgcid=author) Experimental evolution of local adaptation under unidimensional and multidimensional selection
+
+#### March 11
+[Haupt & Schmid preprint](https://www.biorxiv.org/content/10.1101/2022.02.18.480989v2?ct=) Using landscape genomics to infer genomic regions involved in environmental adaptation of soybean genebank accessions
 
 #### March 4
 [Kreiner et al. 2022](https://elifesciences.org/articles/70242) Repeated origins, widespread gene flow, and allelic interactions of target-site herbicide resistance mutations
