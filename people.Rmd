@@ -98,7 +98,7 @@ Asher is a graduate student in [Population Biology](https://pbg.ucdavis.edu) wor
 <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 (he/him/his)  
 
-Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of  a large international collaboration run by [CIMMYT](https://www.cimmyt.org). 
+Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of  a large international collaboration led by [CIMMYT](https://www.cimmyt.org). 
 <br><br>
 
 <div style="float: left">
