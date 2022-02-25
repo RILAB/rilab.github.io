@@ -84,20 +84,21 @@ Regina is a first year student in the [Population Biology](https://pbg.ucdavis.e
 (he/him/his)  
 
 Asher is a graduate student in [Population Biology](https://pbg.ucdavis.edu) working on genotype by environment interaction in maize as part of the [maize diversity project](http://www.panzea.org).  
-<!-- break -->
 <br>
-<!-- break -->
 
-<!-- <div style="float: left"> -->
-<!-- <img src="images/ajohnson.jpg" style="border:10px solid white" width="125px"></a> -->
-<!-- </div> -->
-<!-- **Ashley Johnson**  -->
-<!-- <a href="https://twitter.com/ashesandpeaches"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> -->
 
-<!-- Ashley is a Biochemistry major, currently working on using machine learning methods to identify deleterious alleles in maize.   -->
-<!-- <!-- break --> 
-<!-- <br><br><br> -->
-<!-- <!-- break --> 
+<div style="float: left">
+<img src="images/forrest.JPG" style="border:10px solid white" width="125px"></a>
+</div>
+**Forrest Li**
+<a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"></a>
+<a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"></a>  
+(he/him/his)  
+
+Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of  a large international collaboration run by [CIMMYT](https://www.cimmyt.org). 
+<br><br>
 
 <div style="float: left">
 <img src="images/MeWthCone.jpg" style="border:10px solid white" width="125px"></a>
@@ -159,10 +160,8 @@ Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-an
 <br>
 <!-- break -->
 
-
-
 <div style="float: left">
-<img src="images/cornjri.png" style="border:10px solid white" width="125px"></a>
+<img src="images/jri45.jpg" style="border:10px solid white" width="125px"></a>
 </div>
 **Jeffrey Ross-Ibarra** <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;">
 </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
@@ -174,7 +173,7 @@ Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-an
 
 Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).   
 <!-- break -->
-<br>
+<br><br>
 <!-- break -->
 
 <div style="float: left">
