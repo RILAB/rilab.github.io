@@ -35,24 +35,29 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
+<details> 
+    <summary> A happy accident: a novel turfgrass reference genome.
+ [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
+**Phillips AR**,   Seetharam AR,  AuBuchon-Elder T, Buckler ES,Gillespie LJ,  Hufford M,  Llaca V,  Romay C,  Soreng RJ,  Kellogg E,  **Ross-Ibarra J**  
 
+</summary> 
+    <p style="margin-left: 30px">
+Poa pratensis, commonly known as Kentucky bluegrass, is a popular cool-season grass species used as turf in lawns and recreation areas globally. Despite its substantial economic value, a reference genome had not previously been assembled due to the genome's relatively large size and biological complexity that includes apomixis, polyploidy, and interspecific hybridization. We report here a fortuitous de novo assembly and annotation of a P. pratensis genome. The draft assembly consists of 6.09 Gbp with an N50 scaffold length of 65.1 Mbp, and a total of 118 scaffolds, generated using PacBio long reads and Bionano optical map technology. We annotated 256K gene models and found 58% of the genome to be composed of transposable elements. To demonstrate the applicability of the reference genome, we evaluated population structure and estimated genetic diversity in three North American wild P. pratensis populations. Our results support previous studies that found high genetic diversity and population structure within the species. The reference genome and annotation will be an important resource for turfgrass breeding and biologists interested in this complex species.  </p></details> 
 
-
-<br><details> 
+<details> 
     <summary> Not so local: the population genetics of convergent adaptation in maize and teosinte.
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1)]  
 **Tittes S**, **Lorant A**, **McGinty S**,  Doebley JF, Holland JB, Sanchez-Gonzalez JdJ, Seetharam AS, Tenaillon MI, **Ross-Ibarra J**
+
 </summary> 
     <p style="margin-left: 30px">
 What is the genetic architecture of local adaptation and what is the geographic scale that it operates over? We investigated patterns of local and convergent adaptation in five sympatric population pairs of traditionally cultivated maize and its wild relative teosinte (Zea mays subsp. parviglumis). We found that signatures of local adaptation based on the inference of adaptive fixations and selective sweeps are frequently exclusive to individual populations, more so in teosinte compared to maize. However, for both maize and teosinte, selective sweeps are frequently shared by several populations, and often between the subspecies. We were further able to infer that selective sweeps were shared among populations most often via migration, though sharing via standing variation was also common. Our analyses suggest that teosinte has been a continued source of beneficial alleles for maize, post domestication, and that maize populations have facilitated adaptation in teosinte by moving beneficial alleles across the landscape. Taken together, out results suggest local adaptation in maize and teosinte has an intermediate geographic scale, one that is larger than individual populations, but smaller than the species range.  </p></details> 
 
-
-
-
-<br><details> 
+<details> 
     <summary> Strengthened mutualistic adaptation between teosinte and its rhizosphere biota in cold climates
   [[preprint](https://www.biorxiv.org/content/10.1101/2021.04.20.440703v1)]  
  **O'Brien AM**, Sawers RJH, Gasca-Pineda J, Baxter, I, Eguiarte LE,   **Ross-Ibarra J**, Strauss SY 
+
 </summary> 
     <p style="margin-left: 30px">While abiotic environments consistently shape local adaptation, the strength of local adaptation to biotic interactions may vary more. One theory, COCO (CO-evolutionary Outcomes across Conditionality), predicts it may be strongest where species experience greater stress, because stress increases fitness impacts of species interactions. For example, in plant interactions with rhizosphere biota, positive outcomes increase with stress from low soil fertility, drought and cold.
 
@@ -63,35 +68,41 @@ We found stronger local adaptation between teosinte and rhizosphere biota from c
 In sum, we uncovered greater local adaptation to biotic interactions in colder sites, and that both plants and rhizosphere biota affect the expression of plant phenotypes. 
 </p></details> 
 
-<br><details>
+<details>
     <summary>Portrait of a genus: the genetic diversity of Zea  [[preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438828v1?ct=)]  
  Chen L, Luo J, Minliang Jin, **Yang N** ...[21 authors]... Fernie AR, Warburton ML, **Ross-Ibarra J**, Yan J.
+ 
+
 </summary>
     <p style="margin-left: 30px">
 Maize is a globally valuable commodity and one of the most extensively studied genetic model organisms. However, we know surprisingly little about the extent and potential utility of the genetic variation found in the wild relatives of maize. Here, we characterize a high-density genomic variation map from ~700 genomes encompassing maize and all wild taxa of the genus Zea, identifying over 65 million single nucleotide polymorphisms (SNPs), 8 million Insertion/Deletion (InDel) polymorphisms, and over one thousand novel inversions. The variation map reveals evidence of selection within taxa displaying novel adaptations such as perenniality and regrowth. We focus in detail on evidence of convergent adaptation in highland teosinte and temperate maize. This study not only indicates the key role of hormone related pathways in highland adaptation and flowering time related pathways in high latitude adaptation, but also identifies significant overlap in the genes underlying adaptations to both environments. To show how this data can identify useful genetic variants, we generated and characterized novel mutant alleles for two flowering time candidate genes. This work provides the most extensive sampling to date of the genetic diversity inherent in the genus Zea, resolving questions on evolution and identifying adaptive variants for direct use in modern breeding.
 </p></details>  
 
-<br><details>
+<details>
     <summary>The genomic signature of wild-to-crop introgression during the domestiation of scarlet runner bean (*Phaseolus coccineus L.*) [[preprint](https://www.biorxiv.org/content/10.1101/2021.02.03.429668v1)]  
 Guerra-Garcia A, Rojas-Barrera IC,  **Ross-Ibarra J**, Papa R, Piñero D. 
+
 
 </summary>
     <p style="margin-left: 30px">
 The scarlet runner bean is an open-pollinated legume from the highlands of Mesoamerica that is cultivated in small-scale agriculture for its dry seeds and immature pods. Demographic bottlenecks associated with domestication might reduce genetic diversity and facilitate the accumulation of deleterious mutations. Conversely, introgression from wild relatives could be a source of variation. Using Genotyping by Sequencing data (79,286 SNVs) from 237 cultivated and wild samples, we evaluated the demographic history of traditional varieties from different regions of Mexico and looked for evidence of introgression between sympatric wild and cultivated populations. Traditional varieties have high levels of diversity, even though there is evidence of a severe initial genetic bottleneck, followed by a population expansion. Introgression from wild to domesticated populations was detected, but not in the opposite direction. This asymmetric introgression might contribute to the recovery of genetic variation and it has occurred at different times: constantly in the center of Mexico; recently in the North West; and anciently in the South. Several factors are acting together to increase and maintain genetic diversity in P. coccineus cultivars, such as demographic expansion and introgression. Wild relatives represent a valuable genetic resource and have played a key role in scarlet runner bean evolution via introgression into traditional varieties.
 </p></details>
 
-<br><details>
+<details>
     <summary>Teosinte introgression modulates phosphatidylcholine levels and induces early maize flowering time    [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.25.426574v1)]  
 Rodríguez-Zapata F, Barnes AC, Blöcher-Juárez KA, **Gates DJ** ...[16 authors]... **Ross-Ibarra J**, Hufford M, Sawers RJH, Rellán-Álvarez R.
+
 
 </summary>
     <p style="margin-left: 30px">
 After domestication from lowland teosinte parviglumis (Zea mays ssp. parviglumis) in the warm Mexican southwest, maize (Zea mays ssp. mays) colonized the highlands of Mexico and South America. In the highlands, maize was exposed to lower temperatures that imposed strong selection on flowering time. Previous work in maize and other has linked variation in phospholipid metabolism to low temperature stress as well as changes in flowering time. Here, we combined linkage mapping analysis with genome scans to identify High PhosphatidylCholine 1 (HPC1), a gene which encodes a phospholipase A1 enzyme, as a major driver of phospholipid variation in highland maize. Common garden experiments demonstrated strong genotype-by-environment interactions associated with variation at HPC1, with the highland HPC1 allele leading to higher fitness in highlands, possibly by hastening flowering. The HPC1 variant we identified in highland maize results in impaired function of the encoded protein due to a polymorphism in a highly conserved sequence. A meta-analysis indicated a strong association between the identity of the amino acid at this position in a prokaryotic protein harboring this conserved sequence and optimal growth temperature of the organism. Mutagenesis of HPC1 via genome editing validated its role in regulating phospholipid metabolism. Finally, we show that the highland HPC1 allele entered cultivated maize by introgression from the wild highland teosinte Zea mays ssp. mexicana and has been maintained in maize breeding lines from Northern US, Canada and Europe. Thus, HPC1 introgressed from teosinte mexicana underlies a large metabolic QTL that modulates phosphatidylcholine levels and has an adaptive effect at least in part via induction of early flowering time.
 </p></details>
 
-<br><details>
+<details>
     <summary>Conflict over fertilization underlies the transient evolution of reinforcement.  [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.10.377481v1)]  
      **Rushworth C**, Wardlaw AW, **Ross-Ibarra J**, Brandvain YB.
+     
+
 </summary>
     <p style="margin-left: 30px">
 When two populations or species hybridize, their offspring often experience reductions in fitness relative to either parental population. 
@@ -107,135 +118,160 @@ We demonstrate that this conflict results in the transient evolution of reinforc
  Our results suggest that sexual conflict may pose an understudied obstacle to the evolution of reinforcement via postmating prezygotic isolation. 
 </p></details>
 
-<br><details>
+<details>
     <summary>Single gene resolution of locally adaptive genetic variation in Mexican maize [[preprint](https://www.biorxiv.org/content/10.1101/706739v1)]  
-**Gates DJ**, Runcie D, Janzen GM, Romero Navarro A ...[4 authors]... Buckler ES, Hearne S, Hufford MB, **Ross-Ibarra J**  
+**Gates DJ**, Runcie D, Janzen GM, Romero Navarro A ...[4 authors]... Buckler ES, Hearne S, Hufford MB, **Ross-Ibarra J** 
+
+
 </summary>
     <p style="margin-left: 30px">We present a high-resolution genome-wide association analysis to identify loci exhibiting adaptive patterns in a large panel of more than 4500 traditional maize landraces representing the breadth of genetic diversity of maize in Mexico. We evaluate associations between genotype and plant performance in 13 common gardens across a range of environments, identifying hundreds of candidate genes underlying genotype by environment interaction. We further identify genetic associations with environment across Mexico and show that such loci are associated with variation in yield and flowering time in our field trials and predict performance in independent drought trials. Our results indicate that the variation necessary to adapt crops to changing climate exists in traditional landraces that have been subject to ongoing environmental adaptation and can be identified by both phenotypic and environmental association.
 </p></details>
 
-<br> 
 
 ### 2022
 
-
-<br><details> 
-    <summary> Controlling for variable transposition rate with an age-adjusted site frequency spectrum [[preprint](https://www.biorxiv.org/content/10.1101/2021.08.16.456262v1)]  
+<details> 
+    <summary> [Controlling for variable transposition rate with an age-adjusted site frequency spectrum](https://academic.oup.com/gbe/article/14/2/evac016/6519160?login=false) [[preprint](https://www.biorxiv.org/content/10.1101/2021.08.16.456262v1)]  
 **Horvath R**, **Menon M**, Stitzer MC,  **Ross-Ibarra J**
+
 </summary> 
     <p style="margin-left: 30px">
     Recognition of the important role of transposable elements (TEs) in eukaryotic genomes quickly led to a burgeoning literature modeling and estimating the effects of selection on TEs. Much of the empirical work on selection has focused on analyzing the site frequency spectrum (SFS) of TEs. But TEs differ from standard evolutionary models in a number of ways that can impact the power and interpretation of the SFS. For example, rather than mutating under a clock-like model, transposition often occurs in bursts which can inflate particular frequency categories compared to expectations under a standard neutral model. If a TE burst has been recent, the excess of low frequency polymorphisms can mimic the effect of purifying selection. Here, we investigate how transposition bursts affect the frequency distribution of TEs and the correlation between age and allele frequency. Using information on the TE age distribution, we propose an age-adjusted site frequency spectrum to compare TEs and neutral polymorphisms to more effectively evaluate whether TEs are under selective constraints. We show that our approach can minimize instances of false inference of selective constraint, but also allows for a correct identification of even weak selection affecting TEs which experienced a transposition burst and is robust to at least simple demographic changes. The results presented here will help researchers working on TEs to more reliably identify the effects of selection on TEs without having to rely on the assumption of a constant transposition rate.
     </p></details> 
 
-<br><details> 
-    <summary> Analysis of genotype by environment interactions in a maize mapping population
+<details> 
+    <summary> [Analysis of genotype by environment interactions in a maize mapping population](https://academic.oup.com/g3journal/article/12/3/jkac013/6520465)
   [[preprint](https://www.biorxiv.org/content/10.1101/2021.07.21.453280v1)]  
 **Hudson AI**, **Odell SG**, Dubreuil P, Tixier M-H, Praud S, Runcie DE, **Ross-Ibarra J**
+
 </summary> 
     <p style="margin-left: 30px">Genotype by environment interactions are a significant challenge for crop breeding as well as being important for understanding the genetic basis of environmental adaptation. In this study, we analyzed genotype by environment interaction in a maize multi-parent advanced generation intercross population grown across five environments. We found that genotype by environment interactions contributed as much as genotypic effects to the variation in some agronomically important traits. In order to understand how genetic correlations between traits change across environments, we estimated the genetic variance-covariance matrix in each environment. Changes in genetic covariances between traits across environments were common, even among traits that show low genotype by environment variance. We also performed a genome-wide association study to identify markers associated with genotype by environment interactions but found only a small number of significantly associated markers, possibly due to the highly polygenic nature of genotype by environment interactions in this population.
 </p></details> 
 
-<br><details> 
+<details> 
     <summary> [Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009797)
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.01.458502v1)]  
 Holland JB, Samayoa LF,  Olukolu BA, Yang CJ, ...[7 authors]...  **Yang J**,  **Ross-Ibarra J**, Buckler ES,  Doebley JF.
+
 </summary> 
     <p style="margin-left: 30px">
     Inbreeding depression is the reduction in fitness and vigor resulting from mating of close relatives observed in many plant and animal species. The extent to which the genetic load of mutations contributing to inbreeding depression is due to rare large-effect variation versus potentially more common variants with very small individual effects is unknown and may be affected by population history. We compared the effects of outcrossing and self-fertilization on 18 traits in a landrace population of maize, which underwent a population bottleneck during domestication, and a neighboring population of its wild relative teosinte. Inbreeding depression was greater in maize than teosinte for 15 of 18 traits, congruent with the greater segregating genetic load predicted from sequence data in the maize population. For many traits - and more commonly in maize - genetic variation among self-fertilized families was less than expected based on additive and dominance variance estimated in outcrossed families, suggesting that a negative covariance between additive and homozygous dominance effects limits the variation available to selection under partial inbreeding. We identified quantitative trait loci (QTL) representing large-effect rare variants carried by only a single parent, which were more important in teosinte than maize. Teosinte also carried more putative juvenile-acting lethal variants identified by segregation distortion. These results suggest a mixture of mostly polygenic, small-effect recessive variation underlying inbreeding depression, with an additional contribution from rare larger-effect variants that was more important in teosinte but depleted in maize following to the domestication bottleneck. Purging associated with the maize domestication bottleneck may have selected against large effect variants, but polygenic load is harder to purge and segregating mutational burden increased in maize compared to teosinte.
     </p></details> 
 
-<br><details> 
-    <summary> A B73 x Palomero Toluqueo mapping population reveals local adaptation in Mexican highland maize. 
+<details> 
+    <summary> [A B73 x Palomero Toluqueo mapping population reveals local adaptation in Mexican highland maize](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896015/) 
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.15.460568v1)]  
 Perez-Limon S,  Li M, ...[13 authors]... **Ross-Ibarra J**, Flint-Garcia S, Diaz-Garcia L, Rellán-Álvarez R, Sawers RJH
+
 </summary> 
     <p style="margin-left: 30px">
 Generations of farmer selection have produced a unique collection of traditional maize varieties adapted to the environmental challenges of the central Mexican highlands. In addition to agronomic and cultural value, Mexican highland maize represents a good system for the study of local adaptation and acquisition of adaptive phenotypes under cultivation. In this study, we characterized a recombinant inbred line population derived from the cross of the B73 reference line and the Mexican highland maize variety Palomero Toluqueo. Evaluation over multiple years in lowland and highland field sites in Mexico identified genomic regions linked to yield components and putatively adaptive morphological traits. A region on chromosome 7 associated with ear weight showed antagonistic allelic effects in lowland and highland fields, suggesting a trade-off consistent with local adaptation. We identified several alleles of highland origin associated with characteristic highland traits, including reduced tassel branching, increased stem pigmentation and the presence of stem macrohairs. The oligogenic architecture of characteristic morphological traits supports their role in adaptation, suggesting they have arisen from consistent directional selection acting at distinct points across the genome. We discuss these results in the context of the origin of phenotypic novelty during selection, commenting on the role of de novo mutation and the acquisition of adaptive variation by gene flow from endemic wild relatives.
-</p></details><br>
+</p></details>
 
 
 ### 2021
 
-<br><details> 
-    <summary> Modeling Allelic Diversity of Multi-parent Mapping Populations Affects Detection of Quantitative Trait Loci
+<details> 
+    <summary> [Modeling Allelic Diversity of Multi-parent Mapping Populations Affects Detection of Quantitative Trait Loci](https://academic.oup.com/g3journal/article/12/3/jkac011/6509518?login=true)
   [[preprint](https://www.biorxiv.org/content/10.1101/2021.07.14.452335v1)]  
 **Odell SG**, **Hudson AI**, Praud S, Dubreuil P, Tixier M-H, **Ross-Ibarra J**, Runcie DE
+
 </summary> 
     <p style="margin-left: 30px">The search for quantitative trait loci (QTL) that explain complex traits such as yield and flowering time has been ongoing in all crops. Methods such as bi-parental QTL mapping and genome-wide association studies (GWAS) each have their own advantages and limitations. Multi-parent advanced generation intercross (MAGIC) populations contain more recombination events and genetic diversity than bi-parental mapping populations and reduce the confounding effect of population structure that is an issue in association mapping populations. Here we discuss the results of using a MAGIC population of doubled haploid (DH) maize lines created from 16 diverse founders to perform QTL mapping. We compare three models that assume bi-allelic, founder, and ancestral haplotype allelic states for QTL. The three methods have different power to detect QTL for a variety of agronomic traits. Although the founder approach finds the most QTL, there are also QTL unique to each method, suggesting that each model has advantages for traits with different genetic architectures. A closer look at a well-characterized flowering time QTL, qDTA8, which contains vgt1, suggests a potential epistatic interaction and highlights the strengths and weaknesses of each method. Overall, our results reinforce the importance of considering different approaches to analyzing genotypic datasets, and show the limitations of binary SNP data for identifying multi-allelic QTL.
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Selective sorting of ancestral introgression in maize and teosinte along an elevational cline](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1009810)   [[preprint](https://www.biorxiv.org/content/10.1101/2021.03.05.434040v1)]  
 Calfee E, **Gates DJ**, **Lorant A**, **Perkins MT**, Coop G, **Ross-Ibarra J**.
+
+
 </summary>
     <p style="margin-left: 30px">
 While often deleterious, hybridization can also be a key source of genetic variation and pre-adapted haplotypes, enabling rapid evolution and niche expansion. Here we evaluate these opposing selection forces on introgressed ancestry between maize (Zea mays ssp. mays), and its wild teosinte relative. Introgression from ecologically diverse teosinte may have facilitated maize's global range expansion, in particular to challenging high elevation regions (> 1500 m). We generated low-coverage genome sequencing data for 348 maize and mexicana individuals to evaluate patterns of introgression in 14 sympatric population pairs, spanning the elevational range of Zea mays ssp. mexicana, a teosinte endemic to the mountains of Mexico. While recent hybrids are commonly observed in sympatric populations and mexicana demonstrates fine-scale local adaptation, we find that the majority of mexicana ancestry tracts introgressed >1000 generations ago. This mexicana ancestry seems to have maintained much of its diversity and likely came from a common ancestral source, rather than contemporary sympatric populations, resulting in relatively low Fst between mexicana ancestry tracts sampled from geographically distant maize populations. Introgressed mexicana ancestry is reduced in lower-recombination rate quintiles of the genome and around domestication genes, consistent with pervasive selection against introgression. However, we also find mexicana ancestry increases across the sampled elevational gradient and that high introgression peaks are most commonly shared among high-elevation maize populations, consistent with introgression from mexicana facilitating adaptation to the highland environment. In the other direction, we find patterns consistent with adaptive and clinal introgression of maize ancestry into sympatric mexicana at many loci across the genome, suggesting that maize also contributes to adaptation in mexicana, especially at the lower end of its elevational range. In sympatric maize, in addition to high introgression regions we find many genomic regions where selection for local adaptation maintains steep gradients in introgressed mexicana ancestry across elevation, including at least two inversions: the well-characterized Inv4m and a new 3 Mb inversion Inv9f surrounding the macrohairless1 locus on chromosome 9. The bulk of our ancestry selection outliers show no signals of sweeps or local sourcing from sympatric populations and so likely represent ancestral introgression sorted by selection, resulting in correlated but distinct outcomes of introgression in different contemporary maize landrace populations.
 </p></details>  
 
-<br><details>
+<details> 
     <summary>[The Genomic Ecosystem of Transposable Elements in Maize](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009768) [[preprint](https://www.biorxiv.org/content/10.1101/559922v1)][[github](https://github.com/mcstitzer/maize_genomic_ecosystem)][[interactive](https://mcstitzer.shinyapps.io/maize_te_families/)]   
 **Stitzer MC**,   Anderson SN,  Springer NM,  **Ross-Ibarra J**
+
+
 </summary>
     <p style="margin-left: 30px">Transposable elements (TEs) constitute the majority of flowering plant DNA, reflecting their tremendous success in subverting, avoiding, and surviving the defenses of their host genomes to ensure their selfish replication. More than 85% of the sequence of the maize genome can be ascribed to past transposition, providing a major contribution to the structure of the genome. Evidence from individual loci has informed our understanding of how transposition has shaped the genome, and a number of individual TE insertions have been causally linked to dramatic phenotypic changes. But genome-wide analyses in maize and other taxa have frequently represented TEs as a relatively homogeneous class of fragmentary relics of past transposition, obscuring their evolutionary history and interaction with their host genome. Using an updated annotation of structurally intact TEs in the maize reference genome, we investigate the family-level ecological and evolutionary dynamics of TEs in maize. Integrating a variety of data, from descriptors of individual TEs like coding capacity, expression, and methylation, as well as similar features of the sequence they inserted into, we model the relationship between these attributes of the genomic environment and the survival of TE copies and families. Our analyses reveal a diversity of ecological strategies of TE families, each representing the evolution of a distinct ecological niche allowing survival of the TE family. In contrast to the wholesale relegation of all TEs to a single category of junk DNA, these differences generate a rich ecology of the genome, suggesting families of TEs that coexist in time and space compete and cooperate with each other. We conclude that while the impact of transposition is highly family- and context-dependent, a family-level understanding of the ecology of TEs in the genome can refine our ability to predict the role of TEs in generating genetic and phenotypic diversity.
 </p></details>  
 
-<br><details>
+<details> 
     <summary>[*De novo* assembly, annotation, and comparative analysis of 26 diverse maize genomes](https://science.sciencemag.org/content/373/6555/655.abstract).  [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426684v1)]  
     Hufford MB, Seetharam AS, ...[40 authors including **Hudson AI** and **Tittes S**]... **Ross-Ibarra J**, Yu J, Gent JI, Hirsch CN, Ware D, Dawe RK.
+    
+
 </summary>
     <p style="margin-left: 30px">
 We report de novo genome assemblies, transcriptomes, annotations, and methylomes for the 26 inbreds that serve as the founders for the maize nested association mapping population. The data indicate that the number of pan-genes exceeds 103,000 and that the ancient tetraploid character of maize continues to degrade by fractionation to the present day. Excellent contiguity over repeat arrays and complete annotation of centromeres further reveal the locations and internal structures of major cytological landmarks. We show that combining structural variation with SNPs can improve the power of quantitative mapping studies. Finally, we document variation at the level of DNA methylation, and demonstrate that unmethylated regions are enriched for cis-regulatory elements that overlap QTL and contribute to changes in gene expression.
 </p></details>
 
-<br><details>
+<details> 
     <summary>[Conserved noncoding sequences provide insights into regulatory sequence and loss of gene expression in maize
 ](https://genome.cshlp.org/content/early/2021/05/27/gr.266528.120.abstract#aff-4). [[preprint]( https://www.biorxiv.org/content/10.1101/2020.07.11.192575v2)]   
-Song B, Buckler ES, Wang H, Wu Y, ...[4 authors including **D Gates**]... Bradbury PJ, **Ross-Ibarra J**,  Hufford MB, Romay MC.  
+Song B, Buckler ES, Wang H, Wu Y, ...[4 authors including **D Gates**]... Bradbury PJ, **Ross-Ibarra J**,  Hufford MB, Romay MC. 
+
+
 </summary>
     <p style="margin-left: 30px">DNA sequencing technology has advanced so quickly, identifying key functional regions using evolutionary approaches is required to understand how those genomes work. This research develops a sensitive sequence alignment approach to identify functional constrained non-coding sequences in the Andropogoneae tribe. The grass tribe Andropogoneae contains several crop species descended from a common ancestor ~18 million years ago. Despite broadly similar phenotypes, they have tremendous genomic diversity with a broad range of ploidy levels and transposons. These features make Andropogoneae a powerful system for studying conserved non-coding sequence (CNS), here we used it to understand the function of CNS in maize. We find that 86% of CNS comprise known genomic elements e.g., cis-regulatory elements, chromosome interactions, introns, several transposable element superfamilies, and are linked to genomic regions related to DNA replication initiation, DNA methylation and histone modification. In maize, we show that CNSs regulate gene expression and variants in CNS are associated with phenotypic variance, and rare CNS absence contributes to loss of gene expression. Furthermore, we find the evolution of CNS is associated with the functional diversification of duplicated genes in the context of the maize subgenomes. Our results provide a quantitative understanding of constrained non-coding elements and identify functional non-coding variation in maize.
 </p></details>
 
-<br><details>
+<details> 
     <summary>[Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab119/6255756)   [[preprint](https://www.biorxiv.org/content/10.1101/2020.07.31.227629v1)]   
      **Wang L**, **Josephs EB**, Lee KM, Roverts LM, Rellán-Álvarez R, **Ross-Ibarra J**, Hufford MB.  
+     
+
 </summary>
     <p style="margin-left: 30px">Convergent phenotypic evolution provides some of the strongest evidence for adaptation. However, the extent to which recurrent phenotypic adaptation has arisen via parallelism at the molecular level remains unresolved, as does the evolutionary origin of alleles underlying such adaptation. Here, we investigate genetic mechanisms of convergent highland adaptation in maize landrace populations and evaluate the genetic sources of recurrently selected alleles. Population branch excess statistics reveal strong evidence of parallel adaptation at the level of individual SNPs, genes and pathways in four independent highland maize populations, even though most SNPs show unique patterns of local adaptation. The majority of selected SNPs originated via migration from a single population, most likely in the Mesoamerican highlands. Polygenic adaptation analyses of quantitative traits reveal that alleles affecting flowering time are significantly associated with elevation, indicating the flowering time pathway was targeted by highland adaptation. In addition, repeatedly selected genes were significantly enriched in the flowering time pathway, indicating their significance in adapting to highland conditions. Overall, our study system represents a promising model to study convergent evolution in plants with potential applications to crop adaptation across environmental gradients.
 </p></details>
 
-<br><details>
+<details> 
     <summary>[Gene body methylation is under selection in *Arabidopsis thaliana*.](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyab061/6237897?searchresult=1)  [[preprint](https://www.biorxiv.org/content/10.1101/2020.09.04.283333v1)]  
      Muyle A, **Ross-Ibarra J**, Seymour DK, Gaut BS.
+     
+
 </summary>
     <p style="margin-left: 30px">In plants, mammals and insects, some genes are DNA methylated in the CG dinucleotide context, a phenomenon called gene body methylation. It has long been controversial whether this phenomenon has any functional role. Here, we took advantage of the availability of 868 leaf methylomes in Arabidopsis thaliana to characterize the population frequency of gene body methylation at the gene level. We used two outgroups to infer the ancestral methylation state of orthologs. Using the A. thaliana gene body methylation site frequency spectrum and a population genetics model specifically designed for epigenetic data, we find that genes with ancestral gene body methylation are under significant selection to remain methylated. Conversely, ancestrally unmethylated genes are under selection to remain unmethylated. The estimated selection coefficients are small, on the order of magnitude of selection acting on codon usage. We also find that A. thaliana is losing gene body methylation more often than gaining it, which could be due to a recent reduction in the efficacy of selection after a switch to selfing. We investigated the potential function of gene body methylation through its link with gene expression level. We show that, within genes with polymorphic methylation states in A. thaliana wild populations, the gene body methylated state is consistently associated with the highest gene expression level. Our work suggests that gene body methylation has a small effect on fitness, but substantial enough for natural selection to act on it.
 </p></details>
 
-<br><details>
+<details> 
     <summary>[Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://www.nature.com/articles/s41477-020-00834-5.epdf?sharing_token=_mN9oSJzgPbS9Ldsr01s8dRgN0jAjWel9jnR3ZoTv0OIqw-nLs7dqtihevHgjRdBgKyJmnWQSkGOUEc4hulR2jnTLjP4fqtKbSUSzA7iWbyA0E0YEvXdfVUO_1_dmi2uNdJtrPRcKz9O_jp58VwFcP02Yhzr7I3YNxgg8Oit1Xk%3D) [[preprint]( https://doi.org/10.1101/777623)][[github](https://github.com/GoreLab/Sorghum-HapMap)]  
 Lozano R, Gazave E, dos Santos JPR,  Stetter MG ...[4 authors]... Mockler T, Buckler ES,  **Ross-Ibarra J**, Gore MA
+
+
 </summary>
     <p style="margin-left: 30px">Sorghum and maize share a close evolutionary history that can be explored through comparative genomics. To perform a large-scale comparison of the genomic variation between these two species, we analyzed 13M variants identified from whole genome resequencing (WGS) of 468 sorghum lines together with 25M variants previously identified in 1,218 maize lines. Deleterious mutations in both species were prevalent in pericentromeric regions, enriched in non-syntenic genes, and present at low allele frequencies. A comparison of deleterious burden between sorghum and maize revealed that sorghum, in contrast to maize, departed from the “domestication cost” hypothesis that predicts a higher deleterious burden among domesticates compared to wild lines. Additionally, sorghum and maize population genetic summary statistics were used to predict a gene deleterious index with an accuracy higher than 0.5. This research represents a key step towards understanding the evolutionary dynamics of deleterious variants in sorghum and provides a comparative genomics framework to start prioritizing them for removal through genome editing and breeding.
-</p></details><br>
+</p></details>
 
 ### 2020
 
-<br><details>
+<details> 
     <summary>[Adaptive evolution of DNA methylation reshaped gene regulation in maize](https://www.nature.com/articles/s41467-020-19333-4)  [[preprint]( https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1)] [[github](https://github.com/jyanglab/msfs_teo)]  
     Xu G, Lyu J, Li Q, Liu H, Wang D, Zhang M, Springer NM, **Ross-Ibarra J**, Yang J
+    
+
 </summary>
     <p style="margin-left: 30px">DNA methylation is a ubiquitous chromatin feature – in maize, more than 25% of cytosines in the genome are methylated. Recently, major progress has been made in describing the molecular mechanisms driving methylation, yet variation and evolution of the methylation landscape during maize domestication remain largely unknown. Here we leveraged whole-genome sequencing (WGS) and whole-genome bisulfite sequencing (WGBS) on populations of modern maize, landrace, and teosinte (Zea mays ssp. parviglumis) to investigate the adaptive and phenotypic consequences of methylation variations in maize. By using a novel estimation approach, we inferred the methylome site frequency spectrum (mSFS) to estimate forward and backward methylation mutation rates and selection coefficients. We only found weak evidence for direct selections on methylations in any context, but thousands of differentially methylated regions (DMRs) were identified in population-wide that are correlated with recent selections. Further investigation revealed that DMRs are enriched in 5’ untranslated regions, and that maize hypomethylated DMRs likely helped rewire distal gene regulation. For two trait-associated DMRs, vgt1-DMR and tb1-DMR, our HiChIP data indicated that the interactive loops between DMRs and respective downstream genes were present in B73, a modern maize line, but absent in teosinte. And functional analyses suggested that these DMRs likely served as cis-acting elements that modulated gene regulation after domestication. Our results enable a better understanding of the evolutionary forces acting on patterns of DNA methylation and suggest a role of methylation variation in adaptive evolution.
 </p></details>
 
-<br><details>
+<details> 
     <summary>[The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008791)  
 Chen Q, Fernando Samayoa L, Yang CJ, ...[5 authors]... **Lorant A**, Buckler ES, **Ross-Ibarra J**, Holland JB, Doebley JF
+
+
 </summary>
     <p style="margin-left: 30px"> The genetics of domestication has been extensively studied ever since the rediscovery of Mendel’s law of inheritance and much has been learned about the genetic control of trait differences between crops and their ancestors. Here, we ask how domestication has altered genetic architecture by comparing the genetic architecture of 18 domestication traits in maize and its ancestor teosinte using matched populations. We observed a strongly reduced number of QTL for domestication traits in maize relative to teosinte, which is consistent with the previously reported depletion of additive variance by selection during domestication. We also observed more dominance in maize than teosinte, likely a consequence of selective removal of additive variants. We observed that large effect QTL have low minor allele frequency (MAF) in both maize and teosinte. Regions of the genome that are strongly differentiated between teosinte and maize (high F ST ) explain less quantitative variation in maize than teosinte, suggesting that, in these regions, allelic variants were brought to (or near) fixation during domestication. We also observed that genomic regions of high recombination explain a disproportionately large proportion of heritable variance both before and after domestication. Finally, we observed that about 75% of the additive variance in both teosinte and maize is “missing” in the sense that it cannot be ascribed to detectable QTL and only 25% of variance maps to specific QTL. This latter result suggests that morphological evolution during domestication is largely attributable to very large numbers of QTL of very small effect.
 </p></details>
 
 
-<br><details>
+<details> 
     <summary>[Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landraces](https://www.g3journal.org/content/ggg/early/2020/05/28/g3.120.401196.full.pdf) [[preprint](https://www.biorxiv.org/content/10.1101/817791v1)][[github](https://github.com/LZeitler/eurodh-scripts/blob/master/README.org)]  
 **Zeitler L**, **Ross-Ibarra J**, **Stetter MGS**
+
+
 </summary>
     <p style="margin-left: 30px"> Maize landraces are well adapted to their local environments and present valuable sources of genetic diversity for breeding and conservation.
 But the maintenance of open-pollinated landraces in \textit{ex-situ} programs is challenging, as regeneration of seed can often lead to inbreeding depression and the loss of diversity due to genetic drift. 
@@ -247,38 +283,44 @@ We identify thousands of SNPs that exhibit allele frequency differences larger t
 Although we were unable to uncover more details about the mode of selection, we conclude that while landrace DH lines may be a valuable tool for the introduction of variation into maize breeding programs they come at the cost of decreased genetic diversity and increased genetic load.
 </p></details>
 
-<br><details>
+<details> 
   <summary>[Genome-wide selection and genetic improvement during modern maize breeding](https://drive.google.com/file/d/1UxPN_Yf2HQ0OOJdqbP537Bwxlm2N1EkL/view?usp=sharing)  
 Wang B, Lin Z, Li X, Zhao Y ...[17 authors]... Hufford MB, **Ross-Ibarra J**, He H, Wang H.
+
 </summary>
     <p style="margin-left: 30px">
     Modern crop breeding has made a profound impact on food production to sustain population growth during the past century; however, systematic analyses of the genomic basis underlying the dramatic increase in crop yields during modern breeding remain limited in scope. Here we report an analysis of the genomic and phenotypic changes associated with modern maize breeding across a chronological sampling of 350 elite inbred lines representing multiple eras of both Chinese and U.S. germplasm. We document a number of convergent phenotypic changes in both countries. Using genome-wide association and selection scan methods, we identify 160 loci underlying adaptive agronomic phenotypes and more than 1,800 genomic regions representing the targets of selection during modern breeding. We functionally validate two candidate genes underpinning variation in ear height and tassel branch number using CRISPR knockout mutants. In sum, this work demonstrates the utility of breeding-era approach for identifying breeding signatures and lays the foundation for future genomics-enabled maize breeding."
 </p></details>
 
-<br><details>  
+<details>  
 <summary>[Evolutionary insights into plant breeding](https://www.sciencedirect.com/science/article/pii/S1369526620300339) [[preprint](https://agrixiv.org/akdt8)]  
 **Turner-Hissong SD**, Mabry ME, Beissinger TM, **Ross-Ibarra J**, Pires JC
+
 </summary>
     <p style="margin-left: 30px">Crop domestication is a fascinating area of study, as evidencedby a multitude of recent reviews. Coupled with the increasing availability of genomic and phenomic resources in numerous crop species, insights from evolutionary biology will enable a deeper understanding of the genetic architecture and short-term evolution of complex traits, which can be used to inform selection strategies. Future advances in crop improvement will rely on the integration of population genetics with  plant  breeding  methodology,  and  the  development  of  community  resources  to  support research in a variety of crop life histories and reproductive strategies. We highlight recent advances in the role of selective sweeps and demographic history in shaping genetic architecture, how these breakthroughs can inform selection strategies, and the application of precision gene editing to leverage these connections.
 </p></details>  
 
-<br><details>
+<details> 
     <summary>[Genomics of long- and short- term adaptation in maize and teosinte](http://library.oapen.org/bitstream/handle/20.500.12657/23339/1006816.pdf?sequence=1#page=292) [[preprint](https://peerj.com/manuscripts/31241/)]   
 **Lorant A**, **Ross-Ibarra J**, Tenaillon M  
+
 </summary>
     <p style="margin-left: 30px">We review studies on short and long term adaptation, both natural and artificial, in maize and teosinte.  
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[The temporal dynamics of background selection in non-equilibrium populations](https://www.genetics.org/content/214/4/1019) [[preprint](https://www.biorxiv.org/content/10.1101/618389v1
 )][[github](https://github.com/RILAB/BGS_sims/)]  
 Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**  
+
 </summary>
     <p style="margin-left: 30px">We use simulations to show that the effects of nonequilibrium population dynamics on linked selection differ qualitatively from predictions under equilibrium models, calling into question inferences about the efficacy of selection made from summary statistics.
 </p></details>
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 
 **Catherine Rushworth**
@@ -302,60 +344,68 @@ Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**
     Comeault, A. A., Wang, J., Tittes, S., Isbell, K., Ingley, S., Hurlbert, A. H., & Matute, D. R. (2020). Genetic diversity and thermal performance in invasive and native populations of African fig flies. Molecular biology and evolution, 37(7), 1893-1906.
 
 </p></details> 
-<br>   
+   
 
 ### 2019  
 
-<br><details>
+<details> 
     <summary>[Dynamic patterns of transcript abundance of transposable element families in maize](http://www.g3journal.org/cgi/pmidlookup?view=long&pmid=31506319) [[preprint](
 https://www.biorxiv.org/content/10.1101/668558v1)]  
 Anderson SN, **Stitzer MC**, Zhou P, **Ross-Ibarra J**, Hirsch CD, Springer NM
+
 </summary>
     <p style="margin-left: 30px">We develop an approach to estiamte family-level expression in transposable elements. While a relatively small proportion of TE families are transcribed, expression is highly dynamic with most families exhibiting tissue-specific expression. We also assay expression among different maize genotypes and use a mapping population to identify what proportion of copies in a family contribute to expression."
 </p></details>
 
 
-<br><details>
+<details> 
     <summary>[Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)
  [[preprint](https://www.biorxiv.org/content/10.1101/547398v1?rss=1)]  
  Anderson SN,  **Stitzer MC**,  Brohammer AB, Peng Zhou P, Noshay JM,  Hirsch CD,  **Ross-Ibarra J**,  Hirsch CN,  Springer NM
+
 </summary>
     <p style="margin-left: 30px">We identify hundreds of thousands of variable transposable elements among a small set of maize genome assemblies. We find evidence of a large number of genes impacted by TEs, including TEs in genes and genes in TEs, and evidence of recent transposition as well.""
 </p></details>
 
-<br><details>
+<details> 
     <summary>[Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize](https://www.genetics.org/content/213/1/143)
 [[preprint](https://www.biorxiv.org/content/10.1101/588715v1)]  
 Wei X,  Anderson SN,  Wang X, ...[**Bilinski P**,  **Stitzer MC**,  **Ross-Ibarra J** and 4 other authors]...  Chen X,  Springer NM, Doebley JF
+
 </summary>
     <p style="margin-left: 30px">We describe a phenomenon we name 'hybrid decay' triggered by backcrossing between domesticated maize and a specific teosinte population, resulting in genome instability, activation of transposable elements, and altered epigenetics ."
 </p></details>
 
-<br><details>
+<details> 
     <summary>[Adaptive phenotypic divergence in teosinte differs across biotic contexts](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13818)
  [[preprint](https://www.biorxiv.org/content/10.1101/382770v2)] [[perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13857)]  
 **O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
+
 </summary>
     <p style="margin-left: 30px">We show that rhizosphere biota impact adaptive divergence of phenotypic traits in teosinte along an environmental cline. This work suggests an important role for biotic interactions in determining the outcome of local adaptation.
-</p></details>  <br>
+</p></details>  
 
 <details>
     <summary>[Characterization of introgression from the teosinte *Zea mays* ssp. *mexicana* to Mexican highland maize](https://peerj.com/articles/6815/)  [[preprint](https://peerj.com/preprints/27489/)]  
  Gonzalez-Segovia E,  Pérez-Limon S, C Cíntora-Martínez C,  Guerrero-Zavala A,  Jansen G,  Hufford MB, **Ross-Ibarra J**, Ruairidh J H Sawers
+
 </summary>
     <p style="margin-left: 30px">We look for introgression from teosinte in the genomes of two highland landraces and use QTL mapping to test for functional relevance of introgressed regions.
 </p></details>
 
-<br><details>
+<details> 
     <summary>[Detecting adaptive differentiation in structured populations with genomic data and common gardens](https://www.genetics.org/content/211/3/989)  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
 **Josephs EB**, Berg JJ, **Ross-Ibarra J**, Coop G
+
 </summary>
     <p style="margin-left: 30px">We develop methods to detect polygenic adaptation on phenotypes from common gardens and GWAS panels.   
 </p></details> 
  
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 
 **Taylor Perkins**
@@ -374,7 +424,7 @@ Wei X,  Anderson SN,  Wang X, ...[**Bilinski P**,  **Stitzer MC**,  **Ross-Ibarr
 
     Stitzer, Michelle C., and Philipp Brand. "Digest: Hybrid incompatibilities and introgression in wild monkeyflowers." Evolution 72, no. 11 (2018): 2565-2566.
 </p></details> 
-<br>   
+   
 
 
 
@@ -383,55 +433,70 @@ Wei X,  Anderson SN,  Wang X, ...[**Bilinski P**,  **Stitzer MC**,  **Ross-Ibarr
 <details>
     <summary>[Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007794) [[preprint](https://www.biorxiv.org/content/early/2018/05/03/313247)] [[interactive](https://mgstetter.shinyapps.io/quantgensimAPP/)]    
 **Stetter MG**, Thornton K, **Ross-Ibarra J**
+
 </summary>
     <p style="margin-left: 30px">We use simulations to study the population genetics of selection on a quantitative trait and learn which parameters drive quantitative trait evollution.   
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Evolutionary responses to conditionality in species interactions across environmental gradients](https://www.journals.uchicago.edu/doi/10.1086/700118) [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)][[review](https://www.authorea.com/inst/14743?articles_format=list&page=5)]     
-**O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  </summary>
+**O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  
+
+</summary>
     <p style="margin-left: 30px">We present the CoCoA hypothesis which describes how patterns of biotic coadpation change across varying abiotic environments 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Evolution and Adaptation in the Maize Genome](https://books.google.com/books?id=ZZl7DwAAQBAJ&pg=PA318&lpg=PA318&dq=maize+genome+snodgrass&source=bl&ots=jD5IvHVlpG&sig=JtkrFv2iBqp4Noq5ud81Y0aIQrU&hl=en&sa=X&ved=2ahUKEwigrdeIkf3eAhXnwlQKHQqgBEEQ6AEwAXoECAMQAQ#v=onepage&q=maize%20genome%20snodgrass&f=false)  
 Manchanda N, Snodgrass SJ, **Ross-Ibarra J**, Hufford MB  
+
 </summary>
     <p style="margin-left: 30px">We review progress thus far in genomic research of maize domestication and adaptation. We discuss the insights genomics has shed on our understanding of these processes and conclude with a future outlook for how genomics might be further applied.  
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Maize domestication and gene interaction](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15350)
  [[preprint](https://peerj.com/preprints/26502/)]    
 **Stitzer MC**, **Ross-Ibarra J**
+
 </summary>
     <p style="margin-left: 30px">We review genetic work looking at the role of dominance, epistasis, and pleiotropy during maize domestication.   
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome](http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7) [[pdf](http://sci-hub.tw/http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7)] [[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiIk5W14eHSAhVO92MKHbseACgQtwIIHDAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbcCxsVPwOE8&usg=AFQjCNGJ2xxs5xSbskrcavIoJ0D8ve3fjA&sig2=gmS2FYQxQlrQJRw8PGPDFw)]  
-Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]</summary>
+Dawe RK, Lowry EG, Gent JI, **Stitzer MC**, Higgins DM,  **Ross-Ibarra J**, Wallace J, Kanizay LB ... [7 authors]
+
+</summary>
     <p style="margin-left: 30px">We identify a small gene family Kindr as the causal locus for meiotic drive in maize. 
 </p></details>  
 
-<br><details>
+<details> 
     <summary>[Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) [[perspective](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007249)]  [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] [[slides](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays)]  
-**Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** </summary>
+**Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
+
+</summary>
     <p style="margin-left: 30px">We show that genome size can be analyzed as a quantitative trait and that selection on flowering time in maize has likely driven adaptive changes in genome size along multiple altitudinal clines. 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Adaptation in plant genomes: bigger is different](https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1002) [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)][[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)][[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
-**Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**</summary>
+**Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**
+
+</summary>
     <p style="margin-left: 30px">We develop the functional space hypothesis in which we posit that adaptation in large genomes uses more noncoding variation and is more likely to proceed via soft sweeps. </p></details>  
 
-<br><details>
+<details> 
     <summary>[Harnessing cross-border resources to confront climate change](https://www.sciencedirect.com/science/article/pii/S1462901117310602)    
-Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... Taylor JE  </summary>
+Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... Taylor JE  
+
+</summary>
     <p style="margin-left: 30px">Discusses the challenges of changing climates pose for society and the environment along the Mexican-US border.</p></details>  
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Wenbin Mei** and **Michelle Stitzer**  
 
@@ -462,73 +527,94 @@ Aburto-Oropeza O ...[**Ross-Ibarra J** and 85 authors in alphabetical order]... 
     Riaz, Summaira, et al. "Genetic diversity analysis of cultivated and wild grapevine (Vitis vinifera L.) accessions around the Mediterranean basin and Central Asia." BMC plant biology 18.1 (2018): 137.
 
 </p></details> 
-<br>  
+  
 
 ### 2017
 
 <details>
     <summary>[Construction of the third generation *Zea mays* haplotype map](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix134/4782225?searchresult=1) [[preprint](http://biorxiv.org/content/early/2015/09/16/026963)] [[sequence data](http://gigadb.org/dataset/100339)] [[genotype data](https://www.panzea.org/genotypes)] [[alignment data](http://cbsusrv04.tc.cornell.edu/users/panzea/download.aspx?filegroupid=23)] [[code](https://bitbucket.org/bukowski1/maize_hapmap3_code)]  
-Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Lorant A**, **Buffalo V**, Romay MC, Buckler ES, Ware D, Lai J, Sun Q, Xu Y  </summary>
+Bukowski R ...[16 authors]...  **Ross-Ibarra J**, **Lorant A**, **Buffalo V**, Romay MC, Buckler ES, Ware D, Lai J, Sun Q, Xu Y  
+
+</summary>
     <p style="margin-left: 30px">We present a SNP dataset of 80M variants from a sample of 1200 maize and teosinte genomes. 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[The interplay of demography and selection during maize domestication and diffusion](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4) [[preprint](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)][[github](https://github.com/HuffordLab/Wang_et_al._Demography)][[YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM)]  
-Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.</summary>
+Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
+
+</summary>
     <p style="margin-left: 30px">We show how population bottlenecks and gene flow have shaped patterns of genetic load across the maize genome and among populatons. 
 </p></details> 
 
-
-<br><details>
+<details> 
     <summary>[Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)] [[github](https://github.com/yangjl/GERP-diallel)]  
-**Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**</summary>
+**Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
+
+</summary>
     <p style="margin-left: 30px">We combine phenotypic data from crosses between multiple maize inbred lines and genome-wide characterization of deleterious alleles to show that a simple model of incomplete dominance may help explain hybrid vigor. 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202) [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
-**Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**</summary>
+**Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
+
+</summary>
     <p style="margin-left: 30px">Gene expression data from  maize and teosinte grown in mid-Holocene environments suggests that for some genes plastic changes in expression may have preceded genetic changes during domestication. 
 </p></details>   
 
-<br><details>
+<details> 
     <summary>[Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño](https://peerj.com/articles/3737/) [[preprint](http://biorxiv.org/content/early/2017/06/20/152397)]  
-Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Simpson JK, Sawers RJH</summary>
+Aguilar-Rangel MR, Chávez Montes RA,  Gonzalez-Segovia E, **Ross-Ibarra J**, Simpson JK, Sawers RJH
+
+</summary>
     <p style="margin-left: 30px">SUMMARY 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America](http://science.sciencemag.org/content/357/6350/512.full)  
-Swarts K, Gutaker RM ...[**Ross-Ibarra J** and 14 authors in alphabetical order]... Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA</summary>
+Swarts K, Gutaker RM ...[**Ross-Ibarra J** and 14 authors in alphabetical order]... Krause J, Matson RG, Weigel D, Buckler ES, Burbano HA
+
+</summary>
     <p style="margin-left: 30px">SUMMARY [Nature News](http://www.nature.com/news/ancient-genomes-show-how-maize-adapted-to-life-at-high-altitudes-1.22403)  [[Phys.org](https://phys.org/news/2017-08-precision-corn-climate.html)] [[Science Daily](https://www.sciencedaily.com/releases/2017/08/170803141056.htm)] 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[How to make a domesticate](http://www.sciencedirect.com/science/article/pii/S0960982217307856) [[preprint](https://peerj.com/preprints/2902/)]  
-**Stetter MG**, **Gates DJ**, **Mei W**, **Ross-Ibarra J**</summary>
+**Stetter MG**, **Gates DJ**, **Mei W**, **Ross-Ibarra J**
+
+</summary>
     <p style="margin-left: 30px">A perspective that seeks to predict what factors influence the success of domestication, how many genes contributed to the process, where these genes originated and the implications for de novo domestication. 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Improved maize reference genome with single-molecule technologies](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature22971.html) [[preprint](http://biorxiv.org/content/early/2016/12/19/079004)] [[github](https://github.com/mcstitzer/maize_v4_TE_annotation)]  
-Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D</summary>
+Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibarra J**, Dawe K, Hastie A, Rank DR, Ware D
+
+</summary>
     <p style="margin-left: 30px">We present a high-quality long-read reference genome of the maize inbred B73 and the first detailed annotation of retroelements in any grass species. [[NSF research news](https://news.science360.gov/obj/story/2caf076f-1759-40c2-9c56-62e3fbbdf44b/tracking-down-jumping-genes-maize)] [[UCD press release](https://t.co/3MkC6eRDyD)]
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Gene fractionation and function in the ancient subgenomes of maize](https://academic.oup.com/mbe/article/34/8/1825/3742530/Gene-Fractionation-and-Function-in-the-Ancient?guestAccessKey=391f8f04-5fd6-4bc7-bac0-0057fb3102ab) [[preprint](http://biorxiv.org/content/early/2016/12/19/095547)]  
-**Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**</summary>
+**Renny-Byfield S**, Rodgers-Melnick E, **Ross-Ibarra J**
+
+</summary>
     <p style="margin-left: 30px">We show that the two subgenomes of maize differentially contribute to functional variation in phenotypes. 
 </p></details> 
 
-<br><details>
+<details> 
     <summary>[Genomic abundance is not predictive of tandem repeat localization in grass genomes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177896) [[preprint](https://peerj.com/preprints/2314/)] [[github](https://github.com/paulbilinski/Github_centrepeat)]     
-**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**,  Zhang P, Estep MC, Jiang J, **Ross-Ibarra J**</summary>
+**Bilinski P**, Han Y, **Hufford MB**, **Lorant A**,  Zhang P, Estep MC, Jiang J, **Ross-Ibarra J**
+
+</summary>
     <p style="margin-left: 30px">We show that short read sequence data allows discovery of novel tandem repeats in grass species but, unlike many other species, the most abundant repeat is frequently not centromeric. 
 </p></details>    
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -553,31 +639,42 @@ Jiao Y, Peluso P, Shi J, Liang T, **Stitzer MC**, ...[18 authors]... **Ross-Ibar
     Mei, Wenbin, et al. "Evolutionarily conserved alternative splicing across monocots." Genetics (2017): genetics-300189.
 </p></details> 
 
-<br>  
-
 ### 2016
 
 <details>     <summary>[Genome sequence of a 5310-year-old maize cob provides insights into the early stages of maize domestication](<http://www.cell.com/current-biology/abstract/S0960-9822(16)31120-4>)  
-Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N</summary>     <p style="margin-left: 30px">Genome sequence of a 5,000 year old maize cob reveals it was partially domesticated and helps identify the timing of adaptation during domestication.</p></details>  
+Ramos-Madrigal J, Smith BD, Moreno-Mayar JV, Gopalakrishnan S, **Ross-Ibarra J**, Gilbert MTP, Wales N
 
-<br><details>     <summary>[Evolutionary genomics of peach and almond domestication](http://www.g3journal.org/content/6/12/3985.short?rss=1&ssource=mfr) [[preprint](http://biorxiv.org/content/early/2016/09/27/060160)]      
-**Velasco D**, **Hough J**, Aradhya M, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">Resequencing data from a number of peach and almond varieties show differences in population size and mating system, but little evidence for convergent selection during domestication.</p></details>  
+</summary>     <p style="margin-left: 30px">Genome sequence of a 5,000 year old maize cob reveals it was partially domesticated and helps identify the timing of adaptation during domestication.</p></details>  
 
-<br><details>     <summary>[ANGSD-wrapper: utilities for analyzing next generation sequencing data](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full) [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)]   
-**Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**   </summary>     <p style="margin-left: 30px">We provide a set of scripts and configuration files to facilitate easy popgen analysis of short-read sequencing data.</p></details>  
+<details>     <summary>[Evolutionary genomics of peach and almond domestication](http://www.g3journal.org/content/6/12/3985.short?rss=1&ssource=mfr) [[preprint](http://biorxiv.org/content/early/2016/09/27/060160)]      
+**Velasco D**, **Hough J**, Aradhya M, **Ross-Ibarra J**
 
-<br><details>     <summary>[Recent demography drives changes in linked selection across the maize genome](http://rdcu.be/kHEB) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]    
-**Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">We find little evidence for widespread hard sweeps in maize or teosinte and show that differences in demography during maize domestication and subsequent expansion have have changed the impacts of linked selection on surrounding diversity in the maize genome.</p></details>  
+</summary>     <p style="margin-left: 30px">Resequencing data from a number of peach and almond varieties show differences in population size and mating system, but little evidence for convergent selection during domestication.</p></details>  
 
-<br><details>     <summary>[Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)]      
-Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+<details>     <summary>[ANGSD-wrapper: utilities for analyzing next generation sequencing data](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full) [[github](https://github.com/mojaveazure/angsd-wrapper)] [[preprint](https://peerj.com/preprints/1472/)]   
+**Durvasula A**, Hoffman PJ, **Kent TV**, Liu C, Kono TJY, Morrell PL, **Ross-Ibarra J**  
 
-<br><details>     <summary>[High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full)  
+</summary>     <p style="margin-left: 30px">We provide a set of scripts and configuration files to facilitate easy popgen analysis of short-read sequencing data.</p></details>  
+
+<details>     <summary>[Recent demography drives changes in linked selection across the maize genome](http://rdcu.be/kHEB) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]    
+**Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**  
+
+</summary>     <p style="margin-left: 30px">We find little evidence for widespread hard sweeps in maize or teosinte and show that differences in demography during maize domestication and subsequent expansion have have changed the impacts of linked selection on surrounding diversity in the maize genome.</p></details>  
+
+<details>     <summary>[Maize diversity associated with social origin and environmental variation in southern Mexico](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy201610a.html)  [[preprint](https://peerj.com/preprints/1192/)]      
+Orozco-Ramírez Q, Santacruz-Varela A, **Ross-Ibarra J**, Brush S 
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+
+<details>     <summary>[High quality maize centromere 10 sequence reveals evidence of frequent recombination events](http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full)  
 Wolfgruber TK, Nakashima MM ...[5 authors]... **Bilinski P**, Dawe RK, **Ross-Ibarra J**, Birchler JA, Presting G
+
 </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -594,38 +691,56 @@ Wolfgruber TK, Nakashima MM ...[5 authors]... **Bilinski P**, Dawe RK, **Ross-Ib
 
 </p></details> 
 
-<br>  
+  
 
 ### 2015
 
 <details>     <summary>[The genomic impacts of drift and selection for hybrid performance in maize](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CC0QFjABahUKEwiY8ezQoa3IAhWRL4gKHYbZCYU&url=http%3A%2F%2Fwww.genetics.org%2Fcontent%2Fearly%2F2015%2F09%2F18%2Fgenetics.115.182410.abstract&usg=AFQjCNF6HUbfJ3ij4yqX75WFIP7h0VqD8g&sig2=7Gw1t6U1cc7imLVZEUWlHQ) [[preprint](http://arxiv.org/abs/1307.7313)]      
-Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD  </summary>     <p style="margin-left: 30px">We show how modern hybrid breeding approahces impact diversity across the genome. Using the Iowa Stiff Stalk synthetic population as an example, we track diversity across 16 generations of selection and compare with simulations.  We show the vast majority of the changes in diversity observed can be explained by drift, but that fixation of large haplotypes, likley including considerable linked load, leads to selection for complementation in the recirpical populations. This work provided some of the first population genetic evidence supporting the complenmentaton model of hybrid vigor.</p></details>  
+Gerke JP, Edwards JW, Guill KE, **Ross-Ibarra J**, McMullen MD 
+
+</summary>     <p style="margin-left: 30px">We show how modern hybrid breeding approahces impact diversity across the genome. Using the Iowa Stiff Stalk synthetic population as an example, we track diversity across 16 generations of selection and compare with simulations.  We show the vast majority of the changes in diversity observed can be explained by drift, but that fixation of large haplotypes, likley including considerable linked load, leads to selection for complementation in the recirpical populations. This work provided some of the first population genetic evidence supporting the complenmentaton model of hybrid vigor.</p></details>  
 
 
-<br><details>     <summary>[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](https://www.nature.com/articles/ng.3422) [[pdf](http://sci-hub.tw/https://www.nature.com/articles/ng.3422)]    
-Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**, Yang B, Frommer WB  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary>[Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport](https://www.nature.com/articles/ng.3422) [[pdf](http://sci-hub.tw/https://www.nature.com/articles/ng.3422)]    
+Sosso D, Luo D, Li Q-B, Sasse J, **Yang J** ...[6 authors]...  **Ross-Ibarra J**, Yang B, Frommer WB 
 
-<br><details>     <summary>[Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297) [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)] [[data](https://dx.doi.org/10.6084/m9.figshare.746990.v1)]       
-**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">We find that maize adaptation to the highlands in Mexico and South America is largely independent and has made considerable use of standing genetic variation.</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)]       
-**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. </summary>     <p style="margin-left: 30px">We find that variation in the domestication locus tb1 does not explain a substantial proportion of phenotypic variation for tillering in natural populations of teosinte.</p></details>
+<details>     <summary>[Independent molecular basis of convergent highland adaptation in maize](http://www.genetics.org/content/200/4/1297) [[preprint](http://biorxiv.org/content/early/2015/01/09/013607)] [[github](https://github.com/rossibarra/hilo_paper)] [[data](https://dx.doi.org/10.6084/m9.figshare.746990.v1)]       
+**Takuno S**, Ralph P,  Swarts K, Elshire RJ, Glaubitz JC, Buckler ES, **Hufford MB**, **Ross-Ibarra J**
+
+</summary>     <p style="margin-left: 30px">We find that maize adaptation to the highlands in Mexico and South America is largely independent and has made considerable use of standing genetic variation.</p></details>  
+
+<details>     <summary>[Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)](https://peerj.com/articles/900/) [[preprint](https://peerj.com/preprints/685/)]       
+**Vann LE**, **Kono TJ**, **Pyhäjärvi T**, **Hufford MB**, **Ross-Ibarra J**. 
+
+</summary>     <p style="margin-left: 30px">We find that variation in the domestication locus tb1 does not explain a substantial proportion of phenotypic variation for tillering in natural populations of teosinte.</p></details>
 <!--  [[github](https://github.com/lvann/tb1)] -->
 
-<br><details>     <summary>[Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)    
-Hake S, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
+<details>     <summary>[Genetic, evolutionary and plant breeding insights from the domestication of maize](http://elifesciences.org/content/4/e05861)    
+Hake S, **Ross-Ibarra J** 
 
-<br><details>     <summary>[The origin and evolution of maize in the American Southwest](http://rdcu.be/kHD8) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data]( http://popgen.dk/fonseca/NatPlants/Capture-c2/)]    
-Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT    </summary>    <p style="margin-left: 30px">We use sequence data from ancient maize cobs to reveal the timing and geography of maize introduction into the Southwest US. One of the [most read papers](https://www.nature.com/collections/dnshkjhpxx/content/most-read) from the last four years of the journal! [UC Davis Press Release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124)  [Science World Report](http://www.scienceworldreport.com/articles/21122/20150112/origins-maize-dna-tests-reveal-two-paths.htm)  [Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)  [SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana), [Science magazine](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) [Nature Plants commentary](http://www.nature.com/articles/nplants20149) [The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)  </p></details>   
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
 
-<br><details>     <summary>[Reply to Brush *et al.*: Wake-up call for crop conservation science](http://rilab.ucdavis.edu/pdfs/dyer2015.pdf)    
-Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>       
+<details>     <summary>[The origin and evolution of maize in the American Southwest](http://rdcu.be/kHD8) [[preprint](http://biorxiv.org/content/early/2015/01/11/013540)] [[data]( http://popgen.dk/fonseca/NatPlants/Capture-c2/)]    
+Fonseca RR, Smith B, Wales N, Cappellini E ...[12 authors]... Hufford MB, Albrechtsen A, **Ross-Ibarra J**, Gilbert MT    
 
-<br><details>     <summary>[Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]         
-Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</summary>     <p style="margin-left: 30px">We show that transposable elements can act as regulatory sequences that up- or down-regulate genes in maize in response to abiotic stress.</p></details>  
+</summary>    <p style="margin-left: 30px">We use sequence data from ancient maize cobs to reveal the timing and geography of maize introduction into the Southwest US. One of the [most read papers](https://www.nature.com/collections/dnshkjhpxx/content/most-read) from the last four years of the journal! [UC Davis Press Release](http://news.ucdavis.edu/search/news_detail.lasso?id=11124)  [Science World Report](http://www.scienceworldreport.com/articles/21122/20150112/origins-maize-dna-tests-reveal-two-paths.htm)  [Archaeology](http://www.archaeology.org/news/2879-150108-southwest-corn-dna)  [SiNC](http://www.agenciasinc.es/Noticias/El-maiz-entro-en-el-suroeste-de-EE-UU-hace-4.000-anos-a-traves-de-la-montana), [Science magazine](http://news.sciencemag.org/archaeology/2015/01/how-corn-became-corn) [Nature Plants commentary](http://www.nature.com/articles/nplants20149) [The Scientist](http://www.the-scientist.com/?articles.view/articleNo/41865/title/Corn-Chronicle/)  </p></details>   
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details>     <summary>[Reply to Brush *et al.*: Wake-up call for crop conservation science](http://rilab.ucdavis.edu/pdfs/dyer2015.pdf)    
+Dyer GA, Lopez-Feldman A, Yunez-Naude A, Taylor JE, **Ross-Ibarra J**
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>       
+
+<details>     <summary>[Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915) [[preprint](http://biorxiv.org/content/early/2014/08/15/008052)]         
+Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM
+
+</summary>     <p style="margin-left: 30px">We show that transposable elements can act as regulatory sequences that up- or down-regulate genes in maize in response to abiotic stress.</p></details>  
+
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -644,60 +759,86 @@ Makarevitch I, Waters M, West P, **Stitzer M**, **Ross-Ibarra J**, Springer NM</
     Le, Tu N., et al. "Epigenetic regulation of intragenic transposable elements impacts gene transcription in Arabidopsis thaliana." Nucleic acids research 43.8 (2015): 3911-3921.
 </p></details> 
 
-<br>  
+  
 
 ### 2014
 
 <details>     <summary>[Advances and limits of using population genetics to understand local adaptation](http://rilab.ucdavis.edu/pdfs/tiffin2014.pdf)  [[preprint](https://peerj.com/preprints/488/)] [[correction](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(17)30188-X)]       
-Tiffin P, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We discuss some of the outstanding questions and key challenges facing the use of population genetics to study local adaptation.</p></details>        
+Tiffin P, **Ross-Ibarra J** 
 
-<br><details>     <summary> [Diversity and evolution of centromere repeats in the maize genome](http://rilab.ucdavis.edu/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]     
-**Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>       
+</summary>     <p style="margin-left: 30px">We discuss some of the outstanding questions and key challenges facing the use of population genetics to study local adaptation.</p></details>        
 
-<br><details>     <summary>[The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]    
-**Mezmouk S**, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We show that deleterious mutations are abundant in modern maize breeding material and that genes with deleterious mutations are likely important contributors to phenotypic variation.</p></details>   
+<details>     <summary> [Diversity and evolution of centromere repeats in the maize genome](http://rilab.ucdavis.edu/pdfs/Bilinski2014.pdf) [[preprint](http://biorxiv.org/content/early/2014/05/12/005058)]     
+**Bilinski P**, **Distor KD**, **Gutierez-Lopez J**, **Mendoza Mendoza G**, Shi J, Dawe K, **Ross-Ibarra J** 
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>       
+
+<details>     <summary>[The pattern and distribution of deleterious mutations in maize](http://www.g3journal.org/content/4/1/163.full) [[preprint](http://arxiv.org/abs/1308.0380)] [[github](https://github.com/RILAB/siftmappR)]    
+**Mezmouk S**, **Ross-Ibarra J** 
+
+</summary>     <p style="margin-left: 30px">We show that deleterious mutations are abundant in modern maize breeding material and that genes with deleterious mutations are likely important contributors to phenotypic variation.</p></details>   
+
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 
 </p></details> 
 
-<br>  
+  
 
 ### 2013
 
 <details>     <summary>[Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species](http://www.pnas.org/content/110/48/19639.abstract)  [[preprint](http://arxiv.org/abs/1307.7678)] [[github](https://github.com/paulbilinski/Waters_etal_SupplementalTableAnalysis)]     
-Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+Waters AJ, **Bilinski P**, Eichten SR, Vaugh MW, **Ross-Ibarra J**, Gehring M, Springer NM  
 
-<br><details>
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+
+<details> 
     <summary>[Complex patterns of local adaptation in teosinte](http://gbe.oxfordjournals.org/content/5/9/1594)  [[data](http://datadryad.org/resource/doi:10.5061/dryad.8m648/1)] [[preprint](http://arxiv.org/abs/1208.0634)]    
-**Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** </summary>
+**Pyhäjärvi T**, **Hufford MB**, **Mezmouk S**, **Ross-Ibarra J** 
+
+</summary>
     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 
-<br><details>     <summary>[From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604) [[data](http://figshare.com/articles/Wills_et_al_2013/775358)] [[preprint](http://arxiv.org/abs/1303.0882)]      
-Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doebley JF.  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary>[From many, one: genetic control of prolificacy during maize domestication](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604) [[data](http://figshare.com/articles/Wills_et_al_2013/775358)] [[preprint](http://arxiv.org/abs/1303.0882)]      
+Wills DM, Whipple C, **Takuno S**, Kursel LE, Shannon LM, **Ross-Ibarra J**, Doebley JF.
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 
-<br><details>     <summary>[Agriculture: Feeding the future](http://rilab.ucdavis.edu/pdfs/McCouch2013.pdf)           
-McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir. </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+<details>     <summary>[Agriculture: Feeding the future](http://rilab.ucdavis.edu/pdfs/McCouch2013.pdf)           
+McCouch S, Baute GJ, Bradeen J, Bramel P ...[36 authors]... Ward J, Waugh R, Wenzl P, Zamir. 
 
-<br><details>     <summary>[The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]     
-**Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>     
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
-<br><details>     <summary>[Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://rilab.ucdavis.edu/pdfs/provance2013.pdf)  [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)]     
-**Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>      
+<details>     <summary>[The genomic signature of crop-wild introgression in maize](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477) [[data](http://figshare.com/articles/Hufford_et_al_2013/766356)] [[preprint](http://arxiv.org/abs/1208.3894)]     
+**Hufford MB**, Lubinsky P, **Pyhäjärvi T**, **Devengenzo MT**, Ellstrand NC, **Ross-Ibarra J**  
 
-<br><details>     <summary>[Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10)  [[preprint](http://arxiv.org/abs/1209.4967)]    
-Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>     
+
+<details>     <summary>[Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico](http://rilab.ucdavis.edu/pdfs/provance2013.pdf)  [[preprint](http://figshare.com/articles/Population_Genetics_and_Ethnobotany_of_Cultivated_Diospyros_riojae_G_mez_Pompa_Ebenaceae_an_Endangered_Fruit_Crop_from_Mexico/105841)]     
+**Provance MC**, Garcia Ruiz I, **Thommes C**, **Ross-Ibarra J** 
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>      
+
+<details>     <summary>[Patterns of centromere tandem repeat evolution in 282 animal and plant genomes](http://genomebiology.com/2013/14/1/R10)  [[preprint](http://arxiv.org/abs/1209.4967)]    
+Melters DP, Bradnam KR, Young HA, Telis N ...[9 authors]... Tobias C, **Ross-Ibarra J**, Korf IF, Chan SW-L. 
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
 
-<br><details>     <summary>[Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html) [[preprint](http://arxiv.org/abs/1209.5466)]    
-Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary>[Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea mays*](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy20132a.html) [[preprint](http://arxiv.org/abs/1209.5466)]    
+Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibarra J**, Dawe RK  
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Dianne Velasco**  
 
@@ -706,39 +847,57 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
     Zdunić, Goran, et al. "Genetic diversity and differentiation within and between cultivated (Vitis vinifera L. ssp. sativa) and wild (Vitis vinifera L. ssp. sylvestris) grapes." Vitis 52.1 (2013): 29-32.
 </p></details> 
 
-<br>  
-
 ### 2012
 
 <details>     <summary>[Teosinte as a model system for population and ecological genomics](http://rilab.ucdavis.edu/pdfs/hufford2012.pdf)      
-**Hufford MB**, **Bilinski P**, **Pyhäjärvi T**, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
+**Hufford MB**, **Bilinski P**, **Pyhäjärvi T**, **Ross-Ibarra J**
 
-<br><details>     <summary>[Comparative population genomics of maize domestication and improvement](http://media.wix.com/ugd/fe9228_24240aa930bf4728be83b4b57da55f17.pdf) [[data](http://figshare.com/articles/new_fileset/757736)]     
-**Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
 
-<br><details>     <summary>[Using nextgen sequencing to investigate genome size variation and transposable element content](http://rilab.ucdavis.edu/pdfs/Munoz_Diez_R1-1.pdf)     
-Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary>[Comparative population genomics of maize domestication and improvement](http://media.wix.com/ugd/fe9228_24240aa930bf4728be83b4b57da55f17.pdf) [[data](http://figshare.com/articles/new_fileset/757736)]     
+**Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
 
-<br><details>     <summary>[Historical genomics of North American maize](http://rilab.ucdavis.edu/pdfs/vanheerwaarden2012.pdf) [[data](http://figshare.com/articles/van_Heerwaarden_et_al_2012/757738)]    
-**van Heerwaarden J**, **Hufford MB**, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[Reshaping of the maize transcriptome by domestication](http://rilab.ucdavis.edu/pdfs/swansonwagner2012.pdf)        
-Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM   </summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
+<details>     <summary>[Using nextgen sequencing to investigate genome size variation and transposable element content](http://rilab.ucdavis.edu/pdfs/Munoz_Diez_R1-1.pdf)     
+Munoz Diez C, Vitte C, **Ross-Ibarra J**, Gaut BS, Tenaillon MI  
 
-<br><details>     <summary>[Maize HapMap2 identifies extant variation from a genome in flux](http://media.wix.com/ugd/fe9228_86a609db506740ce96c549567c246b4c.pdf)      
-Chia J-M, Song C, ...[**Hufford, MB**, **Pyhäjärvi T**, and 27 authors]...  **Ross-Ibarra, J**, McMullen MD, Buckler ES, Zhang G, Xu Y, Ware, D </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[Megabase-scale inversion polymorphism in the wild ancestor of maize](http://www.genetics.org/content/191/3/883.abstract)  [[data](http://figshare.com/articles/Fang_et_al_2012/840519)]     
-Fang Z, **Pyhäjärvi T**, Weber AL, Dawe RK, ...[2 authors]... **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">We identify and study the evolutionary genetics of a 50Mb inversion in natural populations of teosinte </p></details>  
+<details>     <summary>[Historical genomics of North American maize](http://rilab.ucdavis.edu/pdfs/vanheerwaarden2012.pdf) [[data](http://figshare.com/articles/van_Heerwaarden_et_al_2012/757738)]    
+**van Heerwaarden J**, **Hufford MB**, **Ross-Ibarra J**  
 
-<br><details>     <summary>[Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels](http://media.wix.com/ugd/fe9228_5ca9c5a7f6174a5bb0c85e67dec67dcc.pdf)      
-Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
-<br><details>     <summary> [Crop genomics: advances and applications](http://media.wix.com/ugd/fe9228_a2a75f7435ec4c569d4a6996e8b5451e.pdf)      
-Morrell PL, Buckler ES, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+<details>     <summary>[Reshaping of the maize transcriptome by domestication](http://rilab.ucdavis.edu/pdfs/swansonwagner2012.pdf)        
+Swanson-Wagner R, Briskine R, Schaefer R, **Hufford MB**, **Ross-Ibarra J**, Myers CL, Tiffin P, Springer NM   
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
+
+<details>     <summary>[Maize HapMap2 identifies extant variation from a genome in flux](http://media.wix.com/ugd/fe9228_86a609db506740ce96c549567c246b4c.pdf)      
+Chia J-M, Song C, ...[**Hufford, MB**, **Pyhäjärvi T**, and 27 authors]...  **Ross-Ibarra, J**, McMullen MD, Buckler ES, Zhang G, Xu Y, Ware, D 
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+
+<details>     <summary>[Megabase-scale inversion polymorphism in the wild ancestor of maize](http://www.genetics.org/content/191/3/883.abstract)  [[data](http://figshare.com/articles/Fang_et_al_2012/840519)]     
+Fang Z, **Pyhäjärvi T**, Weber AL, Dawe RK, ...[2 authors]... **Ross-Ibarra C**, Doebley J, Morrell PL, **Ross-Ibarra J**
+
+</summary>     <p style="margin-left: 30px">We identify and study the evolutionary genetics of a 50Mb inversion in natural populations of teosinte </p></details>  
+
+<details>     <summary>[Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels](http://media.wix.com/ugd/fe9228_5ca9c5a7f6174a5bb0c85e67dec67dcc.pdf)      
+Cook JP, McMullen MD, Holland JB, Tian F, Bradbury P, **Ross-Ibarra J**, Buckler ES, Flint-Garcia SA  
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+
+<details>     <summary> [Crop genomics: advances and applications](http://media.wix.com/ugd/fe9228_a2a75f7435ec4c569d4a6996e8b5451e.pdf)      
+Morrell PL, Buckler ES, **Ross-Ibarra J**
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Tanja Pyhäjärvi**
 
@@ -751,24 +910,32 @@ Morrell PL, Buckler ES, **Ross-Ibarra J**</summary>     <p style="margin-left: 3
     Hufford, Matthew B., et al. "Inferences from the historical distribution of wild and domesticated maize provide ecological and evolutionary insight." PLoS One 7.11 (2012): e47659.
 </p></details> 
 
-<br>  
-
 ### 2011
 
 <details>     <summary>[Identification of a functional transposon insertion in the maize domestication gene *tb1*](http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf) [[data](http://www.panzea.org/db/gateway?file_id=Studer_etal_2011_Nat_Genet_data)]     
-Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+Studer A, Zhao Q, **Ross-Ibarra J**, Doebley J  
 
-<br><details>     <summary>[Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) [[data](http://figshare.com/articles/new_fileset/757735)]    
-**van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">We resolve the conflict between genetic, ecological, and achaeological data regarding the geographic location of maize domestication.</p></details>    
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize](http://rilab.ucdavis.edu/pdfs/hufford2011.pdf) [[data](10.6084/m9.figshare.757734)]    
-**Hufford MB**, Gepts P, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary>[Genetic signals of origin, spread and introgression in a large sample of maize landraces](http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf) [[data](http://figshare.com/articles/new_fileset/757735)]    
+**van Heerwaarden J**, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, Sanchez Gonzalez JJ, **Ross-Ibarra J** 
 
-<br><details>     <summary>[Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](https://www.ncbi.nlm.nih.gov/pubmed/21296765)    
-Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+</summary>     <p style="margin-left: 30px">We resolve the conflict between genetic, ecological, and achaeological data regarding the geographic location of maize domestication.</p></details>    
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details>     <summary>[Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize](http://rilab.ucdavis.edu/pdfs/hufford2011.pdf) [[data](10.6084/m9.figshare.757734)]    
+**Hufford MB**, Gepts P, **Ross-Ibarra J**  
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+
+<details>     <summary>[Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*](https://www.ncbi.nlm.nih.gov/pubmed/21296765)    
+Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** 
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Tanja Pyhäjärvi**
 
@@ -778,102 +945,138 @@ Tenaillon MI, **Hufford MB**, Gaut BS, **Ross-Ibarra J** </summary>     <p style
 
 </p></details> 
 
-<br>  
-
 ### 2010
 
 <details>     <summary>[Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda*)](http://www.genetics.org/content/185/3/969.abstract)     
-Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+Eckert AJ, **van Heerwaarden J**, Wegrzyn JL, Nelson CD, **Ross-Ibarra J**, Gonzalez-Martinez SC, and Neale DB 
 
-<br><details>     <summary> [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://rilab.ucdavis.edu/pdfs/Fuchs-et-al-2010.pdf)    
-Fuchs EJ, **Ross-Ibarra J**, Barrantes G </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[A role for nonadaptive processes in plant genome size evolution?](http://rilab.ucdavis.edu/pdfs/Whitney-et-al-2010-402.pdf)     
-Whitney KD, Baack EJ, Hamrick JL, Godt, MJW ...[3 authors]... Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J** </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary> [Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica](http://rilab.ucdavis.edu/pdfs/Fuchs-et-al-2010.pdf)    
+Fuchs EJ, **Ross-Ibarra J**, Barrantes G 
 
-<br><details>     <summary>[Fine scale genetic structure in the wild ancestor of maize (**Zea mays** ssp. **parviglumis**)](http://rilab.ucdavis.edu/pdfs/Van-Heerwaarden-et-al-2010-951.pdf)    
-**van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[Widespread gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327)    
-Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK </summary>     <p style="margin-left: 30px">[[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)]</p></details>   
+<details>     <summary>[A role for nonadaptive processes in plant genome size evolution?](http://rilab.ucdavis.edu/pdfs/Whitney-et-al-2010-402.pdf)     
+Whitney KD, Baack EJ, Hamrick JL, Godt, MJW ...[3 authors]... Goodwillie C, Kalisz S, Leitch I, **Ross-Ibarra J**
 
-<br><details> <summary>[Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract)     
-Hollister JD, **Ross-Ibarra J**, Gaut BS </summary>     <p style="margin-left: 30px">We show that mating system differences in heterozygosity mitigate the effects of insertion and deletion polymorphisms on nucleotide diversity.  </p></details>    
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary> [Genetic diversity in a crop metapopulation](https://pubmed.ncbi.nlm.nih.gov/19738636/)    
-**van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   </summary>     <p style="margin-left: 30px">The need to protect crop genetic resources has sparked a growing interest in the genetic diversity maintained in traditional farming systems worldwide. Although traditional seed management has been proposed as an important determinant of genetic diversity and structure in crops, no models exist that can adequately describe the genetic effects of seed management. We present a metapopulation model that accounts for several features unique to managed crop populations. Using traditional maize agriculture as an example, we develop a coalescence-based model of a crop metapopulation undergoing pollen and seed flow as well as seed replacement. In contrast to metapopulation work on natural systems, we model seed migration as episodic and originating from a single source per population rather than as a constant immigration from the entire metapopulation. We find that the correlated origin of migrants leads to surprising results, including a loss of invariance of within-deme diversity and a parabolic relationship between F(ST) and migration quantity. In contrast, the effects of migration frequency on diversity and structure are more similar to classical predictions, suggesting that seed migration in managed crop populations cannot be described by a single parameter. In addition to migration, we investigate the effects of deme size and extinction rates on genetic structure, and show that high levels of pollen migration may mask the effects of seed management on structure. Our results highlight the importance of analytically evaluating the effects of deviations from classical metapopulation models, especially in systems for which data are available to estimate specific model parameters.
+<details>     <summary>[Fine scale genetic structure in the wild ancestor of maize (**Zea mays** ssp. **parviglumis**)](http://rilab.ucdavis.edu/pdfs/Van-Heerwaarden-et-al-2010-951.pdf)    
+**van Heerwaarden J**, **Ross-Ibarra J**, Doebley J, Glaubitz JC, Sanchez Gonzalez J, Gaut BS, Eguiarte LE
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+
+<details>     <summary>[Widespread gene conversion in centromere cores](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327)    
+Shi J, Wolf S, Burke J, Presting G, **Ross-Ibarra J**, Dawe RK 
+
+</summary>     <p style="margin-left: 30px">[[plos biology commentary](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000326)]</p></details>   
+
+<details> <summary>[Indel-associated mutation rate varies with mating system in flowering plants](http://mbe.oxfordjournals.org/content/27/2/409.abstract)     
+Hollister JD, **Ross-Ibarra J**, Gaut BS 
+
+</summary>     <p style="margin-left: 30px">We show that mating system differences in heterozygosity mitigate the effects of insertion and deletion polymorphisms on nucleotide diversity.  </p></details>    
+
+<details>     <summary> [Genetic diversity in a crop metapopulation](https://pubmed.ncbi.nlm.nih.gov/19738636/)    
+**van Heerwaarden J**, van Eeuwijk FA, **Ross-Ibarra J**   
+
+</summary>     <p style="margin-left: 30px">The need to protect crop genetic resources has sparked a growing interest in the genetic diversity maintained in traditional farming systems worldwide. Although traditional seed management has been proposed as an important determinant of genetic diversity and structure in crops, no models exist that can adequately describe the genetic effects of seed management. We present a metapopulation model that accounts for several features unique to managed crop populations. Using traditional maize agriculture as an example, we develop a coalescence-based model of a crop metapopulation undergoing pollen and seed flow as well as seed replacement. In contrast to metapopulation work on natural systems, we model seed migration as episodic and originating from a single source per population rather than as a constant immigration from the entire metapopulation. We find that the correlated origin of migrants leads to surprising results, including a loss of invariance of within-deme diversity and a parabolic relationship between F(ST) and migration quantity. In contrast, the effects of migration frequency on diversity and structure are more similar to classical predictions, suggesting that seed migration in managed crop populations cannot be described by a single parameter. In addition to migration, we investigate the effects of deme size and extinction rates on genetic structure, and show that high levels of pollen migration may mask the effects of seed management on structure. Our results highlight the importance of analytically evaluating the effects of deviations from classical metapopulation models, especially in systems for which data are available to estimate specific model parameters.
 </p></details> 
 
-<br><details>
-    <summary>**Other papers by lab members**</summary>
+<details> 
+    <summary>**Other papers by lab members**
+    
+</summary>
     <p style="margin-left: 30px">
 **Matthew Hufford**
 
     Epanchin-Niell, Rebecca S., et al. "Controlling invasive species in complex social landscapes." Frontiers in Ecology and the Environment 8.4 (2010): 210-216.
 </p></details> 
 
-<br>  
-
 ### 2009
 
 <details>     <summary>[A first-generation haplotype map of maize](http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf)    
-Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+Gore MA, Chia JM, Elshire RJ, Sun Q ...[4 authors]... Grills GS, **Ross-Ibarra J**, Ware DH, Buckler ES  
 
-<br><details>     <summary>[A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346)  
-**May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">We discover a 13,000 year old oak clone in the hills of Southern California</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)    
-Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+<details>     <summary>[A pleistocene clone of Palmer's Oak persisting in Southern California](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346)  
+**May MR**, **Provance MC**, Sanders AC, Ellstrand NC, **Ross-Ibarra J**  
 
-<br><details>     <summary>[Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract)    
-**Ross-Ibarra J**, Tenaillon M, Gaut BS </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+</summary>     <p style="margin-left: 30px">We discover a 13,000 year old oak clone in the hills of Southern California</p></details>  
 
+<details>     <summary>[Selection on grain shattering genes and rates of rice domestication](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf)    
+Zhang LB, Zhu Q, Wu ZQ, **Ross-Ibarra J**, Gaut BS, Ge S, Sang T  
 
-<br>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+
+<details>     <summary>[Historical divergence and gene flow in the genus Zea](http://www.genetics.org/content/181/4/1399.abstract)    
+**Ross-Ibarra J**, Tenaillon M, Gaut BS 
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
 ### 2008
 
 <details>     <summary>[Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*](http://dx.doi.org/10.1371%2Fjournal.pone.0002411)    
-**Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+**Ross-Ibarra J**, Wright SI, Foxe JP, Kawabe A, DeRose-Wilson L, Gos G, Charlesworth D, Gaut BS  
 
-<br><details>     <summary>[Demography and weak selection drive patterns of TE diversity in natural populations of *A. lyrata*](http://www.pnas.org/content/105/37/13965.short)     
-Lockton S, **Ross-Ibarra J**, Gaut BS</summary>     <p style="margin-left: 30px">We show that differences in demographic history among populations of  have changed the abundance and freqeuncy of transposable elements in the *A lyrata* genome.</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[Multiple domestications do not appear monophyletic](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/)    
-**Ross-Ibarra J**, Gaut BS</summary>     <p style="margin-left: 30px">A rebuttal showing that genetic data can indeed successfully recover multiple independent domestications.</p></details>    
+<details>     <summary>[Demography and weak selection drive patterns of TE diversity in natural populations of *A. lyrata*](http://www.pnas.org/content/105/37/13965.short)     
+Lockton S, **Ross-Ibarra J**, Gaut BS
 
-<br><details>     <summary>[Selection on major components of angiosperm genomes](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra_Gaut_2008.pdf)    
-Gaut BS, **Ross-Ibarra J**</summary>     <p style="margin-left: 30px">Discusses some of the evolutionary forces responsible for shaping genome size across plants.</p></details>  
+</summary>     <p style="margin-left: 30px">We show that differences in demographic history among populations of  have changed the abundance and freqeuncy of transposable elements in the *A lyrata* genome.</p></details>  
 
-<br>  
+<details>     <summary>[Multiple domestications do not appear monophyletic](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/)    
+**Ross-Ibarra J**, Gaut BS
+
+</summary>     <p style="margin-left: 30px">A rebuttal showing that genetic data can indeed successfully recover multiple independent domestications.</p></details> 
+
+<details>     <summary>[Selection on major components of angiosperm genomes](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra_Gaut_2008.pdf)    
+Gaut BS, **Ross-Ibarra J**
+
+</summary>     <p style="margin-left: 30px">Discusses some of the evolutionary forces responsible for shaping genome size across plants.</p></details>  
 
 ### 2007  
 
 <details>     <summary>[Plant domestication, a unique opportunity to identify the genetic basis of adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/)    
-**Ross-Ibarra J**, Morrell PL, Gaut BS</summary>     <p style="margin-left: 30px">Presents plant domestication as an ideal system in which to study the genetics of adaptation.</p></details>    
+**Ross-Ibarra J**, Morrell PL, Gaut BS  
 
-<br><details>     <summary>[Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)    
-**Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+</summary>     <p style="margin-left: 30px">Presents plant domestication as an ideal system in which to study the genetics of adaptation.</p></details>
 
-<br>  
+<details> <summary>[Genome size and recombination in angiosperms: a second look](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract)    
+**Ross-Ibarra J**  
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
 ### 2001-2006
 
-<br><details>     <summary>[Mitochondrial DNA and population size](http://rilab.ucdavis.edu/pdfs/Wares-et-al-2006.pdf)    
-Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+<details>     <summary>[Mitochondrial DNA and population size](http://rilab.ucdavis.edu/pdfs/Wares-et-al-2006.pdf)    
+Wares JP, Barber PH, **Ross-Ibarra J**, Sotka EE, Toonen RJ  
 
-<br><details>     <summary>[Quantitative trait loci and the study of plant domestication](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2005-15881692.pdf)     
-**Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
 
-<br><details>     <summary>[The evolution of recombination under domestication: a test of two hypotheses](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2004.pdf) [[data](http://rilab.ucdavis.edu/pubs/supp_data_rossibarra2004.tgz )]   
-**Ross-Ibarra J**  </summary>     <p style="margin-left: 30px">Here I test two different hypotheses about the how recombination should relate to domestication: Does domestication itself select for increased recombination (yes), or respecies with higher recombination rates more likely to be domesticated (no). </p></details>  
+<details>     <summary>[Quantitative trait loci and the study of plant domestication](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2005-15881692.pdf)     
+**Ross-Ibarra J**  
 
-<br><details>     <summary>[Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2003.pdf)  
-**Ross-Ibarra J** </summary>     <p style="margin-left: 30px">I use genetic data to study the origin of a leafy shrub domesticated by the Maya</p></details>  
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
-<br><details>     <summary>[The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)    
-**Ross-Ibarra J**, Molina-Cruz A </summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+<details>     <summary>[The evolution of recombination under domestication: a test of two hypotheses](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2004.pdf) [[data](http://rilab.ucdavis.edu/pubs/supp_data_rossibarra2004.tgz )]   
+**Ross-Ibarra J**  
 
-<br><details>     <summary>[Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)     
-Neel MC, **Ross-Ibarra J**, Ellstrand NC</summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
+</summary>     <p style="margin-left: 30px">Here I test two different hypotheses about the how recombination should relate to domestication: Does domestication itself select for increased recombination (yes), or respecies with higher recombination rates more likely to be domesticated (no). </p></details>  
 
+<details>     <summary>[Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2003.pdf)  
+**Ross-Ibarra J** 
+
+</summary>     <p style="margin-left: 30px">I use genetic data to study the origin of a leafy shrub domesticated by the Maya</p></details>  
+
+<details>     <summary>[The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable](http://rilab.ucdavis.edu/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf)    
+**Ross-Ibarra J**, Molina-Cruz A  
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>   
+
+<details>     <summary>[Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*](http://www.amjbot.org/content/88/7/1214.abstract)     
+Neel MC, **Ross-Ibarra J**, Ellstrand NC
+
+</summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
