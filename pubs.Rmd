@@ -38,7 +38,7 @@ Click on a triangle for the article abstract.
 <details> 
     <summary> A happy accident: a novel turfgrass reference genome.
  [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
-**Phillips AR**,   Seetharam AR,  AuBuchon-Elder T, Buckler ES,Gillespie LJ,  Hufford M,  Llaca V,  Romay C,  Soreng RJ,  Kellogg E,  **Ross-Ibarra J**  
+**Phillips AR**\*,   Seetharam AR\*,  AuBuchon-Elder T, Buckler ES, Gillespie LJ,  Hufford M,  Llaca V,  Romay C,  Soreng RJ,  Kellogg E,  **Ross-Ibarra J**  
 
 </summary> 
     <p style="margin-left: 30px">
@@ -361,7 +361,7 @@ Anderson SN, **Stitzer MC**, Zhou P, **Ross-Ibarra J**, Hirsch CD, Springer NM
 <details> 
     <summary>[Transposable elements contribute to dynamic genome content in maize](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489)
  [[preprint](https://www.biorxiv.org/content/10.1101/547398v1?rss=1)]  
- Anderson SN,  **Stitzer MC**,  Brohammer AB, Peng Zhou P, Noshay JM,  Hirsch CD,  **Ross-Ibarra J**,  Hirsch CN,  Springer NM
+ Anderson SN\*,  **Stitzer MC**\*,  Brohammer AB\*, Peng Zhou P, Noshay JM,  Hirsch CD,  **Ross-Ibarra J**,  Hirsch CN,  Springer NM
 
 </summary>
     <p style="margin-left: 30px">We identify hundreds of thousands of variable transposable elements among a small set of maize genome assemblies. We find evidence of a large number of genes impacted by TEs, including TEs in genes and genes in TEs, and evidence of recent transposition as well.""
@@ -855,7 +855,7 @@ Kanizay LB, **Pyhäjärvi T**, Lowry E, **Hufford MB**, Peterson DG, **Ross-Ibar
 </summary>     <p style="margin-left: 30px">SUMMARY</p></details>    
 
 <details>     <summary>[Comparative population genomics of maize domestication and improvement](http://media.wix.com/ugd/fe9228_24240aa930bf4728be83b4b57da55f17.pdf) [[data](http://figshare.com/articles/new_fileset/757736)]     
-**Hufford MB**, Xun X, **van Heerwaarden J**, **Pyhäjärvi T** ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
+**Hufford MB**\*, Xun X\*, **van Heerwaarden J**\*, **Pyhäjärvi T**\* ...[17 authors]... Ware D, Buckler ES, Yang S, **Ross-Ibarra J**  
 
 </summary>     <p style="margin-left: 30px">SUMMARY</p></details>  
 
