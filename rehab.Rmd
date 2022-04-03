@@ -36,7 +36,10 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2022
-### April
+### April 
+#### April 8  
+[Lasky et al. preprint](https://www.biorxiv.org/content/10.1101/2022.03.21.485229v1) Wavelet characterization of spatial pattern in allele frequency
+
 #### April 1  
 [Wuitchik et al. 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16396) Evolution of thermal physiology alters the projected range of threespine stickleback under climate change
 
