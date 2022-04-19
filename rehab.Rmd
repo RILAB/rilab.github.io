@@ -37,6 +37,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2022
 ### April 
+#### April 29
+[Zuin et al. 2022](https://www.nature.com/articles/s41586-022-04570-y) Nonlinear control of transcription through enhancer–promoter interactions
+
+#### April 22
+[Láruson et a l. 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13354) Seeing the forest for the trees: Assessing genetic offset predictions from gradient forest
+
+#### April 15
+[Napier et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2118879119) A generalist–specialist trade-off between switchgrass cytotypes impacts climate adaptation and geographic range
+
+
 #### April 8  
 [Lasky et al. preprint](https://www.biorxiv.org/content/10.1101/2022.03.21.485229v1) Wavelet characterization of spatial pattern in allele frequency
 
