@@ -164,7 +164,7 @@ Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-an
 <div style="float: left">
 <img src="images/jri45.jpg" style="border:10px solid white" width="125px"></a>
 </div>
-**Jeffrey Ross-Ibarra** <a href="https://rilab.org"><img src="images/Home_icon_black.png" style="width: 15px;">
+**Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;">
 </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
 <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"></a>
