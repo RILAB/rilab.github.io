@@ -74,17 +74,6 @@ Regina is a first year student in the [Population Biology](https://pbg.ucdavis.e
 <!-- break -->
 
 
-<div style="float: left">
-<img src="images/asher.jpg" style="border:10px solid white" width="125px"></a>
-</div>
-**Asher Hudson**
-<a href="https://aihudson.github.io"><img src="images/Home_icon_black.png" style="width: 15px;"></a>
-<a href="https://twitter.com/AsherHudson/"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href="https://github.com/aihudson"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>  
-(he/him/his)  
-
-Asher is a graduate student in [Population Biology](https://pbg.ucdavis.edu) working on genotype by environment interaction in maize as part of the [maize diversity project](http://www.panzea.org).  
-<br>
 
 
 <div style="float: left">
@@ -177,20 +166,7 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 <br><br>
 <!-- break -->
 
-<div style="float: left">
-<img src="images/rushworth.jpeg" style="border:10px solid white" width="125px"></a>
-</div>
 
-**Catherine Rushworth** <a href="https://cathyrushworth.weebly.com"><img src="images/Home_icon_black.png" style="width: 15px;">
-<a href="https://twitter.com/Dr_Crushworth"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
-<a href="https://orcid.org/0000-0003-0715-1234"><img src="images/orcid.png" style="width: 15px;"></a>
-<a href="https://scholar.google.com/citations?hl=en&user=L9MNZEQAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>  
-(she/her/hers)  
-
-Cathy works on the evolution of reproductive incompatibilities between maize and teosinte with collaborator [Yaniv Brandvain](https://brandvainlab.wordpress.com).  
-<!-- break -->
-<br>
-<!-- break -->
 
 <div style="float: left">
 <img src="images/defne.jpg" style="border:10px solid white" width="125px"></a>
@@ -224,7 +200,9 @@ Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index
 
 ## Lab Alumni
 
-* [Silas Tittes](https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en): Postdoc 2018-2021 (Bioinformatician, Fulcrum Genomics)
+* [Asher Hudson](https://aihudson.github.io) PhD student, 2017-2022 (Postdoc, USDA NC State)
+* [Catherine Rushworth](https://www.cathyrushworth.org) Postdoc 2018-2022 (Asst. Prof, U. Utah)
+* [Silas Tittes](https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en): Postdoc 2018-2022 (Research Scientist, U Oregon)
 * [Robert Horvath](https://scholar.google.com/citations?user=U9evFmUAAAAJ&hl=en&oi=sra): Postdoc 2020-2021 (Postdoc, U. Zurich)
 * [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN): Postdoc 2019-2021 (Professor, Huazhong Ag. University)
 * [Daniel Gates](https://danjgates.wordpress.com): Postdoc 2016-2020 (Bioinformatician, Checkerspot)
