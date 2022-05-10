@@ -36,12 +36,19 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2022
-### April 
-#### April 29
-[Zuin et al. 2022](https://www.nature.com/articles/s41586-022-04570-y) Nonlinear control of transcription through enhancer–promoter interactions
+### May
+#### May 13
+[Thornton 2019](https://academic.oup.com/genetics/article/213/4/1513/5930641) Polygenic Adaptation to an Environmental Shift: Temporal Dynamics of Variation Under Gaussian Stabilizing Selection and Additive Effects on a Single Trait 
+
+#### May 6
+[Láruson et a l. 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13354) Seeing the forest for the trees: Assessing genetic offset predictions from gradient forest
+
+### April 29
+
+Postponed, see May 6
 
 #### April 22
-[Láruson et a l. 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13354) Seeing the forest for the trees: Assessing genetic offset predictions from gradient forest
+[Zuin et al. 2022](https://www.nature.com/articles/s41586-022-04570-y) Nonlinear control of transcription through enhancer–promoter interactions
 
 #### April 15
 [Napier et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2118879119) A generalist–specialist trade-off between switchgrass cytotypes impacts climate adaptation and geographic range
