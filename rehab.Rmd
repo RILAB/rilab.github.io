@@ -36,9 +36,19 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2022
+### June
+#### June 17 
+[Atmore et al. preprint](https://www.biorxiv.org/content/10.1101/2022.05.18.492457v1) Serial depletion of Baltic herring since the Viking Age revealed by ancient DNA and population genomics
+
+#### June 10
+No R.E.H.A.B -- PEQG!
+
+#### June 3
+[ Padilla-Iglesias et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2113936119) Population interconnectivity over the past 120,000 years explains distribution and diversity of Central African hunter-gatherers
+
 ### May
 #### May 27
-[Atmore et al. preprint](https://www.biorxiv.org/content/10.1101/2022.05.18.492457v1) Serial depletion of Baltic herring since the Viking Age revealed by ancient DNA and population genomics
+[Franco et al. preprint](https://www.biorxiv.org/content/10.1101/2020.08.31.268425v2)A Maize Practical Haplotype Graph Leverages Diverse NAM Assemblies
 
 #### May 20
 [Mostafavi et al. preprint](https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1) Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery
