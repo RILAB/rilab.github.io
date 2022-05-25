@@ -119,6 +119,16 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 
 
 ### 2022
+
+<details>
+    <summary>Genomic Insights into Historical Improvement of Heterotic Groups during Modern Hybrid Maize Breeding.  
+Li C, Guan H, Jing X, Li Y ...[18 authors]... **Ross-Ibarra J**, Li Y, Wang T, Wang H
+
+</summary>
+    <p style="margin-left: 30px">
+Single-cross maize hybrids display superior heterosis and are produced from crossing two parental inbred lines belonging to genetically different heterotic groups. To dissect the genomic basis underlying breeding improvement of heterotic groups, we assembled 1,604 historically utilized maize inbred lines belonging to various female and male heterotic groups, and conducted phenotyping and genomic sequencing analyses. We find that the female heterotic groups (FHGs) and male heterotic groups (MHGs) have undergone convergent changes in a common set of plant architecture- and yield-related traits across the breeding eras for increased tolerance to higher planting density and increased yield. In addition, we find that the FHGs and MHGs have experienced divergent changes for three ear-related traits associated with kernel dehydration rate and mechanical harvesting. Using genome-wide selection scans and association analyses, we identify a large number of candidate genes that contributed to the improvement of agronomic traits of the female and male parental lines. Moreover, we observe increased genetic differentiation between the FHGs and MHGs across the breeding eras, and find positive correlation between increase of heterozygosity levels in the differentiated genes with heterosis in hybrids. Further, we validate the function of two selected genes affecting flowering time/ear height and kernel length/kernel weight in inbred lines, and a differentiated gene promoting ear length/ear weight in hybrids. This study provides insights into the genomic basis of hybrid maize breeding, and should enable future genomics-informed maize breeding.
+</p></details>
+
 <details>
     <summary>Teosinte introgression modulates phosphatidylcholine levels and induces early maize flowering time    [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.25.426574v1)]  
 Barnes AC\*, Rodríguez-Zapata F\*, Blöcher-Juárez KA\*, **Gates DJ** ...[16 authors]... **Ross-Ibarra J**, Hufford M, Sawers RJH, Rellán-Álvarez R.
