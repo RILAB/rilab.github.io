@@ -59,7 +59,18 @@ Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by
 <!-- break -->
 <br>
 <!-- break -->
+<div style="float: left">
+<img src="images/natasha.jpg" style="border:10px solid white" width="125px"></a>
+</div>
+**Natasha Dhamrait** 
+</a> <a href="https://twitter.com/frondsrfriends"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 
+(she/her/hers)  
+
+Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including plant evolution, genome biology, and transposable elements.  
+<!-- break -->
+<br><br>
+<!-- break -->
 
 <div style="float: left">  
 <img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"></a>
@@ -68,7 +79,7 @@ Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by
 (they/them/theirs)  
 
 
-Regina is a first year student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including archaeology, genomics, and plant domestication.
+Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including archaeology, genomics, and plant domestication.
 <!-- break -->
 <br><br>
 <!-- break -->
@@ -141,7 +152,9 @@ Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on
 </div>
 
 **Julianna Porter** 
+</a> <a href="https://twitter.com/juliannacporter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>  
+
 (she/her/hers)  
 
 Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-and-genomics) major and the recipient  of the Nieland Family Award to  do  independennt research on  adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
@@ -168,18 +181,6 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 
 
 
-<div style="float: left">
-<img src="images/defne.jpg" style="border:10px solid white" width="125px"></a>
-</div>
-**Defne Sime**
-<a href="https://www.linkedin.com/in/defne-sime-12l19m/"><img src="images/lin.png" style="width: 15px;"></a>  
-(she/her/hers)  
-
-Defne is an undergraduate working with Mitra to udnerstand how indigenous language groups may have structured genetic diversity in traditional maize landraces.
-
-<!-- break -->
-<br>
-<!-- break -->
 
 <div style="float: left">
 <img src="images/solares.jpg" style="border:10px solid white" width="125px"></a>
@@ -192,6 +193,19 @@ Defne is an undergraduate working with Mitra to udnerstand how indigenous langua
 (he/him/his)  
 
 Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index.html) interested in applying computational solution to problems in genetics and genomics.  
+<!-- break -->
+<br>
+<!-- break -->
+
+
+<div style="float: left">
+<img src="images/sparreo.jpeg" style="border:10px solid white" width="125px"></a>
+</div>
+**Luke Sparreo**
+<a href="www.linkedin.com/in/luke-sparreo"><img src="images/lin.png" style="width: 15px;"></a>  
+(she/her/hers)  
+
+Luke is an [EERREC](https://eerrec.ucdavis.edu) REU student working to help understand how indigenous language groups may have structured genetic diversity in traditional maize varieties
 <!-- break -->
 <br>
 <!-- break -->

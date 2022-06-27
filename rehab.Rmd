@@ -35,8 +35,19 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
+
+
+
+
 ## 2022
+### July
+#### July 1
+[Berdan et al. 2022](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0199) Mutation accumulation opposes polymorphism: supergenes and the curious case of balanced lethals
+
 ### June
+#### June 24
+[Weide et al. 2022](https://www.nature.com/articles/s41477-022-01161-7) A new functional ecological model reveals the nature of early plant management in southwest Asia
+
 #### June 17 
 [Atmore et al. preprint](https://www.biorxiv.org/content/10.1101/2022.05.18.492457v1) Serial depletion of Baltic herring since the Viking Age revealed by ancient DNA and population genomics
 

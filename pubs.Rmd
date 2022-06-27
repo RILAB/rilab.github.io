@@ -35,10 +35,20 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
+
+
+<details> 
+    <summary> Allele-specific expression reveals multiple paths to highland adaptation in maize.
+ [[preprint]()]  
+Hu H,  Crow T, Nojoomi S, ...[5 authors]... Estévez-Palmas JM, **Ross-Ibarra J**, Runcie DE.
+</summary> 
+    <p style="margin-left: 30px">
+Maize is a staple food of smallholder farmers living in highland regions up to 4,000 meters above sea level worldwide, and Mexican and South American highlands are two major highland maize growing regions. Maize landraces show numerous adaptations to highland environments, and population genetic data suggests the highland populations largely independently from local lowland populations on each continent. To better understand the mechanistic basis of highland adaptation, we crossed maize landraces from 108 highland and lowland sites of Mexico and South America (MSA) with the inbred line B73 to produce F1 hybrids and grew them in both highland and lowland sites in Mexico. We identified thousand of genes with divergent expression between highland and lowland populations. Hundreds of these genes show patterns of convergent evolution etween Mexico and South America, including 17 flowering-related genes. To dissect the genetic architecture of the divergent gene expression, we developed a novel allele-specific expression analysis pipeline to detect genes with divergent functional cis-regulatory variation between highland and lowland populations. We identified hudnreds of genes with divergent cis-regulation between highland and lowland landrace alleles, with 20 in common between regions, further suggesting convergence in the genes underlying adaptation. Principal component analyses of these 20 loci provided evidence of multiple mechanisms underlying this convergent adaptation: the spread of adaptive allele through migration and the recruitment of different, but functionally similar, alleles in different populations. Our findings reveal a complex genetic architecture of cis-regulatory alleles underlying adaptation to highlands in maize. Although the vast majority of evolutionary changes associated with highland adaptation were region-specific, our findings highlight an important role for convergence at the gene expression and gene regulation levels as well.  </p></details> 
+
 <details> 
     <summary> A happy accident: a novel turfgrass reference genome.
  [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
-**Phillips AR**\*,   Seetharam AR\*,  AuBuchon-Elder T, Buckler ES, Gillespie LJ,  Hufford M,  Llaca V,  Romay C,  Soreng RJ,  Kellogg E,  **Ross-Ibarra J**  
+**Phillips AR**\*,   Seetharam AR\*,  AuBuchon-Elder T ...[6 authors]...  Kellogg E,  **Ross-Ibarra J**  
 
 </summary> 
     <p style="margin-left: 30px">
@@ -47,7 +57,7 @@ Poa pratensis, commonly known as Kentucky bluegrass, is a popular cool-season gr
 <details> 
     <summary> Not so local: the population genetics of convergent adaptation in maize and teosinte.
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1)]  
-**Tittes S**, **Lorant A**, **McGinty S**,  Doebley JF, Holland JB, Sanchez-Gonzalez JdJ, Seetharam AS, Tenaillon MI, **Ross-Ibarra J**
+**Tittes S**, **Lorant A**, **McGinty S**,  ...[4 authors]... Tenaillon MI, **Ross-Ibarra J**
 
 </summary> 
     <p style="margin-left: 30px">
@@ -121,7 +131,7 @@ Single-cross maize hybrids display superior heterosis and are produced from cros
 </p></details>
 
 <details>
-    <summary>The genomic signature of wild-to-crop introgression during the domestiation of scarlet runner bean (*Phaseolus coccineus L.*) [[preprint](https://www.biorxiv.org/content/10.1101/2021.02.03.429668v1)]  
+    <summary>[The genomic signature of wild-to-crop introgression during the domestiation of scarlet runner bean (*Phaseolus coccineus L.*)](https://onlinelibrary.wiley.com/doi/10.1002/evl3.285) [[preprint](https://www.biorxiv.org/content/10.1101/2021.02.03.429668v1)]  
 Guerra-Garcia A, Rojas-Barrera IC,  **Ross-Ibarra J**, Papa R, Piñero D. 
 
 
