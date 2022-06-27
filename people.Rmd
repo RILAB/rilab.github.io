@@ -59,6 +59,7 @@ Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by
 <!-- break -->
 <br>
 <!-- break -->
+
 <div style="float: left">
 <img src="images/natasha.jpg" style="border:10px solid white" width="125px"></a>
 </div>
@@ -69,7 +70,7 @@ Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by
 
 Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including plant evolution, genome biology, and transposable elements.  
 <!-- break -->
-<br><br>
+<br>
 <!-- break -->
 
 <div style="float: left">  
@@ -111,12 +112,9 @@ Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg
 (she/her/hers)  
 
 Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her previous work focuserd on ecological and evolutionary genomics of conifers.
-
-
 <!-- break -->
-<br>
+<br><p class="forceBreak"></p>
 <!-- break -->
-
 
 <div style="float: left">
 <img src="images/odell.jpg" style="border:10px solid white" width="125px"></a>
@@ -129,7 +127,7 @@ Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her 
 
 Sarah is a [Plant Biology](https://pbi.ucdavis.edu)  graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.  
 <!-- break --> 
-<br><p class="forceBreak"></p>
+<br>
 <!-- break --> 
 
 <div style="float: left">
@@ -157,13 +155,12 @@ Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on
 (she/her/hers)  
 
 Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-and-genomics) major and the recipient  of the Nieland Family Award to  do  independennt research on  adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
-
 <!-- break -->
 <br>
 <!-- break -->
 
 <div style="float: left">
-<img src="images/jri45.jpg" style="border:10px solid white" width="125px"></a>
+<img src="images/jri_camping.png" style="border:10px solid white" width="125px"></a>
 </div>
 **Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;">
 </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
