@@ -13,12 +13,22 @@
 
 <title>People</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 
 <style type="text/css">
@@ -33,32 +43,7 @@
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -69,10 +54,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -89,40 +70,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -150,7 +107,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -162,7 +119,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -173,10 +130,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -188,7 +158,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -292,7 +261,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -323,7 +292,8 @@ $(document).ready(function () {
 </style>
 <div id="current-r-i-lab-members" class="section level2">
 <h2>Current R-I Lab members</h2>
-Please read more information on <a href="prosp.html">joining the lab</a> and <a href="expectations.html">lab expectations</a>. <!-- break -->
+Please read more information on <a href="prosp.html">joining the lab</a>
+and <a href="expectations.html">lab expectations</a>. <!-- break -->
 <p>
 <br> <!-- break -->
 </p>
@@ -333,40 +303,87 @@ Please read more information on <a href="prosp.html">joining the lab</a> and <a 
 </div>
 <p><strong>Brenda Cameron</strong><br />
 (she/her/hers)</p>
-<p>Brenda is the lab manager and czar. In addition to working with us, she manages the <a href="https://baylab.github.io">Bay</a>, <a href="http://www-eve.ucdavis.edu/grosberg/">Grosberg</a> and <a href="https://stachlab.wordpress.com">Stachowicz</a> labs as well, and is an <a href="https://safetyservices.ucdavis.edu/safety-star-program">award-winning</a> lab safety expert. <!-- break --> <br><br> <!-- break --></p>
+<p>Brenda is the lab manager and czar. In addition to working with us,
+she manages the <a href="https://baylab.github.io">Bay</a>, <a
+href="http://www-eve.ucdavis.edu/grosberg/">Grosberg</a> and <a
+href="https://stachlab.wordpress.com">Stachowicz</a> labs as well, and
+is an <a
+href="https://safetyservices.ucdavis.edu/safety-star-program">award-winning</a>
+lab safety expert. <!-- break --> <br><br> <!-- break --></p>
 <div style="float: left">
 <p><img src="images/cryan.jpeg" style="border:10px solid white" width="125px;"></a></p>
 </div>
-<p><strong>Elli Cryan</strong> <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><br />
+<p><strong>Elli Cryan</strong>
+<a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"></a>
+<a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><br />
 (she/her/hers)</p>
-<p>Elli is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate student coadvised by <a href="https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/">Dan Kliebenstein</a>, working on the evolution of gene networks.<br />
-<!-- break --> <br> <!-- break --></p>
+Elli is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate
+student coadvised by <a
+href="https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/">Dan
+Kliebenstein</a>, working on the evolution of gene networks.<br />
+<!-- break --> <br> <!-- break -->
+<div style="float: left">
+<p><img src="images/natasha.jpg" style="border:10px solid white" width="125px"></a></p>
+</div>
+<p><strong>Natasha Dhamrait</strong> </a>
+<a href="https://twitter.com/frondsrfriends"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a></p>
+<p>(she/her/hers)</p>
+<p>Natasha is a student in the <a
+href="https://pbg.ucdavis.edu">Population Biology</a> graduate group
+with interests including plant evolution, genome biology, and
+transposable elements.<br />
+<!-- break --> <br><br> <!-- break --></p>
 <div style="float: left">
 <p><img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Regina Fairbanks</strong> <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><br />
+<p><strong>Regina Fairbanks</strong>
+<a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><br />
 (they/them/theirs)</p>
-<p>Regina is a first year student in the <a href="https://pbg.ucdavis.edu">Population Biology</a> graduate group with interests including archaeology, genomics, and plant domestication. <!-- break --> <br><br> <!-- break --></p>
+<p>Regina is a student in the <a
+href="https://pbg.ucdavis.edu">Population Biology</a> graduate group
+with interests including archaeology, genomics, and plant domestication.
+<!-- break --> <br><br> <!-- break --></p>
 <div style="float: left">
 <p><img src="images/forrest.JPG" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Forrest Li</strong> <a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"></a> <a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><br />
+<p><strong>Forrest Li</strong>
+<a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"></a>
+<a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><br />
 (he/him/his)</p>
-<p>Forrest is a graduate student in <a href="https://igg.ucdavis.edu">Integrative Genetics and Genomics</a> working on climate adaptation in maize as part of a large international collaboration led by <a href="https://www.cimmyt.org">CIMMYT</a>. <br><br></p>
+<p>Forrest is a graduate student in <a
+href="https://igg.ucdavis.edu">Integrative Genetics and Genomics</a>
+working on climate adaptation in maize as part of a large international
+collaboration led by <a href="https://www.cimmyt.org">CIMMYT</a>.
+<br><br></p>
 <div style="float: left">
 <p><img src="images/MeWthCone.jpg" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Mitra Menon</strong> <a href="https://twitter.com/evolmm?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://github.com/mitramenon"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0003-2263-9764"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><br />
+<p><strong>Mitra Menon</strong>
+<a href="https://twitter.com/evolmm?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://github.com/mitramenon"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0003-2263-9764"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><br />
 (she/her/hers)</p>
-<p>Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her previous work focuserd on ecological and evolutionary genomics of conifers.</p>
+<p>Mitra is a postdoctoral fellow working on the evolutionary genetics
+of TEs. Her previous work focuserd on ecological and evolutionary
+genomics of conifers.</p>
 <!-- break -->
 <p><br> <!-- break --></p>
 <div style="float: left">
 <p><img src="images/odell.jpg" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Sarah Odell</strong> <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a><br />
+<p><strong>Sarah Odell</strong>
+<a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"></a><br />
 (she/her/hers)</p>
-Sarah is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate student coadvised by <a href="http://runcielab.ucdavis.edu">Dan Runcie</a>, working on evolutionary and statistical genetics in maize.<br />
+Sarah is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate
+student coadvised by <a href="http://runcielab.ucdavis.edu">Dan
+Runcie</a>, working on evolutionary and statistical genetics in
+maize.<br />
 <!-- break --> <br>
 <p class="forceBreak">
 </p>
@@ -374,112 +391,212 @@ Sarah is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate student 
 <div style="float: left">
 <p><img src="images/alyssa.jpg" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Alyssa Phillips</strong> <a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"></a><br />
+<p><strong>Alyssa Phillips</strong>
+<a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"></a><br />
 (she/her/hers)</p>
-<p>Alyssa is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate student working on environmental adaptation in big blue stem as part of the <a href="https://panandropogoneae.com">PanAnd project</a>.<br />
+<p>Alyssa is a <a href="https://pbi.ucdavis.edu">Plant Biology</a>
+graduate student working on environmental adaptation in big blue stem as
+part of the <a href="https://panandropogoneae.com">PanAnd
+project</a>.<br />
 <!-- break --> <br> <!-- break --></p>
 <div style="float: left">
 <p><img src="images/julianna.jpg" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Julianna Porter</strong> <a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a><br />
-(she/her/hers)</p>
-<p>Julianna is an <a href="https://www.ucdavis.edu/majors/genetics-and-genomics">Genetics &amp; Genomics</a> major and the recipient of the Nieland Family Award to do independennt research on adapation in <em>Tripsacum</em> as part of the <a href="https://panandropogoneae.com">PanAnd project</a>. .</p>
+<p><strong>Julianna Porter</strong> </a>
+<a href="https://twitter.com/juliannacporter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a></p>
+<p>(she/her/hers)</p>
+<p>Julianna is an <a
+href="https://www.ucdavis.edu/majors/genetics-and-genomics">Genetics
+&amp; Genomics</a> major and the recipient of the Nieland Family Award
+to do independennt research on adapation in <em>Tripsacum</em> as part
+of the <a href="https://panandropogoneae.com">PanAnd project</a>. .</p>
 <!-- break -->
 <p><br> <!-- break --></p>
 <div style="float: left">
 <p><img src="images/jri45.jpg" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Jeffrey Ross-Ibarra</strong> <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;"> </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a> (he/him/his)</p>
-<p>Jeff is a Professor in the <a href="http://eve.ucdavis.edu">Department of Evolution and Ecology</a> and a faculty member of the <a href="http://cpb.ucdavis.edu">Center for Population Biology</a> and the <a href="ttp://www.genomecenter.ucdavis.edu">Genome Center</a>.<br />
+<p><strong>Jeffrey Ross-Ibarra</strong>
+<a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;">
+</a>
+<a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;">
+<a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"></a>
+(he/him/his)</p>
+<p>Jeff is a Professor in the <a
+href="http://eve.ucdavis.edu">Department of Evolution and Ecology</a>
+and a faculty member of the <a href="http://cpb.ucdavis.edu">Center for
+Population Biology</a> and the <a
+href="ttp://www.genomecenter.ucdavis.edu">Genome Center</a>.<br />
 <!-- break --> <br><br> <!-- break --></p>
-<div style="float: left">
-<p><img src="images/defne.jpg" style="border:10px solid white" width="125px"></a></p>
-</div>
-<p><strong>Defne Sime</strong> <a href="https://www.linkedin.com/in/defne-sime-12l19m/"><img src="images/lin.png" style="width: 15px;"></a><br />
-(she/her/hers)</p>
-<p>Defne is an undergraduate working with Mitra to udnerstand how indigenous language groups may have structured genetic diversity in traditional maize landraces.</p>
-<!-- break -->
-<p><br> <!-- break --></p>
 <div style="float: left">
 <p><img src="images/solares.jpg" style="border:10px solid white" width="125px"></a></p>
 </div>
-<p><strong>Edwin Solares</strong> <a href="https://twitter.com/edwinsolares10?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a> <a href="https://github.com/esolares"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a> <a href="https://orcid.org/0000-0002-3220-4927"><img src="images/orcid.png" style="width: 15px;"></a> <a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><br />
+<p><strong>Edwin Solares</strong>
+<a href="https://twitter.com/edwinsolares10?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://github.com/esolares"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+<a href="https://orcid.org/0000-0002-3220-4927"><img src="images/orcid.png" style="width: 15px;"></a>
+<a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a><br />
 (he/him/his)</p>
-<p>Edwin is a <a href="https://ppfp.ucop.edu/info/index.html">UC President’s Postdoctoral Fellow</a> interested in applying computational solution to problems in genetics and genomics.<br />
+<p>Edwin is a <a href="https://ppfp.ucop.edu/info/index.html">UC
+President’s Postdoctoral Fellow</a> interested in applying computational
+solution to problems in genetics and genomics.<br />
+<!-- break --> <br> <!-- break --></p>
+<div style="float: left">
+<p><img src="images/sparreo.jpeg" style="border:10px solid white" width="125px"></a></p>
+</div>
+<p><strong>Luke Sparreo</strong>
+<a href="www.linkedin.com/in/luke-sparreo"><img src="images/lin.png" style="width: 15px;"></a><br />
+(she/her/hers)</p>
+<p>Luke is an <a href="https://eerrec.ucdavis.edu">EERREC</a> REU
+student working to help understand how indigenous language groups may
+have structured genetic diversity in traditional maize varieties
 <!-- break --> <br> <!-- break --></p>
 </div>
 </div>
 <div id="lab-alumni" class="section level2">
 <h2>Lab Alumni</h2>
 <ul>
-<li><a href="https://aihudson.github.io">Asher Hudson</a> PhD student, 2017-2022 (Postdoc, USDA NC State)</li>
-<li><a href="https://www.cathyrushworth.org">Catherine Rushworth</a> Postdoc 2018-2022 (Asst. Prof, U. Utah)</li>
-<li><a href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&amp;hl=en">Silas Tittes</a>: Postdoc 2018-2022 (Research Scientist, U Oregon)</li>
-<li><a href="https://scholar.google.com/citations?user=U9evFmUAAAAJ&amp;hl=en&amp;oi=sra">Robert Horvath</a>: Postdoc 2020-2021 (Postdoc, U. Zurich)</li>
-<li><a href="https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&amp;hl=zh-CN">Ning Yang</a>: Postdoc 2019-2021 (Professor, Huazhong Ag. University)</li>
-<li><a href="https://danjgates.wordpress.com">Daniel Gates</a>: Postdoc 2016-2020 (Bioinformatician, Checkerspot)</li>
-<li><a href="https://orcid.org/0000-0002-1076-0527">Taylor Perkins</a>: Lab Manager 2019-2020</li>
-<li><a href="https://mishaploid.github.io">Sarah Turner-Hissong</a>: Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)</li>
-<li><a href="http://mcstitzer.github.io">Michelle Stitzter</a> PhD student 2013-2019 (NSF Postdoc, Cornell)</li>
-<li><a href="https://scholar.google.com/citations?user=h2_YtiYAAAAJ&amp;hl=en">Dianne Velasco</a> PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm Repository)</li>
-<li><a href="https://scholar.google.com/citations?user=yGEvdz0AAAAJ&amp;hl=en">Li Wang</a>: Postdoc 2018-2019 (Research Scientist, Agricultural Genomics Institute Shenzhen)</li>
-<li><a href="https://www.cropevolution.org">Markus Stetter</a>: Postdoc 2017-2019 (Asst. Group Leader, U. Köln)</li>
-<li><a href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&amp;hl=en">Wenbin Mei</a>: Postdoc 2016-2018 (Scientist at Inari Agriculture)</li>
-<li><a href="https://scholar.google.com/citations?user=mnHb3lYAAAAJ&amp;hl=en">Anne Lorant</a>: Lab manager, PhD student, postdoc 2013-2018 (Postdoc, UC Davis)</li>
-<li><a href="https://josephslab.github.io">Emily Josephs</a>: Postdoc 2015-2018 (Asst. Professor, MSU)</li>
-<li><a href="https://lmavila.github.io">Luis Avila</a>: Programmer 2016-2018 (Research Scientist, Genentech)</li>
-<li><a href="https://annamobrien.wordpress.com">Anna O’Brien</a>: PhD Student 2011-2017 (Postdoc, U. Toronto)</li>
-<li><a href="http://jyanglab.com">Jinliang Yang</a>: Postdoc 2014-2017 (Assistant Professor, U. Nebraska)</li>
-<li><a href="https://scholar.google.fr/citations?user=FmClXYIAAAAJ&amp;hl=en">Josh Hough</a>: Postdoc 2016-2017</li>
-<li><a href="https://scholar.google.com/citations?user=c03DwHkAAAAJ&amp;hl=en">Paul Bilinski</a>: PhD Student 2010-2016 (Associate Professor, West Shore Community College)</li>
-<li><a href="https://scholar.google.com/citations?hl=en&amp;user=uZTFIaAAAAAJ">Simon Renny-Byfield</a>: Postdoc 2014-2016 (Research Scientist, Corteva Agriscience)</li>
-<li><a href="https://github.com/kate-crosby">Kate Crosby</a>: Postdoc 2014-2015 (Research Scientist, Indigo Ag)</li>
+<li><a href="https://aihudson.github.io">Asher Hudson</a> PhD student,
+2017-2022 (Postdoc, USDA NC State)</li>
+<li><a href="https://www.cathyrushworth.org">Catherine Rushworth</a>
+Postdoc 2018-2022 (Asst. Prof, U. Utah)</li>
+<li><a
+href="https://scholar.google.com/citations?user=LxGAurUAAAAJ&amp;hl=en">Silas
+Tittes</a>: Postdoc 2018-2022 (Research Scientist, U Oregon)</li>
+<li><a
+href="https://scholar.google.com/citations?user=U9evFmUAAAAJ&amp;hl=en&amp;oi=sra">Robert
+Horvath</a>: Postdoc 2020-2021 (Postdoc, U. Zurich)</li>
+<li><a
+href="https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&amp;hl=zh-CN">Ning
+Yang</a>: Postdoc 2019-2021 (Professor, Huazhong Ag. University)</li>
+<li><a href="https://danjgates.wordpress.com">Daniel Gates</a>: Postdoc
+2016-2020 (Bioinformatician, Checkerspot)</li>
+<li><a href="https://orcid.org/0000-0002-1076-0527">Taylor Perkins</a>:
+Lab Manager 2019-2020</li>
+<li><a href="https://mishaploid.github.io">Sarah Turner-Hissong</a>:
+Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)</li>
+<li><a href="http://mcstitzer.github.io">Michelle Stitzter</a> PhD
+student 2013-2019 (NSF Postdoc, Cornell)</li>
+<li><a
+href="https://scholar.google.com/citations?user=h2_YtiYAAAAJ&amp;hl=en">Dianne
+Velasco</a> PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm
+Repository)</li>
+<li><a
+href="https://scholar.google.com/citations?user=yGEvdz0AAAAJ&amp;hl=en">Li
+Wang</a>: Postdoc 2018-2019 (Research Scientist, Agricultural Genomics
+Institute Shenzhen)</li>
+<li><a href="https://www.cropevolution.org">Markus Stetter</a>: Postdoc
+2017-2019 (Asst. Group Leader, U. Köln)</li>
+<li><a
+href="https://scholar.google.com/citations?user=LR1KOxwAAAAJ&amp;hl=en">Wenbin
+Mei</a>: Postdoc 2016-2018 (Scientist at Inari Agriculture)</li>
+<li><a
+href="https://scholar.google.com/citations?user=mnHb3lYAAAAJ&amp;hl=en">Anne
+Lorant</a>: Lab manager, PhD student, postdoc 2013-2018 (Postdoc, UC
+Davis)</li>
+<li><a href="https://josephslab.github.io">Emily Josephs</a>: Postdoc
+2015-2018 (Asst. Professor, MSU)</li>
+<li><a href="https://lmavila.github.io">Luis Avila</a>: Programmer
+2016-2018 (Research Scientist, Genentech)</li>
+<li><a href="https://annamobrien.wordpress.com">Anna O’Brien</a>: PhD
+Student 2011-2017 (Postdoc, U. Toronto)</li>
+<li><a href="http://jyanglab.com">Jinliang Yang</a>: Postdoc 2014-2017
+(Assistant Professor, U. Nebraska)</li>
+<li><a
+href="https://scholar.google.fr/citations?user=FmClXYIAAAAJ&amp;hl=en">Josh
+Hough</a>: Postdoc 2016-2017</li>
+<li><a
+href="https://scholar.google.com/citations?user=c03DwHkAAAAJ&amp;hl=en">Paul
+Bilinski</a>: PhD Student 2010-2016 (Associate Professor, West Shore
+Community College)</li>
+<li><a
+href="https://scholar.google.com/citations?hl=en&amp;user=uZTFIaAAAAAJ">Simon
+Renny-Byfield</a>: Postdoc 2014-2016 (Research Scientist, Corteva
+Agriscience)</li>
+<li><a href="https://github.com/kate-crosby">Kate Crosby</a>: Postdoc
+2014-2015 (Research Scientist, Indigo Ag)</li>
 <li>Sayuri Tsukahara: Postdoc 2013-2015</li>
-<li><a href="https://www.uni-goettingen.de/en/599788.html">Tim Beissinger</a>: Postdoc 2014-2015 (Professor, U. Göttingen)</li>
-<li><a href="https://arundurvasula.wordpress.com">Arun Durvasula</a>: Undergraduate 2013-2015 (PhD Student, UCLA)</li>
+<li><a href="https://www.uni-goettingen.de/en/599788.html">Tim
+Beissinger</a>: Postdoc 2014-2015 (Professor, U. Göttingen)</li>
+<li><a href="https://arundurvasula.wordpress.com">Arun Durvasula</a>:
+Undergraduate 2013-2015 (PhD Student, UCLA)</li>
 <li>Nivaz Brar: Undergraduate 2014-2015</li>
-<li><a href="https://cjfiscus.github.io/">Chris Fiscus</a>: Undergraduate 2014 (PhD Student, UC Riverside)</li>
-<li><a href="https://github.com/tvkent">Tyler Kent</a>: Undergraduate 2013-2015 (PhD Student, U. Toronto)</li>
-<li><a href="http://www.vincebuffalo.com">Vince Buffalo</a>: Programmer 2013-2014 (Postdoc, U Oregon)</li>
-<li><a href="http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34">Sofiane Mezmouk</a>: Postdoc 2012-2014 (Research Scientist, KWS)</li>
-<li><a href="https://sites.google.com/site/shoheitakuno/">Shohei Takuno</a>: Postdoc 2012-2013 (Asst. Professor, SOKENDAI)</li>
-<li><a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matthew Hufford</a>: Postdoc 2010-2013 (Assoc. Professor, Iowa State)</li>
-<li><a href="https://www2.helsinki.fi/en/researchgroups/forest-genomics">Tanja Pyhäjärvi</a>: Postdoc 2010-2012 (Associate Professor, U. Helsinki)</li>
-<li><a href="http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm">Joost van Heerwaarden</a>: Postdoc 2009-2011 (Researcher, U. Wageningen)</li>
+<li><a href="https://cjfiscus.github.io/">Chris Fiscus</a>:
+Undergraduate 2014 (PhD Student, UC Riverside)</li>
+<li><a href="https://github.com/tvkent">Tyler Kent</a>: Undergraduate
+2013-2015 (PhD Student, U. Toronto)</li>
+<li><a href="http://www.vincebuffalo.com">Vince Buffalo</a>: Programmer
+2013-2014 (Postdoc, U Oregon)</li>
+<li><a
+href="http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34">Sofiane
+Mezmouk</a>: Postdoc 2012-2014 (Research Scientist, KWS)</li>
+<li><a href="https://sites.google.com/site/shoheitakuno/">Shohei
+Takuno</a>: Postdoc 2012-2013 (Asst. Professor, SOKENDAI)</li>
+<li><a
+href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matthew
+Hufford</a>: Postdoc 2010-2013 (Assoc. Professor, Iowa State)</li>
+<li><a
+href="https://www2.helsinki.fi/en/researchgroups/forest-genomics">Tanja
+Pyhäjärvi</a>: Postdoc 2010-2012 (Associate Professor, U. Helsinki)</li>
+<li><a
+href="http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm">Joost
+van Heerwaarden</a>: Postdoc 2009-2011 (Researcher, U. Wageningen)</li>
 </ul>
-<div id="visiting-scholar-for-100-hours-of-scholastic-visitation" class="section level3">
+<div id="visiting-scholar-for-100-hours-of-scholastic-visitation"
+class="section level3">
 <h3>Visiting Scholar: for &gt;100 hours of scholastic visitation</h3>
 <ul>
-<li><a href="https://www.instagram.com/andi_kur_art/?hl=en">Andi Kur</a></li>
-<li><a href="http://www.fciencias.unam.mx/directorio/57770">Azalea Guerra García</a></li>
+<li><a href="https://www.instagram.com/andi_kur_art/?hl=en">Andi
+Kur</a></li>
+<li><a href="http://www.fciencias.unam.mx/directorio/57770">Azalea
+Guerra García</a></li>
 <li><a href="http://www.dawelab.org">Kelly Dawe</a><br />
 </li>
-<li><a href="http://rutefonseca.wix.com/bioinformatics">Rute Fonseca</a></li>
+<li><a href="http://rutefonseca.wix.com/bioinformatics">Rute
+Fonseca</a></li>
 <li><a href="https://sites.google.com/site/ejfuchs/">Eric Fuchs</a></li>
-<li><a href="http://faculty.agronomy.cfans.umn.edu/pmorrell/">Peter Morrell</a></li>
+<li><a href="http://faculty.agronomy.cfans.umn.edu/pmorrell/">Peter
+Morrell</a></li>
 <li><a href="http://niederhuthlab.com">Chad Niederhuth</a></li>
-<li><a href="http://www.panzea.org/#!ginnie-morrison/c1lov">Ginnie Morrison</a></li>
+<li><a href="http://www.panzea.org/#!ginnie-morrison/c1lov">Ginnie
+Morrison</a></li>
 <li><a href="http://mstetter.github.io">Markus Stetter</a></li>
-<li><a href="https://scholar.google.com/citations?user=Ru46Ih4AAAAJ&amp;hl=en">Sivan Yair</a></li>
+<li><a
+href="https://scholar.google.com/citations?user=Ru46Ih4AAAAJ&amp;hl=en">Sivan
+Yair</a></li>
 </ul>
 </div>
-<div id="fellow-of-the-r-i-lab-for-500-hours-of-scholastic-fellowship" class="section level3">
-<h3>Fellow of the R-I Lab: for &gt;500 hours of scholastic fellowship</h3>
+<div id="fellow-of-the-r-i-lab-for-500-hours-of-scholastic-fellowship"
+class="section level3">
+<h3>Fellow of the R-I Lab: for &gt;500 hours of scholastic
+fellowship</h3>
 <ul>
 <li><a href="http://www.cbs.umn.edu/lab/tiffin">Peter Tiffin</a></li>
-<li><a href="https://www.researchgate.net/profile/Leo_Zeitler">Leo Zeitler</a></li>
+<li><a href="https://www.researchgate.net/profile/Leo_Zeitler">Leo
+Zeitler</a></li>
 </ul>
 </div>
 <div id="current-collaborators" class="section level3">
 <h3>Current Collaborators</h3>
-<p><strong>Genetic diversity in maize and teosinte</strong> * <a href="http://maizego.org">Jianbing Yan</a> * <a href="http://maizego.org">Ning Yang</a></p>
-<p><strong>Evolution of Incompatibility Loci in Maize and Teosinte</strong></p>
+<p><strong>Genetic diversity in maize and teosinte</strong> * <a
+href="http://maizego.org">Jianbing Yan</a> * <a
+href="http://maizego.org">Ning Yang</a></p>
+<p><strong>Evolution of Incompatibility Loci in Maize and
+Teosinte</strong></p>
 <ul>
-<li><a href="https://carnegiescience.edu/scientist/matthew-evans">Matt Evans</a><br />
+<li><a href="https://carnegiescience.edu/scientist/matthew-evans">Matt
+Evans</a><br />
 </li>
-<li><a href="https://brandvainlab.wordpress.com">Yaniv Brandvain</a></li>
+<li><a href="https://brandvainlab.wordpress.com">Yaniv
+Brandvain</a></li>
 </ul>
-<p><strong>Quantitative Genetics of Genotype x Environment Interaction</strong></p>
+<p><strong>Quantitative Genetics of Genotype x Environment
+Interaction</strong></p>
 <ul>
 <li><a href="http://runcielab.ucdavis.edu/">Dan Runcie</a><br />
 </li>
@@ -487,10 +604,12 @@ Sarah is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate student 
 </ul>
 <p><strong>Evolutionary Genetics of Transposable Elements</strong></p>
 <ul>
-<li><a href="https://cbs.umn.edu/springer-lab/home">Nathan Springer</a></li>
+<li><a href="https://cbs.umn.edu/springer-lab/home">Nathan
+Springer</a></li>
 <li><a href="http://hirschlab.cfans.umn.edu">Candice Hirsch</a></li>
 <li><a href="https://josephslab.github.io">Emily Josephs</a></li>
-<li><a href="https://agronomy.wisc.edu/shawn-kaeppler/">Shawn Kaeppler</a></li>
+<li><a href="https://agronomy.wisc.edu/shawn-kaeppler/">Shawn
+Kaeppler</a></li>
 </ul>
 <p><strong>Convergent Evolution in the Andropogoneae</strong></p>
 <ul>
@@ -498,19 +617,27 @@ Sarah is a <a href="https://pbi.ucdavis.edu">Plant Biology</a> graduate student 
 </li>
 <li><a href="http://compgen.cshl.edu/~acs/">Adam Siepel</a><br />
 </li>
-<li><a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matthew Hufford</a></li>
-<li><a href="http://vivo.cornell.edu/display/individual24418">Qi Sun</a><br />
+<li><a
+href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matthew
+Hufford</a></li>
+<li><a href="http://vivo.cornell.edu/display/individual24418">Qi
+Sun</a><br />
 </li>
 <li><a href="http://www.maizegenetics.net">Ed Buckler</a></li>
 </ul>
-<p><strong>Evolutionary genetics of highland adaptation in maize</strong></p>
+<p><strong>Evolutionary genetics of highland adaptation in
+maize</strong></p>
 <ul>
 <li><a href="https://gcbias.org">Graham Coop</a></li>
-<li><a href="http://web.missouri.edu/~flint-garcias/">Sherry Flint-Garcia</a></li>
-<li><a href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matthew Hufford</a></li>
+<li><a href="http://web.missouri.edu/~flint-garcias/">Sherry
+Flint-Garcia</a></li>
+<li><a
+href="http://www.public.iastate.edu/~mhufford/HuffordLab/home.html">Matthew
+Hufford</a></li>
 <li><a href="http://www.rrlab.org">Ruben Rellan-Alvarez</a></li>
 <li><a href="http://runcielab.ucdavis.edu/">Dan Runcie</a></li>
-<li><a href="http://www.langebio.cinvestav.mx/?pag=165">Ruairidh Sawers</a></li>
+<li><a href="http://www.langebio.cinvestav.mx/?pag=165">Ruairidh
+Sawers</a></li>
 </ul>
 </div>
 </div>
@@ -542,7 +669,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

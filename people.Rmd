@@ -154,7 +154,6 @@ Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on
 **Julianna Porter** 
 </a> <a href="https://twitter.com/juliannacporter"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a>
 <a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>  
-
 (she/her/hers)  
 
 Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-and-genomics) major and the recipient  of the Nieland Family Award to  do  independennt research on  adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
@@ -203,7 +202,7 @@ Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index
 </div>
 **Luke Sparreo**
 <a href="www.linkedin.com/in/luke-sparreo"><img src="images/lin.png" style="width: 15px;"></a>  
-(she/her/hers)  
+(he/him/his)  
 
 Luke is an [EERREC](https://eerrec.ucdavis.edu) REU student working to help understand how indigenous language groups may have structured genetic diversity in traditional maize varieties
 <!-- break -->
