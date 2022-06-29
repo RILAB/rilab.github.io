@@ -55,7 +55,7 @@ Brenda is the lab manager and czar. In addition to working with us, she manages 
 (she/her/hers)  
 
 
-Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks.  
+Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks and the evolution of cross-incompatibility loci. 
 <!-- break -->
 <br>
 <!-- break -->
@@ -140,6 +140,19 @@ Sarah is a [Plant Biology](https://pbi.ucdavis.edu)  graduate student coadvised 
 (she/her/hers)  
 
 Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).  
+<!-- break --> 
+<br>
+<!-- break --> 
+
+<div style="float: left">
+<img src="images/garnet.jpg" style="border:10px solid white" width="125px"></a>
+</div>
+
+**Garnet Phinney** 
+<a href="https://www.linkedin.com/in/garnet-phinney-b95987185/"><img src="images/lin.png" style="width: 15px;"></a>  
+(she/her/hers)  
+
+Garnet is a Genetics and Genomics major working to understand the evolution and genomic variability of cross-incompatibility loci in maize and teosinte. 
 <!-- break -->
 <br>
 <!-- break -->
