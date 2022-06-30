@@ -111,7 +111,7 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 
 <details>
     <summary>Portrait of a genus: genome sequencing reveals evidence of adaptive variation in Zea   [[preprint](https://www.biorxiv.org/content/10.1101/2022.06.03.494450v1)]  
- Chen L, Luo J, Minliang Jin, **Yang N** ...[27 authors including **Phillips AR**]... , Warburton ML, **Ross-Ibarra J**, Yan J.
+ Chen L, Luo J, Minliang Jin, **Yang N** ...[27 authors including **Phillips AR** and **Cameron B**]...  **Ross-Ibarra J**, Yan J.
 </summary>
     <p style="margin-left: 30px">
 Maize is a globally valuable commodity and one of the most extensively studied genetic model organisms. However, we know surprisingly little about the extent and potential utility of the genetic variation found in the wild relatives of maize. Here, we characterize a high-density genomic variation map from 744 genomes encompassing maize and all wild taxa of the genus Zea, identifying over 70 million single nucleotide polymorphisms (SNPs) and nearly 9 million Insertion/Deletion (InDel) polymorphisms. The variation map reveals evidence of selection within taxa displaying novel adaptations to traits such as waterlogging, perenniality and regrowth. We focus in detail on adaptive alleles in highland teosinte and temperate maize and highlight the key role of flowering time related pathways in highland and high latitude adaptation. To show how this data can identify useful genetic variants, we generated and characterized novel mutant alleles for two flowering time candidate genes. This work provides the most extensive sampling to date of the genetic diversity of the genus Zea, resolving questions on evolution and identifying adaptive variants for direct use in modern breeding.
@@ -134,7 +134,7 @@ The scarlet runner bean is an open-pollinated legume from the highlands of Mesoa
 </p></details><br>
 
 <details>
-    <summary>An adaptive teosinte mexicana introgression modulates phosphatidylcholine levels and is associated with maize flowering time
+    <summary>[An adaptive teosinte mexicana introgression modulates phosphatidylcholine levels and is associated with maize flowering time](https://pnas.org/doi/full/10.1073/pnas.2100036119)
     [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.25.426574v4)]  
 Barnes AC\*, Rodríguez-Zapata F\*, Blöcher-Juárez KA\*, **Gates DJ** ...[22 authors]... **Ross-Ibarra J**, Hufford M, Sawers RJH, Rellán-Álvarez R.
 </summary>
