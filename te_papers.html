@@ -13,12 +13,22 @@
 
 <title>TE Papers</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 
 <style type="text/css">
@@ -33,32 +43,7 @@
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -69,10 +54,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -89,40 +70,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -150,7 +107,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -162,7 +119,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -173,10 +130,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -188,7 +158,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -292,7 +261,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -306,30 +275,50 @@ $(document).ready(function () {
 <div id="general-te-biology" class="section level2">
 <h2>General TE biology</h2>
 <ul>
-<li><a href="https://www.pnas.org/content/104/49/19375">Long-term evolution of transposable elements</a><br />
+<li><a href="https://www.pnas.org/content/104/49/19375">Long-term
+evolution of transposable elements</a><br />
 </li>
-<li><a href="https://www.mdpi.com/2073-4425/10/6/419">On the Population Dynamics of Junk: A Review on the Population Genomics of Transposable Elements</a><br />
+<li><a href="https://www.mdpi.com/2073-4425/10/6/419">On the Population
+Dynamics of Junk: A Review on the Population Genomics of Transposable
+Elements</a><br />
 </li>
-<li><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1577-z">Ten things you should know about transposable elements</a><br />
+<li><a
+href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1577-z">Ten
+things you should know about transposable elements</a><br />
 </li>
-<li><a href="https://www.nature.com/articles/nrg3374">How important are transposons for plant evolution?</a><br />
+<li><a href="https://www.nature.com/articles/nrg3374">How important are
+transposons for plant evolution?</a><br />
 </li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/10952206/">Sure Facts, Speculations, and Open Questions About the Evolution of Transposable Element Copy Number</a><br />
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/10952206/">Sure Facts,
+Speculations, and Open Questions About the Evolution of Transposable
+Element Copy Number</a><br />
 </li>
-<li><a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30191-X#">The Selfishness of Law-Abiding Genes</a><br />
+<li><a
+href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(19)30191-X#">The
+Selfishness of Law-Abiding Genes</a><br />
 </li>
-<li><a href="https://www.cell.com/trends/plant-science/fulltext/S1360-1385(10)00096-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138510000968%3Fshowall%3Dtrue">A triptych of the evolution of plant transposable elements</a><br />
+<li><a
+href="https://www.cell.com/trends/plant-science/fulltext/S1360-1385(10)00096-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138510000968%3Fshowall%3Dtrue">A
+triptych of the evolution of plant transposable elements</a><br />
 </li>
-<li><a href="http://www.plantcell.org/content/9/9/1509.long">Do Plants Have a One-Way Ticket to Genomic Obesity?</a><br />
+<li><a href="http://www.plantcell.org/content/9/9/1509.long">Do Plants
+Have a One-Way Ticket to Genomic Obesity?</a><br />
 </li>
-<li><a href="https://science.sciencemag.org/content/338/6108/758.long">Transposable Elements, Epigenetics, and Genome Evolution</a></li>
+<li><a
+href="https://science.sciencemag.org/content/338/6108/758.long">Transposable
+Elements, Epigenetics, and Genome Evolution</a></li>
 </ul>
 </div>
 <div id="te-popgen" class="section level2">
 <h2>TE Popgen</h2>
 <ul>
-<li><a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B3815EB0AE7CDB71B27FDAE08A282B8A/S0016672300021455a.pdf/population_dynamics_of_transposable_elements.pdf">The population dynamics of transposable elements</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/19478138/">Epigenetic Silencing of Transposable Elements: A Trade-Off Between Reduced Transposition and Deleterious Effects on Neighboring Gene Expression</a></li>
+<li><a
+href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B3815EB0AE7CDB71B27FDAE08A282B8A/S0016672300021455a.pdf/population_dynamics_of_transposable_elements.pdf">The
+population dynamics of transposable elements</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/19478138/">Epigenetic
+Silencing of Transposable Elements: A Trade-Off Between Reduced
+Transposition and Deleterious Effects on Neighboring Gene
+Expression</a></li>
 </ul>
 </div>
 <div id="maize-tes" class="section level2">
@@ -337,65 +326,105 @@ $(document).ready(function () {
 <div id="section" class="section level4">
 <h4>2020</h4>
 <ul>
-<li><a href="https://www.biorxiv.org/content/10.1101/777037v2">Gene capture by transposable elements leads to epigenetic conflict in maize</a><br />
+<li><a href="https://www.biorxiv.org/content/10.1101/777037v2">Gene
+capture by transposable elements leads to epigenetic conflict in
+maize</a><br />
 </li>
-<li><a href="https://www.biorxiv.org/content/10.1101/2020.08.26.268102v1">Genetic and epigenetic contributions to variation in transposable element expression responses to abiotic stress in maize</a><br />
+<li><a
+href="https://www.biorxiv.org/content/10.1101/2020.08.26.268102v1">Genetic
+and epigenetic contributions to variation in transposable element
+expression responses to abiotic stress in maize</a><br />
 </li>
-<li><a href="https://www.biorxiv.org/content/10.1101/559922v1">The Genomic Ecosystem of Transposable Elements in Maize</a><br />
+<li><a href="https://www.biorxiv.org/content/10.1101/559922v1">The
+Genomic Ecosystem of Transposable Elements in Maize</a><br />
 </li>
-<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.20.107169v1.abstract">Cis-regulatory elements within TEs can influence expression of nearby maize genes</a></li>
+<li><a
+href="https://www.biorxiv.org/content/10.1101/2020.05.20.107169v1.abstract">Cis-regulatory
+elements within TEs can influence expression of nearby maize
+genes</a></li>
 </ul>
 </div>
 <div id="section-1" class="section level4">
 <h4>2019</h4>
 <ul>
-<li><a href="https://www.genetics.org/content/213/1/143">Hybrid Decay: A Transgenerational Epigenetic Decline in Vigor and Viability Triggered in Backcross Populations of Teosinte with Maize</a><br />
+<li><a href="https://www.genetics.org/content/213/1/143">Hybrid Decay: A
+Transgenerational Epigenetic Decline in Vigor and Viability Triggered in
+Backcross Populations of Teosinte with Maize</a><br />
 </li>
-<li><a href="https://www.nature.com/articles/s41477-019-0508-7?draft=marketing">The genome-wide dynamics of purging during selfing in maize</a><br />
+<li><a
+href="https://www.nature.com/articles/s41477-019-0508-7?draft=marketing">The
+genome-wide dynamics of purging during selfing in maize</a><br />
 </li>
-<li><a href="https://www.g3journal.org/content/9/11/3673">Dynamic Patterns of Transcript Abundance of Transposable Element Families in Maize</a><br />
+<li><a href="https://www.g3journal.org/content/9/11/3673">Dynamic
+Patterns of Transcript Abundance of Transposable Element Families in
+Maize</a><br />
 </li>
-<li><a href="https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1008291">Monitoring the interplay between transposable element families and DNA methylation in maize</a><br />
+<li><a
+href="https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1008291">Monitoring
+the interplay between transposable element families and DNA methylation
+in maize</a><br />
 </li>
-<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489">Transposable elements contribute to dynamic genome content in maize</a><br />
+<li><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489">Transposable
+elements contribute to dynamic genome content in maize</a><br />
 </li>
-<li><a href="https://www.nature.com/articles/s41477-019-0547-0">Widespread long-range cis-regulatory elements in the maize genome</a><br />
+<li><a
+href="https://www.nature.com/articles/s41477-019-0547-0">Widespread
+long-range cis-regulatory elements in the maize genome</a><br />
 </li>
-<li><a href="https://www.pnas.org/content/116/22/10734.abstract">Spontaneous mutations in maize pollen are frequent in some lines and arise mainly from retrotranspositions and deletions</a></li>
+<li><a
+href="https://www.pnas.org/content/116/22/10734.abstract">Spontaneous
+mutations in maize pollen are frequent in some lines and arise mainly
+from retrotranspositions and deletions</a></li>
 </ul>
 </div>
 <div id="section-2" class="section level4">
 <h4>2018</h4>
 <ul>
-<li><a href="https://www.nature.com/articles/s41588-018-0158-0">The maize W22 genome provides a foundation for functional genomics and transposon biology</a><br />
+<li><a href="https://www.nature.com/articles/s41588-018-0158-0">The
+maize W22 genome provides a foundation for functional genomics and
+transposon biology</a><br />
 </li>
-<li><a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162">Parallel altitudinal clines reveal trends in adaptive evolution of genome size in Zea mays</a></li>
+<li><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162">Parallel
+altitudinal clines reveal trends in adaptive evolution of genome size in
+Zea mays</a></li>
 </ul>
 </div>
 <div id="section-3" class="section level4">
 <h4>2017</h4>
 <ul>
-<li><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4">Genome-wide mapping of transcriptional enhancer candidates using DNA and chromatin features in maize</a><br />
+<li><a
+href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4">Genome-wide
+mapping of transcriptional enhancer candidates using DNA and chromatin
+features in maize</a><br />
 </li>
-<li><a href="https://www.nature.com/articles/nature22971">Improved maize reference genome with single-molecule technologies</a></li>
+<li><a href="https://www.nature.com/articles/nature22971">Improved maize
+reference genome with single-molecule technologies</a></li>
 </ul>
 </div>
 <div id="section-4" class="section level4">
 <h4>2016</h4>
 <ul>
-<li><a href="https://www.pnas.org/content/113/22/E3177">Open chromatin reveals the functional maize genome</a></li>
+<li><a href="https://www.pnas.org/content/113/22/E3177">Open chromatin
+reveals the functional maize genome</a></li>
 </ul>
 </div>
 <div id="section-5" class="section level4">
 <h4>2015</h4>
 <ul>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4287451/">Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress</a></li>
+<li><a
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4287451/">Transposable
+Elements Contribute to Activation of Maize Genes in Response to Abiotic
+Stress</a></li>
 </ul>
 </div>
 <div id="earlier" class="section level4">
 <h4>Earlier</h4>
 <ul>
-<li><a href="https://www.pnas.org/content/103/47/17644">Remarkable variation in maize genome structure inferred from haplotype diversity at the bz locus</a></li>
+<li><a href="https://www.pnas.org/content/103/47/17644">Remarkable
+variation in maize genome structure inferred from haplotype diversity at
+the bz locus</a></li>
 </ul>
 </div>
 </div>
@@ -404,19 +433,30 @@ $(document).ready(function () {
 <div id="drosophila" class="section level4">
 <h4>Drosophila</h4>
 <ul>
-<li><a href="https://www.annualreviews.org/doi/10.1146/annurev-genet-120213-092359">Population Genomics of Transposable Elements in Drosophila</a><br />
+<li><a
+href="https://www.annualreviews.org/doi/10.1146/annurev-genet-120213-092359">Population
+Genomics of Transposable Elements in Drosophila</a><br />
 </li>
-<li><a href="https://www.pnas.org/content/104/27/11340">Recent LTR retrotransposon insertion contrasts with waves of non-LTR insertion since speciation in Drosophila melanogaster</a><br />
+<li><a href="https://www.pnas.org/content/104/27/11340">Recent LTR
+retrotransposon insertion contrasts with waves of non-LTR insertion
+since speciation in Drosophila melanogaster</a><br />
 </li>
-<li><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev.ge.23.120189.001343">The population genetics of Drosophila transposable elements</a></li>
+<li><a
+href="https://www.annualreviews.org/doi/abs/10.1146/annurev.ge.23.120189.001343">The
+population genetics of Drosophila transposable elements</a></li>
 </ul>
 </div>
 <div id="arabidopsis" class="section level4">
 <h4>Arabidopsis</h4>
 <ul>
-<li><a href="https://elifesciences.org/articles/15716">The Arabidopsis thaliana mobilome and its impact at the species level</a></li>
-<li><a href="https://elifesciences.org/articles/20777">Population scale mapping of transposable element diversity reveals links to gene regulation and epigenomic variation</a></li>
-<li><a href="https://genome.cshlp.org/content/13/8/1897.long">Effects of Recombination Rate and Gene Density on Transposable Element Distributions in Arabidopsis thaliana</a></li>
+<li><a href="https://elifesciences.org/articles/15716">The Arabidopsis
+thaliana mobilome and its impact at the species level</a></li>
+<li><a href="https://elifesciences.org/articles/20777">Population scale
+mapping of transposable element diversity reveals links to gene
+regulation and epigenomic variation</a></li>
+<li><a href="https://genome.cshlp.org/content/13/8/1897.long">Effects of
+Recombination Rate and Gene Density on Transposable Element
+Distributions in Arabidopsis thaliana</a></li>
 </ul>
 </div>
 </div>
@@ -448,7 +488,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

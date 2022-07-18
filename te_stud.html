@@ -11,14 +11,24 @@
 
 
 
-<title>te_stud.utf8</title>
+<title>te_stud.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 
 <style type="text/css">
@@ -33,32 +43,7 @@
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -69,10 +54,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -89,40 +70,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -150,7 +107,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -162,7 +119,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -173,10 +130,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -188,7 +158,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -292,7 +261,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -300,8 +269,32 @@ $(document).ready(function () {
 </div>
 
 
-<p>We are looking for an engaged graduate student to work on the evolutionary genetics of transposable elements in maize and its wild relatives. The position is funded by an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934384&amp;HistoricalAwards=false">NSF funded project</a> and will focus on the population genetics of TEs within and between species. Opportunities exist to collaborate on a number of ongoing projects in the lab, along with additional labs involved in the project (<a href="https://maizeumn.github.io">Nathan Springer’s lab</a> and <a href="http://hirschlab.cfans.umn.edu">Candace Hirsch’s lab</a> at the University of Minnesota, <a href="https://agronomy.wisc.edu/shawn-kaeppler/">Shawn Kaeppler’s lab</a> at the University of Wisconsin, and <a href="https://josephslab.github.io">Emily Josephs</a> at Michigan State University). We believe in and value the power of diversity and applicants from historically underrepresented groups are strongly encouraged to apply.</p>
-<p>Ideal candidates will have some familiarity with transposable element biology, population genetics, and/or quantitative genetics, and experience with R, python, C++, or other programming languages is a plus. Nonetheless, <strong>we strongly encourage all motivated students with an interest in evolutionary biology and transposable elements to apply</strong>. UC Davis has programs in both <a href="https://pbi.ucdavis.edu">plant</a> and <a href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=pop+bio+ucdavis&amp;ie=UTF-8&amp;oe=UTF-8">evolutionary</a> biology. For additional information about the labs please visit rilab.org.</p>
+<p>We are looking for an engaged graduate student to work on the
+evolutionary genetics of transposable elements in maize and its wild
+relatives. The position is funded by an <a
+href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934384&amp;HistoricalAwards=false">NSF
+funded project</a> and will focus on the population genetics of TEs
+within and between species. Opportunities exist to collaborate on a
+number of ongoing projects in the lab, along with additional labs
+involved in the project (<a href="https://maizeumn.github.io">Nathan
+Springer’s lab</a> and <a href="http://hirschlab.cfans.umn.edu">Candace
+Hirsch’s lab</a> at the University of Minnesota, <a
+href="https://agronomy.wisc.edu/shawn-kaeppler/">Shawn Kaeppler’s
+lab</a> at the University of Wisconsin, and <a
+href="https://josephslab.github.io">Emily Josephs</a> at Michigan State
+University). We believe in and value the power of diversity and
+applicants from historically underrepresented groups are strongly
+encouraged to apply.</p>
+<p>Ideal candidates will have some familiarity with transposable element
+biology, population genetics, and/or quantitative genetics, and
+experience with R, python, C++, or other programming languages is a
+plus. Nonetheless, <strong>we strongly encourage all motivated students
+with an interest in evolutionary biology and transposable elements to
+apply</strong>. UC Davis has programs in both <a
+href="https://pbi.ucdavis.edu">plant</a> and <a
+href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=pop+bio+ucdavis&amp;ie=UTF-8&amp;oe=UTF-8">evolutionary</a>
+biology. For additional information about the labs please visit
+rilab.org.</p>
 
 
 
@@ -330,7 +323,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

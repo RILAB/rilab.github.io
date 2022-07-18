@@ -13,12 +13,22 @@
 
 <title>Lab Expectations</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 
 <style type="text/css">
@@ -33,32 +43,7 @@
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -69,10 +54,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -89,40 +70,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -150,7 +107,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -162,7 +119,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -173,10 +130,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -188,7 +158,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -292,7 +261,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -301,108 +270,213 @@ $(document).ready(function () {
 </div>
 
 
-<p>I view my relationship with students and postdocs as a partnership. My job is to ensure people in the lab get the training and opportunities they need to advance in their chosen careers, whether in academia, industry, teaching, or other options. Below you can find information on the lab philosophy and expectations of lab members. Text and ideas in places borrow heavily from <a href="http://www.rrlab.org/expectations.html">Rubén Rellán-Álvarez</a>.</p>
+<p>I view my relationship with students and postdocs as a partnership.
+My job is to ensure people in the lab get the training and opportunities
+they need to advance in their chosen careers, whether in academia,
+industry, teaching, or other options. Below you can find information on
+the lab philosophy and expectations of lab members. Text and ideas in
+places borrow heavily from <a
+href="http://www.rrlab.org/expectations.html">Rubén
+Rellán-Álvarez</a>.</p>
 <div id="general-rules" class="section level2">
 <h2>General Rules</h2>
 <div id="safety-first" class="section level3">
 <h3>Safety first</h3>
-<p>Your health and safety are more important than your research. This includes adhering to lab safety codes, as well as maintaining your physical and mental health. Never work in the lab if you are feeling sick, under medication that might affect your ability to work normally and definitely not under the effects of any kind of drugs. Avoid working in the lab by yourself doing potentially dangerous activities, and please be aware of UC Davis resources and training on <a href="http://safetyservices.ucdavis.edu/categories/laboratory-safety">lab safety</a>.</p>
+<p>Your health and safety are more important than your research. This
+includes adhering to lab safety codes, as well as maintaining your
+physical and mental health. Never work in the lab if you are feeling
+sick, under medication that might affect your ability to work normally
+and definitely not under the effects of any kind of drugs. Avoid working
+in the lab by yourself doing potentially dangerous activities, and
+please be aware of UC Davis resources and training on <a
+href="http://safetyservices.ucdavis.edu/categories/laboratory-safety">lab
+safety</a>.</p>
 </div>
 <div id="respect" class="section level3">
 <h3>Respect</h3>
-<p>I expect lab members to contribute to a productive and friendly environment conducive to learning and research. This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance. The university provides a number of <a href="http://studentexpression.ucdavis.edu/get-support/index.html">resources</a> (confidential and otherwise) to report or discuss any such activity you feel is inappropriate.</p>
+<p>I expect lab members to contribute to a productive and friendly
+environment conducive to learning and research. This includes treating
+your colleagues with respect, listening to others’ viewpoints and ideas,
+and ensuring the lab is a place where everybody feels welcome and
+appreciated. Racist, sexist, or other inappropriate comments or behavior
+will not be tolerated under any circumstance. The university provides a
+number of <a
+href="http://studentexpression.ucdavis.edu/get-support/index.html">resources</a>
+(confidential and otherwise) to report or discuss any such activity you
+feel is inappropriate.</p>
 </div>
 <div id="expectations-for-all-members" class="section level3">
 <h3>Expectations (for all members)</h3>
 <div id="work-hours" class="section level4">
 <h4>Work hours</h4>
-<p>We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours (9-5pm) during the work week, since this is when most academic activities occur. There may be times when your project requires work late at night or on the weekends, but you are <em>not</em> expected to regularly work more than a normal 40-hour work week. It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.</p>
+<p>We are lucky enough to work in an area where flexible working hours
+are the norm. In order to be able to interact with the rest of the
+persons in the lab, we generally expect lab members to be present the
+majority of normal business hours (9-5pm) during the work week, since
+this is when most academic activities occur. There may be times when
+your project requires work late at night or on the weekends, but you are
+<em>not</em> expected to regularly work more than a normal 40-hour work
+week. It is important that you take time off for personal life,
+vacations, etc. I do ask, however, that you notify me if you will be
+absent for ≥1 day, and let me know in advance of any extended leave.</p>
 </div>
-<div id="seminars-journal-clubs-and-other-lab-and-institutional-activities" class="section level4">
-<h4>Seminars, journal clubs and other lab and institutional activities</h4>
-<p>Attendance to regular weekly lab meetings is expected of all lab members. Participation in weekly lab coffee, Zeavolution and other regular meetings, and <a href="rehab.html">R.E.H.A.B.</a> is encouraged but not required. Note that if you are funded on one of the lab’s current grants, you are expected to attend those meetings as well. There are a number of seminars (Plant Biology, Genetics, Population Biology, Ecology &amp; Evolution, Plant Sciences) each week, and these are usually posted in the office. You are strongly encouraged to regularly go to one or more each week.</p>
+<div
+id="seminars-journal-clubs-and-other-lab-and-institutional-activities"
+class="section level4">
+<h4>Seminars, journal clubs and other lab and institutional
+activities</h4>
+<p>Attendance to regular weekly lab meetings is expected of all lab
+members. Participation in weekly lab coffee, Zeavolution and other
+regular meetings, and <a href="rehab.html">R.E.H.A.B.</a> is encouraged
+but not required. Note that if you are funded on one of the lab’s
+current grants, you are expected to attend those meetings as well. There
+are a number of seminars (Plant Biology, Genetics, Population Biology,
+Ecology &amp; Evolution, Plant Sciences) each week, and these are
+usually posted in the office. You are strongly encouraged to regularly
+go to one or more each week.</p>
 </div>
 <div id="conferences" class="section level4">
 <h4>Conferences</h4>
-<p>Everyone is encouraged to attend at least one conference a year. Members of the lab regularly attend such meetings as the maize meeting, SMBE, Evolution, and ESA. The department and university offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks.</p>
+<p>Everyone is encouraged to attend at least one conference a year.
+Members of the lab regularly attend such meetings as the maize meeting,
+SMBE, Evolution, and ESA. The department and university offer travel
+funding for graduate students and postdocs, and you should apply for
+external sources of funding to help cover travel expenses. Whenever
+possible, I will help fund attendance at one conference per year for
+each member of the lab on the condition that you are presenting a poster
+or talk at the meeting. Please provide ample time before the deadline
+for reviewing abstracts and posters or practicing talks.</p>
 </div>
 <div id="authorship" class="section level4">
 <h4>Authorship</h4>
-<p>We follow the <a href="http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">IJME rules for authorship rules</a>:<br />
-1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND<br />
-2. Drafting the work or revising it critically for important intellectual content; AND<br />
+<p>We follow the <a
+href="http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">IJME
+rules for authorship rules</a>:<br />
+1. Substantial contributions to the conception or design of the work; or
+the acquisition, analysis, or interpretation of data for the work;
+AND<br />
+2. Drafting the work or revising it critically for important
+intellectual content; AND<br />
 3. Final approval of the version to be published; AND<br />
-4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. Projects evolve over time and authorship inclusion and author order will be re-evaluated accordingly.</p>
+4. Agreement to be accountable for all aspects of the work in ensuring
+that questions related to the accuracy or integrity of any part of the
+work are appropriately investigated and resolved. Projects evolve over
+time and authorship inclusion and author order will be re-evaluated
+accordingly.</p>
 </div>
 <div id="open-science" class="section level4">
 <h4>Open Science</h4>
-<p>I feel strongly that open science is important. We write papers on github or <a href="overleaf.com">overleaf</a>, often in public repos. We publish preprints as soon as a manuscript is ready for submission. We publish our data as soon as we can, and I am pushing to start doing so as separate data papers. We document our work – with github, R markdown, readme files, etc. – so it is intelligible and reusable in the future. I expect members of the lab to practice open science.</p>
+<p>I feel strongly that open science is important. We write papers on
+github or <a href="overleaf.com">overleaf</a>, often in public repos. We
+publish preprints as soon as a manuscript is ready for submission. We
+publish our data as soon as we can, and I am pushing to start doing so
+as separate data papers. We document our work – with github, R markdown,
+readme files, etc. – so it is intelligible and reusable in the future. I
+expect members of the lab to practice open science.</p>
 </div>
 </div>
 </div>
-<div id="specific-rules-for-the-different-members-of-the-lab" class="section level2">
+<div id="specific-rules-for-the-different-members-of-the-lab"
+class="section level2">
 <h2>Specific rules for the different members of the lab</h2>
 <div id="postdocs-and-senior-phd-students" class="section level3">
 <h3>Postdocs and senior PhD students</h3>
-<div id="my-responsibilities-to-postdocs-and-senior-phd-students" class="section level4">
+<div id="my-responsibilities-to-postdocs-and-senior-phd-students"
+class="section level4">
 <h4>My responsibilities to postdocs and senior PhD students:</h4>
 <ul>
 <li>Assist with identifying and writing postdoctoral fellowships.<br />
 </li>
-<li>Develop project ideas, including independent projects that can be taken with the postdoc.</li>
+<li>Develop project ideas, including independent projects that can be
+taken with the postdoc.</li>
 <li>Interpret results.</li>
 <li>Proof-read manuscripts.</li>
-<li>Discuss future career goals (e.g., do you want to teach, go into academia, industry, continue in research?), and plan ways to facilitate these goals.</li>
+<li>Discuss future career goals (e.g., do you want to teach, go into
+academia, industry, continue in research?), and plan ways to facilitate
+these goals.</li>
 <li>Meet weekly to discuss progress &amp; pitfalls.</li>
 </ul>
 </div>
-<div id="expectations-of-postdocs-and-senior-phd-students" class="section level4">
+<div id="expectations-of-postdocs-and-senior-phd-students"
+class="section level4">
 <h4>Expectations of postdocs and senior PhD students:</h4>
 <ul>
-<li>Prepare for our regular progress/pitfalls meetings and a follow up email of progress and goals.<br />
+<li>Prepare for our regular progress/pitfalls meetings and a follow up
+email of progress and goals.<br />
 </li>
-<li>Write and submit manuscripts. I strongly encourage collaboration, and a quick glance at our <a href="pubs.html">publications</a> should show that this generally works well. On average I expect your time as a postdoc in the lab to generate ~2 papers per year (first or co-authored), and in general this expectation seems to be not unreasonable.</li>
+<li>Write and submit manuscripts. I strongly encourage collaboration,
+and a quick glance at our <a href="pubs.html">publications</a> should
+show that this generally works well. On average I expect your time as a
+postdoc in the lab to generate ~2 papers per year (first or
+co-authored), and in general this expectation seems to be not
+unreasonable.</li>
 <li>Proof-read manuscripts from other lab members.<br />
 </li>
-<li>Apply for external funding (either individual postdoc fellowships or contributing to larger lab grant writing).<br />
+<li>Apply for external funding (either individual postdoc fellowships or
+contributing to larger lab grant writing).<br />
 </li>
-<li>Maintain a set of lab notes, including directories of data, annotated codes &amp; versions, detailed methods. These need to sufficient to reproduce results without additional instructions. A good working example can be found <a href="https://github.com/timbeissinger/Maize-Teo-Scripts">here</a>.</li>
-<li>Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors). Participate in talk rehearsals of your colleagues.</li>
-<li>Optional, but encouraged: Mentor at least one undergraduate student.</li>
+<li>Maintain a set of lab notes, including directories of data,
+annotated codes &amp; versions, detailed methods. These need to
+sufficient to reproduce results without additional instructions. A good
+working example can be found <a
+href="https://github.com/timbeissinger/Maize-Teo-Scripts">here</a>.</li>
+<li>Participate in general lab responsibilities (servers, maintain
+common areas, taking turns hosting visitors). Participate in talk
+rehearsals of your colleagues.</li>
+<li>Optional, but encouraged: Mentor at least one undergraduate
+student.</li>
 </ul>
 </div>
 </div>
 <div id="master-and-junior-phd-students" class="section level3">
 <h3>Master and junior PhD students</h3>
-<div id="my-responsibilities-to-master-and-junior-phd-students" class="section level4">
+<div id="my-responsibilities-to-master-and-junior-phd-students"
+class="section level4">
 <h4>My responsibilities to Master and junior PhD students:</h4>
 <ul>
 <li>Develop project ideas.<br />
 </li>
 <li>Interpret results.<br />
 </li>
-<li>Proof-read and contribute to writing of thesis, abstracts and manuscripts.<br />
+<li>Proof-read and contribute to writing of thesis, abstracts and
+manuscripts.<br />
 </li>
-<li>Discuss future career goals (e.g., do you want to teach, go into academia, continue in research?), and plan ways to facilitate these goals.<br />
+<li>Discuss future career goals (e.g., do you want to teach, go into
+academia, continue in research?), and plan ways to facilitate these
+goals.<br />
 </li>
 <li>Meet weekly to discuss progress and pitfalls.</li>
 </ul>
 </div>
-<div id="expectations-of-master-and-junior-phd-students" class="section level4">
+<div id="expectations-of-master-and-junior-phd-students"
+class="section level4">
 <h4>Expectations of Master and junior PhD students:</h4>
 <ul>
-<li>Prepare for our regular progress/pitfalls meetings and a follow up email of progress and goals.<br />
+<li>Prepare for our regular progress/pitfalls meetings and a follow up
+email of progress and goals.<br />
 </li>
-<li>Write and submit manuscripts. On average, I expect most students to produce three publications over the course of their PhD, including at least one first-author paper.</li>
-<li>Maintain a set of lab notes, including directories of data, annotated codes &amp; versions, detailed methods. These need to sufficient to reproduce results without additional instructions. A good working example can be found <a href="https://github.com/timbeissinger/Maize-Teo-Scripts">here</a>.</li>
+<li>Write and submit manuscripts. On average, I expect most students to
+produce three publications over the course of their PhD, including at
+least one first-author paper.</li>
+<li>Maintain a set of lab notes, including directories of data,
+annotated codes &amp; versions, detailed methods. These need to
+sufficient to reproduce results without additional instructions. A good
+working example can be found <a
+href="https://github.com/timbeissinger/Maize-Teo-Scripts">here</a>.</li>
 <li>Write thesis in due time.<br />
 </li>
-<li>Proof-read manuscripts from other lab members. Participate in talk rehearsals of your colleagues.<br />
+<li>Proof-read manuscripts from other lab members. Participate in talk
+rehearsals of your colleagues.<br />
 </li>
-<li>Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors, communal sampling and field work etc). Participate in talk rehearsals of your colleagues.<br />
+<li>Participate in general lab responsibilities (servers, maintain
+common areas, taking turns hosting visitors, communal sampling and field
+work etc). Participate in talk rehearsals of your colleagues.<br />
 </li>
-<li>Present multiple research talks/posters at conferences over the course of your time in the lab. You are encouraged to do so annually, but this isn’t always possible.</li>
-<li>Optional, but encouraged: Mentor at least one undergraduate student.</li>
+<li>Present multiple research talks/posters at conferences over the
+course of your time in the lab. You are encouraged to do so annually,
+but this isn’t always possible.</li>
+<li>Optional, but encouraged: Mentor at least one undergraduate
+student.</li>
 </ul>
 </div>
 </div>
@@ -435,7 +509,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

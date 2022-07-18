@@ -41,6 +41,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2022
 ### July
+#### July 29
+[Widen et al. preprint](https://www.biorxiv.org/content/10.1101/2022.07.12.499685v1) Virus-like transposons cross the species barrier and drive the evolution of genetic incompatibilities
+
+#### July 22
+[Barnes, Rordíguez-Zapata, Juárez-Núñez  et al. 2022](https://www.pnas.org/doi/epdf/10.1073/pnas.2100036119) An adaptive teosinte mexicana introgression modulates phosphatidylcholine levels and is associated with maize flowering time
+
 #### July 15
 [Wu et al. 2022](https://www.nature.com/articles/s41477-019-0563-0) Allelochemicals targeted to balance competing selections in African agroecosystems
 
