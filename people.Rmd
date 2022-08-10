@@ -106,12 +106,12 @@ Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg
 <img src="images/sowmya.jpg" style="border:10px solid white" width="125px"></a>
 </div>
 
-**Sowmya Mambakkam** 
+**Sowmya Mambakkam**   
 (she/her/hers)  
 
 Sowmya is a Genetics and Genomics major investigating the population genetics of inversions in Zea. 
 <!-- break -->
-<br><br><br>
+<br><br>
 <!-- break -->
 
 
