@@ -101,6 +101,20 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of  a large international collaboration led by [CIMMYT](https://www.cimmyt.org). 
 <br><br>
 
+
+<div style="float: left">
+<img src="images/sowmya.jpg" style="border:10px solid white" width="125px"></a>
+</div>
+
+**Sowmya Mambakkam** 
+(she/her/hers)  
+
+Sowmya is a Genetics and Genomics major investigating the population genetics of inversions in Zea. 
+<!-- break -->
+<br><br><br>
+<!-- break -->
+
+
 <div style="float: left">
 <img src="images/MeWthCone.jpg" style="border:10px solid white" width="125px"></a>
 </div>
