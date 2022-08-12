@@ -79,6 +79,19 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 </p></details><br> 
 
 <details>
+    <summary>Single gene resolution of locally adaptive genetic variation in Mexican maize [[preprint](https://www.biorxiv.org/content/10.1101/706739v1)]  
+**Gates DJ**, Runcie D, Janzen GM, Romero Navarro A ...[4 authors]... Buckler ES, Hearne S, Hufford MB, **Ross-Ibarra J** 
+
+
+</summary>
+    <p style="margin-left: 30px">We present a high-resolution genome-wide association analysis to identify loci exhibiting adaptive patterns in a large panel of more than 4500 traditional maize landraces representing the breadth of genetic diversity of maize in Mexico. We evaluate associations between genotype and plant performance in 13 common gardens across a range of environments, identifying hundreds of candidate genes underlying genotype by environment interaction. We further identify genetic associations with environment across Mexico and show that such loci are associated with variation in yield and flowering time in our field trials and predict performance in independent drought trials. Our results indicate that the variation necessary to adapt crops to changing climate exists in traditional landraces that have been subject to ongoing environmental adaptation and can be identified by both phenotypic and environmental association.
+</p></details><br>
+
+
+### 2022
+
+
+<details>
     <summary>Conflict over fertilization underlies the transient evolution of reinforcement.  [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.10.377481v1)]  
      **Rushworth C**, Wardlaw AW, **Ross-Ibarra J**, Brandvain YB.
      
@@ -98,18 +111,6 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 </p></details><br>
 
 <details>
-    <summary>Single gene resolution of locally adaptive genetic variation in Mexican maize [[preprint](https://www.biorxiv.org/content/10.1101/706739v1)]  
-**Gates DJ**, Runcie D, Janzen GM, Romero Navarro A ...[4 authors]... Buckler ES, Hearne S, Hufford MB, **Ross-Ibarra J** 
-
-
-</summary>
-    <p style="margin-left: 30px">We present a high-resolution genome-wide association analysis to identify loci exhibiting adaptive patterns in a large panel of more than 4500 traditional maize landraces representing the breadth of genetic diversity of maize in Mexico. We evaluate associations between genotype and plant performance in 13 common gardens across a range of environments, identifying hundreds of candidate genes underlying genotype by environment interaction. We further identify genetic associations with environment across Mexico and show that such loci are associated with variation in yield and flowering time in our field trials and predict performance in independent drought trials. Our results indicate that the variation necessary to adapt crops to changing climate exists in traditional landraces that have been subject to ongoing environmental adaptation and can be identified by both phenotypic and environmental association.
-</p></details><br>
-
-
-### 2022
-
-<details>
     <summary>Genome sequencing reveals evidence of adaptive variation in the genus *Zea*   [[preprint](https://www.biorxiv.org/content/10.1101/2022.06.03.494450v1)]  
  Chen L, Luo J, Minliang Jin, **Yang N** ...[27 authors including **Phillips AR** and **Cameron B**]...  **Ross-Ibarra J**, Yan J.
 </summary>
@@ -118,7 +119,7 @@ Maize is a globally valuable commodity and one of the most extensively studied g
 </p></details><br>  
 
 <details>
-    <summary>[Genomic Insights into Historical Improvement of Heterotic Groups during Modern Hybrid Maize Breeding](http://rilab.ucdavis.edu/pdfs/li22natplants.pdf)
+    <summary>[Genomic Insights into Historical Improvement of Heterotic Groups during Modern Hybrid Maize Breeding](http://rilab.ucdavis.edu/pdfs/li22natplants.pdf)  
 Li C, Guan H, Jing X, Li Y ...[18 authors]... **Ross-Ibarra J**, Li Y, Wang T, Wang H  
 </summary>
     <p style="margin-left: 30px">

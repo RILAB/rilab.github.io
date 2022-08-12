@@ -41,6 +41,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2022
 ### August
+#### Aug 12
+[Moreno-Villena et al. 2022](https://www.science.org/doi/10.1126/sciadv.abn2349#.Yu8M_rXLkC4.twitter) Spatial resolution of an integrated C4+CAM photosynthetic metabolism
+
 #### Aug 5
 [Widen et al. preprint](https://www.biorxiv.org/content/10.1101/2022.07.12.499685v1) Virus-like transposons cross the species barrier and drive the evolution of genetic incompatibilities
 

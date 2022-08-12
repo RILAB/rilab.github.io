@@ -124,7 +124,7 @@ Sowmya is a Genetics and Genomics major investigating the population genetics of
 <a href="https://scholar.google.com/citations?user=GkKUq18AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 (she/her/hers)  
 
-Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her previous work focuserd on ecological and evolutionary genomics of conifers.
+Mitra is a postdoctoral fellow working on the evolutionary genetics of TEs. Her previous work focused on ecological and evolutionary genomics of conifers.
 <!-- break -->
 <br><p class="forceBreak"></p>
 <!-- break -->
