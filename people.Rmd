@@ -98,7 +98,7 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
 (he/him/his)  
 
-Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of  a large international collaboration led by [CIMMYT](https://www.cimmyt.org). 
+Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of  a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.ucdavis.edu).
 <br><br>
 
 
@@ -180,9 +180,9 @@ Garnet is a Genetics and Genomics major working to understand the evolution and 
 <a href="http://github.com/juliannaporter "><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>  
 (she/her/hers)  
 
-Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-and-genomics) major and the recipient  of the Nieland Family Award to  do  independennt research on  adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com).  .
+Julianna is an  [Genetics & Genomics](https://www.ucdavis.edu/majors/genetics-and-genomics) major and the recipient  of the Nieland Family Award to  do  independennt research on  adapation in *Tripsacum*  as part of the   [PanAnd project](https://panandropogoneae.com). 
 <!-- break -->
-<br>
+<br><br>
 <!-- break -->
 
 <div style="float: left">
@@ -202,6 +202,18 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 <!-- break -->
 
 
+<div style="float: left">
+<img src="images/itay-et-ayelet.png" style="border:10px solid white" width="125px"></a>
+</div>
+**Ayelet Salman-Minkov**
+<a href="https://scholar.google.com/citations?user=SWqRX4QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"></a>  
+(she/her/hers)  
+
+Ayelet is a project scientist, working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) on a collaboration with  [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be best used to inform crop breeding.
+
+<!-- break -->
+<br>
+<!-- break -->
 
 
 <div style="float: left">
@@ -220,22 +232,12 @@ Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index
 <!-- break -->
 
 
-<div style="float: left">
-<img src="images/sparreo.jpeg" style="border:10px solid white" width="125px"></a>
-</div>
-**Luke Sparreo**
-<a href="www.linkedin.com/in/luke-sparreo"><img src="images/lin.png" style="width: 15px;"></a>  
-(he/him/his)  
-
-Luke is an [EERREC](https://eerrec.ucdavis.edu) REU student working to help understand how indigenous language groups may have structured genetic diversity in traditional maize varieties
-<!-- break -->
-<br>
-<!-- break -->
 
 </div>
 
 ## Lab Alumni
 
+* [Luke Sparreo](www.linkedin.com/in/luke-sparreo) Summer REU, 2022 
 * [Asher Hudson](https://aihudson.github.io) PhD student, 2017-2022 (Postdoc, USDA NC State)
 * [Catherine Rushworth](https://www.cathyrushworth.org) Postdoc 2018-2022 (Asst. Prof, U. Utah)
 * [Silas Tittes](https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en): Postdoc 2018-2022 (Research Scientist, U Oregon)

@@ -35,16 +35,27 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
-
-
-
-
 ## 2022
+### September 
+#### Sept 16
+[Bieker et al. 2022](https://www.science.org/doi/10.1126/sciadv.abo5115) Uncovering the genomic basis of an extraordinary plant invasion
+
+#### Sept 9
+[Le et al, preprint](https://www.biorxiv.org/content/10.1101/2022.08.24.505188v1) 1,000 ancient genomes uncover 10,000 years of natural selection in Europe
+
+#### Sept 2
+[Liu and Zhang 2022](https://academic.oup.com/mbe/article/39/8/msac169/6652438?login=false) Is the Mutation Rate Lower in Genomic Regions of Stronger Selective Constraints?
+
 ### August
-#### Aug 12
+#### Aug 26 [Lotterhos preprint](https://www.biorxiv.org/content/10.1101/2022.08.03.502621v1) Does the paradigm of genotype-environment associations need to be re-assessed? The paradox of adaptive phenotypic clines with non-clinal patterns in causal alleles
+
+#### Aug 19  
+Postponed
+
+#### Aug 12  
 [Moreno-Villena et al. 2022](https://www.science.org/doi/10.1126/sciadv.abn2349#.Yu8M_rXLkC4.twitter) Spatial resolution of an integrated C4+CAM photosynthetic metabolism
 
-#### Aug 5
+#### Aug 5  
 [Widen et al. preprint](https://www.biorxiv.org/content/10.1101/2022.07.12.499685v1) Virus-like transposons cross the species barrier and drive the evolution of genetic incompatibilities
 
 ### July
