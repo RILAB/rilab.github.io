@@ -36,7 +36,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2022
+### October
+#### Oct 7
+[Hibbins & Hahn 2022](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009892) The effects of introgression across thousands of quantitative traits revealed by gene expression in wild tomatoes
+
 ### September 
+#### Sept 30
+[Todd et al. 2022](https://www.science.org/doi/10.1126/science.abo3503) The genomic history and global expansion of domestic donkeys
+
+#### Sept 23
+[Le et al, preprint](https://www.biorxiv.org/content/10.1101/2022.08.24.505188v1) 1,000 ancient genomes uncover 10,000 years of natural selection in Europe
+
 #### Sept 16
 [Bieker et al. 2022](https://www.science.org/doi/10.1126/sciadv.abo5115) Uncovering the genomic basis of an extraordinary plant invasion
 
