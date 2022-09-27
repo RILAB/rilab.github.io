@@ -57,7 +57,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 [Liu and Zhang 2022](https://academic.oup.com/mbe/article/39/8/msac169/6652438?login=false) Is the Mutation Rate Lower in Genomic Regions of Stronger Selective Constraints?
 
 ### August
-#### Aug 26 [Lotterhos preprint](https://www.biorxiv.org/content/10.1101/2022.08.03.502621v1) Does the paradigm of genotype-environment associations need to be re-assessed? The paradox of adaptive phenotypic clines with non-clinal patterns in causal alleles
+#### Aug 26  
+[Lotterhos preprint](https://www.biorxiv.org/content/10.1101/2022.08.03.502621v1) Does the paradigm of genotype-environment associations need to be re-assessed? The paradox of adaptive phenotypic clines with non-clinal patterns in causal alleles
 
 #### Aug 19  
 Postponed
