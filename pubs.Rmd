@@ -92,7 +92,7 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 
 
 <details>
-    <summary>Conflict over fertilization underlies the transient evolution of reinforcement.  [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.10.377481v1)]  
+    <summary>[Conflict over fertilization underlies the transient evolution of reinforcement.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001814#ack) [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.10.377481v1)]  
      **Rushworth C**, Wardlaw AW, **Ross-Ibarra J**, Brandvain YB.
      
 </summary>
