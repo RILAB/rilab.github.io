@@ -16,8 +16,6 @@ navbar:
       href: rehab.html
     - text: "News"
       href: news.html
-    - text: "Press"
-      href: press.html
 output:
   html_document:
     theme: cosmo
