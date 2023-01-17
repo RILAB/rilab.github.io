@@ -35,16 +35,6 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
-
-
-<details> 
-    <summary> Allele-specific expression reveals multiple paths to highland adaptation in maize.
- [[preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500250v1?rss=1)]  
-Hu H,  Crow T, Nojoomi S, ...[5 authors]... Estévez-Palmas JM, **Ross-Ibarra J**, Runcie DE.
-</summary> 
-    <p style="margin-left: 30px">
-Maize is a staple food of smallholder farmers living in highland regions up to 4,000 meters above sea level worldwide, and Mexican and South American highlands are two major highland maize growing regions. Maize landraces show numerous adaptations to highland environments, and population genetic data suggests the highland populations largely independently from local lowland populations on each continent. To better understand the mechanistic basis of highland adaptation, we crossed maize landraces from 108 highland and lowland sites of Mexico and South America (MSA) with the inbred line B73 to produce F1 hybrids and grew them in both highland and lowland sites in Mexico. We identified thousand of genes with divergent expression between highland and lowland populations. Hundreds of these genes show patterns of convergent evolution etween Mexico and South America, including 17 flowering-related genes. To dissect the genetic architecture of the divergent gene expression, we developed a novel allele-specific expression analysis pipeline to detect genes with divergent functional cis-regulatory variation between highland and lowland populations. We identified hudnreds of genes with divergent cis-regulation between highland and lowland landrace alleles, with 20 in common between regions, further suggesting convergence in the genes underlying adaptation. Principal component analyses of these 20 loci provided evidence of multiple mechanisms underlying this convergent adaptation: the spread of adaptive allele through migration and the recruitment of different, but functionally similar, alleles in different populations. Our findings reveal a complex genetic architecture of cis-regulatory alleles underlying adaptation to highlands in maize. Although the vast majority of evolutionary changes associated with highland adaptation were region-specific, our findings highlight an important role for convergence at the gene expression and gene regulation levels as well.  </p></details><br> 
-
 <details> 
     <summary> A happy accident: a novel turfgrass reference genome.
  [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
@@ -82,14 +72,20 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
     <summary>Single gene resolution of locally adaptive genetic variation in Mexican maize [[preprint](https://www.biorxiv.org/content/10.1101/706739v1)]  
 **Gates DJ**, Runcie D, Janzen GM, Romero Navarro A ...[4 authors]... Buckler ES, Hearne S, Hufford MB, **Ross-Ibarra J** 
 
-
 </summary>
     <p style="margin-left: 30px">We present a high-resolution genome-wide association analysis to identify loci exhibiting adaptive patterns in a large panel of more than 4500 traditional maize landraces representing the breadth of genetic diversity of maize in Mexico. We evaluate associations between genotype and plant performance in 13 common gardens across a range of environments, identifying hundreds of candidate genes underlying genotype by environment interaction. We further identify genetic associations with environment across Mexico and show that such loci are associated with variation in yield and flowering time in our field trials and predict performance in independent drought trials. Our results indicate that the variation necessary to adapt crops to changing climate exists in traditional landraces that have been subject to ongoing environmental adaptation and can be identified by both phenotypic and environmental association.
 </p></details><br>
 
-
 ### 2022
 
+
+<details> 
+    <summary> Allele-specific expression reveals multiple paths to highland adaptation in maize.
+ [[preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500250v1?rss=1)]  
+Hu H,  Crow T, Nojoomi S, ...[5 authors]... Estévez-Palmas JM, **Ross-Ibarra J**, Runcie DE.
+</summary> 
+    <p style="margin-left: 30px">
+Maize is a staple food of smallholder farmers living in highland regions up to 4,000 meters above sea level worldwide, and Mexican and South American highlands are two major highland maize growing regions. Maize landraces show numerous adaptations to highland environments, and population genetic data suggests the highland populations largely independently from local lowland populations on each continent. To better understand the mechanistic basis of highland adaptation, we crossed maize landraces from 108 highland and lowland sites of Mexico and South America (MSA) with the inbred line B73 to produce F1 hybrids and grew them in both highland and lowland sites in Mexico. We identified thousand of genes with divergent expression between highland and lowland populations. Hundreds of these genes show patterns of convergent evolution etween Mexico and South America, including 17 flowering-related genes. To dissect the genetic architecture of the divergent gene expression, we developed a novel allele-specific expression analysis pipeline to detect genes with divergent functional cis-regulatory variation between highland and lowland populations. We identified hudnreds of genes with divergent cis-regulation between highland and lowland landrace alleles, with 20 in common between regions, further suggesting convergence in the genes underlying adaptation. Principal component analyses of these 20 loci provided evidence of multiple mechanisms underlying this convergent adaptation: the spread of adaptive allele through migration and the recruitment of different, but functionally similar, alleles in different populations. Our findings reveal a complex genetic architecture of cis-regulatory alleles underlying adaptation to highlands in maize. Although the vast majority of evolutionary changes associated with highland adaptation were region-specific, our findings highlight an important role for convergence at the gene expression and gene regulation levels as well.  </p></details><br> 
 
 <details>
     <summary>[Conflict over fertilization underlies the transient evolution of reinforcement.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001814#ack) [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.10.377481v1)]  

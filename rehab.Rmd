@@ -36,23 +36,36 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2023
+### February
+#### Feb 10
+[ Bénitière et al. preprint ](https://www.biorxiv.org/content/10.1101/2022.12.09.519597v2) Random genetic drift sets an upper limit on mRNA splicing accuracy in metazoans
+
+#### Feb 3  
+[Opedal et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2203228120) Evolvability and trait function predict phenotypic divergence of plant populations
+
 ### January
-#### Jan 17 [ Bohutinska et al. preprint](https://www.biorxiv.org/content/10.1101/2023.01.11.523565v1) Repeated adaptation to whole genome duplication in outcrossing Arabidopsis is mediated by mosaic adaptive haplotypes
+#### Jan 27  
+[ Milesi et al. preprint ](https://www.biorxiv.org/content/10.1101/2023.01.05.522822v1) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles
+
+#### Jan 20  
+[ Bohutinska et al. preprint](https://www.biorxiv.org/content/10.1101/2023.01.11.523565v1) Repeated adaptation to whole genome duplication in outcrossing Arabidopsis is mediated by mosaic adaptive haplotypes
 
 ## 2022
 ### November 
-#### Nov 4 [Chturvedi et al. 2022](https://www.nature.com/articles/s41559-022-01909-6.epdf?sharing_token=8R7fLq_R2gVPX3f1p86yt9RgN0jAjWel9jnR3ZoTv0NSro4BSkPDy8gCPphbKfs8YITAQZ01UWI1NeI6DYAQpDN9HFOgS62zfcXl-AUoXHctcYqCFgKi2agLOXCiMo9snJ9qqhsO5r975o2Kld7RpIXxqLOiSwXhVykUYnmjptQ%3D) Local adaptation of life-history traits within urban populations of Arabidopsis thaliana
+#### Nov 4  
+[Chturvedi et al. 2022](https://www.nature.com/articles/s41559-022-01909-6.epdf?sharing_token=8R7fLq_R2gVPX3f1p86yt9RgN0jAjWel9jnR3ZoTv0NSro4BSkPDy8gCPphbKfs8YITAQZ01UWI1NeI6DYAQpDN9HFOgS62zfcXl-AUoXHctcYqCFgKi2agLOXCiMo9snJ9qqhsO5r975o2Kld7RpIXxqLOiSwXhVykUYnmjptQ%3D) Local adaptation of life-history traits within urban populations of Arabidopsis thaliana
 
 ### October
-#### Oct 28 [Schmitz et al. preprint](https://www.biorxiv.org/content/10.1101/2022.10.03.510679v1) Local adaptation of life-history traits within urban populations of Arabidopsis thaliana
+#### Oct 28  
+[Schmitz et al. preprint](https://www.biorxiv.org/content/10.1101/2022.10.03.510679v1) Local adaptation of life-history traits within urban populations of Arabidopsis thaliana
 
-#### Oct 21
+#### Oct 21  
 [Hibbins & Hahn 2022](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009892) The effects of introgression across thousands of quantitative traits revealed by gene expression in wild tomatoes
 
 #### Oct 14
 No R.E.H.A.B. -- harvest!
 
-#### Oct 7
+#### Oct 7  
 [Todd et al. 2022](https://www.science.org/doi/10.1126/science.abo3503) The genomic history and global expansion of domestic donkeys
 
 ### September 
