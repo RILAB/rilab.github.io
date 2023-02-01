@@ -37,8 +37,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2023
 ### February
-#### Feb 10
+#### Feb 17  
 [ Bénitière et al. preprint ](https://www.biorxiv.org/content/10.1101/2022.12.09.519597v2) Random genetic drift sets an upper limit on mRNA splicing accuracy in metazoans
+
+### Feb 10  
+[Barbeiri et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2122084119) A global analysis of matches and mismatches between human genetic and linguistic histories
+
 
 #### Feb 3  
 [Opedal et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2203228120) Evolvability and trait function predict phenotypic divergence of plant populations
