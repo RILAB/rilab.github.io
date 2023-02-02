@@ -35,6 +35,20 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
+
+<details> 
+    <summary> Two teosintes made modern maize.
+ [[preprint](https://www.biorxiv.org/content/10.1101/2023.01.31.526540v1
+)]  
+**Yang N**\*, Wang Y\*, Liu X\* ...[20 authors including **Mambakkam M** and **Menon M**]... Stitzer MC, Runcie DE, Yan J, **Ross- Ibarra J** 
+
+</summary> 
+    <p style="margin-left: 30px">
+Despite its global importance as a crop with broad economic, dietary, and cultural importance, the origins of maize and its closest wild relatives remained the topic of vigorous debate for nearly a century. Molecular analyses ultimately concluded that maize was domesticated once from a common ancestor with its closest extant relative, the lowland wild grass Zea mays ssp. parviglumis. But neither the current genetic model nor earlier models based on archaeological data account for the totality of available data, and recent work has highlighted the potential contribution of a second wild relative, the highland Zea mays ssp. mexicana. Here we present a detailed population genetic analysis of the contributions of both wild taxa to modern maize diversity using the largest sample of traditional maize varieties sequenced to date. We show that all modern maize can trace its origin to an ancient admixture event between domesticated ancient maize and Zea mays ssp. mexicana in the highlands of Mexico ca 5300 cal BP, some 4,000 years after domestication began. We show that variation in admixture is a key component of modern maize genetic and phenotypic diversity, both at the level of individual loci and as a factor driving a substantial component of additive genetic variation across a number of agronomic traits. Our results clarify the long-debated origin of modern maize, highlight the potential contributions of crop wild relatives to agronomic improvement, and raise new questions about the anthropogenic mechanisms underlying multiple waves of dispersal throughout the Americas. </p></details><br> 
+
+
+
+
 <details> 
     <summary> A happy accident: a novel turfgrass reference genome.
  [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
