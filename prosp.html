@@ -224,15 +224,15 @@ $(document).ready(function () {
   window.onload = choosePic;
   var myPix = new Array("images/image1.jpg","images/image2.jpg","images/image3.jpg","images/image4.jpg","images/image5.jpg","images/image6.jpg","images/image7.jpg","images/image8.jpg","images/image8.jpg","images/image10.jpg");
   function choosePic() {
-     var randomNum = Math.floor(Math.random() * myPix.length);
-     document.getElementById("myPicture").src = myPix[randomNum];
+    var randomNum = Math.floor(Math.random() * myPix.length);
+    document.getElementById("myPicture").src = myPix[randomNum];
   }
 </script>
 
 <div class="navbar navbar-default  navbar-float-top" role="navigation">
     <div class="container" overflow="auto" align="left" style="width: inherit;">
-      <img id="myPicture" alt="Brand" src="" align='center'>
-    </div>
+      <img id="myPicture" src="" align='center'>
+      </div>
 
   <div class="container">
     <div class="navbar-header">

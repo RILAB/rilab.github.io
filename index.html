@@ -224,15 +224,15 @@ $(document).ready(function () {
   window.onload = choosePic;
   var myPix = new Array("images/image1.jpg","images/image2.jpg","images/image3.jpg","images/image4.jpg","images/image5.jpg","images/image6.jpg","images/image7.jpg","images/image8.jpg","images/image8.jpg","images/image10.jpg");
   function choosePic() {
-     var randomNum = Math.floor(Math.random() * myPix.length);
-     document.getElementById("myPicture").src = myPix[randomNum];
+    var randomNum = Math.floor(Math.random() * myPix.length);
+    document.getElementById("myPicture").src = myPix[randomNum];
   }
 </script>
 
 <div class="navbar navbar-default  navbar-float-top" role="navigation">
     <div class="container" overflow="auto" align="left" style="width: inherit;">
-      <img id="myPicture" alt="Brand" src="" align='center'>
-    </div>
+      <img id="myPicture" src="" align='center'>
+      </div>
 
   <div class="container">
     <div class="navbar-header">
@@ -278,6 +278,20 @@ $(document).ready(function () {
   ga('send', 'pageview');
 
 </script>
+<script type="text/javascript">
+  var imageURLs = [
+       "images/lab2022.jpeg"
+     , "images/cornkey3.png"
+     , "images/heart.png"
+  ];
+  function getImageTag() {
+    var img = '<img src=\"';
+    var randomIndex = Math.floor(Math.random() * imageURLs.length);
+    img += imageURLs[randomIndex];
+    img += '\" alt=\"Some alt text\"/ width=400px>';
+    return img;
+  }
+</script>
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
@@ -304,12 +318,9 @@ href="research.html">what we do</a>, check out the <a
 href="news.html">news</a> for updates and latest happenings, read our <a
 href="expectations.html">lab philosophy and expectations</a>, or even
 join our <a href="rehab.html">journal club</a>.</p>
-<br>
-<div class="col2">
-<p>
-<img src="images/cornkey3.png" width="1144" />
-</p>
-<p>
+<script type="text/javascript">
+  document.write(getImageTag());
+</script>
 <div id="contact-info" class="section level3">
 <h3>Contact Info</h3>
 Jeffrey Ross-Ibarra<br />

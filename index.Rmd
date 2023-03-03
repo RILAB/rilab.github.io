@@ -11,6 +11,20 @@
 
 </script>
 
+<script type="text/javascript">
+  var imageURLs = [
+       "images/lab2022.jpeg"
+     , "images/cornkey3.png"
+     , "images/heart.png"
+  ];
+  function getImageTag() {
+    var img = '<img src=\"';
+    var randomIndex = Math.floor(Math.random() * imageURLs.length);
+    img += imageURLs[randomIndex];
+    img += '\" alt=\"Some alt text\"/ width=400px>';
+    return img;
+  }
+</script>
 
 <style>
   .col2 {
@@ -31,17 +45,10 @@
 
 Welcome to the Ross-Ibarra Lab in the [Dept. of Evolution and Ecology](http://eve.ucdavis.edu) as well as the [Center for Population Biology](http://eve.ucdavis.edu) and the [Genome Center](http://eve.ucdavis.edu) at the [University of California Davis](http://www.ucdavis.edu). We work on the evolutionary genetics of maize and teosinte. Please explore to see [who we are](people.html) and [what we do](research.html), check out the [news](news.html) for updates and latest happenings, read our [lab philosophy and expectations](expectations.html), or even join our [journal club](rehab.html).  
 
-<br>
-<div class="col2">
-<p>
-```{r pressure, echo=FALSE}
-library(knitr)
-pics<-c("images/lab2022.jpeg","images/cornkey3.png","images/heart.png");
-pic<-sample(pics,1)
-include_graphics(pic)
-```
-</p>
-<p>  
+
+<script type="text/javascript">
+  document.write(getImageTag());
+</script>
 
 ### Contact Info  
 Jeffrey Ross-Ibarra  
