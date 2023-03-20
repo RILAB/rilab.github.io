@@ -50,15 +50,6 @@ Despite its global importance as a crop with broad economic, dietary, and cultur
 
 
 <details> 
-    <summary> A happy accident: a novel turfgrass reference genome.
- [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
-**Phillips AR**\*,   Seetharam AR\*,  AuBuchon-Elder T ...[6 authors]...  Kellogg E,  **Ross-Ibarra J**  
-
-</summary> 
-    <p style="margin-left: 30px">
-Poa pratensis, commonly known as Kentucky bluegrass, is a popular cool-season grass species used as turf in lawns and recreation areas globally. Despite its substantial economic value, a reference genome had not previously been assembled due to the genome's relatively large size and biological complexity that includes apomixis, polyploidy, and interspecific hybridization. We report here a fortuitous de novo assembly and annotation of a P. pratensis genome. The draft assembly consists of 6.09 Gbp with an N50 scaffold length of 65.1 Mbp, and a total of 118 scaffolds, generated using PacBio long reads and Bionano optical map technology. We annotated 256K gene models and found 58% of the genome to be composed of transposable elements. To demonstrate the applicability of the reference genome, we evaluated population structure and estimated genetic diversity in three North American wild P. pratensis populations. Our results support previous studies that found high genetic diversity and population structure within the species. The reference genome and annotation will be an important resource for turfgrass breeding and biologists interested in this complex species.  </p></details><br> 
-
-<details> 
     <summary> Not so local: the population genetics of convergent adaptation in maize and teosinte.
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1)]  
 **Tittes S**, **Lorant A**, **McGinty S**,  ...[4 authors]... Tenaillon MI, **Ross-Ibarra J**  
@@ -89,6 +80,18 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 </summary>
     <p style="margin-left: 30px">We present a high-resolution genome-wide association analysis to identify loci exhibiting adaptive patterns in a large panel of more than 4500 traditional maize landraces representing the breadth of genetic diversity of maize in Mexico. We evaluate associations between genotype and plant performance in 13 common gardens across a range of environments, identifying hundreds of candidate genes underlying genotype by environment interaction. We further identify genetic associations with environment across Mexico and show that such loci are associated with variation in yield and flowering time in our field trials and predict performance in independent drought trials. Our results indicate that the variation necessary to adapt crops to changing climate exists in traditional landraces that have been subject to ongoing environmental adaptation and can be identified by both phenotypic and environmental association.
 </p></details><br>
+
+### 2023
+
+<details> 
+    <summary> A happy accident: a novel turfgrass reference genome.
+ [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
+**Phillips AR**\*,   Seetharam AR\*,  AuBuchon-Elder T ...[6 authors]...  Kellogg E,  **Ross-Ibarra J**  
+
+</summary> 
+    <p style="margin-left: 30px">
+Poa pratensis, commonly known as Kentucky bluegrass, is a popular cool-season grass species used as turf in lawns and recreation areas globally. Despite its substantial economic value, a reference genome had not previously been assembled due to the genome's relatively large size and biological complexity that includes apomixis, polyploidy, and interspecific hybridization. We report here a fortuitous de novo assembly and annotation of a P. pratensis genome. The draft assembly consists of 6.09 Gbp with an N50 scaffold length of 65.1 Mbp, and a total of 118 scaffolds, generated using PacBio long reads and Bionano optical map technology. We annotated 256K gene models and found 58% of the genome to be composed of transposable elements. To demonstrate the applicability of the reference genome, we evaluated population structure and estimated genetic diversity in three North American wild P. pratensis populations. Our results support previous studies that found high genetic diversity and population structure within the species. The reference genome and annotation will be an important resource for turfgrass breeding and biologists interested in this complex species.  </p></details><br> 
+
 
 ### 2022
 
