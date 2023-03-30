@@ -37,6 +37,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2023
 ### April
+#### April 21
+[Muir et al. 2015](https://www.journals.uchicago.edu/doi/full/10.1086/679108) The Limited Contribution of Reciprocal Gene Loss to Increased Speciation Rates Following Whole-Genome Duplication.
+
 #### April 14  
 [Silva and Van de Peer preprint](https://www.biorxiv.org/content/biorxiv/early/2023/03/14/2023.03.13.532351.full.pdf)  Whole-genome duplications and the long-term evolution of gene regulatory networks in angiosperms
 
