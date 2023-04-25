@@ -32,74 +32,79 @@ title: "People"
 
 Please read more information on [joining the lab](prosp.html) and [lab expectations](expectations.html). <!-- break -->
 
-<p><br> <!-- break --></p>
+<div class="col2">
 
-::: col2
 ::: {style="float: left"}
-<img src="images/cameron.jpg" style="border:10px solid white" width="125px;"/></a>
+<img src="images/cameron.jpg" style="border:10px solid white" width="125"/>
 :::
 
 **Brenda Cameron**\
 (she/her/hers)
 
-Brenda is the lab manager and czar. In addition to working with us, she manages the [Bay](https://baylab.github.io), [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well, and is an [award-winning](https://safetyservices.ucdavis.edu/safety-star-program) lab safety expert. <!-- break --> <br><br> <!-- break -->
+Brenda is the lab manager and czar. In addition to working with us, she manages the [Bay](https://baylab.github.io), [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well, and is an [award-winning](https://safetyservices.ucdavis.edu/safety-star-program) lab safety expert.
 
 ::: {style="float: left"}
-<img src="images/cryan.jpeg" style="border:10px solid white" width="125px;"/></a>
+<img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
 :::
 
 **Elli Cryan** <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>\
 (she/her/hers)
 
-Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks and the evolution of cross-incompatibility loci. <!-- break --> <br> <!-- break -->
+Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks and the evolution of cross-incompatibility loci.
 
 ::: {style="float: left"}
-<img src="images/natasha.jpg" style="border:10px solid white" width="125px"/></a>
+<img src="images/natasha.jpg" style="border:10px solid white" width="125px"/>
 :::
 
-**Natasha Dhamrait** </a> <a href="https://twitter.com/frondsrfriends"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>\
+**Natasha Dhamrait** <a href="https://twitter.com/frondsrfriends"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>\
 (she/her/hers)
 
-Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including plant evolution, domestication, genome biology, and transposable elements.\
-<!-- break --> <br> <!-- break -->
+Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including plant evolution, domestication, genome biology, and transposable elements.
 
 ::: {style="float: left"}
-<img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"/></a>
+<img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"/>
 :::
 
 **Regina Fairbanks** <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>\
 (they/them/theirs)
 
-Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including archaeology, genomics, and plant domestication. <!-- break --> <br><br> <!-- break -->
+Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group, currently working on the population genetics and archaeology of the maize domestication locus *tga1*.
 
 ::: {style="float: left"}
-<img src="images/forrest.JPG" style="border:10px solid white" width="125px"/></a>
+![](images/Forrest_casual.jpg){style="border:10px solid white" width="125"}
 :::
 
 **Forrest Li** <a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him/his)
 
-Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.ucdavis.edu). <br><br>
+Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.ucdavis.edu).
+
+::: {style="float: left"}
+<img src="images/hana.jpg" style="border:10px solid white" width="125px"/>
+:::
+
+**Hana Lubin**\
+(they/them/theirs)
+
+Hana is a freshman interested in plant ecology and genetics. They are currently working with Regina Fairbanks to update our list of genes targeted by selection during maize domestication.
 
 ::: {style="float: left"}
 <img src="images/sowmya.jpg" style="border:10px solid white" width="125px"/>
-
-<p class="forceBreak">
 :::
 
-</p>
+**Sowmya Mambakkam** (she/her/hers)
 
-<!-- break -->
+Sowmya is a sophomore Genetics and Genomics major investigating the population genetics of inversions in *Zea* and convergent adaptation in perennials grasses.\
+<br>
 
 ::: {style="float: left"}
-<img src="images/odell.jpg" style="border:10px solid white" width="125px"/></a>
+<img src="images/odell.jpg" style="border:10px solid white" width="125px"/>
 :::
 
-**Sarah Odell** <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"/></a>\
-(she/her/hers)
+**Sarah Odell** <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"/></a> (she/her/hers)
 
-Sarah is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu), working on evolutionary and statistical genetics in maize.\
-<!-- break --> <br> <!-- break -->
+Sarah is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu) using evolutionary and statistical genetics to study phenotype and gene expression in a maize mapping population.\
+<br>
 
 ::: {style="float: left"}
 <img src="images/alyssa.jpg" style="border:10px solid white" width="125px"/></a>
@@ -108,8 +113,7 @@ Sarah is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised b
 **Alyssa Phillips** <a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"/></a>\
 (she/her/hers)
 
-Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).\
-<!-- break --> <br> <!-- break -->
+Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on the origins of polyploidy and environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).
 
 ::: {style="float: left"}
 <img src="images/garnet.jpg" style="border:10px solid white" width="125px"/></a>
@@ -120,10 +124,6 @@ Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on
 
 Garnet is a Genetics and Genomics major working to understand the evolution and genomic variability of cross-incompatibility loci in maize and teosinte.
 
-<!-- break -->
-
-<br><br> <!-- break -->
-
 ::: {style="float: left"}
 <img src="images/jri_camping.png" style="border:10px solid white" width="125px"/></a>
 :::
@@ -131,7 +131,7 @@ Garnet is a Genetics and Genomics major working to understand the evolution and 
 **Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"/> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a> (he/him/his)
 
 Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).\
-<!-- break --> <br><br> <!-- break -->
+<br>
 
 ::: {style="float: left"}
 <img src="images/itay-et-ayelet.png" style="border:10px solid white" width="125px"/></a>
@@ -140,11 +140,7 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 **Ayelet Salman-Minkov** <a href="https://scholar.google.com/citations?user=SWqRX4QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (she/her/hers)
 
-Ayelet is a project scientist, working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) on a collaboration with [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be best used to inform crop breeding.
-
-<!-- break -->
-
-<br> <!-- break -->
+Ayelet is a project scientist working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) and [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be used for crop breeding.
 
 ::: {style="float: left"}
 <img src="images/solares.jpg" style="border:10px solid white" width="125px"/></a>
@@ -153,12 +149,21 @@ Ayelet is a project scientist, working in collaboration with [Dan Runcie](https:
 **Edwin Solares** <a href="https://twitter.com/edwinsolares10?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/esolares"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0002-3220-4927"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him/his)
 
-Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index.html) interested in applying computational solution to problems in genetics and genomics.\
-<!-- break --> <br> <!-- break -->
+Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index.html) interested in applying computational solution to problems in genetics and genomics.  
+<br>
+ 
+::: {style="float: left"}
+<img src="images/bsolomon.png" style="border:10px solid white" width="125px"/>
 :::
+
+**Britney Solomon** <a href="https://www.linkedin.com/in/britney-solomon-246913251/"><img src="images/lin.png" style="width: 15px;"/></a>\
+(pronouns: any)
+
+Britney is a junior Plant Sciences major working with Alyssa Phillips to understand variation in leaf anatomy in big blue stem across populations and ploidy.
 
 ## Lab Alumni
 
+-   [Mitra Menon](https://scholar.google.com/citations?user=3Q2yL_MAAAAJ&hl=en) Postdoc 2020-2022 (Computational Biologist, Form Bio)
 -   [Julianna Porter](https://github.com/juliannaporter) Postbac, 2021-2022 (Junior Specialist, UC Davis)
 -   [Luke Sparreo](www.linkedin.com/in/luke-sparreo) Summer REU, 2022
 -   [Asher Hudson](https://aihudson.github.io) PhD student, 2017-2022 (Postdoc, USDA NC State)
@@ -216,12 +221,15 @@ Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index
 
 ### Current Collaborators
 
-**Genetic diversity in maize and teosinte** \* [Jianbing Yan](http://maizego.org) \* [Ning Yang](http://maizego.org)
+**Genetic diversity in maize and teosinte**  
+
+- [Jianbing Yan](http://maizego.org)  
+- [Ning Yang](http://maizego.org)  
 
 **Evolution of Incompatibility Loci in Maize and Teosinte**
 
--   [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)\
--   [Yaniv Brandvain](https://brandvainlab.wordpress.com)
+- [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)\
+- [Yaniv Brandvain](https://brandvainlab.wordpress.com)
 
 **Quantitative Genetics of Genotype x Environment Interaction**
 
