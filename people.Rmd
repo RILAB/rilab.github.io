@@ -95,16 +95,18 @@ Hana is a freshman interested in plant ecology and genetics. They are currently 
 **Sowmya Mambakkam** (she/her/hers)
 
 Sowmya is a sophomore Genetics and Genomics major investigating the population genetics of inversions in *Zea* and convergent adaptation in perennials grasses.\
-<br>
+<br><br><br><br><br>
+<br><br>
 
 ::: {style="float: left"}
 <img src="images/odell.jpg" style="border:10px solid white" width="125px"/>
 :::
 
-**Sarah Odell** <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"/></a> (she/her/hers)
+**Sarah Odell** <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"/></a>  
+(she/her/hers)
 
-Sarah is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu) using evolutionary and statistical genetics to study phenotype and gene expression in a maize mapping population.\
-<br>
+Sarah is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu) using evolutionary and statistical genetics to study phenotype and gene expression in a maize mapping population.
+
 
 ::: {style="float: left"}
 <img src="images/alyssa.jpg" style="border:10px solid white" width="125px"/></a>
@@ -149,9 +151,9 @@ Ayelet is a project scientist working in collaboration with [Dan Runcie](https:/
 **Edwin Solares** <a href="https://twitter.com/edwinsolares10?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/esolares"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0002-3220-4927"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him/his)
 
-Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index.html) interested in applying computational solution to problems in genetics and genomics.  
+Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index.html) interested in applying computational solution to problems in genetics and genomics.\
 <br>
- 
+
 ::: {style="float: left"}
 <img src="images/bsolomon.png" style="border:10px solid white" width="125px"/>
 :::
@@ -160,6 +162,15 @@ Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index
 (pronouns: any)
 
 Britney is a junior Plant Sciences major working with Alyssa Phillips to understand variation in leaf anatomy in big blue stem across populations and ploidy.
+
+::: {style="float: left"}
+<img src="images/varsha.jpg" style="border:10px solid white" width="125px"/>
+:::
+
+**Varsha Vijayakartik** <a href="https://www.linkedin.com/in/varsha-vijayakartik-2ab305260/"><img src="images/lin.png" style="width: 15px;"/></a>\
+(she/her/hers)
+
+Varsha is a freshman Biology major studying the population genetics of inversions in teosinte.
 
 ## Lab Alumni
 
@@ -221,15 +232,15 @@ Britney is a junior Plant Sciences major working with Alyssa Phillips to underst
 
 ### Current Collaborators
 
-**Genetic diversity in maize and teosinte**  
+**Genetic diversity in maize and teosinte**
 
-- [Jianbing Yan](http://maizego.org)  
-- [Ning Yang](http://maizego.org)  
+-   [Jianbing Yan](http://maizego.org)\
+-   [Ning Yang](http://maizego.org)
 
 **Evolution of Incompatibility Loci in Maize and Teosinte**
 
-- [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)\
-- [Yaniv Brandvain](https://brandvainlab.wordpress.com)
+-   [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)\
+-   [Yaniv Brandvain](https://brandvainlab.wordpress.com)
 
 **Quantitative Genetics of Genotype x Environment Interaction**
 
