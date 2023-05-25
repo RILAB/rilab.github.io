@@ -28,6 +28,8 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
+**Summer 2023: revisiting classical population genetics**
+This summer, the lab will be selecting papers that focus on major questions in population genetics. The goal of this theme is to learn or refresh our understanding of fundamental concepts and discuss outstanding questions in the field.
 
 <!-- Dominance effects and functional enrichments improve prediction of agronomic traits in hybrid maize -->
 
@@ -36,7 +38,24 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2023
+### June
+
+#### June 23
+[Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
+
+#### June 16
+[Nordborg 1998](https://www.cell.com/ajhg/pdf/S0002-9297(07)61819-9.pdf) On the Probability of Neanderthal Ancestry (Topic: applications of coalescence theory)
+
+#### June 9
+[Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory)
+
+#### June 2 
+[Sethupathy and Hanenhali 2008](https://www.hindawi.com/journals/abi/2008/257864/) A tutorial of the poisson random field model in population penetics (Topic: diffusion theory)
+
 ### May
+
+#### May 26
+[Torres et al. 2020](https://academic.oup.com/genetics/article/214/4/1019/5930513) The temporal dynamics of background selection in nonequilibrium populations (Topic: linked selection)
 
 #### May 5  
 [Kelly 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.308) The genomic scale of fluctuating selection in a natural plant population  
