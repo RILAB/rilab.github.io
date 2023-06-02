@@ -36,9 +36,18 @@ Click on a triangle for the article abstract.
 ### Preprints
 
 
+
 <details> 
-    <summary> Two teosintes made modern maize.
- [[preprint](https://www.biorxiv.org/content/10.1101/2023.01.31.526540v1
+    <summary> Diamonds in the Not-So-Rough: Wild Relative Diversity Hidden in Crop Genomes
+ [[preprint](https://osf.io/pk8uy/)]  
+Flint-Garcia S, Hannes Dempewolf H, Feldmann MJ, Morrell PL, **Ross-Ibarra J** 
+
+</summary> 
+    <p style="margin-left: 30px">
+Cultivated species have reduced genetic diversity relative to their closest wild relatives. Domestication also changes the type and effect of polymorphic variants in domesticates. Cultivated species selected for productivity under optimal growth environments have often lost genetic variants that contributed to adaptation to diverse and now rapidly changing environments. Selection for yield can also cause harmful variants segregating in wild relative populations to either be lost to purifying selection or fixed in domesticates. Preservation and effective utilization of the rich genetic resources that crop wild relatives offer while avoiding detrimental variants and maladaptive genetic contributions is a central challenge for ongoing crop improvement. Most crops show evidence of admixture and gene flow with their wild relatives during the course of evolution. We argue that allelic diversity from crop wild relatives likely already exists in cultivated populations conserved in germplasm repositories. These alleles have been tested by evolution in an agronomic background. Many are of sufficient age that the twofold sieve of recombination and selection have separated them from linked deleterious variants. Surveying  domesticated traditional varieties for functionally relevant variation from wild relatives may thus greatly facilitate the identification and incorporation of useful wild diversity into modern breeding programs. </p></details><br> 
+
+<details> 
+    <summary> Two teosintes made modern maize. [[preprint](https://www.biorxiv.org/content/10.1101/2023.01.31.526540v1
 )]  
 **Yang N**\*, Wang Y\*, Liu X\* ...[20 authors including **Mambakkam M** and **Menon M**]... Stitzer MC, Runcie DE, Yan J, **Ross- Ibarra J** 
 

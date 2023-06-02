@@ -95,8 +95,7 @@ Hana is a freshman interested in plant ecology and genetics. They are currently 
 **Sowmya Mambakkam** (she/her/hers)
 
 Sowmya is a sophomore Genetics and Genomics major investigating the population genetics of inversions in *Zea* and convergent adaptation in perennials grasses.\
-<br><br><br><br><br>
-<br><br><br>
+
 
 ::: {style="float: left"}
 <img src="images/odell.jpg" style="border:10px solid white" width="125px"/>
@@ -144,15 +143,6 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 
 Ayelet is a project scientist working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) and [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be used for crop breeding.
 
-::: {style="float: left"}
-<img src="images/solares.jpg" style="border:10px solid white" width="125px"/></a>
-:::
-
-**Edwin Solares** <a href="https://twitter.com/edwinsolares10?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/esolares"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0002-3220-4927"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
-(he/him/his)
-
-Edwin is a [UC President's Postdoctoral Fellow](https://ppfp.ucop.edu/info/index.html) interested in applying computational solution to problems in genetics and genomics.\
-<br>
 
 ::: {style="float: left"}
 <img src="images/bsolomon.png" style="border:10px solid white" width="125px"/>
@@ -174,6 +164,7 @@ Varsha is a freshman Biology major studying the population genetics of inversion
 
 ## Lab Alumni
 
+-   [Edwin Solares](https://www.linkedin.com/in/solarese) Postdoc 2021-2023 (Lecturer, UC Davis)
 -   [Mitra Menon](https://scholar.google.com/citations?user=3Q2yL_MAAAAJ&hl=en) Postdoc 2020-2022 (Computational Biologist, Form Bio)
 -   [Julianna Porter](https://github.com/juliannaporter) Postbac, 2021-2022 (Junior Specialist, UC Davis)
 -   [Luke Sparreo](www.linkedin.com/in/luke-sparreo) Summer REU, 2022
