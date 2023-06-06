@@ -47,7 +47,8 @@ This summer, the lab will be selecting papers that focus on major questions in p
 [Nordborg 1998](https://www.cell.com/ajhg/pdf/S0002-9297(07)61819-9.pdf) On the Probability of Neanderthal Ancestry (Topic: applications of coalescence theory)
 
 #### June 9
-[Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory)
+<!-- [Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory) -->
+[Mather 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6972798/) A practical introduction to sequentially Markovian coalescent methods for estimating demographic history from genomic data (Topic: applications of coalescence theory)
 
 #### June 2 
 [Sethupathy and Hanenhali 2008](https://www.hindawi.com/journals/abi/2008/257864/) A tutorial of the poisson random field model in population penetics (Topic: diffusion theory)
