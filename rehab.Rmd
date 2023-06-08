@@ -38,16 +38,25 @@ This summer, the lab will be selecting papers that focus on major questions in p
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2023
+### July
+
+#### July 7
+[Hohenlohe et al. 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016716/) Using population genomics to detect selection in natural populations: key concpets and methodological considerations (Topic: detecting selection)
+
 ### June
+
+#### June 30
+[Battey, Ralph, and Kern 2020](https://academic.oup.com/genetics/article/215/1/193/5930485) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data (Topic: assumptions of population structure)
 
 #### June 23
 [Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
 
 #### June 16
-[Nordborg 1998](https://www.cell.com/ajhg/pdf/S0002-9297(07)61819-9.pdf) On the Probability of Neanderthal Ancestry (Topic: applications of coalescence theory)
+[Hayward and Sella 2022](https://elifesciences.org/articles/66697) Polygenic adaptation after a sudden change in environment (Topic: polygenic adaptation)
 
 #### June 9
-[Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory)
+<!-- [Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory) -->
+[Mather 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6972798/) A practical introduction to sequentially Markovian coalescent methods for estimating demographic history from genomic data (Topic: applications of coalescence theory)
 
 #### June 2 
 [Sethupathy and Hanenhali 2008](https://www.hindawi.com/journals/abi/2008/257864/) A tutorial of the poisson random field model in population penetics (Topic: diffusion theory)
