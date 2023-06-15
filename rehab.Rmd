@@ -40,19 +40,22 @@ This summer, the lab will be selecting papers that focus on major questions in p
 ## 2023
 ### July
 
-#### July 7
+#### July 14
 [Hohenlohe et al. 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016716/) Using population genomics to detect selection in natural populations: key concpets and methodological considerations (Topic: detecting selection)
 
 ### June
 
-#### June 30
+#### Jul 7
 [Battey, Ralph, and Kern 2020](https://academic.oup.com/genetics/article/215/1/193/5930485) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data (Topic: assumptions of population structure)
 
-#### June 23
+#### June 30
 [Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
 
-#### June 16
+#### June 23
 [Hayward and Sella 2022](https://elifesciences.org/articles/66697) Polygenic adaptation after a sudden change in environment (Topic: polygenic adaptation)
+
+#### June 16
+No REHAB
 
 #### June 9
 <!-- [Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory) -->
