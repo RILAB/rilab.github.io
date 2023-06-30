@@ -93,7 +93,7 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 ### 2023
 
 <details> 
-    <summary> A happy accident: a novel turfgrass reference genome.
+    <summary> [A happy accident: a novel turfgrass reference genome](https://academic.oup.com/g3journal/article/13/6/jkad073/7099442)
  [[preprint](https://www.biorxiv.org/content/10.1101/2022.03.08.483531v1)]  
 **Phillips AR**\*,   Seetharam AR\*,  AuBuchon-Elder T ...[6 authors]...  Kellogg E,  **Ross-Ibarra J**  
 
@@ -106,7 +106,7 @@ Poa pratensis, commonly known as Kentucky bluegrass, is a popular cool-season gr
 
 
 <details> 
-    <summary> Allele-specific expression reveals multiple paths to highland adaptation in maize.
+    <summary> [Allele-specific expression reveals multiple paths to highland adaptation in maize](https://academic.oup.com/mbe/article/39/11/msac239/6795225)
  [[preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500250v1?rss=1)]  
 Hu H,  Crow T, Nojoomi S, ...[5 authors]... Estévez-Palmas JM, **Ross-Ibarra J**, Runcie DE.
 </summary> 
@@ -133,7 +133,7 @@ We demonstrate that this conflict results in the transient evolution of reinforc
 </p></details><br>
 
 <details>
-    <summary>Genome sequencing reveals evidence of adaptive variation in the genus *Zea*   [[preprint](https://www.biorxiv.org/content/10.1101/2022.06.03.494450v1)]  
+    <summary>[Genome sequencing reveals evidence of adaptive variation in the genus *Zea*](https://www.nature.com/articles/s41588-022-01184-y)   [[preprint](https://www.biorxiv.org/content/10.1101/2022.06.03.494450v1)]  
  Chen L, Luo J, Minliang Jin, **Yang N** ...[27 authors including **Phillips AR** and **Cameron B**]...  **Ross-Ibarra J**, Yan J.
 </summary>
     <p style="margin-left: 30px">

@@ -46,10 +46,10 @@ This summer, the lab will be selecting papers that focus on major questions in p
 ### June
 
 #### Jul 7
-[Battey, Ralph, and Kern 2020](https://academic.oup.com/genetics/article/215/1/193/5930485) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data (Topic: assumptions of population structure)
+[Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
 
 #### June 30
-[Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
+[Battey, Ralph, and Kern 2020](https://academic.oup.com/genetics/article/215/1/193/5930485) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data (Topic: assumptions of population structure)
 
 #### June 23
 [Hayward and Sella 2022](https://elifesciences.org/articles/66697) Polygenic adaptation after a sudden change in environment (Topic: polygenic adaptation)
