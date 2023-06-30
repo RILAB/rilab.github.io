@@ -43,10 +43,11 @@ This summer, the lab will be selecting papers that focus on major questions in p
 #### July 14
 [Hohenlohe et al. 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016716/) Using population genomics to detect selection in natural populations: key concpets and methodological considerations (Topic: detecting selection)
 
-### June
 
 #### Jul 7
 [Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
+
+### June
 
 #### June 30
 [Battey, Ralph, and Kern 2020](https://academic.oup.com/genetics/article/215/1/193/5930485) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data (Topic: assumptions of population structure)
