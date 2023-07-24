@@ -13,7 +13,7 @@ title: "R.E.H.A.B."
 ---
 
 Science and a beverage on a Friday afternoon  are a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.
-We meet Fridays at [3rd & U](https://localwiki.org/davis/3rd_%26_U_Cafe) 3:30pm (and on zoom -- email for the link!).
+We meet Fridays in the library at  [Bull 'N Mouth](https://goo.gl/maps/TFjRFnwjM8oahnWv6) at 4pm.
 
 From time to time we also blog our thoughts on the papers we read. One or more of the people present volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publication) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
 
@@ -28,8 +28,7 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
-**Summer 2023: revisiting classical population genetics**
-This summer, the lab will be selecting papers that focus on major questions in population genetics. The goal of this theme is to learn or refresh our understanding of fundamental concepts and discuss outstanding questions in the field.
+
 
 <!-- Dominance effects and functional enrichments improve prediction of agronomic traits in hybrid maize -->
 
@@ -38,7 +37,16 @@ This summer, the lab will be selecting papers that focus on major questions in p
 <!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
 
 ## 2023
+### August
+
+#### Aug 4
+[Berube et al preprint](https://www.biorxiv.org/content/10.1101/2023.07.12.548689v1) Teosinte Pollen Drive guides maize domestication and evolution by RNAi
+
 ### July
+
+#### July 28  
+[Benegas et al preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v2) DNA language models are powerful zero-shot predictors of genome-wide variant effects
+
 
 #### July 21
 [Hohenlohe et al. 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016716/) Using population genomics to detect selection in natural populations: key concpets and methodological considerations (Topic: detecting selection)
