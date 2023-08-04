@@ -36,6 +36,16 @@ Click on a triangle for the article abstract.
 ### Preprints
 
 <details> 
+    <summary> Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
+ [[preprint]()]  
+Engelhorn J, Snodgrass SJ, Kok A, Seetharam AS, ...[15 authors]... Frommer WB, **Ross-Ibarra J**, Hartwig T
+
+</summary> 
+    <p style="margin-left: 30px">
+Comprehensive maps of functional variation at transcription factor (TF) binding sites (cis-elements) are crucial for elucidating how genotype shapes phenotype. Here we report the construction of a pan-cistrome of the maize leaf under well-watered and drought conditions. We quantified haplotype-specific TF footprints across a pan-genome of 25 maize hybrids and mapped nearly two-hundred thousand genetic variants (termed binding-QTLs) linked to cis-element occupancy. The functional significance of binding-QTLs is supported by three lines of evidence: i) they coincide with known causative loci that regulate traits, including novel alleles of Upright Plant Architecture2, Trehalase1, and the MITE transposon site of ZmNAC111 under drought; ii) their allelic bias is mirrored between inbred parents and by ChIP-seq; iii) partitioning genetic variation across genomic regions demonstrates that binding-QTLs capture the majority of heritable trait variation across ~70% of 143 phenotypes. Our study provides a promising approach to make previously hidden cis-variation more accessible for genetic studies and multi-target engineering of complex traits.
+</p></details><br> 
+
+<details> 
     <summary> Teosinte Pollen Drive guides maize domestication and evolution by RNAi [[preprint](https://www.biorxiv.org/content/10.1101/2023.07.12.548689v1)]  
 Berube B, Ernst E, Cahn J, ...[3 authors]... Scheben A, Siepel A, **Ross-Ibarra J**, Kermicle J, Martienssen RA.
 
@@ -46,11 +56,6 @@ Meiotic drivers subvert Mendelian expectations by manipulating reproductive deve
  </p></details><br> 
 
 
-
-
-
-
-
 <details> 
     <summary> Two teosintes made modern maize. [[preprint](https://www.biorxiv.org/content/10.1101/2023.01.31.526540v1
 )]  
@@ -59,9 +64,6 @@ Meiotic drivers subvert Mendelian expectations by manipulating reproductive deve
 </summary> 
     <p style="margin-left: 30px">
 Despite its global importance as a crop with broad economic, dietary, and cultural importance, the origins of maize and its closest wild relatives remained the topic of vigorous debate for nearly a century. Molecular analyses ultimately concluded that maize was domesticated once from a common ancestor with its closest extant relative, the lowland wild grass Zea mays ssp. parviglumis. But neither the current genetic model nor earlier models based on archaeological data account for the totality of available data, and recent work has highlighted the potential contribution of a second wild relative, the highland Zea mays ssp. mexicana. Here we present a detailed population genetic analysis of the contributions of both wild taxa to modern maize diversity using the largest sample of traditional maize varieties sequenced to date. We show that all modern maize can trace its origin to an ancient admixture event between domesticated ancient maize and Zea mays ssp. mexicana in the highlands of Mexico ca 5300 cal BP, some 4,000 years after domestication began. We show that variation in admixture is a key component of modern maize genetic and phenotypic diversity, both at the level of individual loci and as a factor driving a substantial component of additive genetic variation across a number of agronomic traits. Our results clarify the long-debated origin of modern maize, highlight the potential contributions of crop wild relatives to agronomic improvement, and raise new questions about the anthropogenic mechanisms underlying multiple waves of dispersal throughout the Americas. </p></details><br> 
-
-
-
 
 <details> 
     <summary> Not so local: the population genetics of convergent adaptation in maize and teosinte.
@@ -99,7 +101,7 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 
 
 <details> 
-    <summary> Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding  
+    <summary> [Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad170/7231441?utm_source=authortollfreelink&utm_campaign=mbe&utm_medium=email&guestAccessKey=4c4e0dab-22b0-4c6d-be4f-009119c216fd)  
  Sun S,  Wang B, Li C,  Xu G,  Yang J, Hufford MBH, **Ross-Ibarra J**, Wang H, Wang L
 </summary> 
     <p style="margin-left: 30px">
