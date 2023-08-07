@@ -38,6 +38,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2023
 ### August
+#### Aug 11  
+[Mueller et al. 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284136) The taming of the weed: Developmental plasticity facilitated plant domestication  
 
 #### Aug 4
 [Berube et al preprint](https://www.biorxiv.org/content/10.1101/2023.07.12.548689v1) Teosinte Pollen Drive guides maize domestication and evolution by RNAi
