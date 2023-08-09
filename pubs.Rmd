@@ -37,7 +37,7 @@ Click on a triangle for the article abstract.
 
 <details> 
     <summary> Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
- [[preprint]()]  
+ [[preprint](https://biorxiv.org/cgi/content/short/2023.08.08.551183v1)]  
 Engelhorn J, Snodgrass SJ, Kok A, Seetharam AS, ...[15 authors]... Frommer WB, **Ross-Ibarra J**, Hartwig T
 
 </summary> 
