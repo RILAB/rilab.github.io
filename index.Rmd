@@ -13,7 +13,7 @@
 
 <script type="text/javascript">
   var imageURLs = [
-       "images/lab2022.jpeg"
+       "images/lab2023.jpg"
      , "images/cornkey3.png"
      , "images/heart.png"
   ];
