@@ -39,11 +39,14 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2023
 ### September
 
+#### Sep 29
+[Bontrager et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.01.364349v1.full) Climate warming weakens local adaptation
+
 #### Sep 22
-[Pope et al. 2023](https://www.pnas.org/doi/abs/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
+TBD
 
 #### Sep 15
-[Bontrager et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.01.364349v1.full) Climate warming weakens local adaptation
+[Pope et al. 2023](https://www.pnas.org/doi/abs/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
 
 #### Sep 8
 No REHAB - lab trip!
