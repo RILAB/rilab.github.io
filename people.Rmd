@@ -95,11 +95,12 @@ Hana is a freshman interested in plant ecology and genetics. They are currently 
 **Sowmya Mambakkam** (she/her/hers)
 
 Sowmya is a sophomore Genetics and Genomics major investigating the population genetics of inversions in *Zea* and convergent adaptation in perennials grasses.\
-
+<br><br><br>
 
 ::: {style="float: left"}
 <img src="images/odell.jpg" style="border:10px solid white" width="125px"/>
 :::
+
 
 **Sarah Odell** <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"/></a>  
 (she/her/hers)
@@ -144,23 +145,6 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 Ayelet is a project scientist working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) and [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be used for crop breeding.
 
 
-::: {style="float: left"}
-<img src="images/bsolomon.png" style="border:10px solid white" width="125px"/>
-:::
-
-**Britney Solomon** <a href="https://www.linkedin.com/in/britney-solomon-246913251/"><img src="images/lin.png" style="width: 15px;"/></a>\
-(pronouns: any)
-
-Britney is a junior Plant Sciences major working with Alyssa Phillips to understand variation in leaf anatomy in big blue stem across populations and ploidy.
-
-::: {style="float: left"}
-<img src="images/varsha.jpg" style="border:10px solid white" width="125px"/>
-:::
-
-**Varsha Vijayakartik** <a href="https://www.linkedin.com/in/varsha-vijayakartik-2ab305260/"><img src="images/lin.png" style="width: 15px;"/></a>\
-(she/her/hers)
-
-Varsha is a freshman Biology major studying the population genetics of inversions in teosinte.
 
 ## Lab Alumni
 
