@@ -100,6 +100,16 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 ### 2023
 
 
+
+<details> 
+    <summary> [Genetic modification can improve crop yields — but stop overselling it](https://www.nature.com/articles/d41586-023-02895-w)  
+Khaipho-Burch M, Cooper M, Crossa J, de Leon N ...[5 authors]...  Ronald P, **Ross-Ibarra J**, Weigel D, Buckler ES
+</summary> 
+    <p style="margin-left: 30px">
+With a changing climate and a growing population, the world increasingly needs more-productive and resilient crops. But improving them requires a knowledge of what actually works in the field.
+ </p></details><br> 
+
+
 <details> 
     <summary> [Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad170/7231441?utm_source=authortollfreelink&utm_campaign=mbe&utm_medium=email&guestAccessKey=4c4e0dab-22b0-4c6d-be4f-009119c216fd)  
  Sun S,  Wang B, Li C,  Xu G,  Yang J, Hufford MBH, **Ross-Ibarra J**, Wang H, Wang L
