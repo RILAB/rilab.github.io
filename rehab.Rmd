@@ -29,21 +29,35 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 
-
-<!-- Dominance effects and functional enrichments improve prediction of agronomic traits in hybrid maize -->
-
-<!-- https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008384 CLUES-->
-
-<!-- https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0678 -->
-
 ## 2023
+
+### November
+
+#### Nov 3
+[Diop et al 2023](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10428) Ethnolinguistic and genetic diversity of fonio (Digitaria exilis) in Senegal
+
+### October
+
+#### Oct 27
+[Igolkina et al 2023](https://academic.oup.com/mbe/article/40/6/msad110/7158554) Historical Routes for Diversification of Domesticated Chickpea Inferred from Landrace Genomics
+
+#### Oct 20
+[Lang et al 2022](https://www.biorxiv.org/content/10.1101/2022.10.23.513440v1) Century-long timelines of herbarium genomes predict plant stomatal response to climate change
+
+
+#### Oct 13
+[Castillo et al 2023](https://www.biorxiv.org/content/10.1101/2023.09.27.559715v1.abstract) Predicting rapid adaptation in time from adaptation in space: a 30-year field experiment in marine snails
+
+#### Oct 6
+[Gordon et al. 2023](https://www.nature.com/articles/s41467-020-17302-5) Gradual polyploid genome evolution revealed by pan-genomic analysis of Brachypodium hybridum and its diploid progenitors
+
 ### September
 
 #### Sep 29
 [Bontrager et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.01.364349v1.full) Climate warming weakens local adaptation
 
 #### Sep 22
-TBD
+No REHAB -- lab event
 
 #### Sep 15
 [Pope et al. 2023](https://www.pnas.org/doi/abs/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
