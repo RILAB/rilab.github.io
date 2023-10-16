@@ -31,9 +31,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2023
 
+### December
+
+#### Dec 8
+[Zhang et al 2023](https://www.pnas.org/doi/full/10.1073/pnas.2305208120) The lack of negative association between TE load and subgenome dominance in synthesized Brassica allotetraploids
+
+#### Dec 1
+[Rivera-Rodríguez et al 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291944) Genomic diversity and population structure of teosinte (Zea spp.) and its conservation implications
+
 ### November
 
 #### Nov 24
+Gobble gobble gobble gobble gobble gobble
 
 #### Nov 17
 [Nigenda-Morales et al 2023](https://www.nature.com/articles/s41467-023-40052-z) The genomic footprint of whaling and isolation in fin whale populations
