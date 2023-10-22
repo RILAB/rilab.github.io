@@ -30,6 +30,43 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 
 ## 2023
+
+### December
+
+#### Dec 8
+[Zhang et al 2023](https://www.pnas.org/doi/full/10.1073/pnas.2305208120) The lack of negative association between TE load and subgenome dominance in synthesized Brassica allotetraploids
+
+#### Dec 1
+[Rivera-Rodríguez et al 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291944) Genomic diversity and population structure of teosinte (Zea spp.) and its conservation implications
+
+### November
+
+#### Nov 24
+Gobble gobble gobble gobble gobble gobble
+
+#### Nov 17
+[Nigenda-Morales et al 2023](https://www.nature.com/articles/s41467-023-40052-z) The genomic footprint of whaling and isolation in fin whale populations
+
+#### Nov 10
+[Diop et al 2023](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10428) Ethnolinguistic and genetic diversity of fonio (Digitaria exilis) in Senegal
+
+#### Nov 3
+[Igolkina et al 2023](https://academic.oup.com/mbe/article/40/6/msad110/7158554) Historical Routes for Diversification of Domesticated Chickpea Inferred from Landrace Genomics
+
+### October
+
+#### Oct 27
+[Lang et al 2022](https://www.biorxiv.org/content/10.1101/2022.10.23.513440v1) Century-long timelines of herbarium genomes predict plant stomatal response to climate change
+
+#### Oct 20
+[Castillo et al 2023](https://www.biorxiv.org/content/10.1101/2023.09.27.559715v1.abstract) Predicting rapid adaptation in time from adaptation in space: a 30-year field experiment in marine snails
+
+#### Oct 13
+No REHAB
+
+#### Oct 6
+[Gordon et al. 2023](https://www.nature.com/articles/s41467-020-17302-5) Gradual polyploid genome evolution revealed by pan-genomic analysis of Brachypodium hybridum and its diploid progenitors
+
 ### September
 
 #### Sep 29
