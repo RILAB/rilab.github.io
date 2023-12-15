@@ -57,24 +57,6 @@ Meiotic drivers subvert Mendelian expectations by manipulating reproductive deve
 
 
 <details> 
-    <summary> Two teosintes made modern maize. [[preprint](https://www.biorxiv.org/content/10.1101/2023.01.31.526540v1
-)]  
-**Yang N**\*, Wang Y\*, Liu X\* ...[20 authors including **Mambakkam M** and **Menon M**]... Stitzer MC, Runcie DE, Yan J, **Ross- Ibarra J** 
-
-</summary> 
-    <p style="margin-left: 30px">
-Despite its global importance as a crop with broad economic, dietary, and cultural importance, the origins of maize and its closest wild relatives remained the topic of vigorous debate for nearly a century. Molecular analyses ultimately concluded that maize was domesticated once from a common ancestor with its closest extant relative, the lowland wild grass Zea mays ssp. parviglumis. But neither the current genetic model nor earlier models based on archaeological data account for the totality of available data, and recent work has highlighted the potential contribution of a second wild relative, the highland Zea mays ssp. mexicana. Here we present a detailed population genetic analysis of the contributions of both wild taxa to modern maize diversity using the largest sample of traditional maize varieties sequenced to date. We show that all modern maize can trace its origin to an ancient admixture event between domesticated ancient maize and Zea mays ssp. mexicana in the highlands of Mexico ca 5300 cal BP, some 4,000 years after domestication began. We show that variation in admixture is a key component of modern maize genetic and phenotypic diversity, both at the level of individual loci and as a factor driving a substantial component of additive genetic variation across a number of agronomic traits. Our results clarify the long-debated origin of modern maize, highlight the potential contributions of crop wild relatives to agronomic improvement, and raise new questions about the anthropogenic mechanisms underlying multiple waves of dispersal throughout the Americas. </p></details><br> 
-
-<details> 
-    <summary> Not so local: the population genetics of convergent adaptation in maize and teosinte.
- [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1)]  
-**Tittes S**, **Lorant A**, **McGinty S**,  ...[4 authors]... Tenaillon MI, **Ross-Ibarra J**  
-
-</summary> 
-    <p style="margin-left: 30px">
-What is the genetic architecture of local adaptation and what is the geographic scale that it operates over? We investigated patterns of local and convergent adaptation in five sympatric population pairs of traditionally cultivated maize and its wild relative teosinte (Zea mays subsp. parviglumis). We found that signatures of local adaptation based on the inference of adaptive fixations and selective sweeps are frequently exclusive to individual populations, more so in teosinte compared to maize. However, for both maize and teosinte, selective sweeps are frequently shared by several populations, and often between the subspecies. We were further able to infer that selective sweeps were shared among populations most often via migration, though sharing via standing variation was also common. Our analyses suggest that teosinte has been a continued source of beneficial alleles for maize, post domestication, and that maize populations have facilitated adaptation in teosinte by moving beneficial alleles across the landscape. Taken together, out results suggest local adaptation in maize and teosinte has an intermediate geographic scale, one that is larger than individual populations, but smaller than the species range.  </p></details><br>  
-
-<details> 
     <summary> Strengthened mutualistic adaptation between teosinte and its rhizosphere biota in cold climates
   [[preprint](https://www.biorxiv.org/content/10.1101/2021.04.20.440703v1)]  
  **O'Brien AM**, Sawers RJH, Gasca-Pineda J, Baxter, I, Eguiarte LE,   **Ross-Ibarra J**, Strauss SY 
@@ -99,6 +81,25 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 
 ### 2023
 
+
+<details> 
+    <summary> [Two teosintes made modern maize](https://www.science.org/doi/10.1126/science.adg8940). [[preprint](https://www.biorxiv.org/content/10.1101/2023.01.31.526540v1
+)]  
+**Yang N**\*, Wang Y\*, Liu X\* ...[20 authors including **Mambakkam M** and **Menon M**]... Stitzer MC, Runcie DE, Yan J, **Ross- Ibarra J** 
+
+</summary> 
+    <p style="margin-left: 30px">
+Despite its global importance as a crop with broad economic, dietary, and cultural importance, the origins of maize and its closest wild relatives remained the topic of vigorous debate for nearly a century. Molecular analyses ultimately concluded that maize was domesticated once from a common ancestor with its closest extant relative, the lowland wild grass Zea mays ssp. parviglumis. But neither the current genetic model nor earlier models based on archaeological data account for the totality of available data, and recent work has highlighted the potential contribution of a second wild relative, the highland Zea mays ssp. mexicana. Here we present a detailed population genetic analysis of the contributions of both wild taxa to modern maize diversity using the largest sample of traditional maize varieties sequenced to date. We show that all modern maize can trace its origin to an ancient admixture event between domesticated ancient maize and Zea mays ssp. mexicana in the highlands of Mexico ca 5300 cal BP, some 4,000 years after domestication began. We show that variation in admixture is a key component of modern maize genetic and phenotypic diversity, both at the level of individual loci and as a factor driving a substantial component of additive genetic variation across a number of agronomic traits. Our results clarify the long-debated origin of modern maize, highlight the potential contributions of crop wild relatives to agronomic improvement, and raise new questions about the anthropogenic mechanisms underlying multiple waves of dispersal throughout the Americas. </p></details><br> 
+
+
+<details> 
+    <summary> [Not so local: the population genetics of convergent adaptation in maize and teosinte.](https://elifesciences.org/reviewed-preprints/92405)
+ [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1)]  
+**Tittes S**, **Lorant A**, **McGinty S**,  ...[4 authors]... Tenaillon MI, **Ross-Ibarra J**  
+
+</summary> 
+    <p style="margin-left: 30px">
+What is the genetic architecture of local adaptation and what is the geographic scale that it operates over? We investigated patterns of local and convergent adaptation in five sympatric population pairs of traditionally cultivated maize and its wild relative teosinte (Zea mays subsp. parviglumis). We found that signatures of local adaptation based on the inference of adaptive fixations and selective sweeps are frequently exclusive to individual populations, more so in teosinte compared to maize. However, for both maize and teosinte, selective sweeps are frequently shared by several populations, and often between the subspecies. We were further able to infer that selective sweeps were shared among populations most often via migration, though sharing via standing variation was also common. Our analyses suggest that teosinte has been a continued source of beneficial alleles for maize, post domestication, and that maize populations have facilitated adaptation in teosinte by moving beneficial alleles across the landscape. Taken together, out results suggest local adaptation in maize and teosinte has an intermediate geographic scale, one that is larger than individual populations, but smaller than the species range.  </p></details><br>  
 
 
 <details> 
