@@ -30,12 +30,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2024
 
+#### Jan 19
+[Delmore et al 2023](https://academic.oup.com/evlett/article/7/6/401/7298704) Structural genomic variation and migratory behavior in a wild songbird
+
 #### Jan 12
 [Gautier et al 2023](https://www.biorxiv.org/content/10.1101/2023.11.24.568563v1.full) Genomic reconstruction of the successful establishment of a feralized bovine population on the subantarctic island of Amsterdam
 
 
 #### Jan 5
-[Delmore et al 2023](https://academic.oup.com/evlett/article/7/6/401/7298704) Structural genomic variation and migratory behavior in a wild songbird
+no REHAB
 
 
 ## 2023
