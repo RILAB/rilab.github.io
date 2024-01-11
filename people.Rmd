@@ -111,17 +111,6 @@ Hana is a sophomore interested in plant ecology and genetics. They are currently
 Sowmya is a sophomore Genetics and Genomics major investigating the population genetics of inversions in *Zea* and convergent adaptation in perennials grasses.  
 
 ::: {style="float: left"}
-<img src="images/odell.jpg" style="border:10px solid white" width="125px"/>
-:::
-
-
-**Sarah Odell** <a href="https://twitter.com/sg_odell"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0002-0316-7506"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao"><img src="images/scholar.png" style="width: 30px;"/></a>  
-(she/her)
-
-Sarah is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Runcie](http://runcielab.ucdavis.edu) using evolutionary and statistical genetics to study phenotype and gene expression in a maize mapping population.
-
-
-::: {style="float: left"}
 <img src="images/alyssa.jpg" style="border:10px solid white" width="125px"/></a>
 :::
 
@@ -161,6 +150,7 @@ Ayelet is a project scientist working in collaboration with [Dan Runcie](https:/
 
 ## Lab Alumni
 
+- [Sarah Odell](https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao) PhD student 2016-2023
 -   [Edwin Solares](https://www.linkedin.com/in/solarese) Postdoc 2021-2023 (Lecturer, UC Davis)
 - [Miriam Nancy Salazar Vidal](https://scholar.google.com/citations?user=Ewa91LUAAAAJ&hl=en&oi=ao) Postdoc 2016-2022 (Postdoc, U Missourri)
 -   [Mitra Menon](https://scholar.google.com/citations?user=3Q2yL_MAAAAJ&hl=en) Postdoc 2020-2022 (Computational Biologist, Form Bio)
