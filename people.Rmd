@@ -161,7 +161,7 @@ Ayelet is a project scientist working in collaboration with [Dan Runcie](https:/
 <br> 
 
 ::: {style="float: left"}
-<img src="images/sam.jpg" style="border:10px solid white" width="125px"/></a>
+<img src="images/sam.jpeg" style="border:10px solid white" width="125px"/></a>
 :::
 
 **Samantha Snodgrass**  <a href="https://twitter.com/snodgrasshopper"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0001-9209-6051"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="http://scholar.google.com/citations?user=yhHsL9gAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a> 
