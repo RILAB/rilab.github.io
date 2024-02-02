@@ -86,10 +86,21 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 **Forrest Li** <a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him)
 
-Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.ucdavis.edu).
+Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
 
 <div class="w-400"></div>
 <br><br><br><br><br><br>
+
+::: {style="float: left"}
+<img src="images/beibei.jpg" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Beibei Liu**  <a href="https://twitter.com/beibeiliu13"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="http://scholar.google.com/citations?user=yhHsL9gAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a> 
+(she/her)
+
+Beibei is a postdoc working on the evolution of transposable elements in maize and teosinte During her PhD she worked on epigenetics in maize.
+
+<br>  
 
 ::: {style="float: left"}
 <img src="images/hana.jpg" style="border:10px solid white" width="125px"/>
@@ -147,6 +158,18 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 
 Ayelet is a project scientist working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) and [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be used for crop breeding.
 
+<br> 
+
+::: {style="float: left"}
+<img src="images/sam.jpg" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Samantha Snodgrass**  <a href="https://twitter.com/snodgrasshopper"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0001-9209-6051"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="http://scholar.google.com/citations?user=yhHsL9gAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a> 
+(she/her)
+
+Sam is an NSF Plant Genome postdoc working on the coevolution of humans and their domesticated plants. She is coadvised by [Graham Coop](http://gcbias.org).
+
+<br> 
 
 ## Lab Alumni
 
@@ -164,7 +187,7 @@ Ayelet is a project scientist working in collaboration with [Dan Runcie](https:/
 -   [Daniel Gates](https://danjgates.wordpress.com): Postdoc 2016-2020 (Bioinformatician, Checkerspot)
 -   [Taylor Perkins](https://orcid.org/0000-0002-1076-0527): Lab Manager 2019-2020
 -   [Sarah Turner-Hissong](https://mishaploid.github.io): Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)
--   [Michelle Stitzter](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
+-   [Michelle Stitzer](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
 -   [Dianne Velasco](https://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl=en) PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm Repository)
 -   [Li Wang](https://scholar.google.com/citations?user=yGEvdz0AAAAJ&hl=en): Postdoc 2018-2019 (Research Scientist, Agricultural Genomics Institute Shenzhen)
 -   [Markus Stetter](https://www.cropevolution.org): Postdoc 2017-2019 (Asst. Group Leader, U. Köln)
