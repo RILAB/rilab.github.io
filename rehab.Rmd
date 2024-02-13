@@ -29,6 +29,23 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2024
+### February
+#### Feb 16
+
+
+#### Feb 23 
+[Pironon, Ondo, et. al.](https://www.science.org/doi/10.1126/science.adg8028) The global distribution of plants used by humans
+
+### Feb 16 [Pope et al . 2023](https://www.pnas.org/doi/full/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
+
+#### Feb 9 No R.E.H.A.B.
+
+#### Feb 2
+[Löytynoja 2022](http://m.genome.cshlp.org/content/32/8/1437.full.pdf) Thousands of human mutation clusters are explained by short-range template switching
+
+
+#### Jan 26
+[Lind et al preprint](https://www.biorxiv.org/content/10.1101/2023.02.10.528022v2) How useful is genomic data for predicting maladaptation to future climate?
 
 #### Jan 19
 [Delmore et al 2023](https://academic.oup.com/evlett/article/7/6/401/7298704) Structural genomic variation and migratory behavior in a wild songbird
