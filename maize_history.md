@@ -1,19 +1,4 @@
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-5300959-3', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-
-
-## A Brief History of Maize  
-
-<img align="right" width="372" height="523" src=images/image1.png>
+**A Brief History of Maize**
 
 Maize (Zea mays ssp. mays), known in the United States as corn, is a
 grass, along with other important crops such as rice, wheat, and barley.
@@ -45,9 +30,8 @@ maize farming practices continue over tens of millions of hectares of
 farmland, playing an important role in local economies and food supplies
 but also contributing to the continued evolution of maize.
 
-## The Cultural and Culinary Importance of Maize  
+**The Cultural and Culinary Importance of Maize**
 
-<img align="left" width="167" height="523" src=images/image3.png>
 Maize holds incredible cultural importance to many peoples. Here we
 focus on a few examples. For many cultures in the Americas, maize
 fulfills not just nutritional requirements, but also important
@@ -84,11 +68,9 @@ cooking volume over yield. Today, contemporary farmers of traditional
 maize varieties – the most marginalized participants in the broader
 maize economy – nonetheless remain crucial to the selection and
 maintenance of culturally and environmentally relevant maize diversity.
-<br><br><br><br><br>
 
-## Collection and Use of Maize Germplasm  
+**Collection and Use of Maize Germplasm**
 
-<img align="right" width="349" height="363" src=images/image2.png>
 Continued maize breeding and research heavily utilize germplasm
 collections of maize. Much of this material was collected during the
 20th century as part of private and government initiatives, many
@@ -129,9 +111,9 @@ integral role of rematriation in building a more integrative,
 collaborative, and respectful partnership with the communities who
 maintain agricultural biodiversity.
 
-## Bibliography  
+**Bibliography**
 
-### Websites  
+***Websites***
 
 [*A Homecoming for Indigenous
 Seeds*](https://mbgna.umich.edu/sowing-heritage-with-indigenous-seeds-plants-progeny-return-to-their-ancestral-home/)
@@ -180,7 +162,7 @@ Agriculture*](https://www.nal.usda.gov/collections/stories/three-sisters#:~:text
 
 [*Seed Rematriation*](https://sierraseeds.org/seed-rematriation/)
 
-### Academic articles and books  
+***Academic articles and books***
 
 Anderson, E., & Cutler, H. C. (1942). Races of Zea mays: I. Their
 recognition and classification. *Annals of the Missouri Botanical
