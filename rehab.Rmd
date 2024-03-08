@@ -31,6 +31,9 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2024
 ### March
 
+#### March 15
+[de la Fuente Castro et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1)The genomic and cultural diversity of the Inka Qhapaq hucha ceremony in Chile and Argentina
+
 #### March 8
 [Long et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1)Muller’s Ratchet in Action: The Erosion of Sexual Reproduction Genes in Domesticated Cassava (Manihot esculenta)
 
