@@ -181,13 +181,13 @@ Sam is an NSF Plant Genome postdoc working on the coevolution of humans and thei
 <br>
 
 ::: {style="float: left"}
-<img src="images/cornkey.png" style="border:10px solid white" width="125px"/></a>
+<img src="images/stark.jpg" style="border:10px solid white" width="125px"/></a>
 :::
 
-**Cristian Stark **  \
+**Cristian Stark **  <a href="https://www.linkedin.com/in/cristian-stark/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://github.com/cstark14"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a>
 (he/him)
 
-Cristian is a student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) studying inbreeding depression and genetic load in a maize-teosinte synthetic population. He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
+Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on genomic selection, pangenomes, and inbreeding depression in *Zea*. He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
 
 <br>  
 
