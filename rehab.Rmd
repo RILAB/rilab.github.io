@@ -29,15 +29,22 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2024
-### March
-#### March 29  
+### April
+#### Arpil 12  
 [Spiedel et al preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585102v1.full.pdf+html) High-resolution genomic ancestry reveals mobility in early medieval Europe
+
+#### April 5
+[de la Fuente Castro et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1) The genomic and cultural diversity of the Inka Qhapaq hucha ceremony in Chile and Argentina
+
+### March
+#### March 29
+No R.E.H.A.B.
 
 #### March 22  
 [Lanaud et al 2024](https://www.nature.com/articles/s41598-024-53010-6) A revisited history of cacao domestication in pre-Columbian times revealed by archaeogenomic approaches
 
 #### March 15  
-[de la Fuente Castro et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1) The genomic and cultural diversity of the Inka Qhapaq hucha ceremony in Chile and Argentina
+No R.E.H.A.B.
 
 #### March 8  
 [Long et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1)Muller’s Ratchet in Action: The Erosion of Sexual Reproduction Genes in Domesticated Cassava (Manihot esculenta)

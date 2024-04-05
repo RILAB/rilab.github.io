@@ -102,6 +102,7 @@ Beibei is a postdoc working on the evolution of transposable elements in maize a
 ::: {style="float: left"}
 <img src="images/hana.jpg" style="border:10px solid white" width="125px"/>
 :::
+<br>
 
 **Hana Lubin**   
 (they/them)  
