@@ -30,6 +30,16 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2024
+### May
+#### May 17
+[Jian et al. 2023](https://academic.oup.com/plcell/article-abstract/36/4/840/7456361?redirectedFrom=fulltext)  Forces driving transposable element load variation during Arabidopsis range expansion Get access  
+
+#### May 10 
+[Marsh and Johri preprint](https://www.biorxiv.org/content/10.1101/2024.04.22.590609v1.full)  Biases in ARG-based inference of historical population size in populations experiencing selection  
+
+#### May 3
+[Nocchi et al preprint](https://www.biorxiv.org/content/10.1101/2024.04.02.587814v1) Repeated global adaptation across plant species  
+
 ### April
 #### April 18
 [Spiedel et al preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585102v1.full.pdf+html) High-resolution genomic ancestry reveals mobility in early medieval Europe
