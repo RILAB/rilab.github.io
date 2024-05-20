@@ -31,6 +31,12 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2024
 ### May
+#### May 31
+[Usui & Angert 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature
+
+#### May 24  
+[Liu et al. 2024](https://www.nature.com/articles/s41467-024-47015-y) Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations
+
 #### May 17
 [Jian et al. 2023](https://academic.oup.com/plcell/article-abstract/36/4/840/7456361?redirectedFrom=fulltext)  Forces driving transposable element load variation during Arabidopsis range expansion Get access  
 
