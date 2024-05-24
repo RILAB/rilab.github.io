@@ -115,8 +115,7 @@ maintain agricultural biodiversity.
 
 ***Websites***
 
-[*A Homecoming for Indigenous
-Seeds*](https://mbgna.umich.edu/sowing-heritage-with-indigenous-seeds-plants-progeny-return-to-their-ancestral-home/)
+[*Sustaining Lifeways and Anishinaabe Partners*](https://graham.umich.edu/news/sustaining-lifeways-and-anishinaabe-partners)
 
 [*Rockefeller Philanthropy and Population-Related
 Fields*](https://resource.rockarch.org/story/rockefeller-philanthropy-and-population-related-fields/)
