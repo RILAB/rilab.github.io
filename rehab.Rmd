@@ -12,10 +12,11 @@
 title: "R.E.H.A.B." 
 ---
 
-Science and a beverage on a Friday afternoon  are a good combination.  Nobody presents or defends the papers. We assume everyone has read the paper and jump right in to discussion without introduction.  This allows for a very informal discussion, and with beer involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.
-We meet Fridays in the library at  [Bull 'N Mouth](https://goo.gl/maps/TFjRFnwjM8oahnWv6) at 4pm.
+Science and a beverage on a Friday afternoon  are a good combination.  R.E.H.A.B. is intended to be a low-key venue for people to get discuss papers and become familiar with a broader literature. Nobody presents or defends the papers. We assume everyone has read the paper (but you are welcome to come and listen and chat even if you haven't!). We start by asking each person's thoughts and questions about the paper, then jump right in to discussion.  This allows for a very informal discussion, and with a beverage and friendly colleagues involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.  
 
-From time to time we also blog our thoughts on the papers we read. One or more of the people present volunteers to write down some of the discussion of each paper. Our hope is that this is useful to authors in clarifying papers when possible (pre-publication) or to others in considering the potential caveats or points of greatest interest (post-publication). Comments on the blog posts are welcome -- please [email](mailto:rossibarra@ucdavis.edu) them along.
+We meet Fridays at [Pizza and Pints](https://www.villagepizzaandpints.com) at 3pm.
+
+To be aware of any last-minute changes, please [email Jeff](mailto:rossibarra@ucdavis.edu) to be added to the Slack channel.
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
 
@@ -29,14 +30,55 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2024
+### June
+
+#### June 14
+[Zhang et al 2024](https://www.science.org/doi/10.1126/science.ade4487)Rice’s trajectory from wild to domesticated in East Asia
+
+#### June 7  
+[Lasky et al 2024](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyae082/7676102?redirectedFrom=fulltext) Estimating scale-specific and localized spatial patterns in allele frequency  
+
+### May
+#### May 31
+[Usui & Angert 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature
+
+#### May 24  
+[Liu et al. 2024](https://www.nature.com/articles/s41467-024-47015-y) Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations
+
+#### May 17
+[Jian et al. 2023](https://academic.oup.com/plcell/article-abstract/36/4/840/7456361?redirectedFrom=fulltext)  Forces driving transposable element load variation during Arabidopsis range expansion Get access  
+
+#### May 10 
+[Marsh and Johri preprint](https://www.biorxiv.org/content/10.1101/2024.04.22.590609v1.full)  Biases in ARG-based inference of historical population size in populations experiencing selection  
+
+#### May 3
+[Nocchi et al preprint](https://www.biorxiv.org/content/10.1101/2024.04.02.587814v1) Repeated global adaptation across plant species  
+
+### April
+#### April 18
+[Spiedel et al preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585102v1.full.pdf+html) High-resolution genomic ancestry reveals mobility in early medieval Europe
+
+#### Arpil 12  
+no R.E.H.A.B.
+
+#### April 5
+[de la Fuente Castro et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1) The genomic and cultural diversity of the Inka Qhapaq hucha ceremony in Chile and Argentina
+
 ### March
+#### March 29
+No R.E.H.A.B.
 
-#### March 15
-[de la Fuente Castro et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1)The genomic and cultural diversity of the Inka Qhapaq hucha ceremony in Chile and Argentina
+#### March 22  
+[Lanaud et al 2024](https://www.nature.com/articles/s41598-024-53010-6) A revisited history of cacao domestication in pre-Columbian times revealed by archaeogenomic approaches
 
-#### March 8
-[Long et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1)Muller’s Ratchet in Action: The Erosion of Sexual Reproduction Genes in Domesticated Cassava (Manihot esculenta)
+#### March 15  
+No R.E.H.A.B.
 
+#### March 8  
+[Long et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1) Muller’s Ratchet in Action: The Erosion of Sexual Reproduction Genes in Domesticated Cassava (Manihot esculenta)
+
+#### March 1  
+No R.E.H.A.B. -- [Maize meeting!](https://www.maizegdb.org/mgc/maizemeeting/2024)
 
 ### February
 #### Feb 23 
@@ -45,7 +87,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 #### Feb 16
 [Pope et al . 2023](https://www.pnas.org/doi/full/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
 
-#### Feb 9 No R.E.H.A.B.
+#### Feb 9  
+No R.E.H.A.B.
 
 #### Feb 2
 [Löytynoja 2022](http://m.genome.cshlp.org/content/32/8/1437.full.pdf) Thousands of human mutation clusters are explained by short-range template switching
