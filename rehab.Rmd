@@ -32,15 +32,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2024
 ### June
 
-#### June 14
+#### June 21
 [Zhang et al 2024](https://www.science.org/doi/10.1126/science.ade4487)Rice’s trajectory from wild to domesticated in East Asia
 
-#### June 7  
+#### June 14
 [Lasky et al 2024](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyae082/7676102?redirectedFrom=fulltext) Estimating scale-specific and localized spatial patterns in allele frequency  
 
-### May
-#### May 31
+
+#### June 7
 [Usui & Angert 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature
+
+### May
+#### May 31 No R.E.H.A.B.
 
 #### May 24  
 [Liu et al. 2024](https://www.nature.com/articles/s41467-024-47015-y) Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations
