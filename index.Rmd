@@ -13,7 +13,7 @@
 
 <script type="text/javascript">
   var imageURLs = [
-       "images/lab2023.jpeg"
+       "images/IMG_7116.png"
      , "images/cornkey3.png"
      , "images/heart.png"
   ];
@@ -57,8 +57,6 @@ Welcome to the Ross-Ibarra Lab in the [Dept. of Evolution and Ecology](http://ev
   document.write(getImageTag());
 </script>
 
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-zh9g" class="countdown-timer" data-timezone="America/Los_Angeles" data-date="2024-10-01 08:00">Days left in Sabbatical</a>
 </div>
 
 ### Contact Info  
