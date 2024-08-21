@@ -29,18 +29,40 @@ We're proud of the growing list of journal clubs modelled on R.E.H.A.B., includi
 
 And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
+<!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
+
+
 ## 2024
-### June
+### August
+
+#### August 23
+[Lin et al 2023](https://www.science.org/doi/full/10.1126/science.adi6549) The history of Coast Salish “woolly dogs” revealed by ancient genomics and Indigenous Knowledge
+
+#### August 9
+[Ritchey et al 2022](https://www.tandfonline.com/doi/full/10.1080/00438243.2022.2030792) "The wind that shakes the barley: the role of East Asian cuisines on barley grain size"
+
+### July  
+
+#### July 5 
+
+No R.E.H.A.B.
+
+### June 
+
+#### June 28
+[Lasky et al 2024](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyae082/7676102?redirectedFrom=fulltext) Estimating scale-specific and localized spatial patterns in allele frequency  
+
+#### June 21  
+[Tataru et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.14.599085v1)  Fluctuating selection in a Monkeyflower hybrid zone  
 
 #### June 14
 [Zhang et al 2024](https://www.science.org/doi/10.1126/science.ade4487)Rice’s trajectory from wild to domesticated in East Asia
 
-#### June 7  
-[Lasky et al 2024](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyae082/7676102?redirectedFrom=fulltext) Estimating scale-specific and localized spatial patterns in allele frequency  
+#### June 7
+[Usui & Angert 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature
 
 ### May
-#### May 31
-[Usui & Angert 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature
+#### May 31 No R.E.H.A.B.
 
 #### May 24  
 [Liu et al. 2024](https://www.nature.com/articles/s41467-024-47015-y) Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations
