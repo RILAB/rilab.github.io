@@ -44,15 +44,6 @@ Please read more information on [joining the lab](prosp.html) and [lab expectati
 Brenda is the lab manager and czar. In addition to working with us, she manages the [Bay](https://baylab.github.io), [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well, and is an [award-winning](https://safetyservices.ucdavis.edu/safety-star-program) lab safety expert.
 
 ::: {style="float: left"}
-<img src="images/vibha.png" style="border:10px solid white" width="125"/>
-:::
-
-**Vibha Chandrasekar** <a href="https://www.linkedin.com/in/vibha-chandrasekar-3522481b0/"><img src="images/lin.png" style="width: 15px;"/></a>\
-(they/she)
-
-Vibha is a biochemistry major interested in computational biology. They are currently working under Natasha Dhamrait to understand the evolution of transposable elements in the maize genome.
-
-::: {style="float: left"}
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
 :::
 
@@ -100,20 +91,6 @@ Beibei is a postdoc working on the evolution of transposable elements in maize a
 <br>
 
 ::: {style="float: left"}
-<img src="images/hana.jpg" style="border:10px solid white" width="125px"/>
-:::
-<br>
-
-**Hana Lubin**   
-(they/them)  
-
-Hana is a sophomore interested in plant ecology and genetics. They are currently working with Regina Fairbanks to update our list of genes targeted by selection during maize domestication.
-
-
-<div class="w-400"></div>
-<br>
-
-::: {style="float: left"}
 <img src="images/paulo.png" style="border:10px solid white" width="125px"/></a>
 :::
 
@@ -132,23 +109,6 @@ Paulo is a graduate student in [Integrative Genetics and Genomics](https://igg.u
 
 Sowmya is a sophomore Genetics and Genomics major investigating the population genetics of inversions in *Zea* and convergent adaptation in perennials grasses.  
 
-::: {style="float: left"}
-<img src="images/alyssa.jpg" style="border:10px solid white" width="125px"/></a>
-:::
-
-**Alyssa Phillips** <a href="https://twitter.com/Plant_Phillips"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="http://github.com/phillipsar2"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0001-8050-3051"><img src="images/orcid.png" style="width: 15px;"/></a>\
-(she/her)
-
-Alyssa is a [Plant Biology](https://pbi.ucdavis.edu) graduate student working on the origins of polyploidy and environmental adaptation in big blue stem as part of the [PanAnd project](https://panandropogoneae.com).
-
-::: {style="float: left"}
-<img src="images/garnet.jpg" style="border:10px solid white" width="125px"/></a>
-:::
-
-**Garnet Phinney** <a href="https://www.linkedin.com/in/garnet-phinney-b95987185/"><img src="images/lin.png" style="width: 15px;"/></a>\
-(she/her)
-
-Garnet is a Genetics and Genomics major working to understand the evolution and genomic variability of cross-incompatibility loci in maize and teosinte.
 
 ::: {style="float: left"}
 <img src="images/jri_camping.png" style="border:10px solid white" width="125px"/></a>
@@ -194,6 +154,8 @@ Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate
 
 ## Lab Alumni
 
+- [Alyssa Phillips](https://scholar.google.com/citations?user=p9u2mzwAAAAJ&hl=en) PhD student 2018-2024 (Postdoc UC Berkeley)
+- [Garnet Phinney]() Undergraduate researcher, 2023-2024 (PhD Student UC Irvine)
 - [Sarah Odell](https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao) PhD student 2016-2023
 -   [Edwin Solares](https://www.linkedin.com/in/solarese) Postdoc 2021-2023 (Lecturer, UC Davis)
 - [Miriam Nancy Salazar Vidal](https://scholar.google.com/citations?user=Ewa91LUAAAAJ&hl=en&oi=ao) Postdoc 2018-2023 (Research Scientist, U Missouri)
