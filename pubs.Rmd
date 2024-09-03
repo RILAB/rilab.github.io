@@ -56,20 +56,7 @@ Engelhorn J, Snodgrass SJ, Kok A, Seetharam AS, ...[15 authors]... Frommer WB, *
 Comprehensive maps of functional variation at transcription factor (TF) binding sites (cis-elements) are crucial for elucidating how genotype shapes phenotype. Here we report the construction of a pan-cistrome of the maize leaf under well-watered and drought conditions. We quantified haplotype-specific TF footprints across a pan-genome of 25 maize hybrids and mapped nearly two-hundred thousand genetic variants (termed binding-QTLs) linked to cis-element occupancy. The functional significance of binding-QTLs is supported by three lines of evidence: i) they coincide with known causative loci that regulate traits, including novel alleles of Upright Plant Architecture2, Trehalase1, and the MITE transposon site of ZmNAC111 under drought; ii) their allelic bias is mirrored between inbred parents and by ChIP-seq; iii) partitioning genetic variation across genomic regions demonstrates that binding-QTLs capture the majority of heritable trait variation across ~70% of 143 phenotypes. Our study provides a promising approach to make previously hidden cis-variation more accessible for genetic studies and multi-target engineering of complex traits.
 </p></details><br> 
 
-<details> 
-    <summary> Strengthened mutualistic adaptation between teosinte and its rhizosphere biota in cold climates
-  [[preprint](https://www.biorxiv.org/content/10.1101/2021.04.20.440703v1)]  
- **O'Brien AM**, Sawers RJH, Gasca-Pineda J, Baxter, I, Eguiarte LE,   **Ross-Ibarra J**, Strauss SY 
 
-</summary> 
-    <p style="margin-left: 30px">While abiotic environments consistently shape local adaptation, the strength of local adaptation to biotic interactions may vary more. One theory, COCO (CO-evolutionary Outcomes across Conditionality), predicts it may be strongest where species experience greater stress, because stress increases fitness impacts of species interactions. For example, in plant interactions with rhizosphere biota, positive outcomes increase with stress from low soil fertility, drought and cold.
-
-To investigate the influence of abiotic stress gradients on adaptation between plants and rhizosphere biota, we used a greenhouse common garden experiment recombining teosinte, Zea mays ssp. mexicana (wild relative of maize), and rhizosphere biota, collected across a stress gradient (elevational variation in temperature, precipitation, and nutrients).
-
-We found stronger local adaptation between teosinte and rhizosphere biota from colder, more stressful sites, as expected by COCO. However, biota from less stressful, warmer sites provided greater average benefits across teosinte populations. Links between plant traits and 20-element profiles of plant leaves explained fitness variation, persisted in the field, were influenced by both plants and biota, and largely reflected patterns of local adaptation.
-
-In sum, we uncovered greater local adaptation to biotic interactions in colder sites, and that both plants and rhizosphere biota affect the expression of plant phenotypes. 
-</p></details><br> 
 
 <!-- <details>  -->
 <!--     <summary>**Other papers by lab members** -->
@@ -88,6 +75,22 @@ In sum, we uncovered greater local adaptation to biotic interactions in colder s
 
 
 ### 2024  
+
+<details> 
+    <summary> [Teosinte populations exhibit weak local adaptation to their rhizosphere biota despite strong effects of biota source on teosinte fitness and traits]()
+  [[preprint](https://www.biorxiv.org/content/10.1101/2021.04.20.440703v1)]  
+ **O'Brien AM**, Sawers RJH, Gasca-Pineda J, Baxter, I, Eguiarte LE,   **Ross-Ibarra J**, Strauss SY 
+
+</summary> 
+    <p style="margin-left: 30px">While biotic interactions often impose selection, species and populations vary in whether they are locally adapted to biotic interactions.
+Evolutionary theory predicts that environmental conditions drive this variable local adaptation by altering the fitness impacts of species interactions.
+To investigate the influence of an environmental gradient on adaptation between a plant and its associated rhizosphere biota, we cross-combined teosinte Zea mays ssp. mexicana) and rhizosphere biota collected across a gradient of decreasing temperature, precipitation, and nutrients in a greenhouse common garden experiment.
+We measured both fitness and phenotypes expected to be influenced by biota, including concentrations of nutrients in leaves.
+Independent, main effects of teosinte and biota source explained most variation in teosinte fitness and traits.
+For example, biota from warmer sites provided population-independent fitness benefits across teosinte hosts.
+Effects of biota that depended on teosinte genotype were often not specific to their local hosts, and most traits had similar relationships to fitness across biota treatments. 
+However, we found weak patterns of local adaptation between teosinte and biota from colder sites, suggesting environmental gradients may alter the importance of local adaptation in teosinte-biota interactions, as evolutionary theory predicts.
+</p></details><br> 
 
 <details> 
     <summary> [Teosinte Pollen Drive guides maize domestication and evolution by RNAi](https://rdcu.be/dQg54) [[preprint](https://www.biorxiv.org/content/10.1101/2023.07.12.548689v1)]  
