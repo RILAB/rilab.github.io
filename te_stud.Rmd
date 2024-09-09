@@ -1,7 +1,0 @@
-We are looking for an engaged graduate student to work on the evolutionary genetics of transposable elements in maize and its wild relatives.  The position is funded by   an [NSF funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934384&HistoricalAwards=false)  and will focus on the population genetics of TEs within and between species. Opportunities exist  to collaborate on a number of ongoing projects in the lab, along with additional labs involved in the project ([Nathan Springer’s lab](https://maizeumn.github.io) and [Candace Hirsch’s lab](http://hirschlab.cfans.umn.edu) at the University of Minnesota, [Shawn Kaeppler’s lab](https://agronomy.wisc.edu/shawn-kaeppler/) at the University of Wisconsin, and [Emily Josephs](https://josephslab.github.io) at Michigan State University). We believe in and value the power of diversity and applicants from historically underrepresented groups are strongly encouraged to apply.
-
-Ideal candidates will have some familiarity with transposable element biology, population genetics, and/or quantitative genetics, and experience with R, python, C++, or other programming languages is a plus. Nonetheless, **we strongly encourage all motivated students with an interest in evolutionary biology and transposable elements to apply**. 
-UC Davis has programs in both [plant](https://pbi.ucdavis.edu) and [evolutionary](https://www.google.com/search?client=safari&rls=en&q=pop+bio+ucdavis&ie=UTF-8&oe=UTF-8) biology. For additional information about the labs please visit  rilab.org. 
-
-
-
