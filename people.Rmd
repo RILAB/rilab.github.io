@@ -88,7 +88,7 @@ Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg
 (she/her)
 
 Beibei is a postdoc working on the evolution of transposable elements in maize and teosinte During her PhD she worked on epigenetics in maize.
-<br>
+<br><br>
 
 ::: {style="float: left"}
 <img src="images/paulo.png" style="border:10px solid white" width="125px"/></a>
