@@ -1,0 +1,4358 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>R.E.H.A.B.</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Ross-Ibarra Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="people.html">People</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="pubs.html">Publications</a>
+</li>
+<li>
+  <a href="https://github.com/RILAB/lab-docs">Lab Docs</a>
+</li>
+<li>
+  <a href="rehab.html">R.E.H.A.B</a>
+</li>
+<li>
+  <a href="news.html">News</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">R.E.H.A.B.</h1>
+
+</div>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5300959-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<p>Science and a beverage on a Friday afternoon are a good combination.
+R.E.H.A.B. is intended to be a low-key venue for people to get discuss
+papers and become familiar with a broader literature. Nobody presents or
+defends the papers. We assume everyone has read the paper (but you are
+welcome to come and listen and chat even if you haven’t!). We start by
+asking each person’s thoughts and questions about the paper, then jump
+right in to discussion. This allows for a very informal discussion, and
+with a beverage and friendly colleagues involved even the worst papers
+are much more manageable. Anyone is welcome to come and anyone can <a
+href="mailto:rossibarra@ucdavis.edu">suggest a paper</a>. There is no
+email list; articles are posted below along with the date.</p>
+<p>We meet Fridays at <a
+href="https://www.villagepizzaandpints.com">Pizza and Pints</a> at
+3pm.</p>
+<p>To be aware of any last-minute changes, please <a
+href="mailto:rossibarra@ucdavis.edu">email Jeff</a> to be added to the
+Slack channel.</p>
+<p>Below are papers for Oct. 2013 and onward. For 2008-2013 papers see
+<a href="old_rehab.html">here</a>.</p>
+<p>We’re proud of the growing list of journal clubs modelled on
+R.E.H.A.B., including <a
+href="http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html">C.A.M.P.</a>,
+<a href="http://hagenetics.org/?cat=6">E.H.R.A.B.</a>, <a
+href="https://t.co/LYhSgcrgnZ">(Re)views</a>, <a
+href="https://github.com/sawers-rellan-labs/esfoyaza">esfoyaza</a>, <a
+href="http://jyanglab.com/jc/">Q.U.I.T.</a>, <a
+href="https://brandvainlab.wordpress.com/p-r-o-s-t/">p.r.o.s.t.</a>, <a
+href="https://github.com/arundurvasula/frydomics/blob/master/README.md">frydomics</a>,
+and <a
+href="https://www.cropevolution.org/reading.html">C.R.O.P.</a></p>
+<!-- [Peer Rebrew](https://kevinabird.wixsite.com/kevinbird/peer-rebrew). -->
+<!-- [EvolFri](http://evolfri.blogspot.com/), -->
+<!-- [detox](http://beissingerlab.org/Detox/), -->
+<p>And no, I won’t tell you what R.E.H.A.B. stands for, so don’t
+ask.</p>
+<!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
+<div id="section" class="section level2">
+<h2>2024</h2>
+<div id="september" class="section level3">
+<h3>September</h3>
+<div id="sept-27." class="section level4">
+<h4>Sept 27.</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.09.14.613021v1">Akbari
+et al, 2024</a> Pervasive findings of directional selection realize the
+promise of ancient DNA to elucidate human adaptation</p>
+</div>
+<div id="sept-27" class="section level4">
+<h4>Sept 27</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.09.14.613021v1">Akbari
+et al, 2024</a> Pervasive findings of directional selection realize the
+promise of ancient DNA to elucidate human adaptation</p>
+</div>
+<div id="sept-20." class="section level4">
+<h4>Sept 20.</h4>
+<p><a
+href="https://www.nature.com/articles/s41586-024-07911-1">Bolognini et
+al. 2024</a> Recurrent evolution and selection shape structural
+diversity at the amylase locus.</p>
+</div>
+<div id="sept.-13." class="section level4">
+<h4>Sept. 13.</h4>
+<p><a href="https://www.nature.com/articles/s41556-024-01494-9">Eroglu
+et al. 2024</a> Noncanonical inheritance of phenotypic information by
+protein amyloids.</p>
+</div>
+<div id="sept-6" class="section level4">
+<h4>Sept 6</h4>
+<p><a
+href="https://www.nature.com/articles/s41576-023-00652-3">Feschotte
+2023</a></p>
+</div>
+</div>
+<div id="august" class="section level3">
+<h3>August</h3>
+<div id="august-23" class="section level4">
+<h4>August 23</h4>
+<p><a
+href="https://www.science.org/doi/full/10.1126/science.adi6549">Lin et
+al 2023</a> The history of Coast Salish “woolly dogs” revealed by
+ancient genomics and Indigenous Knowledge</p>
+</div>
+<div id="august-9" class="section level4">
+<h4>August 9</h4>
+<p><a
+href="https://www.tandfonline.com/doi/full/10.1080/00438243.2022.2030792">Ritchey
+et al 2022</a> “The wind that shakes the barley: the role of East Asian
+cuisines on barley grain size”</p>
+</div>
+</div>
+<div id="july" class="section level3">
+<h3>July</h3>
+<div id="july-5" class="section level4">
+<h4>July 5</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+</div>
+<div id="june" class="section level3">
+<h3>June</h3>
+<div id="june-28" class="section level4">
+<h4>June 28</h4>
+<p><a
+href="https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyae082/7676102?redirectedFrom=fulltext">Lasky
+et al 2024</a> Estimating scale-specific and localized spatial patterns
+in allele frequency</p>
+</div>
+<div id="june-21" class="section level4">
+<h4>June 21</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.06.14.599085v1">Tataru
+et al preprint</a> Fluctuating selection in a Monkeyflower hybrid
+zone</p>
+</div>
+<div id="june-14" class="section level4">
+<h4>June 14</h4>
+<p><a href="https://www.science.org/doi/10.1126/science.ade4487">Zhang
+et al 2024</a>Rice’s trajectory from wild to domesticated in East
+Asia</p>
+</div>
+<div id="june-7" class="section level4">
+<h4>June 7</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406">Usui
+&amp; Angert 2024</a> Range expansion is both slower and more variable
+with rapid evolution across a spatial gradient in temperature</p>
+</div>
+</div>
+<div id="may" class="section level3">
+<h3>May</h3>
+<div id="may-31-no-r.e.h.a.b." class="section level4">
+<h4>May 31 No R.E.H.A.B.</h4>
+</div>
+<div id="may-24" class="section level4">
+<h4>May 24</h4>
+<p><a href="https://www.nature.com/articles/s41467-024-47015-y">Liu et
+al. 2024</a> Introgression and disruption of migration routes have
+shaped the genetic integrity of wildebeest populations</p>
+</div>
+<div id="may-17" class="section level4">
+<h4>May 17</h4>
+<p><a
+href="https://academic.oup.com/plcell/article-abstract/36/4/840/7456361?redirectedFrom=fulltext">Jian
+et al. 2023</a> Forces driving transposable element load variation
+during Arabidopsis range expansion Get access</p>
+</div>
+<div id="may-10" class="section level4">
+<h4>May 10</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.04.22.590609v1.full">Marsh
+and Johri preprint</a> Biases in ARG-based inference of historical
+population size in populations experiencing selection</p>
+</div>
+<div id="may-3" class="section level4">
+<h4>May 3</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.04.02.587814v1">Nocchi
+et al preprint</a> Repeated global adaptation across plant species</p>
+</div>
+</div>
+<div id="april" class="section level3">
+<h3>April</h3>
+<div id="april-18" class="section level4">
+<h4>April 18</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.03.15.585102v1.full.pdf+html">Spiedel
+et al preprint</a> High-resolution genomic ancestry reveals mobility in
+early medieval Europe</p>
+</div>
+<div id="arpil-12" class="section level4">
+<h4>Arpil 12</h4>
+<p>no R.E.H.A.B.</p>
+</div>
+<div id="april-5" class="section level4">
+<h4>April 5</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1">de la
+Fuente Castro et al 2024</a> The genomic and cultural diversity of the
+Inka Qhapaq hucha ceremony in Chile and Argentina</p>
+</div>
+</div>
+<div id="march" class="section level3">
+<h3>March</h3>
+<div id="march-29" class="section level4">
+<h4>March 29</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+<div id="march-22" class="section level4">
+<h4>March 22</h4>
+<p><a href="https://www.nature.com/articles/s41598-024-53010-6">Lanaud
+et al 2024</a> A revisited history of cacao domestication in
+pre-Columbian times revealed by archaeogenomic approaches</p>
+</div>
+<div id="march-15" class="section level4">
+<h4>March 15</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+<div id="march-8" class="section level4">
+<h4>March 8</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1">Long
+et al 2024</a> Muller’s Ratchet in Action: The Erosion of Sexual
+Reproduction Genes in Domesticated Cassava (Manihot esculenta)</p>
+</div>
+<div id="march-1" class="section level4">
+<h4>March 1</h4>
+<p>No R.E.H.A.B. – <a
+href="https://www.maizegdb.org/mgc/maizemeeting/2024">Maize
+meeting!</a></p>
+</div>
+</div>
+<div id="february" class="section level3">
+<h3>February</h3>
+<div id="feb-23" class="section level4">
+<h4>Feb 23</h4>
+<p><a
+href="https://www.science.org/doi/10.1126/science.adg8028">Pironon,
+Ondo, et. al.</a> The global distribution of plants used by humans</p>
+</div>
+<div id="feb-16" class="section level4">
+<h4>Feb 16</h4>
+<p><a href="https://www.pnas.org/doi/full/10.1073/pnas.2208116120">Pope
+et al . 2023</a> The expansion of agriculture has shaped the recent
+evolutionary history of a specialized squash pollinator</p>
+</div>
+<div id="feb-9" class="section level4">
+<h4>Feb 9</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+<div id="feb-2" class="section level4">
+<h4>Feb 2</h4>
+<p><a
+href="http://m.genome.cshlp.org/content/32/8/1437.full.pdf">Löytynoja
+2022</a> Thousands of human mutation clusters are explained by
+short-range template switching</p>
+</div>
+<div id="jan-26" class="section level4">
+<h4>Jan 26</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.02.10.528022v2">Lind
+et al preprint</a> How useful is genomic data for predicting
+maladaptation to future climate?</p>
+</div>
+<div id="jan-19" class="section level4">
+<h4>Jan 19</h4>
+<p><a
+href="https://academic.oup.com/evlett/article/7/6/401/7298704">Delmore
+et al 2023</a> Structural genomic variation and migratory behavior in a
+wild songbird</p>
+</div>
+<div id="jan-12" class="section level4">
+<h4>Jan 12</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.11.24.568563v1.full">Gautier
+et al 2023</a> Genomic reconstruction of the successful establishment of
+a feralized bovine population on the subantarctic island of
+Amsterdam</p>
+</div>
+<div id="jan-5" class="section level4">
+<h4>Jan 5</h4>
+<p>no REHAB</p>
+</div>
+</div>
+</div>
+<div id="section-1" class="section level2">
+<h2>2023</h2>
+<div id="december" class="section level3">
+<h3>December</h3>
+<div id="dec-29" class="section level4">
+<h4>Dec 29</h4>
+<p>Happy New Year’s!</p>
+</div>
+<div id="dec-22" class="section level4">
+<h4>Dec 22</h4>
+<p>No REHAB</p>
+</div>
+<div id="dec-15" class="section level4">
+<h4>Dec 15</h4>
+<p><a href="https://www.pnas.org/doi/full/10.1073/pnas.2305208120">Zhang
+et al 2023</a> The lack of negative association between TE load and
+subgenome dominance in synthesized Brassica allotetraploids</p>
+</div>
+<div id="dec-8" class="section level4">
+<h4>Dec 8</h4>
+<p><a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291944">Rivera-Rodríguez
+et al 2023</a> Genomic diversity and population structure of teosinte
+(Zea spp.) and its conservation implications</p>
+</div>
+<div id="dec-1" class="section level4">
+<h4>Dec 1</h4>
+<p><a
+href="https://www.nature.com/articles/s41467-023-40052-z">Nigenda-Morales
+et al 2023</a> The genomic footprint of whaling and isolation in fin
+whale populations</p>
+</div>
+</div>
+<div id="november" class="section level3">
+<h3>November</h3>
+<div id="nov-24" class="section level4">
+<h4>Nov 24</h4>
+<p>Gobble gobble gobble gobble gobble gobble</p>
+</div>
+<div id="nov-17" class="section level4">
+<h4>Nov 17</h4>
+<p><a
+href="https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10428">Diop
+et al 2023</a> Ethnolinguistic and genetic diversity of fonio (Digitaria
+exilis) in Senegal</p>
+</div>
+<div id="nov-10" class="section level4">
+<h4>Nov 10</h4>
+<p>Veteran’s Day - no REHAB</p>
+</div>
+<div id="nov-3" class="section level4">
+<h4>Nov 3</h4>
+<p><a
+href="https://academic.oup.com/mbe/article/40/6/msad110/7158554">Igolkina
+et al 2023</a> Historical Routes for Diversification of Domesticated
+Chickpea Inferred from Landrace Genomics</p>
+</div>
+</div>
+<div id="october" class="section level3">
+<h3>October</h3>
+<div id="oct-27" class="section level4">
+<h4>Oct 27</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.10.23.513440v1">Lang
+et al 2022</a> Century-long timelines of herbarium genomes predict plant
+stomatal response to climate change</p>
+</div>
+<div id="oct-20" class="section level4">
+<h4>Oct 20</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.09.27.559715v1.abstract">Castillo
+et al 2023</a> Predicting rapid adaptation in time from adaptation in
+space: a 30-year field experiment in marine snails</p>
+</div>
+<div id="oct-13" class="section level4">
+<h4>Oct 13</h4>
+<p>No REHAB</p>
+</div>
+<div id="oct-6" class="section level4">
+<h4>Oct 6</h4>
+<p><a href="https://www.nature.com/articles/s41467-020-17302-5">Gordon
+et al. 2023</a> Gradual polyploid genome evolution revealed by
+pan-genomic analysis of Brachypodium hybridum and its diploid
+progenitors</p>
+</div>
+</div>
+<div id="september-1" class="section level3">
+<h3>September</h3>
+<div id="sep-29" class="section level4">
+<h4>Sep 29</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.11.01.364349v1.full">Bontrager
+et al. 2020</a> Climate warming weakens local adaptation</p>
+</div>
+<div id="sep-22" class="section level4">
+<h4>Sep 22</h4>
+<p>No REHAB – lab event</p>
+</div>
+<div id="sep-15" class="section level4">
+<h4>Sep 15</h4>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2208116120">Pope
+et al. 2023</a> The expansion of agriculture has shaped the recent
+evolutionary history of a specialized squash pollinator</p>
+</div>
+<div id="sep-8" class="section level4">
+<h4>Sep 8</h4>
+<p>No REHAB - lab trip!</p>
+</div>
+<div id="sep-1" class="section level4">
+<h4>Sep 1</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.08.08.551183v1">Engelhorn
+et al. 2023</a> Phenotypic variation in maize can be largely explained
+by genetic variation at transcription factor binding sites</p>
+</div>
+</div>
+<div id="august-1" class="section level3">
+<h3>August</h3>
+<div id="aug-24" class="section level4">
+<h4>Aug 24</h4>
+<p><a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284136">Mueller
+et al. 2023</a> The taming of the weed: Developmental plasticity
+facilitated plant domestication</p>
+</div>
+<div id="aug-11" class="section level4">
+<h4>Aug 11</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajpa.24656">Jorgensen
+et al. 2022</a> Genetic adaptations to potato starch digestionin the
+Peruvian Andes</p>
+</div>
+<div id="aug-4" class="section level4">
+<h4>Aug 4</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.07.12.548689v1">Berube
+et al preprint</a> Teosinte Pollen Drive guides maize domestication and
+evolution by RNAi</p>
+</div>
+</div>
+<div id="july-1" class="section level3">
+<h3>July</h3>
+<div id="july-28" class="section level4">
+<h4>July 28</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.08.22.504706v2">Benegas
+et al preprint</a> DNA language models are powerful zero-shot predictors
+of genome-wide variant effects</p>
+</div>
+<div id="july-21" class="section level4">
+<h4>July 21</h4>
+<p><a
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016716/">Hohenlohe
+et al. 2010</a> Using population genomics to detect selection in natural
+populations: key concpets and methodological considerations (Topic:
+detecting selection)</p>
+</div>
+<div id="july-14" class="section level4">
+<h4>July 14</h4>
+<p>No REHAB</p>
+</div>
+<div id="jul-7" class="section level4">
+<h4>Jul 7</h4>
+<p><a
+href="https://academic.oup.com/genetics/article/202/4/1485/5930214">Peter
+2016</a> Admixture, Population Structure, and F-Statistics (Topic:
+inferring population structure)</p>
+</div>
+</div>
+<div id="june-1" class="section level3">
+<h3>June</h3>
+<div id="june-30" class="section level4">
+<h4>June 30</h4>
+<p><a
+href="https://academic.oup.com/genetics/article/215/1/193/5930485">Battey,
+Ralph, and Kern 2020</a> Space is the Place: Effects of Continuous
+Spatial Structure on Analysis of Population Genetic Data (Topic:
+assumptions of population structure)</p>
+</div>
+<div id="june-23" class="section level4">
+<h4>June 23</h4>
+<p><a href="https://elifesciences.org/articles/66697">Hayward and Sella
+2022</a> Polygenic adaptation after a sudden change in environment
+(Topic: polygenic adaptation)</p>
+</div>
+<div id="june-16" class="section level4">
+<h4>June 16</h4>
+<p>No REHAB</p>
+</div>
+<div id="june-9" class="section level4">
+<h4>June 9</h4>
+<!-- [Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory) -->
+<p><a
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6972798/">Mather
+2020</a> A practical introduction to sequentially Markovian coalescent
+methods for estimating demographic history from genomic data (Topic:
+applications of coalescence theory)</p>
+</div>
+<div id="june-2" class="section level4">
+<h4>June 2</h4>
+<p><a
+href="https://www.hindawi.com/journals/abi/2008/257864/">Sethupathy and
+Hanenhali 2008</a> A tutorial of the poisson random field model in
+population penetics (Topic: diffusion theory)</p>
+</div>
+</div>
+<div id="may-1" class="section level3">
+<h3>May</h3>
+<div id="may-26" class="section level4">
+<h4>May 26</h4>
+<p><a
+href="https://academic.oup.com/genetics/article/214/4/1019/5930513">Torres
+et al. 2020</a> The temporal dynamics of background selection in
+nonequilibrium populations (Topic: linked selection)</p>
+</div>
+<div id="may-5" class="section level4">
+<h4>May 5</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.308">Kelly
+2022</a> The genomic scale of fluctuating selection in a natural plant
+population</p>
+</div>
+</div>
+<div id="april-1" class="section level3">
+<h3>April</h3>
+<div id="april-28" class="section level4">
+<h4>April 28</h4>
+<p>No R.E.H.A.B. – visiting our awesome undergraduate researchers
+presenting at the <a href="https://urc.ucdavis.edu/conference">URSCA
+Conference</a></p>
+</div>
+<div id="april-21" class="section level4">
+<h4>April 21</h4>
+<p><a
+href="https://www.journals.uchicago.edu/doi/full/10.1086/679108">Muir et
+al. 2015</a> The Limited Contribution of Reciprocal Gene Loss to
+Increased Speciation Rates Following Whole-Genome Duplication.</p>
+</div>
+<div id="april-14" class="section level4">
+<h4>April 14</h4>
+<p><a
+href="https://www.biorxiv.org/content/biorxiv/early/2023/03/14/2023.03.13.532351.full.pdf">Silva
+and Van de Peer preprint</a> Whole-genome duplications and the long-term
+evolution of gene regulatory networks in angiosperms</p>
+</div>
+<div id="april-7" class="section level4">
+<h4>April 7</h4>
+<p><a
+href="https://www.science.org/doi/full/10.1126/science.add8655?casa_token=ZatU2HbDnvcAAAAA%3AUvUjasHreueF7WW2kEHDlkGjJuSn3vCsjUv1nbm01i-gcQ0Pz4o_mo042UQxUJWb2N-l_h6OC_ZX">Dong
+et al. 2023</a> Dual domestications and origin of traits in grapevine
+evolution</p>
+</div>
+</div>
+<div id="march-2" class="section level3">
+<h3>March</h3>
+<div id="march-24-no-r.e.h.a.b.-spring-break" class="section level4">
+<h4>March 24 No R.E.H.A.B. (Spring Break)</h4>
+</div>
+<div id="march-24" class="section level4">
+<h4>March 24</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.03.17.533106v1">Gonçalves-Dias
+preprint</a> Evolutionary rescue through gene flow despite genetic
+incompatibilities shaped diversity of the pseudo-cereal grain
+amaranth</p>
+</div>
+<div id="march-17" class="section level4">
+<h4>March 17</h4>
+<p>No R.E.H.A.B. – maize meeting!</p>
+</div>
+<div id="march-10" class="section level4">
+<h4>March 10</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.12.09.519597v2">Bénitière
+et al. preprint</a> Random genetic drift sets an upper limit on mRNA
+splicing accuracy in metazoans</p>
+</div>
+<div id="march-3" class="section level4">
+<h4>March 3</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.02.17.528989v1">Soudi
+et al. preprint</a> Repeatability of adaptation in sunflowers: genomic
+regions harbouring inversions also drive adaptation in species lacking
+an inversion</p>
+</div>
+</div>
+<div id="february-1" class="section level3">
+<h3>February</h3>
+<div id="feb-24" class="section level4">
+<h4>Feb 24</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.02.07.527547v1">Rodrigues
+et al. preprint</a> Shared evolutionary processes shape landscapes of
+genomic variation in the great apes</p>
+</div>
+<div id="feb-17" class="section level4">
+<h4>Feb 17</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.01.11.475913v2.full.pdf+html">Matheson
+and Masel preprint</a> Unlinked background selection reduces neutral
+diversity more than linked background selection</p>
+</div>
+<div id="feb-10" class="section level4">
+<h4>Feb 10</h4>
+<p><a href="https://www.pnas.org/doi/10.1073/pnas.2122084119">Barbeiri
+et al. 2022</a> A global analysis of matches and mismatches between
+human genetic and linguistic histories</p>
+</div>
+<div id="feb-3" class="section level4">
+<h4>Feb 3</h4>
+<p><a href="https://www.pnas.org/doi/10.1073/pnas.2203228120">Opedal et
+al. 2022</a> Evolvability and trait function predict phenotypic
+divergence of plant populations</p>
+</div>
+</div>
+<div id="january" class="section level3">
+<h3>January</h3>
+<div id="jan-27" class="section level4">
+<h4>Jan 27</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.01.05.522822v1">Milesi
+et al. preprint</a> Synchronous effective population size changes and
+genetic stability of forest trees through glacial cycles</p>
+</div>
+<div id="jan-20" class="section level4">
+<h4>Jan 20</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2023.01.11.523565v1">Bohutinska
+et al. preprint</a> Repeated adaptation to whole genome duplication in
+outcrossing Arabidopsis is mediated by mosaic adaptive haplotypes</p>
+</div>
+</div>
+</div>
+<div id="section-2" class="section level2">
+<h2>2022</h2>
+<div id="november-1" class="section level3">
+<h3>November</h3>
+<div id="nov-4" class="section level4">
+<h4>Nov 4</h4>
+<p><a
+href="https://www.nature.com/articles/s41559-022-01909-6.epdf?sharing_token=8R7fLq_R2gVPX3f1p86yt9RgN0jAjWel9jnR3ZoTv0NSro4BSkPDy8gCPphbKfs8YITAQZ01UWI1NeI6DYAQpDN9HFOgS62zfcXl-AUoXHctcYqCFgKi2agLOXCiMo9snJ9qqhsO5r975o2Kld7RpIXxqLOiSwXhVykUYnmjptQ%3D">Chturvedi
+et al. 2022</a> Local adaptation of life-history traits within urban
+populations of Arabidopsis thaliana</p>
+</div>
+</div>
+<div id="october-1" class="section level3">
+<h3>October</h3>
+<div id="oct-28" class="section level4">
+<h4>Oct 28</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.10.03.510679v1">Schmitz
+et al. preprint</a> Local adaptation of life-history traits within urban
+populations of Arabidopsis thaliana</p>
+</div>
+<div id="oct-21" class="section level4">
+<h4>Oct 21</h4>
+<p><a
+href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009892">Hibbins
+&amp; Hahn 2022</a> The effects of introgression across thousands of
+quantitative traits revealed by gene expression in wild tomatoes</p>
+</div>
+<div id="oct-14" class="section level4">
+<h4>Oct 14</h4>
+<p>No R.E.H.A.B. – harvest!</p>
+</div>
+<div id="oct-7" class="section level4">
+<h4>Oct 7</h4>
+<p><a href="https://www.science.org/doi/10.1126/science.abo3503">Todd et
+al. 2022</a> The genomic history and global expansion of domestic
+donkeys</p>
+</div>
+</div>
+<div id="september-2" class="section level3">
+<h3>September</h3>
+<div id="sept-30" class="section level4">
+<h4>Sept 30</h4>
+<p>No R.E.H.A.B. – <a href="https://www.coolpatchpumpkins.com">corn
+maze</a>! Email if you’d like to join!</p>
+</div>
+<div id="sept-23" class="section level4">
+<h4>Sept 23</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.08.24.505188v1">Le et
+al, preprint</a> 1,000 ancient genomes uncover 10,000 years of natural
+selection in Europe</p>
+</div>
+<div id="sept-16" class="section level4">
+<h4>Sept 16</h4>
+<p><a href="https://www.science.org/doi/10.1126/sciadv.abo5115">Bieker
+et al. 2022</a> Uncovering the genomic basis of an extraordinary plant
+invasion</p>
+</div>
+<div id="sept-9" class="section level4">
+<h4>Sept 9</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.08.24.505188v1">Le et
+al, preprint</a> 1,000 ancient genomes uncover 10,000 years of natural
+selection in Europe</p>
+</div>
+<div id="sept-2" class="section level4">
+<h4>Sept 2</h4>
+<p><a
+href="https://academic.oup.com/mbe/article/39/8/msac169/6652438?login=false">Liu
+and Zhang 2022</a> Is the Mutation Rate Lower in Genomic Regions of
+Stronger Selective Constraints?</p>
+</div>
+</div>
+<div id="august-2" class="section level3">
+<h3>August</h3>
+<div id="aug-26" class="section level4">
+<h4>Aug 26</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.08.03.502621v1">Lotterhos
+preprint</a> Does the paradigm of genotype-environment associations need
+to be re-assessed? The paradox of adaptive phenotypic clines with
+non-clinal patterns in causal alleles</p>
+</div>
+<div id="aug-19" class="section level4">
+<h4>Aug 19</h4>
+<p>Postponed</p>
+</div>
+<div id="aug-12" class="section level4">
+<h4>Aug 12</h4>
+<p><a
+href="https://www.science.org/doi/10.1126/sciadv.abn2349#.Yu8M_rXLkC4.twitter">Moreno-Villena
+et al. 2022</a> Spatial resolution of an integrated C4+CAM
+photosynthetic metabolism</p>
+</div>
+<div id="aug-5" class="section level4">
+<h4>Aug 5</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.07.12.499685v1">Widen
+et al. preprint</a> Virus-like transposons cross the species barrier and
+drive the evolution of genetic incompatibilities</p>
+</div>
+</div>
+<div id="july-2" class="section level3">
+<h3>July</h3>
+<div id="july-29" class="section level4">
+<h4>July 29</h4>
+<p><a
+href="https://www.pnas.org/doi/epdf/10.1073/pnas.2100036119">Barnes,
+Rordíguez-Zapata, Juárez-Núñez et al. 2022</a> An adaptive teosinte
+mexicana introgression modulates phosphatidylcholine levels and is
+associated with maize flowering time</p>
+</div>
+<div id="july-22" class="section level4">
+<h4>July 22</h4>
+<p><a
+href="https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0512">Gloss
+et al. 2022</a> Genome-wide association mapping within a local
+Arabidopsis thaliana population more fully reveals the genetic
+architecture for defensive metabolite diversity</p>
+</div>
+<div id="july-15" class="section level4">
+<h4>July 15</h4>
+<p><a href="https://www.nature.com/articles/s41477-019-0563-0">Wu et
+al. 2022</a> Allelochemicals targeted to balance competing selections in
+African agroecosystems</p>
+</div>
+<div id="july-8" class="section level4">
+<h4>July 8</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.13807">Cai et
+al. 2022</a> Transposable element insertion: a hidden major source
+ofdomesticated phenotypic variation inBrassica rapa</p>
+</div>
+<div id="july-1-1" class="section level4">
+<h4>July 1</h4>
+<p><a
+href="https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0199">Berdan
+et al. 2022</a> Mutation accumulation opposes polymorphism: supergenes
+and the curious case of balanced lethals</p>
+</div>
+</div>
+<div id="june-3" class="section level3">
+<h3>June</h3>
+<div id="june-24" class="section level4">
+<h4>June 24</h4>
+<p><a href="https://www.nature.com/articles/s41477-022-01161-7">Weide et
+al. 2022</a> A new functional ecological model reveals the nature of
+early plant management in southwest Asia</p>
+</div>
+<div id="june-17" class="section level4">
+<h4>June 17</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.05.18.492457v1">Atmore
+et al. preprint</a> Serial depletion of Baltic herring since the Viking
+Age revealed by ancient DNA and population genomics</p>
+</div>
+<div id="june-10" class="section level4">
+<h4>June 10</h4>
+<p>No R.E.H.A.B – PEQG!</p>
+</div>
+<div id="june-3-1" class="section level4">
+<h4>June 3</h4>
+<p><a
+href="https://www.pnas.org/doi/10.1073/pnas.2113936119">Padilla-Iglesias
+et al. 2022</a> Population interconnectivity over the past 120,000 years
+explains distribution and diversity of Central African
+hunter-gatherers</p>
+</div>
+</div>
+<div id="may-2" class="section level3">
+<h3>May</h3>
+<div id="may-27" class="section level4">
+<h4>May 27</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.08.31.268425v2">Franco
+et al. preprint</a>A Maize Practical Haplotype Graph Leverages Diverse
+NAM Assemblies</p>
+</div>
+<div id="may-20" class="section level4">
+<h4>May 20</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1">Mostafavi
+et al. preprint</a> Limited overlap of eQTLs and GWAS hits due to
+systematic differences in discovery</p>
+</div>
+<div id="may-13" class="section level4">
+<h4>May 13</h4>
+<p><a
+href="https://academic.oup.com/genetics/article/213/4/1513/5930641">Thornton
+2019</a> Polygenic Adaptation to an Environmental Shift: Temporal
+Dynamics of Variation Under Gaussian Stabilizing Selection and Additive
+Effects on a Single Trait</p>
+</div>
+<div id="may-6" class="section level4">
+<h4>May 6</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13354">Láruson
+et a l. 2022</a> Seeing the forest for the trees: Assessing genetic
+offset predictions from gradient forest</p>
+</div>
+</div>
+<div id="april-29" class="section level3">
+<h3>April 29</h3>
+<p>Postponed, see May 6</p>
+<div id="april-22" class="section level4">
+<h4>April 22</h4>
+<p><a href="https://www.nature.com/articles/s41586-022-04570-y">Zuin et
+al. 2022</a> Nonlinear control of transcription through
+enhancer–promoter interactions</p>
+</div>
+<div id="april-15" class="section level4">
+<h4>April 15</h4>
+<p><a href="https://www.pnas.org/doi/10.1073/pnas.2118879119">Napier et
+al. 2022</a> A generalist–specialist trade-off between switchgrass
+cytotypes impacts climate adaptation and geographic range</p>
+</div>
+<div id="april-8" class="section level4">
+<h4>April 8</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.03.21.485229v1">Lasky
+et al. preprint</a> Wavelet characterization of spatial pattern in
+allele frequency</p>
+</div>
+<div id="april-1-1" class="section level4">
+<h4>April 1</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16396">Wuitchik
+et al. 2022</a> Evolution of thermal physiology alters the projected
+range of threespine stickleback under climate change</p>
+</div>
+</div>
+<div id="march-4" class="section level3">
+<h3>March</h3>
+<div id="march-25" class="section level4">
+<h4>March 25</h4>
+<p>University holiday, no R.E.H.A.B.</p>
+</div>
+<div id="march-18" class="section level4">
+<h4>March 18</h4>
+<p><a
+href="https://www.sciencedirect.com/science/article/pii/S0960982222001105?dgcid=author">White
+et al. 2022</a> Experimental evolution of local adaptation under
+unidimensional and multidimensional selection</p>
+</div>
+<div id="march-11" class="section level4">
+<h4>March 11</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.02.18.480989v2?ct=">Haupt
+&amp; Schmid preprint</a> Using landscape genomics to infer genomic
+regions involved in environmental adaptation of soybean genebank
+accessions</p>
+</div>
+<div id="march-4-1" class="section level4">
+<h4>March 4</h4>
+<p><a href="https://elifesciences.org/articles/70242">Kreiner et
+al. 2022</a> Repeated origins, widespread gene flow, and allelic
+interactions of target-site herbicide resistance mutations</p>
+</div>
+</div>
+<div id="february-2" class="section level3">
+<h3>February</h3>
+<div id="feb-25" class="section level4">
+<h4>Feb 25</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.02.18.431064v2.full.pdf">McGlothlin
+et al. preprint</a> Conservation and Convergence of Genetic Architecture
+in the Adaptive Radiation of Anolis Lizards</p>
+</div>
+<div id="feb-18" class="section level4">
+<h4>Feb 18</h4>
+<p><a href="https://www.science.org/doi/10.1126/sciadv.abc6318">Cooke et
+al. 2020</a> Genomic signatures in the coral holobiont reveal host
+adaptations driven by Holocene climate change and reef specific
+symbionts</p>
+</div>
+<div id="feb-11" class="section level4">
+<h4>Feb 11</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.07.02.450762v2">Murphy
+et al. preprint</a> Broad-scale variation in human genetic diversity
+levels is predicted by purifying selection on coding and non-coding
+elements</p>
+</div>
+<div id="feb-4" class="section level4">
+<h4>Feb 4</h4>
+<p><a href="https://onlinelibrary.wiley.com/doi/10.1002/evl3.272">van
+der Zee et al. 2022</a> Rapid genomic convergent evolution in
+experimental populations of Trinidadian guppies (Poecilia
+reticulata)</p>
+</div>
+</div>
+<div id="january-1" class="section level3">
+<h3>January</h3>
+<div id="jan-28" class="section level4">
+<h4>Jan 28</h4>
+<p><a href="https://onlinelibrary.wiley.com/doi/10.1002/evl3.269">Saleh
+et al. 2022</a> Genome-wide evolutionary response of European oaks
+during the Anthropocene</p>
+</div>
+<div id="jan-21" class="section level4">
+<h4>Jan 21</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2022.01.10.475641v1">Dahan-Meir
+preprint</a> The genetic structure of a wild wheat population has
+remained associated with microhabitats over 36 years</p>
+</div>
+<div id="jan-14" class="section level4">
+<h4>Jan 14</h4>
+<p><a
+href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009827">Ho
+et al.</a> Engines of change: Transposable element mutation rates are
+high and variable within <em>Daphnia magna</em>.</p>
+</div>
+<div id="jan-7" class="section level4">
+<h4>Jan 7</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.10.13.464000v1">Exposito-Alonso
+et al preprint</a> Quantifying the scale of genetic diversity extinction
+in the Anthropocene.</p>
+</div>
+</div>
+</div>
+<div id="section-3" class="section level2">
+<h2>2021</h2>
+<div id="december-1" class="section level3">
+<h3>December</h3>
+<div id="dec-3" class="section level4">
+<h4>Dec 3</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.11.01.466728v1">Matheson
+et al. preprint</a> Haldane’s cost of selection imposes a mild
+constraint on adaptation, with a high proportion of deaths in A.
+thaliana being selective</p>
+</div>
+</div>
+<div id="november-2" class="section level3">
+<h3>November</h3>
+<div id="nov-26" class="section level4">
+<h4>Nov 26</h4>
+<p><a href="https://isotropic.org/papers/chicken.pdf">Zongker et
+al. preprint</a> Turkey or chicken? A perennial Thanksgiving debate. (No
+REHAB)</p>
+</div>
+<div id="nov-19" class="section level4">
+<h4>Nov 19</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.11.15.468652v1">Jaegle
+et al. preprint</a> Extensive gene duplication in Arabidopsis revealed
+by pseudo-heterozygosity.</p>
+</div>
+<div id="nov-12" class="section level4">
+<h4>Nov 12</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.10.27.466171v1.full.pdf">Johri
+et al preprint</a> Statistical inference in population genomics.</p>
+</div>
+</div>
+<div id="october-2" class="section level3">
+<h3>October</h3>
+<div id="oct-29" class="section level4">
+<h4>Oct 29</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.10.12.464067v1">Kulbaba
+et al. preprint</a> Chasing the fitness optimum: temporal variation in
+the genetic and environmental expression of life-history traits for a
+perennial plant</p>
+</div>
+<div id="oct-22" class="section level4">
+<h4>Oct 22</h4>
+<p><a href="https://www.nature.com/articles/s41559-019-0976-1">Ye et
+al. 2019</a> Genomic evidence of human selection on Vavilovian
+mimicry</p>
+</div>
+<div id="oct-15" class="section level4">
+<h4>Oct 15</h4>
+<p>No R.E.H.A.B. – RI-lab fest for Gates, Tittes, Fairbanks, Solares et
+al. and annual corn maize!</p>
+</div>
+<div id="oct-8" class="section level4">
+<h4>Oct 8</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.04.14.439124v1.abstract">Ojeda-Granado
+et al. preprint</a> Dietary, Cultural and Pathogens-related Selective
+Pressures Shaped Differential Adaptive Evolution Among Native Mexican
+Populations</p>
+</div>
+<div id="oct-1" class="section level4">
+<h4>Oct 1</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.09.13.459985v1?ct=">Battlay
+et al preprint</a> Pleiotropy drives repeatability in the genetic basis
+of adaptation</p>
+</div>
+</div>
+<div id="september-3" class="section level3">
+<h3>September</h3>
+<div id="sept-24" class="section level4">
+<h4>Sept 24</h4>
+<p><a href="https://arxiv.org/abs/2109.01571">Grieshop et
+al. preprint</a> Dominance reversals, antagonistic pleiotropy, and the
+maintenance of genetic variation</p>
+</div>
+<div id="sept-17" class="section level4">
+<h4>Sept 17</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.03.05.433935v1">Howe
+et al. preprint</a> Within-sibship GWAS improve estimates of direct
+genetic effects</p>
+<p><em>AND</em></p>
+<p><a
+href="https://www.nytimes.com/2018/07/24/opinion/dna-nature-genetics-education.html">Paige
+Harden 2018</a> Why Progressives Should Embrace the Genetics of
+Education</p>
+</div>
+<div id="sept-10" class="section level4">
+<h4>Sept 10</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.06.02.446804v1">Brown
+and Kelly preprint</a> Genome-wide association mapping of transcriptome
+variation in Mimulus guttatus indicates differing patterns of selection
+on cis- versus trans-acting mutations</p>
+</div>
+<div id="sept-3" class="section level4">
+<h4>Sept 3</h4>
+<p><a
+href="https://www.nature.com/articles/s41467-020-17874-2">Domínguez et
+al. 2020</a> The impact of transposable elements on tomato diversity</p>
+</div>
+</div>
+<div id="august-3" class="section level3">
+<h3>August</h3>
+<div id="august-27" class="section level4">
+<h4>August 27</h4>
+<p><a
+href="https://www.nature.com/articles/s41559-021-01526-9">Aguirre-Liguori
+et al. 2021</a> The evolutionary genomics of species’ responses to
+climate change</p>
+</div>
+<div id="august-20" class="section level4">
+<h4>August 20</h4>
+<p><a href="https://elifesciences.org/articles/64165v1">Gibson et
+al. 2021</a> Introgression shapes fruit color convergence in invasive
+Galápagos tomato</p>
+</div>
+<div id="august-13" class="section level4">
+<h4>August 13</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.06.26.449999v1">Todesco
+et al, preprint</a> Genetic basis and dual adaptive role of floral
+pigmentation in sunflowers</p>
+</div>
+<div id="august-6" class="section level4">
+<h4>August 6</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.07.05.451094v2">Szukala
+et al</a> Polygenic routes lead to parallel altitudinal adaptation in
+Heliosperma pusillum (Caryophyllaceae).</p>
+</div>
+</div>
+<div id="july-3" class="section level3">
+<h3>July</h3>
+<div id="july-30" class="section level4">
+<h4>July 30</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.04.28.441765v1">Moutinho
+et al, 2021</a> Testing the adaptive walk model of gene evolution.</p>
+</div>
+<div id="july-23" class="section level4">
+<h4>July 23</h4>
+<p>Tittes et al. DRAFT (PDF on Slack, or request access by email). The
+population genetics of local adaptation and convergence in maize
+landrace and its wild relative teosinte.</p>
+</div>
+<div id="july-16" class="section level4">
+<h4>July 16</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.06.02.446804v1">Brown
+&amp; Kelly, 2021</a> Genome-wide association mapping of transcriptome
+variation in Mimulus guttatus indicates differing patterns of selection
+on cis- versus trans-acting mutations</p>
+</div>
+<div id="july-9" class="section level4">
+<h4>July 9</h4>
+<p><a
+href="https://www.pnas.org/content/118/23/e2104254118.short">Blavet et
+al. 2021</a> Sequence of the supernumerary B chromosome of maize
+provides insight into its drive mechanism and evolution</p>
+</div>
+<div id="july-2-1" class="section level4">
+<h4>July 2</h4>
+<p><a href="https://www.pnas.org/content/117/52/33124">Kistler et
+al. 2020</a> Archaeological Central American maize genomes suggest
+ancient gene flow from South America</p>
+</div>
+</div>
+<div id="june-4" class="section level3">
+<h3>June</h3>
+<div id="june-25" class="section level4">
+<h4>June 25</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14032">Yamaguchi
+&amp; Otto, 2020</a> Insights from Fisher’s geometric model on the
+likelihood of speciation under different histories of environmental
+change</p>
+</div>
+<div id="june-18" class="section level4">
+<h4>June 18</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.06.10.447924v1">Booker
+et al. 2021</a> Selective sweeps influence diversity over large regions
+of the mouse genome</p>
+</div>
+<div id="june-11" class="section level4">
+<h4>June 11</h4>
+<p><a
+href="https://www.sciencedirect.com/science/article/abs/pii/S0960982221002682">Kirch
+et al. 2021</a> Ancient and modern stickleback genomes reveal the
+demographic constraints on adaptation</p>
+</div>
+<div id="june-4-1" class="section level4">
+<h4>June 4</h4>
+<p><a href="https://www.nature.com/articles/s41477-021-00905-1">Milla
+&amp; Osborne 2021</a> Crop origins explain variation in global
+agricultural relevance</p>
+</div>
+</div>
+<div id="may-4" class="section level3">
+<h3>May</h3>
+<div id="friday-may-28" class="section level4">
+<h4>Friday May 28</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.03.19.436202v1">Burban
+et al. 2021</a> Gene network simulations provide testable predictions
+for the molecular domestication syndrome</p>
+</div>
+<div id="friday-may-21" class="section level4">
+<h4>Friday May 21</h4>
+<p><a href="https://www.pnas.org/content/117/48/30554.short">Hejase et
+al. 2020</a> Genomic islands of differentiation in a rapid avian
+radiation have been driven by recent selective sweeps</p>
+</div>
+<div id="friday-may-14" class="section level4">
+<h4>Friday May 14</h4>
+<p>Cancelled</p>
+</div>
+<div id="friday-may-7" class="section level4">
+<h4>Friday May 7</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.04.27.441526v1">Rudman
+et al. preprint</a> Direct observation of adaptive tracking on
+ecological timescales in Drosophila</p>
+</div>
+</div>
+<div id="april-2" class="section level3">
+<h3>April</h3>
+<div id="friday-apr-30" class="section level4">
+<h4>Friday Apr 30</h4>
+<p><a href="https://www.pnas.org/content/118/17/e2017317118">Kling and
+Ackerly</a> Global wind patterns shape genetic differentiation,
+asymmetric gene flow, and genetic diversity in trees</p>
+</div>
+<div id="friday-apr-23" class="section level4">
+<h4>Friday Apr 23</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.04.04.438381v1">Gupta
+et al. preprint</a> Inter-chromosomal linkage disequilibrium and linked
+fitness cost loci influence the evolution of nontarget site herbicide
+resistance in an agricultural weed</p>
+</div>
+<div id="friday-apr-16" class="section level4">
+<h4>Friday Apr 16</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+<div id="friday-apr-9" class="section level4">
+<h4>Friday Apr 9</h4>
+<p><a
+href="https://science.sciencemag.org/content/370/6516/557">Bergström,
+Franz et al. 2020</a> Origins and genetic legacy of prehistoric dogs</p>
+</div>
+<div id="friday-apr-2" class="section level4">
+<h4>Friday Apr 2</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.03.15.435374v1.article-info">Shahzad
+et al 2021</a> Gene body methylation mediates epigenetic inheritance of
+plant traits.</p>
+</div>
+</div>
+<div id="march-5" class="section level3">
+<h3>March</h3>
+<div id="friday-mar-26" class="section level4">
+<h4>Friday Mar 26</h4>
+<p><a href="https://www.pnas.org/content/118/10/e2026330118">Meng et
+al. 20201</a> Predicting transcriptional responses to cold stress across
+plant species</p>
+</div>
+<div id="friday-mar-19" class="section level4">
+<h4>Friday Mar 19</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.02.03.429633v1.abstract">Buffalo
+preprint</a> Why do species get a thin slice of π? Revisiting Lewontin’s
+Paradox of Variation</p>
+</div>
+<div id="friday-mar-12" class="section level4">
+<h4>Friday Mar 12</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.02.08.430226v2">Soni
+et al. preprint</a> A new test suggests that balancing selection
+maintains hundreds of non-synonymous polymorphisms in the human
+genome</p>
+</div>
+<div id="friday-mar-5" class="section level4">
+<h4>Friday Mar 5</h4>
+<p><a href="https://www.nature.com/articles/s41586-020-03127-1">Lovell
+et al. 2021</a> Genomic mechanisms of climate adaptation in polyploid
+bioenergy switchgrass</p>
+</div>
+</div>
+<div id="february-3" class="section level3">
+<h3>February</h3>
+<div id="friday-feb-26" class="section level4">
+<h4>Friday Feb 26</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2021.02.11.430632v1">Hufnagel
+et al. 2021</a> Evidence for Multiple Teosinte Hybrid Zones in Central
+Mexico</p>
+</div>
+<div id="friday-feb-19" class="section level4">
+<h4>Friday Feb 19</h4>
+<p><a href="https://www.nature.com/articles/s41588-020-00769-9">Wei et
+al. 2021</a> A quantitative genomics map of rice provides genetic
+insights and guides breeding</p>
+</div>
+<div id="friday-feb-12" class="section level4">
+<h4>Friday Feb 12</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.09.08.287151v1">Nelson
+et al. preprint</a> Ancient and recent introgression shape the
+evolutionary history of pollinator adaptation and speciation in a model
+monkeyflower radiation (<em>Mimulus section Erythranthe</em>)</p>
+</div>
+<div id="friday-feb-5" class="section level4">
+<h4>Friday Feb 5</h4>
+<p><a href="https://www.pnas.org/content/118/3/e1914889118">Schluter et
+al. 2021</a> Fitness maps to a large-effect locus in introduced
+stickleback populations</p>
+</div>
+</div>
+<div id="january-2" class="section level3">
+<h3>January</h3>
+<div id="friday-jan-29" class="section level4">
+<h4>Friday Jan 29</h4>
+<p><a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.15105">Wos
+et al. 2020</a> Parallelism in gene expression between foothill and
+alpine ecotypes in Arabidopsis arenosa</p>
+</div>
+<div id="friday-jan-22" class="section level4">
+<h4>Friday Jan 22</h4>
+<p><a href="https://www.pnas.org/content/117/52/33700.short">Domb et
+al. 2020</a> DNA methylation mutants in Physcomitrella patens elucidate
+individual roles of CG and non-CG methylation in genome regulation</p>
+</div>
+<div id="friday-jan-15" class="section level4">
+<h4>Friday Jan 15</h4>
+<p><a
+href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa309/6008718">Göktay
+et al. 2020</a> A new catalogue of structural variants in 1301 A.
+thaliana lines from Africa, Eurasia and North America reveals a
+signature of balancing at defense response genes</p>
+</div>
+<div id="friday-jan-8" class="section level4">
+<h4>Friday Jan 8</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.12.22.423930v1.full">Desbiez-Piat
+et al. preprint</a> Interplay between high-drift and high-selection
+limits the genetic load in small selfing maize populations</p>
+</div>
+</div>
+</div>
+<div id="section-4" class="section level2">
+<h2>2020</h2>
+<div id="december-2" class="section level3">
+<h3>December</h3>
+<div id="friday-dec-18" class="section level4">
+<h4>Friday Dec 18</h4>
+<p><a href="https://www.pnas.org/content/116/14/6924">Bergero et
+al. 2019</a> Exaggerated heterochiasmy in a fish with sex-linked male
+coloration polymorphisms</p>
+</div>
+<div id="friday-dec-11" class="section level4">
+<h4>Friday Dec 11</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.11.06.370932v1">Mérel
+et al. preprint</a> The worldwide invasion of Drosophila suzukii is
+accompanied by a large increase of transposable element load and a small
+number of putatively adaptive insertions</p>
+</div>
+<div id="friday-dec-4" class="section level4">
+<h4>Friday Dec 4</h4>
+<p><a
+href="https://www.journals.uchicago.edu/doi/abs/10.1086/689864">Gordon
+et al. 2020</a> Rapid Changes in the Sex Linkage of Male Coloration in
+Introduced Guppy Populations</p>
+</div>
+</div>
+<div id="november-3" class="section level3">
+<h3>November</h3>
+<div id="friday-november-27" class="section level4">
+<h4>Friday November 27</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+<div id="friday-november-20" class="section level4">
+<h4>Friday November 20</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+<div id="friday-november-13" class="section level4">
+<h4>Friday November 13</h4>
+<p><a
+href="https://www.genetics.org/content/early/2020/10/16/genetics.120.303393">Crouse
+et al. 2020</a> Inferring the Allelic Series at QTL in Multiparental
+Populations</p>
+</div>
+<div id="friday-november-6" class="section level4">
+<h4>Friday November 6</h4>
+<p><a
+href="https://science.sciencemag.org/content/370/6515/476">Batstone et
+al. 2020 et al.</a> Experimental evolution makes microbes more
+cooperative with their local host genotype</p>
+</div>
+</div>
+<div id="october-3" class="section level3">
+<h3>October</h3>
+<div id="friday-october-30" class="section level4">
+<h4>Friday October 30</h4>
+<p><a
+href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000836">Geiler-Samerotte
+et al. 2020</a> Extent and context dependence of pleiotropy revealed by
+high-throughput single-cell phenotyping</p>
+</div>
+<div id="friday-oct-23" class="section level4">
+<h4>Friday Oct 23</h4>
+<p><a
+href="https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa180/5898196">Wyler
+et al. 2020</a> Impact of transposable elements on methylation and gene
+expression across natural accessions of Brachypodium distachyon</p>
+</div>
+<div id="friday-oct-16" class="section level4">
+<h4>Friday Oct 16</h4>
+<p><a
+href="https://www.pnas.org/content/early/2020/09/25/2006633117">Corre et
+al. 2020</a> Adaptive introgression from maize has facilitated the
+establishment of teosinte as a noxious weed in Europe</p>
+</div>
+<div id="friday-oct-9" class="section level4">
+<h4>Friday Oct 9</h4>
+<p><a
+href="https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0020148&amp;type=printable">Spencer
+et al. 2006</a> The Influence of Recombination on Human Genetic
+Diversity</p>
+</div>
+<div id="friday-oct-2" class="section level4">
+<h4>Friday Oct 2</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14042">Bourgeois
+et al. 2018</a> Genome‐wide scans of selection highlight the impact of
+biotic and abiotic constraints in natural populations of the model grass
+Brachypodium distachyon</p>
+</div>
+</div>
+<div id="september-4" class="section level3">
+<h3>September</h3>
+<div id="friday-sept-25" class="section level4">
+<h4>Friday Sept 25</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.08.31.268425v1.full.pdf">Franco
+et al. preprint</a> A Maize Practical Haplotype Graph Leverages Diverse
+NAM Assemblies</p>
+</div>
+<div id="friday-sept-18" class="section level4">
+<h4>Friday Sept 18</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15614?casa_token=AhYswM2_1OQAAAAA:afdynHvcGBc3Vf8_oVBzO8KG2m_bh8BvDW6kJ6hj8qDU4H6DeymYWem2TkariGYmAKJ8MtwgVQABurPX">Ahrens
+et al.</a> Spatial, climate, and ploidy factors drive genomic diversity
+and resilience in the widespread grass Themeda triandra</p>
+</div>
+<div id="friday-sept-11" class="section level4">
+<h4>Friday Sept 11</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.08.19.257972v1">Kreiner
+et al. preprint</a> The genetic architecture and genomic context of
+glyphosate resistance</p>
+</div>
+<div id="friday-sept-4" class="section level4">
+<h4>Friday Sept 4</h4>
+<p><a
+href="https://www.sciencedirect.com/science/article/abs/pii/S0092867420306188">Liu
+et al. 2020</a> Pan-Genome of Wild and Cultivated Soybeans</p>
+</div>
+</div>
+<div id="august-4" class="section level3">
+<h3>August</h3>
+<div id="friday-august-28" class="section level4">
+<h4>Friday August 28</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.08.05.237834v1">Wang
+et al.</a> Automatic Inference of Demographic Parameters Using
+Generative Adversarial Networks</p>
+</div>
+<div id="friday-august-21" class="section level4">
+<h4>Friday August 21</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.02.05.936450v2.full.pdf">James
+et al.</a> A framework to quantify phenotypic and genotypic parallel
+evolution</p>
+</div>
+<div id="friday-august-14" class="section level4">
+<h4>Friday August 14</h4>
+<p><a
+href="https://www.cell.com/current-biology/pdf/S0960-9822(20)30548-0.pdf">Kon
+et al.</a> The Genetic Basis of Morphological Diversity in Domesticated
+Goldfish</p>
+</div>
+<div id="friday-august-7" class="section level4">
+<h4>Friday August 7</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.07.14.194407v1">Exposito-Alonso
+et al. preprint</a> Non-additive polygenic models improve predictions of
+fitness traits in three eukaryote model species</p>
+</div>
+</div>
+<div id="july-4" class="section level3">
+<h3>July</h3>
+<div id="friday-july-31" class="section level4">
+<h4>Friday July 31</h4>
+<p>Manuscript Review (check slack or email JRI for docs)</p>
+</div>
+<div id="friday-july-24" class="section level4">
+<h4>Friday July 24</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.07.04.188102v1">Choi
+&amp; Purugganan preprint</a> Telomere lengths in plants are correlated
+with flowering time variation</p>
+</div>
+<div id="friday-july-17" class="section level4">
+<h4>Friday July 17</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.07.04.187880v1">Boukas
+et al. preprint</a> Purifying selection acts on germline methylation to
+modify the CpG mutation rate at promoters</p>
+</div>
+<div id="friday-july-10" class="section level4">
+<h4>Friday July 10</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.06.23.166736v1">Monnahan
+et al. 2020</a> Predicting evolutionary change at the DNA level in a
+natural Mimulus population</p>
+</div>
+<div id="friday-july-3" class="section level4">
+<h4>Friday July 3</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14539">Fang et
+al. 2020</a> Genetic basis of kernel nutritional traits during maize
+domestication and improvement</p>
+</div>
+</div>
+<div id="june-5" class="section level3">
+<h3>June</h3>
+<div id="friday-june-26" class="section level4">
+<h4>Friday June 26</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.06.16.153452v1">DeWitt
+et al.</a> Joint nonparametric coalescent inference of mutation spectrum
+history and demography</p>
+</div>
+<div id="friday-june-19" class="section level4">
+<h4>Friday June 19</h4>
+<p><a
+href="https://www.genetics.org/content/early/2020/05/15/genetics.120.303335">Hämälä
+and Tiffin</a> Biased Gene Conversion Constrains Adaptation in
+Arabidopsis thaliana</p>
+</div>
+<div id="friday-june-12" class="section level4">
+<h4>Friday June 12</h4>
+<p><a href="https://www.nature.com/articles/s41467-019-14213-y">Shah et
+al.</a> Extreme genetic signatures of local adaptation during Lotus
+japonicus colonization of Japan</p>
+</div>
+<div id="friday-june-5" class="section level4">
+<h4>Friday June 5</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/678524v1.abstract">Kyriazis,
+Wayne, and Lohmueller</a> High genetic diversity can contribute to
+extinction in small populations</p>
+</div>
+</div>
+<div id="may-7" class="section level3">
+<h3>May</h3>
+<div id="friday-may-29" class="section level4">
+<h4>Friday May 29</h4>
+<p><a
+href="https://www.genetics.org/content/early/2020/05/01/genetics.120.303253">Ralph
+et al. 2020</a> Efficiently summarizing relationships in large samples:
+a general duality between statistics of genealogies and genomes</p>
+</div>
+<div id="friday-may-22" class="section level4">
+<h4>Friday May 22</h4>
+<p><a
+href="https://www.nature.com/articles/s41467-019-13730-0.pdf">Baduel et
+al. 2019</a> Relaxed purifying selection in autopolyploids drives
+transposable element over-accumulation which provides variants for local
+adaptation</p>
+</div>
+<div id="friday-may-15" class="section level4">
+<h4>Friday May 15</h4>
+<p><a href="mailto:rossibarra@ucdavis.edu">Monroe et al. manuscript</a>
+Is mutation rate variation across the Arabidopsis thaliana genome
+adaptive? (email/slack JRI for copy)</p>
+</div>
+<div id="friday-may-8" class="section level4">
+<h4>Friday May 8</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.04.28.066308v1.full">MacPherson
+et al. preprint</a> Parental population range expansion before secondary
+contact promotes heterosis</p>
+</div>
+<div id="friday-may-1" class="section level4">
+<h4>Friday May 1</h4>
+<p><a href="https://www.nature.com/articles/s41477-019-0486-9">Kiefer et
+al. 2019</a> Interspecies association mapping links reduced CG to TG
+substitution rates to the loss of gene-body methylation</p>
+</div>
+</div>
+<div id="april-3" class="section level3">
+<h3>April</h3>
+<div id="friday-apr-24" class="section level4">
+<h4>Friday Apr 24</h4>
+<p><a
+href="https://www.nature.com/articles/s41588-020-0612-7#Bib1">Voichek
+Weigel 2020</a> Identifying genetic variants underlying phenotypic
+variation in plants without complete genomes</p>
+</div>
+<div id="friday-apr-17" class="section level4">
+<h4>Friday Apr 17</h4>
+<p><a
+href="https://www.journals.uchicago.edu/doi/pdfplus/10.1086/708722">Thompson
+2020</a> Experimental hybridization studies suggest that pleiotropic
+alleles commonly underlie adaptive divergence between natural
+populations</p>
+</div>
+<div id="friday-april-10" class="section level4">
+<h4>Friday April 10</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.159#.Xl58IugRs38.twitter">Hamlin
+et a l. 2020</a> Assessing biological factors affecting postspeciation
+introgression</p>
+</div>
+<div id="friday-apr-3" class="section level4">
+<h4>Friday Apr 3</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2020.02.12.946392v1.abstract">Khromov
+and Morozov preprint</a> Widespread selection against deleterious
+mutations in the Drosophila genome</p>
+</div>
+</div>
+<div id="march-6" class="section level3">
+<h3>March</h3>
+<div id="friday-mar-27" class="section level4">
+<h4>Friday Mar 27</h4>
+<p><a href="https://www.nature.com/articles/s41467-019-11385-5">Quadrana
+et al. 2019</a> Transposition favors the generation of large effect
+mutations that may facilitate rapid adaption</p>
+</div>
+<div id="friday-mar-20" class="section level4">
+<h4>Friday Mar 20</h4>
+<p><a
+href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa028/5728642">Corbett-Detig
+et al. 2020</a> Phenotypic convergence is not mirrored at the protein
+level in a lizard adaptive radiation</p>
+</div>
+<div id="friday-mar-13" class="section level4">
+<h4>Friday Mar 13</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/865220v1">Lesaffre
+and Billiard preprint</a> On deleterious mutations in perennials:
+inbreeding depression, mutation load and life-history evolution</p>
+</div>
+<div id="friday-mar-6" class="section level4">
+<h4>Friday Mar 6</h4>
+<p><a
+href="https://advances.sciencemag.org/content/6/7/eaax5097">Durvasula
+and Sankararaman 2020</a> Recovering signals of ghost archaic
+introgression in African populations</p>
+</div>
+</div>
+<div id="february-4" class="section level3">
+<h3>February</h3>
+<div id="friday-feb-28" class="section level4">
+<h4>Friday Feb 28</h4>
+<p><a href="https://www.nature.com/articles/ncomms14458">Lee et al
+2017</a> On the post-glacial spread of human commensal Arabidopsis
+thaliana</p>
+</div>
+<div id="friday-feb-21" class="section level4">
+<h4>Friday Feb 21</h4>
+<p><a href="pdfs/IBDmix-cell.pdf">Chen et al 2020</a> Identifying and
+Interpreting Apparent Neanderthal Ancestry in African Individuals</p>
+</div>
+<div id="friday-feb.-14" class="section level4">
+<h4>Friday Feb. 14</h4>
+<p><a
+href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0486?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed#d3e580">Aguirre-Liguori
+et al. 2019</a> Climate change is predicted to disrupt patterns of local
+adaptation in wild and cultivated maize.</p>
+</div>
+<div id="friday-feb.-7" class="section level4">
+<h4>Friday Feb. 7</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13876">Brown
+and Kelly 2019</a> Severe inbreeding depression is predicted by the
+“rare allele load” in <em>Mimulus guttatus</em></p>
+</div>
+</div>
+<div id="january-3" class="section level3">
+<h3>January</h3>
+<div id="friday-jan.-31" class="section level4">
+<h4>Friday Jan. 31</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/659235v2">Battey et
+al. preprint</a> Space is the Place: Effects of Continuous Spatial
+Structure on Analysis of Population Genetic Data</p>
+</div>
+<div id="friday-jan.-24" class="section level4">
+<h4>Friday Jan. 24</h4>
+<p><a
+href="https://rilab.slack.com/files/U0DUKG5FE/FSQPH51TM/methylome_gen-2.pdf">Xu
+et al. manuscript</a> Adaptive evolution of DNA methylation reshaped
+gene regulation in maize</p>
+</div>
+<div id="friday-jan.-17" class="section level4">
+<h4>Friday Jan. 17</h4>
+<p><a href="https://www.genetics.org/content/213/4/1479">Wisser et
+al. 2019</a> The Genomic Basis for Short-Term Evolution of Environmental
+Adaptation in Maize</p>
+</div>
+<div id="friday-jan.-10" class="section level4">
+<h4>Friday Jan. 10</h4>
+<p><a
+href="https://www.cell.com/current-biology/fulltext/S0960-9822(19)31532-5">Fitzpatrick
+et al. 2020</a> Genomic and Fitness Consequences of Genetic Rescue in
+Wild Populations</p>
+</div>
+<div id="friday-jan.-3" class="section level4">
+<h4>Friday Jan. 3</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/2019.12.18.881516v1">Johri
+2019</a> Towards an evolutionarily appropriate null model: jointly
+inferring demography and purifying selection.</p>
+</div>
+</div>
+</div>
+<div id="section-5" class="section level2">
+<h2>2019</h2>
+<div id="december-3" class="section level3">
+<h3>December</h3>
+<div id="friday-dec.-20" class="section level4">
+<h4>Friday Dec. 20</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2010.01050.x">Bierne
+2010</a> The distinctive footprints of local hitchhiking in a varied
+environment and global hitchhiking in a subdivided population</p>
+</div>
+<div id="friday-dec.-13" class="section level4">
+<h4>Friday Dec. 13</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/862631v1">Adams et
+al. preprint</a> Slow recovery from inbreeding depression generated by
+the complex genetic architecture of segregating deleterious mutations <a
+href="http://disq.us/p/264d90o">comment</a></p>
+</div>
+<div id="friday-dec.-6" class="section level4">
+<h4>Friday Dec. 6</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/633529v1">Bellis et
+al. preprint</a> Genomics of sorghum local adaptation to a parasitic
+plant</p>
+</div>
+</div>
+<div id="november-4" class="section level3">
+<h3>November</h3>
+<div id="friday-nov-22" class="section level4">
+<h4>Friday Nov 22</h4>
+<p><a href="https://www.jstor.org/stable/1693251">McClintock 1984</a>
+The Significance of Responses of the Genome to Challenge</p>
+</div>
+<div id="friday-nov-15" class="section level4">
+<h4>Friday Nov 15</h4>
+<p><a
+href="https://www.nature.com/articles/s41467-019-12133-5?fbclid=IwAR0SU-1KHqKm183Au7M7w3wd5LkENycs4fSBgJfK3ppHw4lohLBeu6pq6oU">Zhao
+et al. 2019</a> Resequencing 545 ginkgo genomes across the world reveals
+the evolutionary history of the living fossil</p>
+</div>
+<div id="friday-nov-8" class="section level4">
+<h4>Friday Nov 8</h4>
+<p><a
+href="https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792952.full.pdf">Hayward
+and Sella preprint</a> Polygenic adaptation after a sudden change in
+environment</p>
+</div>
+<div id="friday-nov-1" class="section level4">
+<h4>Friday Nov 1</h4>
+<p><a
+href="https://www.biorxiv.org/content/biorxiv/early/2019/04/20/482299.full.pdf">Schwarzkopf
+et al. preprint</a> Genetic differentiation and intrinsic genomic
+features explain variation in recombination hotspots among cocoa tree
+populations</p>
+</div>
+</div>
+<div id="october-4" class="section level3">
+<h3>October</h3>
+<div id="friday-oct-25" class="section level4">
+<h4>Friday Oct 25</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/790279v1.full">Todesco et
+al. preprint</a> Massive haplotypes underlie ecotypic differentiation in
+sunflowers</p>
+</div>
+<div id="friday-oct-18" class="section level4">
+<h4>Friday Oct 18</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/777037v1">Muyle et
+al. preprint</a> Gene capture by transposable elements leads to
+epigenetic conflict</p>
+</div>
+<div id="friday-oct-11" class="section level4">
+<h4>Friday Oct 11</h4>
+<p><a
+href="https://www.biorxiv.org/content/biorxiv/early/2019/09/30/787382.full.pdf">Samuk
+et al. preprint</a> Natural selection shapes variation in genome-wide
+recombination rate in Drosophila pseudoobscura</p>
+</div>
+<div id="friday-oct-4" class="section level4">
+<h4>Friday Oct 4</h4>
+<p><a
+href="https://www.pnas.org/content/early/2019/09/26/1817664116.short?rss=1">Rojas-Barrera
+et al. 2019</a> Contemporary evolution of maize landraces and their wild
+relatives influenced by gene flow with modern maize varieties</p>
+</div>
+</div>
+<div id="september-5" class="section level3">
+<h3>September</h3>
+<div id="friday-sept-27" class="section level4">
+<h4>Friday Sept 27</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/748178v1">Gutaker et
+al. preprint</a> Genomic history and ecology of the geographic spread of
+rice</p>
+</div>
+<div id="friday-sept-20" class="section level4">
+<h4>Friday Sept 20</h4>
+<p><a
+href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz206/5566251#.XX3Qn54_1Vo.twitter">Hämälä
+et al. 2019</a> Gene expression modularity reveals footprints of
+polygenic adaptation in Theobroma cacao</p>
+</div>
+<div id="friday-sept-13" class="section level4">
+<h4>Friday Sept 13</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/742247v1">Booker et
+al. preprint</a> Global adaptation confounds the search for local
+adaptation</p>
+</div>
+<div id="friday-sept-6" class="section level4">
+<h4>Friday Sept 6</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+</div>
+<div id="august-5" class="section level3">
+<h3>August</h3>
+<div id="friday-august-31" class="section level4">
+<h4>Friday August 31</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/713040v1">Galloway
+et al. preprint</a> A few stickleback suffice for the transport of
+alleles to new lakes</p>
+</div>
+<div id="friday-august-24" class="section level4">
+<h4>Friday August 24</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/732750v2">Rougemont
+et al. preprint</a> Demographic history, linked selection, and
+recombination shape the genomic landscape of a broadly distributed
+Pacific salmon</p>
+</div>
+<div id="friday-august-17" class="section level4">
+<h4>Friday August 17</h4>
+<p><a
+href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000391">Stankowski
+et al. 2019</a> Widespread selection and gene flow shape the genomic
+landscape during a radiation of monkeyflowers</p>
+</div>
+<div id="friday-august-9" class="section level4">
+<h4>Friday August 9</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.14376">Yan et
+al. 2019</a> Parallels between natural selection in the cold-adapted
+crop-wild relative Tripsacum dactyloides and artificial selection in
+temperate adapted maize</p>
+</div>
+<div id="friday-august-2" class="section level4">
+<h4>Friday August 2</h4>
+<p><a
+href="https://www.pnas.org/content/pnas/116/10/4416.full.pdf">Dunning et
+al. 2019</a> Lateral transfers of large DNA fragments spread functional
+genes among grasses</p>
+</div>
+</div>
+<div id="july-6" class="section level3">
+<h3>July</h3>
+<div id="friday-july-26" class="section level4">
+<h4>Friday July 26</h4>
+<p><a
+href="http://www.plantcell.org/content/plantcell/early/2019/06/21/tpc.19.00111.full.pdf">Xu
+et al. 2019</a> Evolutionary Metabolomics Identifies Substantial
+Metabolic Divergence between Maize and its Wild Ancestor, Teosinte</p>
+</div>
+<div id="friday-july-19" class="section level4">
+<h4>Friday July 19</h4>
+<p>No R.E.H.A.B.</p>
+</div>
+<div id="friday-july-12" class="section level4">
+<h4>Friday July 12</h4>
+<p><a
+href="https://link.springer.com/article/10.1007/s00439-019-02040-6">Uricchio
+2019</a> Evolutionary perspectives on polygenic selection, missing
+heritability, and GWAS</p>
+</div>
+<div id="friday-july-5" class="section level4">
+<h4>Friday July 5</h4>
+<p><a href="https://arxiv.org/pdf/1904.09847.pdf">Bradburd and Ralph
+preprint</a> Spatial Population Genetics: It’s About Time</p>
+</div>
+</div>
+<div id="june-6" class="section level3">
+<h3>June</h3>
+<div id="friday-june-28" class="section level4">
+<h4>Friday June 28</h4>
+<p><a
+href="https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msz149/5522663?redirectedFrom=fulltext">Hämälä
+and Savolainen 2019</a> Genomic patterns of local adaptation under gene
+flow in Arabidopsis lyrata</p>
+</div>
+<div id="friday-june-21" class="section level4">
+<h4>Friday June 21</h4>
+<p><a
+href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000191">Wang
+et al. 2019</a> The architecture of intra-organism mutation rate
+variation in plants</p>
+</div>
+<div id="friday-june-14" class="section level4">
+<h4>Friday June 14</h4>
+<p><a
+href="https://www.pnas.org/content/early/2019/06/05/1821543116.short">Lowry
+et al. 2019</a> QTL × environment interactions underlie adaptive
+divergence in switchgrass across a large latitudinal gradient</p>
+</div>
+<div id="friday-june-7" class="section level4">
+<h4>Friday June 7</h4>
+<p><a href="https://www.nature.com/articles/s41588-019-0427-6">Yang et
+al. 2019</a> Genome assembly of a tropical maize inbred line provides
+insights into structural variation and crop improvement</p>
+</div>
+</div>
+<div id="may-8" class="section level3">
+<h3>May</h3>
+<div id="friday-may-31" class="section level4">
+<h4>Friday May 31</h4>
+<p><a href="https://www.pnas.org/content/112/11/3439.long">Harris
+2015</a> Evidence for recent, population-specific evolution of the human
+mutation rate</p>
+</div>
+<div id="friday-may-24" class="section level4">
+<h4>Friday May 24</h4>
+<p><a href="https://elifesciences.org/articles/43785">Verta and Jones
+2019</a> Predominance of cis-regulatory changes in parallel expression
+divergence of sticklebacks</p>
+</div>
+<div id="friday-may-17" class="section level4">
+<h4>Friday May 17</h4>
+<p><a href="mailto:rossibarra@ucdavis.edu">MS in development</a> email
+Jeff for link or find on Slack</p>
+</div>
+<div id="friday-may-10" class="section level4">
+<h4>Friday May 10</h4>
+<p><a
+href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000214">Vasseur
+et al. 2019</a> Nonlinear phenotypic variation uncovers the emergence of
+heterosis in Arabidopsis thaliana</p>
+</div>
+<div id="friday-may-3" class="section level4">
+<h4>Friday May 3</h4>
+<p><a
+href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1683-6">Wang
+et al. 2019</a> Genome-wide nucleotide patterns and potential mechanisms
+of genome divergence following domestication in maize and soybean</p>
+</div>
+</div>
+<div id="april-4" class="section level3">
+<h3>April</h3>
+<div id="friday-april-26" class="section level4">
+<h4>Friday April 26</h4>
+<p><a href="https://elifesciences.org/articles/39725">Berg et
+al. 2019</a> Reduced signal for polygenic adaptation of height in UK
+Biobank</p>
+</div>
+<div id="friday-april-19" class="section level4">
+<h4>Friday April 19</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/563585v1">Fustier et
+al. preprint</a> Genomic footprints of local adaptation along elevation
+gradients associate with present phenotypic variation in teosintes</p>
+</div>
+<div id="friday-april-12" class="section level4">
+<h4>Friday April 12</h4>
+<p><a
+href="https://www.biorxiv.org/content/10.1101/588020v1">Wainschtein et
+al. preprint</a> Recovery of trait heritability from whole genome
+sequence data</p>
+</div>
+<div id="friday-april-5" class="section level4">
+<h4>Friday April 5</h4>
+<p><a href="https://www.pnas.org/content/116/12/5643.abstract">Yang et
+al. 2019</a> The genetic architecture of teosinte catalyzed and
+constrained maize domestication</p>
+</div>
+</div>
+<div id="march-7" class="section level3">
+<h3>March</h3>
+<div id="friday-mar-29" class="section level4">
+<h4>Friday Mar 29</h4>
+<p><a href="https://www.nature.com/articles/s41559-019-0807-4">Monnahan
+et al 2019</a> Pervasive population genomic consequences of genome
+duplication in Arabidopsis arenosa</p>
+</div>
+<div id="friday-mar-22" class="section level4">
+<h4>Friday Mar 22</h4>
+<p><a href="https://www.nature.com/articles/s41467-018-08270-y">Liu et
+al. 2019</a> Biological relevance of computationally predicted
+pathogenicity of noncoding variants</p>
+</div>
+<div id="friday-mar-15" class="section level4">
+<h4>Friday Mar 15</h4>
+<p>Maize Genetics Conference</p>
+</div>
+<div id="friday-mar-8" class="section level4">
+<h4>Friday Mar 8</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/553230v1">Owens and
+Samuk preprint</a> Adaptive introgression during environmental change
+can weaken reproductive isolation</p>
+</div>
+<div id="friday-mar-1" class="section level4">
+<h4>Friday Mar 1</h4>
+<p><a
+href="https://www.biorxiv.org/content/biorxiv/early/2019/02/13/549329.full.pdf">Mee
+and Yeaman preprint</a> Unpacking conditional neutrality: genomic
+signatures of selection on conditionally beneficial and conditionally
+deleterious mutations</p>
+</div>
+</div>
+<div id="february-5" class="section level3">
+<h3>February</h3>
+<div id="friday-feb-22" class="section level4">
+<h4>Friday Feb 22</h4>
+<p><a href="https://genome.cshlp.org/content/29/1/85.long">Esnault et
+al. 2019</a> Transposable element insertions in fission yeast drive
+adaptation to environmental stress</p>
+</div>
+<div id="friday-feb-15" class="section level4">
+<h4>Friday Feb 15</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.97">Uricchio
+et al. 2019</a> An evolutionary compass for detecting signals of
+polygenic selection and mutational bias</p>
+</div>
+<div id="friday-feb-8" class="section level4">
+<h4>Friday Feb 8</h4>
+<p><a
+href="https://www.pnas.org/content/early/2019/01/14/1814338116">Petr et
+al. 2019</a> Limits of long-term selection against Neandertal
+introgression</p>
+</div>
+</div>
+<div id="february-6" class="section level3">
+<h3>February</h3>
+<div id="friday-feb-1" class="section level4">
+<h4>Friday Feb 1</h4>
+<p><a href="https://www.biorxiv.org/content/10.1101/525873v1">Lee et
+al. preprint</a> Pericentromeric heterochromatin is hierarchically
+organized and spatially contacts H3K9me2/3 islands located in
+euchromatic genome</p>
+</div>
+</div>
+<div id="january-4" class="section level3">
+<h3>January</h3>
+<div id="friday-jan-25" class="section level4">
+<h4>Friday Jan 25</h4>
+<p><a
+href="https://www.nature.com/articles/s41559-018-0754-5">Ferrero-Serrano
+et al. 2019</a> Phenotypic and genome-wide association with the local
+environment of Arabidopsis</p>
+</div>
+<div id="friday-jan-18" class="section level4">
+<h4>Friday Jan 18</h4>
+<p><a
+href="http://www.genetics.org/content/early/2018/12/04/genetics.118.301721">Weng
+et al. 2018</a> Fine-Grained Analysis of Spontaneous Mutation Spectrum
+and Frequency in Arabidopsis thaliana</p>
+</div>
+<div id="friday-jan-11" class="section level4">
+<h4>Friday Jan 11</h4>
+<p><a
+href="https://www.biorxiv.org/content/biorxiv/early/2018/04/08/297531.full.pdf">Martin
+et al., preprint</a> Recombination rate variation shapes barriers to
+introgression across butterfly genomes</p>
+</div>
+<div id="friday-jan-4" class="section level4">
+<h4>Friday Jan 4</h4>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/12/31/508119?rss=1">Zhou
+et al., preprint</a> Structural variants, clonal propagation, and genome
+evolution in grapevine (Vitis vinifera)</p>
+</div>
+</div>
+</div>
+<div id="section-6" class="section level2">
+<h2>2018</h2>
+<div id="december-4" class="section level3">
+<h3>December</h3>
+<div id="friday-december-28" class="section level4">
+<h4>Friday December 28</h4>
+<p>Happy Holidays, no R.E.H.A.B.</p>
+</div>
+<div id="friday-december-21" class="section level4">
+<h4>Friday December 21</h4>
+<p>Happy Holidays, no R.E.H.A.B.</p>
+</div>
+<div id="friday-december-14" class="section level4">
+<h4>Friday December 14</h4>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/11/05/461947">Tenaillon
+et al, preprint</a> Transcriptomic response to divergent selection for
+flowering time in maize reveals convergence and key players of the
+underlying gene regulatory network</p>
+</div>
+<div id="friday-december-7" class="section level4">
+<h4>Friday December 7</h4>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/11/01/458067">Kelleher
+et al, preprint</a> Inferring the ancestry of everyone</p>
+</div>
+</div>
+<div id="november-5" class="section level3">
+<h3>November</h3>
+<div id="friday-november-30" class="section level4">
+<h4>Friday November 30</h4>
+<p><a href="http://www.genetics.org/content/210/3/1109">Ruby et al,
+2018</a> Estimates of the Heritability of Human Longevity Are
+Substantially Inflated due to Assortative Mating</p>
+</div>
+<div id="friday-november-23" class="section level4">
+<h4>Friday November 23</h4>
+<p>No R.E.H.A.B., but in honor of Thanksgiving you can read about the
+origin of your favorite side dish, <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/29657119">sweet potato</a></p>
+</div>
+<div id="friday-november-16" class="section level4">
+<h4>Friday November 16</h4>
+<p><a href="mailto:rossibarra@ucdavis.edu">more eLife review!</a> email
+Jeff for link or find on Slack</p>
+</div>
+<div id="friday-november-9" class="section level4">
+<h4>Friday November 9</h4>
+<p><a href="http://www.pnas.org/content/early/2018/10/23/1801437115">Lin
+et al. 2018</a> Functional and evolutionary genomic inferences in
+Populus through genome and population sequencing of American and
+European aspen</p>
+</div>
+<div id="friday-november-2" class="section level4">
+<h4>Friday November 2</h4>
+<p>Special Seminar – no R.E.H.A.B.</p>
+</div>
+</div>
+<div id="october-5" class="section level3">
+<h3>October</h3>
+<div id="friday-october-26" class="section level4">
+<h4>Friday October 26</h4>
+<p><a
+href="http://www.pnas.org/content/early/2018/09/12/1806013115">Fugère
+and Hendry, 2018</a> Human influences on the strength of phenotypic
+selection</p>
+</div>
+<div id="friday-october-19" class="section level4">
+<h4>Friday October 19</h4>
+<p><a
+href="http://www.pnas.org/content/early/2018/10/04/1801832115">Tavares
+et al. 2018</a> Selection and gene flow shape genomic islands that
+control floral guides</p>
+</div>
+<div id="friday-october-12" class="section level4">
+<h4>Friday October 12</h4>
+<p><a
+href="https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.15296">Yang
+et al. 2018</a> Kin recognition in rice (Oryza sativa) lines</p>
+</div>
+<div id="friday-october-5" class="section level4">
+<h4>Friday October 5</h4>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/09/13/416610">Albers
+and McVean, preprint</a> Dating genomic variants and shared ancestry in
+population-scale sequencing data</p>
+</div>
+</div>
+<div id="september-6" class="section level3">
+<h3>September</h3>
+<div id="friday-september-28" class="section level4">
+<h4>Friday September 28</h4>
+<p><a href="mailto:rossibarra@ucdavis.edu">eLife review</a> email Jeff
+for link</p>
+</div>
+<div id="friday-september-21" class="section level4">
+<h4>Friday September 21</h4>
+<p><a
+href="http://rspb.royalsocietypublishing.org/content/285/1885/20181049">Bellon
+et al., 2018</a> Evolutionary and food supply implications of ongoing
+maize domestication by Mexican campesinos</p>
+</div>
+<div id="friday-september-14" class="section level4">
+<h4>Friday September 14</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13596">Zuellig
+et al., 2018</a> A two‐locus hybrid incompatibility is widespread,
+polymorphic, and active in natural populations of Mimulus</p>
+</div>
+<div id="friday-september-7" class="section level4">
+<h4>Friday September 7</h4>
+<p><a
+href="https://www.sciencedirect.com/science/article/pii/S0960982218309035">Crown
+et al., 2018</a> Local inversion heterozygosity alters recombination
+throughout the genome</p>
+</div>
+</div>
+<div id="august-7" class="section level3">
+<h3>August</h3>
+<div id="friday-august-31-1" class="section level4">
+<h4>Friday August 31</h4>
+<p><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007526">Fuller
+et al. 2018</a> Ancestral polymorphisms explain the role of chromosomal
+inversions in speciation</p>
+</div>
+<div id="friday-august-24-1" class="section level4">
+<h4>Friday August 24</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.66">Simon et
+al. 2018</a> Coadapted genomes and selection on hybrids: Fisher’s
+geometric model explains a variety of empirical patterns</p>
+</div>
+<div id="friday-august-17-1" class="section level4">
+<h4>Friday August 17</h4>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/06/23/354530">Ashander
+et al. preprint</a> Demographic inference in a spatially-explicit
+ecological model from genomic data: a proof of concept for the Mojave
+Desert Tortoise</p>
+<div id="friday-august-10" class="section level5">
+<h5>Friday August 10</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/06/21/342352">Stankowski
+et al. preprint</a> The tempo of linked selection: Rapid emergence of a
+heterogeneous genomic landscape during a radiation of monkeyflowers</p>
+</div>
+<div id="friday-august-3" class="section level5">
+<h5>Friday August 3</h5>
+<p><a
+href="https://www.sciencedirect.com/science/article/pii/S096098221830544X?via%3Dihub">Jay
+et al. 2018</a> Supergene Evolution Triggered by the Introgression of a
+Chromosomal Inversion</p>
+</div>
+</div>
+</div>
+<div id="july-7" class="section level3">
+<h3>July</h3>
+<div id="friday-july-27" class="section level5">
+<h5>Friday July 27</h5>
+<p><a href="https://www.nature.com/articles/s41559-018-0581-8">Marques
+et al. 2018</a> Experimental evidence for rapid genomic adaptation to a
+new niche in an adaptive radiation</p>
+</div>
+<div id="friday-july-20" class="section level5">
+<h5>Friday July 20</h5>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.72">McGlothlin
+et al. 2018</a> Adaptive radiation along a deeply conserved genetic line
+of least resistance in Anolis lizards</p>
+</div>
+<div id="friday-july-13" class="section level5">
+<h5>Friday July 13</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/06/29/358309">Parada
+and Charlesworth preprint</a> The effects on neutral variability of
+recurrent selective sweeps and background selection</p>
+</div>
+<div id="friday-july-6" class="section level5">
+<h5>Friday July 6</h5>
+<p><a href="https://www.nature.com/articles/s41559-018-0580-9">Constable
+and Kokko 2018</a> The rate of facultative sex governs the number of
+expected mating type</p>
+</div>
+</div>
+<div id="june-8" class="section level3">
+<h3>June</h3>
+<div id="friday-june-29" class="section level5">
+<h5>Friday June 29</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/06/03/336503">Smith et
+al., preprint</a> A domestication history of dynamic adaptation and
+genomic deterioration in sorghum</p>
+</div>
+<div id="friday-june-22" class="section level5">
+<h5>Friday June 22</h5>
+<p><a
+href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1378-9">Zou,
+et al., 2017</a> Adaptation of Arabidopsis thaliana to the Yangtze River
+basin</p>
+</div>
+<div id="friday-june-15" class="section level5">
+<h5>Friday June 15</h5>
+<p><a
+href="http://www.indiana.edu/~curtweb/L567/readings/Fisher1918.pdf">Fisher,
+1918</a> The correlation between relatives on the supposition of
+Mendelian inheritance</p>
+</div>
+<div id="friday-june-8" class="section level5">
+<h5>Friday June 8</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/05/28/332122">Barghi et
+al. preprint</a> Polygenic adaptation fuels genetic redundancy in
+Drosophila</p>
+</div>
+<div id="friday-june-1" class="section level5">
+<h5>Friday June 1</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/05/24/330159?rss=1">Flagel
+et al. preprint</a> A synthesis of mapping experiments reveals extensive
+genomic structural diversity in the Mimulus guttatus species complex</p>
+</div>
+</div>
+<div id="may-9" class="section level3">
+<h3>May</h3>
+<div id="friday-may-25" class="section level5">
+<h5>Friday May 25</h5>
+<p><a href="mailto:rossibarra@ucdavis.edu">Corbett-Detig et
+al. manuscript (email for pdf)</a> Bulk Pollen Sequencing Reveals Rapid
+Evolution of Segregation Distortion In The Male Germline of Arabidopsis
+Hybrids</p>
+</div>
+<div id="friday-may-18" class="section level5">
+<h5>Friday May 18</h5>
+<p><a
+href="http://www.pnas.org/content/pnas/115/13/3422.full.pdf">Raynes et
+al. 2018</a> Sign of selection on mutation rate modifiers depends on
+population size</p>
+</div>
+<div id="friday-may-11" class="section level5">
+<h5>Friday May 11</h5>
+<p><a
+href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy043/4960043">Kelly
+2018</a> The amount of nitrogen used for photosynthesis modulates
+molecular evolution in plants</p>
+</div>
+<div id="friday-may-4" class="section level5">
+<h5>Friday May 4</h5>
+<p><a
+href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy092/4990884">Kern
+and Hahn 2018</a> The neutral theory in light of natural selection</p>
+</div>
+</div>
+<div id="april-6" class="section level3">
+<h3>April</h3>
+<div id="friday-apr.-27" class="section level5">
+<h5>Friday Apr. 27</h5>
+<p><strong>Note: REHAB at 3pm at 3rd and U</strong><br />
+<a
+href="http://science.sciencemag.org/content/early/2018/04/18/science.aar3684">Schumer
+et al. 2018</a> Natural selection interacts with recombination to shape
+the evolution of hybrid genomes</p>
+</div>
+<div id="friday-apr.-20" class="section level5">
+<h5>Friday Apr. 20</h5>
+<p><a href="https://www.nature.com/articles/s41588-018-0101-4">Zeng et
+al. 2018</a> Signatures of negative selection in the genetic
+architecture of human</p>
+</div>
+<div id="friday-apr.-13" class="section level5">
+<h5>Friday Apr. 13</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/03/18/284109">Gage et
+al. preprint</a> Selection signatures underlying dramatic male
+inflorescence transformation during modern hybrid maize breeding [<a
+href="http://disq.us/p/1rsk6oq">commentary</a>]</p>
+</div>
+<div id="friday-apr.-6" class="section level5">
+<h5>Friday Apr. 6</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/03/09/279661">Yeaman et
+al. preprint</a> Quantifying how constraints limit the diversity of
+viable routes to adaptation</p>
+</div>
+</div>
+<div id="march-9" class="section level3">
+<h3>March</h3>
+<div id="friday-mar.-30" class="section level5">
+<h5>Friday Mar. 30</h5>
+<p>MGC – no R.E.H.A.B.</p>
+</div>
+<div id="friday-mar.-23" class="section level5">
+<h5>Friday Mar. 23</h5>
+<p>MGC – no R.E.H.A.B.</p>
+</div>
+<div id="friday-mar.-16" class="section level5">
+<h5>Friday Mar. 16</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/03/02/275610">Booker
+and Keightley preprint</a> Understanding the factors that shape patterns
+of nucleotide diversity in the house mouse genome <a
+href="http://disq.us/p/1r3smf5">comment</a></p>
+</div>
+<div id="friday-mar.-9" class="section level5">
+<h5>Friday Mar. 9</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2018/02/12/264101">Filiault
+et al. preprint</a> The Aquilegia genome: adaptive radiation and an
+extraordinarily polymorphic chromosome with a unique history</p>
+</div>
+<div id="friday-mar.-2" class="section level5">
+<h5>Friday Mar. 2</h5>
+<p><a href="https://www.nature.com/articles/s41588-018-0062-7">di Iulio
+et al. 2018</a> The human noncoding genome defined by genetic
+diversity</p>
+</div>
+</div>
+<div id="february-7" class="section level3">
+<h3>February</h3>
+<div id="friday-feb.-23" class="section level5">
+<h5>Friday Feb. 23</h5>
+<p><a href="https://www.ncbi.nlm.nih.gov/pubmed/29346601">Willi et
+al. 2018</a> Accumulation of mutational load at the edges of a species
+range.</p>
+</div>
+<div id="friday-feb.-16" class="section level5">
+<h5>Friday Feb. 16</h5>
+<p><a href="http://www.pnas.org/content/115/2/E334">Huang et
+al. 2018</a> ZmCCT9 enhances maize adaptation to higher latitudes</p>
+</div>
+<div id="friday-feb.-9" class="section level5">
+<h5>Friday Feb. 9</h5>
+<p><a href="http://science.sciencemag.org/content/359/6374/424">Kong et
+al. 2018</a> The nature of nurture: Effects of parental genotypes</p>
+</div>
+<div id="friday-feb.-2" class="section level5">
+<h5>Friday Feb. 2</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.13391/full">Ørsted
+et al. 2017</a> Environmental variation partitioned into separate
+heritable components</p>
+</div>
+</div>
+<div id="january-5" class="section level3">
+<h3>January</h3>
+<div id="friday-jan.-26" class="section level5">
+<h5>Friday Jan. 26</h5>
+<p><a
+href="http://www.genetics.org/content/early/2017/11/10/genetics.117.300498">Hayward
+et al. 2017</a> Evidence for Selection-by-Environment but Not
+Genotype-by-Environment Interactions for Fitness-Related Traits in a
+Wild Mammal Population</p>
+</div>
+<div id="friday-jan.-19" class="section level5">
+<h5>Friday Jan. 19</h5>
+<p><a href="https://www.nature.com/articles/s41588-017-0032-5">Borges et
+al. 2018</a> Transposon-derived small RNAs triggered by miR845 mediate
+genome dosage response in <em>Arabidopsis</em></p>
+</div>
+<div id="friday-jan.-12" class="section level5">
+<h5>Friday Jan. 12</h5>
+<p>No R.E.H.A.B. (lab at Plant and Animal Genome conference)</p>
+</div>
+<div id="friday-jan.-5" class="section level5">
+<h5>Friday Jan. 5</h5>
+<p><a
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2607448/pdf/rsif20080248.pdf">Patwa
+&amp; Wahl 2008</a> The fixation probability of beneficial mutations</p>
+</div>
+</div>
+</div>
+<div id="section-7" class="section level2">
+<h2>2017</h2>
+<div id="december-5" class="section level3">
+<h3>December</h3>
+<div id="dec.-22-29-no-r.e.h.a.b.-happy-holidays"
+class="section level5">
+<h5>Dec. 22, 29 No R.E.H.A.B. – Happy Holidays!</h5>
+</div>
+<div id="friday-dec.-15" class="section level5">
+<h5>Friday Dec. 15</h5>
+<p><a href="http://science.sciencemag.org/content/358/6365/951">Murray
+et al. 2017</a> Natural selection shaped the rise and fall of passenger
+pigeon genomic diversity</p>
+</div>
+<div id="friday-dec.-8" class="section level5">
+<h5>Friday Dec. 8</h5>
+<p><a
+href="http://rstb.royalsocietypublishing.org/content/372/1736/20160471">Comeron
+2017</a> Background selection as null hypothesis in population genomics:
+insights and challenges from Drosophila studies</p>
+</div>
+<div id="friday-dec.-1" class="section level5">
+<h5>Friday Dec. 1</h5>
+<p><a
+href="https://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S0169534717302343">Gienapp
+et al. 2017</a> Genomic Quantitative Genetics to Study Evolution in the
+Wild</p>
+<p>…and a special thanks to John Burke for making me owe Matt Hufford a
+beer.</p>
+</div>
+</div>
+<div id="november-6" class="section level3">
+<h3>November</h3>
+<div id="friday-nov-24" class="section level5">
+<h5>Friday Nov 24</h5>
+<p>No R.E.H.A.B., but in honor of Thanksgiving you can bone up on your
+statistics by learning about <a
+href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C5&amp;as_ylo=2017&amp;q=%22turkey%27s+test%22&amp;btnG=">Turkey’s
+test</a>.</p>
+</div>
+<div id="friday-nov-17" class="section level5">
+<h5>Friday Nov 17</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2017/10/20/206706?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Zan
+and Carlborg preprint</a> Explorations of the polygenic genetic
+architecture of flowering time in the worldwide Arabidopsis thaliana
+population</p>
+</div>
+<div id="friday-nov-10" class="section level5">
+<h5>Friday Nov 10</h5>
+<p><a href="http://science.sciencemag.org/content/358/6361/365">Bosse et
+al. 2017</a> Recent natural selection causes adaptive evolution of an
+avian polygenic trait</p>
+</div>
+<div id="friday-nov-3" class="section level5">
+<h5>Friday Nov 3</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2017/10/20/206482">Schrider
+&amp; Kern preprint</a> Machine Learning for Population Genetics: A New
+Paradigm</p>
+</div>
+</div>
+<div id="october-6" class="section level3">
+<h3>October</h3>
+<div id="friday-oct-27" class="section level5">
+<h5>Friday Oct 27</h5>
+<p><a href="http://www.genetics.org/content/206/4/2139">Osada et
+al. 2017</a> Cis- and Trans-regulatory Effects on Gene Expression in a
+Natural Population of Drosophila melanogaster</p>
+</div>
+<div id="friday-oct-20" class="section level5">
+<h5>Friday Oct 20</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2017/10/13/202481">Lotterhos
+et al. preprint</a> Modular environmental pleiotropy of genes involved
+in local adaptation to climate despite physical linkage</p>
+</div>
+<div id="friday-oct-13" class="section level5">
+<h5>Friday Oct 13</h5>
+<p><a
+href="https://www.biorxiv.org/content/early/2017/10/02/197087">Forsythe
+et al preprint</a> Epistatic interactions drive biased gene retention in
+the face of massive nuclear introgression</p>
+</div>
+<div id="friday-oct-6" class="section level5">
+<h5>Friday Oct 6</h5>
+<p><a href="http://dx.doi.org/10.1038/ng.3862">Salojärvi et al. 2017</a>
+Genome sequencing and population genomic analyses provide insights into
+the adaptive landscape of silver birch.</p>
+</div>
+</div>
+<div id="september-7" class="section level3">
+<h3>September</h3>
+<div id="friday-sept-29" class="section level5">
+<h5>Friday Sept 29</h5>
+<p><a
+href="http://www.biorxiv.org/content/early/2017/08/31/182865">Huber et
+al preprint</a> Gene expression drives the evolution of dominance</p>
+</div>
+<div id="friday-sept-22" class="section level5">
+<h5>Friday Sept 22</h5>
+<p><a
+href="https://academic.oup.com/mbe/article-abstract/doi/10.1093/molbev/msx240/4110473/Modes-of-rapid-polygenic-adaptation?redirectedFrom=fulltext">Jain
+and Stephan 2017</a> Modes of rapid polygenic adaptation</p>
+</div>
+<div id="friday-sept-15" class="section level5">
+<h5>Friday Sept 15</h5>
+<p><a href="">Gage et al. 2017</a> The effect of artificial selection on
+phenotypic plasticity in maize (<a
+href="mailto:rossibarra@ucdavis.edu">email</a> or see lab Slack for
+paper)</p>
+</div>
+<div id="friday-sept-8" class="section level5">
+<h5>Friday Sept 8</h5>
+<p><a
+href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4">Oka
+et al. 2017</a> Genome-wide mapping of transcriptional enhancer
+candidates using DNA and chromatin features in maize</p>
+</div>
+<div id="friday-sept-1" class="section level5">
+<h5>Friday Sept 1</h5>
+<p>R.E.H.A.B. joint paper review. (<a
+href="mailto:rossibarra@ucdavis.edu">email</a> or see lab Slack for
+paper)</p>
+</div>
+</div>
+<div id="august-8" class="section level3">
+<h3>August</h3>
+<div id="friday-aug-25" class="section level5">
+<h5>Friday Aug 25</h5>
+<p><a href="http://www.g3journal.org/content/7/6/1875">Zhang and Gao
+2017</a> Rapid and Recent Evolution of LTR Retrotransposons Drives Rice
+Genome Evolution During the Speciation of AA-Genome Oryza Species</p>
+</div>
+<div id="friday-aug-18" class="section level5">
+<h5>Friday Aug 18</h5>
+<p><a
+href="http://www.cell.com/current-biology/fulltext/S0960-9822(17)30865-5">González-Martínez4
+et al. 2017</a> Range Expansion Compromises Adaptive Evolution in an
+Outcrossing Plant</p>
+</div>
+<div id="friday-aug-11" class="section level5">
+<h5>Friday Aug 11</h5>
+<p><a href="">Hübner et al. 2017</a> The Cultivated Sunflower Pan Genome
+Provides Insights on the Contribution of Introgressions to Breeding of
+Modern Varieties</p>
+</div>
+<div id="friday-aug-4" class="section level5">
+<h5>Friday Aug 4</h5>
+<p>No R.E.H.A.B.</p>
+</div>
+</div>
+<div id="july-10" class="section level3">
+<h3>July</h3>
+<div id="friday-july-28" class="section level5">
+<h5>Friday July 28</h5>
+<p><a
+href="https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msx194">Zan
+et al. 2017</a> Artificial selection response due to polygenic
+adaptation from a multi-locus, multi-allelic genetic architecture</p>
+</div>
+<div id="friday-july-21" class="section level5">
+<h5>Friday July 21</h5>
+<p><a href="http://science.sciencemag.org/content/356/6337/539">Sohail
+et al 2017</a> Negative selection in humans and fruit flies involves
+synergistic epistasis</p>
+</div>
+<div id="friday-july-14" class="section level5">
+<h5>Friday July 14</h5>
+<p><a
+href="https://academic.oup.com/mbe/article-abstract/34/6/1417/3049540/Genetic-Diversity-and-the-Efficacy-of-Purifying?redirectedFrom=PDF">Chen
+et al. 2017</a> Genetic Diversity and the Efficacy of Purifying
+Selection across Plant and Animal Species</p>
+</div>
+<div id="friday-july-7" class="section level5">
+<h5>Friday July 7</h5>
+<p><a
+href="http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0022519300920952">Hurst
+and Randerson 2000</a> Dosage, Deletions and Dominance: Simple Models of
+the Evolution of Gene Expression</p>
+</div>
+</div>
+<div id="june-12" class="section level3">
+<h3>June</h3>
+<div id="friday-june-30" class="section level5">
+<h5>Friday June 30</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/mec.14195/full">Vijay
+et al. 2017</a> Genome-wide patterns of variation in genetic diversity
+are shared among populations, species and higher order taxa</p>
+</div>
+<div id="friday-june-23" class="section level5">
+<h5>Friday June 23</h5>
+<p><a href="http://biorxiv.org/content/early/2017/06/03/145805">Gould et
+al. preprint</a> The Gene Regulatory Landscape of Local Adaptation</p>
+</div>
+<div id="friday-june-16" class="section level5">
+<h5>Friday June 16</h5>
+<p><a href="http://biorxiv.org/content/early/2017/06/03/145755">Zeng et
+al. preprint</a> Widespread signatures of negative selection in the
+genetic architecture of human complex traits</p>
+</div>
+<div id="friday-june-9" class="section level5">
+<h5>Friday June 9</h5>
+<p><a href="https://arxiv.org/abs/1704.06707">Simons et al. 2017</a> A
+model for the genetic architecture of quantitative traits under
+stabilizing selection</p>
+</div>
+<div id="friday-june-2" class="section level5">
+<h5>Friday June 2</h5>
+<p><a href="http://biorxiv.org/content/early/2017/01/02/097642">Walter
+et al. preprint</a> Evolution of genetic variance during adaptive
+radiation</p>
+</div>
+</div>
+<div id="may-11" class="section level3">
+<h3>May</h3>
+<div id="friday-may-26" class="section level5">
+<h5>Friday May 26</h5>
+<p><a href="https://www.nature.com/articles/s41559-017-0119">Lee et
+al. 2017</a> Young inversion with multiple linked QTLs under selection
+in a hybrid zone</p>
+</div>
+<div id="friday-may-19" class="section level5">
+<h5>Friday May 19</h5>
+<p><a
+href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002112">Corbett-Detig
+et al. 2015</a> Natural Selection Constrains Neutral Diversity across A
+Wide Range of Species</p>
+<p><em>AND</em></p>
+<p><a href="http://biorxiv.org/content/early/2016/03/07/042598">Coop
+2016 preprint</a> Does linked selection explain the narrow range of
+genetic diversity across species?</p>
+</div>
+<div id="friday-may-12" class="section level5">
+<h5>Friday May 12</h5>
+<p><a
+href="http://www.pnas.org/content/early/2017/05/03/1616736114.abstract">Durvasula
+et al. 2017</a> African genomes illuminate the early history and
+transition to selfing in Arabidopsis thaliana</p>
+</div>
+<div id="friday-may-5" class="section level5">
+<h5>Friday May 5</h5>
+<p><a
+href="http://www.journals.uchicago.edu/doi/abs/10.1086/690673">Gilbert
+et al. 2017</a> Local Adaptation Interacts with Expansion Load during
+Range Expansion: Maladaptation Reduces Expansion Load</p>
+</div>
+</div>
+<div id="april-9" class="section level3">
+<h3>April</h3>
+<div id="friday-april-28" class="section level5">
+<h5>Friday April 28</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/jeb.13029/full">Gilbert
+and Whitlock 2017</a> The genetics of adaptation to discrete
+heterogeneous environments: frequent mutation or large‐effect alleles
+can allow range expansion</p>
+</div>
+<div id="friday-april-21" class="section level5">
+<h5>Friday April 21</h5>
+<p><a
+href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3810.html?WT.feed_name=subjects_genetics">Huang,
+Gulko &amp; Siepel 2017</a> Fast, scalable prediction of deleterious
+noncoding variants from functional and population genomic data</p>
+</div>
+<div id="friday-april-14" class="section level5">
+<h5>Friday April 14</h5>
+<p><a
+href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3807.html#f1">Wang
+et al. 2017</a> Asymmetric subgenome selection and cis-regulatory
+divergence during cotton domestication</p>
+</div>
+<div id="friday-april-7" class="section level5">
+<h5>Friday April 7</h5>
+<p><a
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730922/">Charlesworth
+2013</a> Stabilizing Selection, Purifying Selection, and Mutational Bias
+in Finite Populations</p>
+</div>
+</div>
+<div id="march-12" class="section level3">
+<h3>March</h3>
+<div id="friday-march-31" class="section level5">
+<h5>Friday March 31</h5>
+<p><a
+href="http://www.nature.com/hdy/journal/v118/n1/full/hdy201698a.html">Franssen
+et al. 2017</a> Uncovering the genetic signature of quantitative trait
+evolution with replicated time series data</p>
+</div>
+<div id="friday-march-24" class="section level5">
+<h5>Friday March 24</h5>
+<p><a
+href="http://biorxiv.org/content/early/2017/03/07/114587">Hermisson
+&amp; Pennings preprint</a> Soft sweeps and beyond: Understanding the
+patterns and probabilities of selection footprints under rapid
+adaptation</p>
+</div>
+<div id="friday-march-17" class="section level5">
+<h5>Friday March 17</h5>
+<p><a
+href="https://rilab.slack.com/archives/papers/p1489556863288990">Brandenburg
+et al 2017</a> Independent introductions and admixtures have contributed
+to adaptation of European maize and its American counterparts</p>
+</div>
+<div id="friday-march-10" class="section level5">
+<h5>Friday March 10</h5>
+<p><a href="http://www.maizegdb.org/maize_meeting/2017/">Maize
+meeting</a> – no R.E.H.A.B.</p>
+</div>
+<div id="friday-march-3" class="section level5">
+<h5>Friday March 3</h5>
+<p><a href="https://www.ncbi.nlm.nih.gov/pubmed/24075201">Messer and
+Petrov 2013</a> Population genomics of rapid adaptation by soft
+selective sweeps.</p>
+</div>
+</div>
+<div id="february-2017" class="section level3">
+<h3>February 2017</h3>
+<div id="friday-feb.-24" class="section level5">
+<h5>Friday Feb. 24</h5>
+<p><a href="http://www.pnas.org/content/113/51/14763.abstract">Robillard
+et al 2016</a> Experimental evolution reveals hyperparasitic
+interactions among transposable elements</p>
+</div>
+<div id="friday-feb.-17" class="section level5">
+<h5>Friday Feb. 17</h5>
+<p><a href="http://www.pnas.org/content/113/43/12226.abstract">Watson et
+al. 2016</a> Germline replications and somatic mutation accumulation are
+independent of vegetative life span in <em>Arabidopsis</em></p>
+</div>
+<div id="friday-feb.-10" class="section level5">
+<h5>Friday Feb. 10</h5>
+<p>Two papers on enhancers and diversity. If short of time, read <a
+href="http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html">Ludwig
+et al.</a> first.</p>
+<p><strong>1)</strong> <a
+href="http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html">Ludwig
+et al. 2000</a> Evidence for stabilizing selection in a eukaryotic
+enhancer element<br />
+<strong>2)</strong> <a
+href="http://biorxiv.org/content/early/2017/01/30/104323">Alexandre et
+al preprint</a> Regulatory DNA in A. thaliana can tolerate high levels
+of sequence divergence</p>
+</div>
+<div id="friday-feb.-3" class="section level5">
+<h5>Friday Feb. 3</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12653/abstract">Wagner
+et al. 2017</a> Spatial detection of outlier loci with Moran eigenvector
+maps (MEM)</p>
+</div>
+</div>
+<div id="january-2017" class="section level3">
+<h3>January 2017</h3>
+<div id="friday-jan-27" class="section level5">
+<h5>Friday Jan 27</h5>
+<p><a href="http://www.biorxiv.org/content/early/2016/11/17/088260">Weir
+and Goudet preprint</a> A unified characterization of population
+structure and relatedness.</p>
+</div>
+<div id="friday-jan-20" class="section level5">
+<h5>Friday Jan 20</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13922/full">Puzey
+et al 2016</a> Population structure and local selection yield high
+genomic variation in Mimulus guttatus</p>
+</div>
+<div id="friday-jan-13" class="section level5">
+<h5>Friday Jan 13</h5>
+<p>PAG - no R.E.H.A.B.</p>
+</div>
+<div id="friday-jan-6" class="section level5">
+<h5>Friday Jan 6</h5>
+<p><a
+href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1127-5">Vidalis
+et al. 2016</a> Methylome evolution in plants</p>
+</div>
+</div>
+</div>
+<div id="section-8" class="section level2">
+<h2>2016</h2>
+<div id="december-2016" class="section level3">
+<h3>December 2016</h3>
+<div id="friday-dec.-30" class="section level5">
+<h5>Friday Dec. 30</h5>
+<p>No R.E.H.A.B. Happy new year!</p>
+</div>
+<div id="friday-dec.-23" class="section level5">
+<h5>Friday Dec. 23</h5>
+<p>No R.E.H.A.B. Happy <a
+href="https://en.wikipedia.org/wiki/Festivus">Festivus</a>!</p>
+</div>
+<div id="friday-dec.-16" class="section level5">
+<h5>Friday Dec. 16</h5>
+<p><a
+href="http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy2016109a.html">Barton
+2016</a> How does epistasis influence the response to selection?</p>
+</div>
+<div id="friday-dec.-9" class="section level5">
+<h5>Friday Dec. 9</h5>
+<p><a
+href="http://biorxiv.org/content/early/2016/11/12/087387">Imprialou et
+al. preprint</a> Genomic Rearrangements Considered as Quantitative
+Traits</p>
+</div>
+<div id="friday-dec-2" class="section level5">
+<h5>Friday Dec 2</h5>
+<p><a href="http://www.nature.com/articles/ncomms13299">Klasen et al
+2016</a> A multi-marker association method for genome-wide association
+studies without the need for population structure correction</p>
+</div>
+</div>
+<div id="november-2016" class="section level3">
+<h3>November 2016</h3>
+<div id="friday-nov-25" class="section level5">
+<h5>Friday Nov 25</h5>
+<p>No R.E.H.A.B. – Turkey Day!</p>
+</div>
+<div id="friday-nov-18" class="section level5">
+<h5>Friday Nov 18</h5>
+<p><a
+href="http://genome.cshlp.org/content/early/2016/10/18/gr.209759.116">Moyerbrailean
+et al. 2016</a> High-throughput allele-specific expression across 250
+environmental conditions</p>
+</div>
+<div id="friday-nov-11" class="section level5">
+<h5>Friday Nov 11</h5>
+<p>No R.E.H.A.B. - Veteran’s Day</p>
+</div>
+<div id="friday-nov-4" class="section level5">
+<h5>Friday Nov 4</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13881/abstract">Gould
+et al. 2016</a> Pooled Ecotype Sequencing Reveals Candidate Genetic
+Mechanisms for Adaptive Differentiation and Reproductive Isolation</p>
+</div>
+</div>
+<div id="october-2016" class="section level3">
+<h3>October 2016</h3>
+<div id="friday-oct-28" class="section level5">
+<h5>Friday Oct 28</h5>
+<p><a href="http://biorxiv.org/content/early/2015/11/14/031740">Phung et
+al preprint</a> Natural selection reduces linked neutral divergence
+between distantly related species</p>
+</div>
+<div id="friday-oct-21" class="section level5">
+<h5>Friday Oct 21</h5>
+<p><a href="http://www.nature.com/articles/ncomms12950">Johnsson</a>
+Feralisation targets different genomic loci to domestication in the
+chicken</p>
+</div>
+<div id="friday-oct-14" class="section level5">
+<h5>Friday Oct 14</h5>
+<p><a href="http://www.genetics.org/content/197/3/939.short">Fraïsse et
+al. 2014</a> Gene-Flow in a Mosaic Hybrid Zone: Is Local Introgression
+Adaptive?</p>
+</div>
+<div id="friday-oct-7" class="section level5">
+<h5>Friday Oct 7</h5>
+<p><a href="http://www.nature.com/articles/nplants201423">Willing et
+al. 2016</a> Genome expansion of Arabis alpina linked with
+retrotransposition and reduced symmetric DNA methylation</p>
+</div>
+</div>
+<div id="september-2016" class="section level3">
+<h3>September 2016</h3>
+<div id="friday-sept-30" class="section level5">
+<h5>Friday Sept 30</h5>
+<p><a
+href="http://www.genetics.org/content/early/2016/09/06/genetics.116.190223">Schrider
+et al. 2016</a> Effects of Linked Selective Sweeps on Demographic
+Inference and Model Selection</p>
+</div>
+<div id="friday-sept-23" class="section level5">
+<h5>Friday Sept 23</h5>
+<p><a href="http://genome.cshlp.org/content/24/8/1348.full">Hughes,
+Langdale, Kelly 2016</a> The impact of widespread regulatory
+neofunctionalization on homeolog gene evolution following whole-genome
+duplication in maize</p>
+</div>
+<div id="friday-sept-16" class="section level5">
+<h5>Friday Sept 16</h5>
+<p><a
+href="http://jhered.oxfordjournals.org/content/early/2016/08/24/jhered.esw050.abstract">Groth
+and Blumenstiel 2016</a> Horizontal transfer can drive a greater
+transposable element load in large populations</p>
+</div>
+<div id="friday-sept-9" class="section level5">
+<h5>Friday Sept 9</h5>
+<p><a
+href="http://www.cell.com/cell/fulltext/S0092-8674(16)31010-8#">Venkataram
+et al 2016</a> Development of a Comprehensive Genotype-to-Fitness Map of
+Adaptation-Driving Mutations in Yeast</p>
+</div>
+<div id="friday-sept-2" class="section level5">
+<h5>Friday Sept 2</h5>
+<p><a
+href="http://genome.cshlp.org/content/early/2016/05/18/gr.202440.115.abstract?papetoc">Uricchio
+et al. 2016</a> Selection and explosive growth alter genetic
+architecture and hamper the detection of causal rare variants</p>
+</div>
+</div>
+<div id="august-2016" class="section level3">
+<h3>August 2016</h3>
+<div id="friday-aug-26" class="section level5">
+<h5>Friday Aug 26</h5>
+<p><a
+href="http://mbe.oxfordjournals.org/content/early/2016/08/10/molbev.msw169">Zhang
+et al. 2016</a> Recombination rate variation, hitchhiking, and
+demographic history shape deleterious load in poplar</p>
+</div>
+<div id="friday-aug-19" class="section level5">
+<h5>Friday Aug 19</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.13262/full">Fransz
+et al. 2016</a> Molecular, genetic and evolutionary analysis of a
+paracentric inversion in Arabidopsis thaliana</p>
+</div>
+<div id="friday-august-12" class="section level5">
+<h5>Friday August 12</h5>
+<p><a
+href="http://www.nature.com/nature/journal/v534/n7606/full/nature17993.html">Fu
+et al 2016</a> The genetic history of Ice Age Europe</p>
+</div>
+<div id="friday-aug-5" class="section level5">
+<h5>Friday Aug 5</h5>
+<p><a
+href="http://www.ncbi.nlm.nih.gov/pubmed/26174143?dopt=Abstract&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Sanseverino
+et al. 2015</a> Transposon Insertions, Structural Variations, and SNPs
+Contribute to the Evolution of the Melon Genome.</p>
+</div>
+</div>
+<div id="july-2016" class="section level3">
+<h3>July 2016</h3>
+<div id="friday-july-29" class="section level5">
+<h5>Friday July 29</h5>
+<p><a
+href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3612.html">Russel
+et al 2016</a> Exome sequencing of geographically diverse barley
+landraces and wild relatives gives insights into environmental
+adaptation</p>
+<p><strong>AND</strong></p>
+<p><a href="http://advances.sciencemag.org/content/1/6/e1400218">Lasky
+et al. 2015</a> Genome-environment associations in sorghum landraces
+predict adaptive traits</p>
+</div>
+<div id="friday-july-22" class="section level5">
+<h5>Friday July 22</h5>
+<p><a
+href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002419">Sharp
+&amp; Agrawal 2016</a> Low Genetic Quality Alters Key Dimensions of the
+Mutational Spectrum</p>
+<p><a href="blogs/22072016.html">blog post</a></p>
+</div>
+<div id="friday-july-15" class="section level5">
+<h5>Friday July 15</h5>
+<p><a
+href="http://www.pnas.org/content/early/2016/06/28/1600405113.abstract">Arnold
+et al. 2016</a> Borrowed alleles and convergence in serpentine
+adaptation</p>
+</div>
+<div id="friday-july-8" class="section level5">
+<h5>Friday July 8</h5>
+<p><a
+href="http://m.mbe.oxfordjournals.org/content/early/2015/03/26/molbev.msv033.full">Bailey
+et a 2015</a> The Effect of Selection Environment on the Probability of
+Parallel Evolution</p>
+</div>
+<div id="friday-july-1" class="section level5">
+<h5>Friday July 1</h5>
+<p><a
+href="http://link.springer.com/protocol/10.1007%2F978-1-61779-585-5_6">Zhena
+and Andolfatto 2012</a> Methods to Detect Selection on Noncoding DNA</p>
+</div>
+</div>
+<div id="june-2016" class="section level3">
+<h3>June 2016</h3>
+<div id="friday-june-24-2016" class="section level5">
+<h5>Friday June 24 2016</h5>
+<p><a href="https://elifesciences.org/content/5/e15716">Quadrana et
+al</a> The Arabidopsis thaliana mobilome and its impact at the species
+level</p>
+</div>
+<div id="friday-june-17-2016" class="section level5">
+<h5>Friday June 17 2016</h5>
+<p><a
+href="http://www.cell.com/cell/abstract/S0092-8674(16)30667-5">1001
+Genomes Consortium</a> 1,135 Genomes Reveal the Global Pattern of
+Polymorphism in Arabidopsis thaliana</p>
+</div>
+<div id="friday-june-10-2016" class="section level5">
+<h5>Friday June 10 2016</h5>
+<p><a href="http://m.genome.cshlp.org/content/26/6/787">Cardoso-Moreira
+et al. 2016</a> Evidence for the fixation of gene duplications by
+positive selection in Drosophila</p>
+</div>
+<div id="friday-june-3-2016" class="section level5">
+<h5>Friday June 3 2016</h5>
+<p><a
+href="https://rilab.slack.com/files/jri/F1CQU52JX/th162_curbioreport_300516-2.pdf">Wales
+et al. 2016</a> Genome sequence of a 5300-year-old maize cob recovered
+from the Tehuacan Valley provides insights into the early stages of
+maize domestication</p>
+</div>
+</div>
+<div id="may-2016" class="section level3">
+<h3>May 2016</h3>
+<div id="friday-may-27-2016" class="section level5">
+<h5>Friday May 27 2016</h5>
+<p><a
+href="http://www.journals.uchicago.edu/doi/pdfplus/10.1086/685643">Paccard
+et al 2016</a> Quantitative Genetic Architecture at Latitudinal Range
+Boundaries: Reduced Variation but Higher Trait Independence</p>
+</div>
+<div id="friday-may-20-2016" class="section level5">
+<h5>Friday May 20 2016</h5>
+<p><a
+href="http://www.genetics.org/content/early/2016/04/18/genetics.116.188102">Keightley
+et al 2016</a> Inferring the Frequency Spectrum of Derived Variants to
+Quantify Adaptive Molecular Evolution in Protein-Coding Genes of
+Drosophila melanogaster</p>
+</div>
+<div id="friday-may-13-2016" class="section level5">
+<h5>Friday May 13 2016</h5>
+<p><a
+href="http://biorxiv.org/content/early/2016/04/25/050203">Exposito-Alonso
+et al preprint</a> The rate and effect of de novo mutations in natural
+populations of Arabidopsis thaliana</p>
+</div>
+<div id="friday-may-6-2016" class="section level5">
+<h5>Friday May 6 2016</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13573/abstract?wol1URL=/doi/10.1111/mec.13573/abstract&amp;regionCode=US-CA&amp;identityKey=77f2fe64-6ec1-4c14-a95a-63aa4a9960d1">Kelley
+et al 2016</a> The multivariate association between genomewide DNA
+methylation and climate across the range of Arabidopsis thaliana</p>
+</div>
+<div id="friday-april-29-2016" class="section level5">
+<h5>Friday April 29 2016</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12913/abstract">Roles
+et al. 2016</a> Field measurements of genotype by environment
+interaction for fitness caused by spontaneous mutations in Arabidopsis
+thaliana</p>
+</div>
+</div>
+<div id="april-2016" class="section level3">
+<h3>April 2016</h3>
+<div id="friday-april-22-2016" class="section level5">
+<h5>Friday April 22 2016</h5>
+<p><a href="http://biorxiv.org/content/early/2016/04/15/048819">Sanjak
+et al. preprint</a> The Genetic Architecture of a Complex Trait is more
+Sensitive to Genetic Model than Population Growth</p>
+</div>
+<div id="friday-april-15-2016" class="section level5">
+<h5>Friday April 15 2016</h5>
+<p>Novikova et al. manuscript (see #papers channel on slack for pdf)</p>
+</div>
+<div id="friday-april-8-2016" class="section level5">
+<h5>Friday April 8 2016</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13619/full">He and
+Knowles 2016</a> Identifying targets of selection in mosaic genomes with
+machine learning: applications in Anopheles gambiae for detecting sites
+within locally adapted chromosomal inversions</p>
+</div>
+<div id="friday-april-1-2016" class="section level5">
+<h5>Friday April 1 2016</h5>
+<p><a
+href="http://www.genetics.org/content/early/2016/03/21/genetics.115.184630">Lolle
+et al. 2005</a> Genome-wide non-mendelian inheritance of extra-genomic
+information in Arabidopsis.</p>
+</div>
+</div>
+<div id="march-2016" class="section level3">
+<h3>March 2016</h3>
+<div id="friday-mar-25" class="section level5">
+<h5>Friday Mar 25</h5>
+<p><a
+href="http://biorxiv.org/content/early/2016/03/12/043430">Marschall et
+al. preprint</a> Computational Pan-Genomics: Status, Promises and
+Challenges</p>
+</div>
+<div id="friday-mar-18" class="section level5">
+<h5>Friday Mar 18</h5>
+<p>No R.E.H.A.B. (Maize Meeting!)</p>
+</div>
+<div id="friday-mar-11" class="section level5">
+<h5>Friday Mar 11</h5>
+<p><a href="http://www.pnas.org/content/109/47/19345.short">Lamichhaney
+et al. 2012</a> Population-scale sequencing reveals genetic
+differentiation due to local adaptation in Atlantic herring</p>
+</div>
+<div id="friday-mar-4" class="section level5">
+<h5>Friday Mar 4</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/ele.12376/abstract">Keller
+and Fitzpatrick 2014</a> Ecological genomics meets community-level
+modelling of biodiversity: mapping the genomic landscape of current and
+future environmental adaptation</p>
+</div>
+</div>
+<div id="february-2016" class="section level3">
+<h3>February 2016</h3>
+<div id="fri.-feb-26" class="section level5">
+<h5>Fri. Feb 26</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12687/abstract">Rausher
+and Delph 2015</a> When does understanding phenotypic evolution require
+identification of the underlying genes?</p>
+</div>
+<div id="fri.-feb-19-2016" class="section level5">
+<h5>Fri. Feb 19 2016</h5>
+<p><a
+href="http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0867-y">Gao
+et al 2015</a> Landscape and evolutionary dynamics of terminal repeat
+retrotransposons in miniature in plant genomes</p>
+</div>
+<div id="fri.-feb-12-2016" class="section level5">
+<h5>Fri. Feb 12 2016</h5>
+<p><a
+href="http://genetics.org/content/early/2014/06/26/genetics.114.165282.full-text.pdf+html">Mäki-Tanila
+and Hill</a> Influence of Gene Interaction on Complex Trait Variation
+with Multi-Locus Models</p>
+</div>
+<div id="fri.-feb-5-2016" class="section level5">
+<h5>Fri. Feb 5 2016</h5>
+<p><a
+href="http://biorxiv.org/content/biorxiv/early/2015/10/02/028175.full.pdf">Sheehan
+and Song preprint</a> Deep learning for population genetic inference</p>
+</div>
+</div>
+<div id="january-2016" class="section level3">
+<h3>January 2016</h3>
+<div id="fri.-jan-29-2016" class="section level5">
+<h5>Fri. Jan 29 2016</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/26569123">Lamichhaney et
+al. 2016</a> Structural genomic changes underlie alternative
+reproductive strategies in the ruff (Philomachus pugnax).</p>
+</div>
+<div id="fri.-jan-22-2016" class="section level5">
+<h5>Fri. Jan 22 2016</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13288/epdf">Stephan
+2016</a> Signatures of positive selection: from selective sweeps
+atindividual loci to subtle allele frequency changes inpolygenic
+adaptation</p>
+</div>
+<div id="fri.-jan-15-2016" class="section level5">
+<h5>Fri. Jan 15 2016</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/23078229">Bainard et
+al. 2012</a> A multivariate analysis of variation in genome size and
+endoreduplication in angiosperms reveals strong phylogenetic signal and
+association with phenotypic traits</p>
+</div>
+<div id="fri.-jan-8-2016" class="section level5">
+<h5>Fri. Jan 8 2016</h5>
+<p><a
+href="http://www.pnas.org/content/early/2015/12/17/1512501113.long">Marsden
+et al. 2015</a> Bottlenecks and selective sweeps during domestication
+have increased deleterious genetic variation in dogs</p>
+</div>
+</div>
+</div>
+<div id="section-9" class="section level2">
+<h2>2015</h2>
+<div id="december-2015" class="section level3">
+<h3>December 2015</h3>
+<div id="fri.-dec.-18-2015" class="section level5">
+<h5>Fri. Dec. 18 2015</h5>
+<p><a href="http://biorxiv.org/content/early/2015/12/10/034025">Steige
+et al. preprint</a> The impact of natural selection on the distribution
+of cis-regulatory variation across the genome of an outcrossing
+plant</p>
+</div>
+<div id="fri.-dec.-11-2015" class="section level5">
+<h5>Fri. Dec. 11 2015</h5>
+<p><a
+href="http://gbe.oxfordjournals.org/content/early/2015/11/24/gbe.evv230.short?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Mascagni
+et al. 2015</a> Repetitive DNA and plant domestication: variation in
+copy number and proximity to genes of LTR-retrotransposons among wild
+and cultivated sunflower (Helianthus annuus) genotypes.</p>
+</div>
+<div id="fri.-dec.-4-2015" class="section level5">
+<h5>Fri. Dec. 4 2015</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/26374707">Remington
+2015</a> Alleles versus mutations: Understanding the evolution of
+genetic architecture requires a molecular perspective on allelic
+origins.</p>
+</div>
+</div>
+<div id="november-2015" class="section level3">
+<h3>November 2015</h3>
+<div id="fri.-nov.-27-2015" class="section level5">
+<h5>Fri. Nov. 27 2015</h5>
+<p>No R.E.H.A.B. for the holidays. But you can get your fill of <a
+href="http://www.biomedcentral.com/1471-2156/15/117/">turkey popgen</a>
+nonetheless.</p>
+</div>
+<div id="fri.-nov.-20-2015" class="section level5">
+<h5>Fri. Nov. 20 2015</h5>
+<p><a
+href="https://github.com/RILAB/beissinger_ms/raw/master/manuscript_submit.pdf">Beissinger
+et al. 2015</a> Recent demography drives changes in linked selection
+across the maize genome</p>
+</div>
+<div id="fri.-nov.-13-2015" class="section level5">
+<h5>Fri. Nov. 13 2015</h5>
+<p><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005594">van
+Heerwaarden et al. 2015</a> Genome-Wide Association Analysis of
+Adaptation Using Environmentally Predicted Traits</p>
+</div>
+<div id="fri.-nov.-6-2015" class="section level5">
+<h5>Fri. Nov. 6 2015</h5>
+<p><a href="http://www.jstor.org/stable/10.1086/680552">Scheiner et
+al. 2015</a> The Genetics of Phenotypic Plasticity. XIV. Coevolution</p>
+</div>
+</div>
+<div id="october-2015" class="section level3">
+<h3>October 2015</h3>
+<div id="fri.-oct.-30-2015" class="section level5">
+<h5>Fri. Oct. 30 2015</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581964/">Chevin
+and Hospital 2008</a> (AGAIN!) Selective Sweep at a Quantitative Trait
+Locus in the Presence of Background Genetic Variation</p>
+</div>
+<div id="fri.-oct.-23-2015" class="section level5">
+<h5>Fri. Oct. 23 2015</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581964/">Chevin
+and Hospital 2008</a> Selective Sweep at a Quantitative Trait Locus in
+the Presence of Background Genetic Variation</p>
+</div>
+<div id="fri.-oct.-16-2015" class="section level5">
+<h5>Fri. Oct. 16 2015</h5>
+<p><a
+href="http://www.sciencemag.org/content/349/6250/aab3884.full.pdf">Raghavan
+et al. 2015</a> Genomic evidence for the Pleistocene and recent
+population history of Native Americans</p>
+<p><strong>AND</strong></p>
+<p><a
+href="http://www.nature.com/articles/nature14895.epdf?referrer_access_token=tF-nTz-prCDEH27ShnkdPdRgN0jAjWel9jnR3ZoTv0N6yB-nEyCdRoL51ykMO5E91orKw8mXMzuxoORJJBQhEqcxnwkIiI9eF80kfbg_ZrqmuZw6FTNFC8G_t31NWwGTUNhn_xmpabdr3EDodtD6tQ4AqlmsBeTdeFjIrgbc4bKOCYfPhWfbbNt9PySbQ_si&amp;tracking_referrer=www.bbc.com">Skoglund
+et al. 2015</a> Genetic evidence for two founding populations of the
+Americas</p>
+</div>
+<div id="fri.-oct.-9-2015" class="section level5">
+<h5>Fri. Oct. 9 2015</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/24782890">Heath and
+Nuismer 2014</a> Connecting functional and statistical definitions of
+genotype by genotype interactions in coevolutionary studies</p>
+</div>
+<div id="fri.-oct.-2-2015" class="section level5">
+<h5>Fri. Oct. 2 2015</h5>
+<p><a href="http://www.pnas.org/content/112/35/E4959.long">Wang et
+al. 2015</a> Hybrid mimics and hybrid vigor in Arabidopsis</p>
+<p><a href="http://www.rilab.org/blogs/02102015.html">blog post</a></p>
+</div>
+</div>
+<div id="september-2015" class="section level3">
+<h3>September 2015</h3>
+<div id="fri.-sept.-25-2015" class="section level5">
+<h5>Fri. Sept. 25 2015</h5>
+<p><a
+href="http://people.oregonstate.edu/~arnoldst/pdf_files/Lande%20&amp;%20Arnold%201983.pdf">Lande
+and Arnold 1983</a> The measurement of selection on correlated
+characters</p>
+</div>
+<div id="fri.-sept.-18-2015" class="section level5">
+<h5>Fri. Sept. 18 2015</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003258">Thornton
+et al. 2013</a> Properties and Modeling of GWAS when Complex Disease
+Risk Is Due to Non-Complementing, Deleterious Mutations in Genes of
+Large Effect</p>
+</div>
+<div id="fri.-sept.-11-2015" class="section level5">
+<h5>Fri. Sept. 11 2015</h5>
+<p><a href="http://mbe.oxfordjournals.org/content/32/9/2273">Renaut and
+Reiseberg 2015</a> The Accumulation of Deleterious Mutations as a
+Consequence of Domestication and Improvement in Sunflowers and Other
+Compositae Crops</p>
+</div>
+<div id="fri.-sept.-4-2015" class="section level5">
+<h5>Fri. Sept. 4 2015</h5>
+<p><a href="http://biorxiv.org/content/early/2015/08/20/024950">Kuester
+et al. preprint</a> A resurrection experiment finds evidence of both
+reduced genetic diversity and adaptive evolution in the agricultural
+weed Ipomoea purpurea</p>
+</div>
+</div>
+<div id="august-2015" class="section level3">
+<h3>August 2015</h3>
+<div id="fri.-aug.-28-2015" class="section level5">
+<h5>Fri. Aug. 28 2015</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12677/abstract">Weis
+et al. 2015</a> Hard and soft selection on phenology through seasonal
+shifts in the general and social environments: A study on plant
+emergence time</p>
+</div>
+<div id="fri.-aug.-21-2015" class="section level5">
+<h5>Fri. Aug. 21 2015</h5>
+<p><a
+href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131422">Snir
+et al. 2015</a> The Origin of Cultivation and Proto-Weeds, Long Before
+Neolithic Farming</p>
+</div>
+<div id="fri.-aug.-14-2015" class="section level5">
+<h5>Fri. Aug. 14 2015</h5>
+<p><a href="http://elifesciences.org/content/4/e05255">Dubin et
+al. 2015</a> DNA methylation in Arabidopsis has a genetic basis and
+shows evidence of local adaptation</p>
+</div>
+<div id="fri.-aug.-7-2015" class="section level5">
+<h5>Fri. Aug. 7 2015</h5>
+<p><a
+href="http://biorxiv.org/content/early/2015/06/27/021600">Castellano et
+al. preprint</a> Adaptive evolution is substantially impeded by
+Hill-Robertson interference in Drosophila</p>
+</div>
+</div>
+<div id="july-2015" class="section level3">
+<h3>July 2015</h3>
+<div id="fri.-july-31-2015" class="section level5">
+<h5>Fri. July 31 2015</h5>
+<p><strong>Myriad Mutation Models: Three papers on heterozygote impacts
+on mutation</strong></p>
+<p><a
+href="http://www.nature.com/nature/journal/v523/n7561/full/nature14649.html">Yang
+et al. 2015</a> Parent–progeny sequencing indicates higher mutation
+rates in heterozygotes</p>
+<p><a
+href="http://mbe.oxfordjournals.org/content/27/2/409.abstract">Hollister
+et al. 2010</a> Indel-Associated Mutation Rate Varies with Mating System
+in Flowering Plants</p>
+<p><a
+href="http://www.nature.com/nature/journal/v455/n7209/abs/nature07175.html">Tian
+et al. 2008</a> Single-nucleotide mutation rate increases close to
+insertions/deletions in eukaryotes</p>
+</div>
+<div id="fri.-july-24-2015" class="section level5">
+<h5>Fri. July 24 2015</h5>
+<p><a href="http://arxiv.org/abs/1412.1243">Mazet et al. 2015</a>
+Demographic inference using genetic data from a single individual:
+separating population size variation from population structure</p>
+</div>
+<div id="fri.-july-17-2015" class="section level5">
+<h5>Fri. July 17 2015</h5>
+<p><a
+href="http://www.nature.com/hdy/journal/v115/n1/full/hdy201518a.html">Oakley
+et al 2015</a> Heterosis and outbreeding depression in crosses between
+natural populations of Arabidopsis thaliana</p>
+</div>
+<div id="fri.-july-10-2015" class="section level5">
+<h5>Fri. July 10 2015</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12698/abstract">Monnahan
+et al. 2015</a> A genomic selection component analysis characterizes
+migration-selection balance</p>
+</div>
+<div id="fri.-july-3-2015" class="section level5">
+<h5>Fri. July 3 2015</h5>
+<p><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005323">Fierst
+et al. 2015</a> Reproductive Mode and the Evolution of Genome Size and
+Structure in Caenorhabditis Nematodes</p>
+</div>
+</div>
+<div id="june-2015" class="section level3">
+<h3>June 2015</h3>
+<div id="fri.-june-26-2015" class="section level5">
+<h5>Fri. June 26 2015</h5>
+<p><a href="http://m.pnas.org/content/112/20/E2658.abstract">Asaf et
+al. 2015</a> Obstruction of adaptation in diploids by recessive,
+strongly deleterious alleles</p>
+</div>
+<div id="fri.-june-19-2015" class="section level5">
+<h5>Fri. June 19 2015</h5>
+<p><a
+href="http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf">Mafessoni
+and Lachman preprint</a> Selective strolls: fixation and extinction in
+diploids are slower for weakly selected mutations than for neutral
+ones</p>
+</div>
+<div id="fri.-june-12-2015" class="section level5">
+<h5>Fri. June 12 2015</h5>
+<p><a
+href="http://sysbio.oxfordjournals.org/content/early/2015/04/17/sysbio.syv023.long">Pease
+and Hahn 2015</a> Detection and Polarization of Introgression in a
+Five-taxon Phylogeny</p>
+</div>
+<div id="fri.-june-5-2015" class="section level5">
+<h5>Fri. June 5 2015</h5>
+<p><a
+href="http://www.jstor.org/stable/4253844?seq=1#page_scan_tab_contents">Wilkes
+1977</a> Hybridization of Maize and Teosinte, in Mexico and Guatemala
+and the Improvement of Maize</p>
+</div>
+</div>
+<div id="may-2015" class="section level3">
+<h3>May 2015</h3>
+<div id="fri.-may-29-2015" class="section level5">
+<h5>Fri. May 29, 2015</h5>
+<p><a href="http://www.pnas.org/content/112/21/6676.abstract">Van der
+Graf 2015</a> Rate, spectrum, and evolutionary dynamics of spontaneous
+epimutations.</p>
+</div>
+<div id="fri.-may-22-2015" class="section level5">
+<h5>Fri. May 22, 2015</h5>
+<p><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005201">Monnahan
+and Kelly 2015</a> Epistasis Is a Major Determinant of the Additive
+Genetic Variance in Mimulus guttatus</p>
+</div>
+<div id="fri.-may-15-2015" class="section level5">
+<h5>Fri. May 15, 2015</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/23307902">Mathieson and
+McVean 2013</a> Estimating selection coefficients in spatially
+structured populations from time series data of allele frequencies</p>
+</div>
+<div id="fri.-may-8-2015" class="section level5">
+<h5>Fri. May 8, 2015</h5>
+<p><a href="http://biorxiv.org/content/early/2015/04/29/018721">Sheng et
+al. preprint</a> Standing genetic variation as a major contributor to
+adaptation in the Virginia chicken lines selection experiment</p>
+</div>
+<div id="fri.-may-1-2015" class="section level5">
+<h5>Fri. May 1, 2015</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12661/abstract;jsessionid=0A4565C367B1ED7DA47A6F1989FF4009.f02t02">Fishman
+and Kelly 2015</a> Centromere–associated meiotic drive and female
+fitness variation in Mimulus</p>
+<p><a href="blogs/01052015.html">blog post</a></p>
+</div>
+</div>
+<div id="april-2015" class="section level3">
+<h3>April 2015</h3>
+<div id="fri.-april-24-2015" class="section level5">
+<h5>Fri. April 24, 2015</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12627/abstract;jsessionid=1E212DDEDBAC6D87C26FC8A5FA7F134F.f03t02">Agren
+et al. 2014</a> No evidence that sex and transposable elements drive
+genome size variation in evening primroses</p>
+</div>
+<div id="fri.-april-17-2015" class="section level5">
+<h5>Fri. April 17, 2015</h5>
+<p><a href="http://www.pnas.org/content/112/9/2806.abstract">Douglas et
+al. 2015</a> Hybrid origins and the earliest stages of diploidization in
+the highly successful recent polyploid Capsella bursa-pastoris</p>
+</div>
+<div id="fri.-april-10-2015" class="section level5">
+<h5>Fri. April 10, 2015</h5>
+<p>No R.E.H.A.B. Come to the <a
+href="http://plantbreeding2015.ucdavis.edu/">UCDavis Plant Breeding
+Symposium</a> instead.</p>
+</div>
+<div id="fri.-april-3-2015" class="section level5">
+<h5>Fri. April 3, 2015</h5>
+<p>Romero et al. SeeDs manuscript (email Jeff for the URL).</p>
+</div>
+</div>
+<div id="march-2015" class="section level3">
+<h3>March 2015</h3>
+<div id="fri.-march-27-2015" class="section level5">
+<h5>Fri. March 27, 2015</h5>
+<p>Cesar Chavez Day; university closed. No R.E.H.A.B.</p>
+</div>
+<div id="fri.-march-20-2015" class="section level5">
+<h5>Fri. March 20, 2015</h5>
+<p><a
+href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3215.html">Jeffares
+et al 2015</a> The genomic and phenotypic diversity of
+Schizosaccharomyces pombe</p>
+</div>
+<div id="fri.-march-13-2015" class="section level5">
+<h5>Fri. March 13, 2015</h5>
+<p>NO R.E.H.A.B. – <a
+href="http://www.maizegdb.org/maize_meeting/2015/">MGC</a> baby!</p>
+</div>
+<div id="fri.-march-6-2015" class="section level5">
+<h5>Fri. March 6, 2015</h5>
+<p><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004775">Bergland
+et al 2014</a> Genomic Evidence of Rapid and Stable Adaptive
+Oscillations over Seasonal Time Scales in Drosophila</p>
+</div>
+</div>
+<div id="february-2015" class="section level3">
+<h3>February 2015</h3>
+<div id="fri.-feb.-27-2015" class="section level5">
+<h5>Fri. Feb. 27, 2015</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437465/">Brown
+and Levin 2011</a> Social dilemmas among supergenes: intragenomic sexual
+conflict and a selfing solution in Oenothera</p>
+</div>
+<div id="fri.-feb.-20-2015" class="section level5">
+<h5>Fri. Feb. 20, 2015</h5>
+<p><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004527">Huang
+et al 2014</a> Genome-Wide Patterns of Genetic Variation within and
+among Alternative Selective Regimes</p>
+</div>
+<div id="fri.-feb.-13-2015" class="section level5">
+<h5>Fri. Feb. 13, 2015</h5>
+<p>Li et al. Methylation manuscript. (printed version available from
+JRI).</p>
+</div>
+<div id="fri.-feb.-6-2015" class="section level5">
+<h5>Fri. Feb. 6, 2015</h5>
+<p>Rodgers-Melnick et al. Recombination manuscript. (printed version
+available from JRI).</p>
+</div>
+</div>
+<div id="january-2015" class="section level3">
+<h3>January 2015</h3>
+<div id="fri.-jan-30-2015" class="section level5">
+<h5>Fri. Jan 30, 2015</h5>
+<p><a
+href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004410">Brandvain
+et al. 2014</a> Speciation and Introgression between Mimulus nasutus and
+Mimulus guttatus</p>
+</div>
+<div id="fri.-jan-23-2015" class="section level5">
+<h5>Fri. Jan 23, 2015</h5>
+<p><a
+href="http://www.pnas.org/content/early/2015/01/07/1423275112.abstract">Charlesworth
+2015</a> Causes of natural variation in fitness: Evidence from studies
+of Drosophila populations</p>
+</div>
+<div id="fri.-jan-16-2015" class="section level5">
+<h5>Fri. Jan 16, 2015</h5>
+<p><a href="http://www.jstor.org/stable/2395303">Antonovics 1976</a> The
+nature of limits to natural selection.</p>
+</div>
+<div id="fri.-jan-9-2015" class="section level5">
+<h5>Fri. Jan 9, 2015</h5>
+<p><a href="http://www.sciencemag.org/content/342/6164/1364">Wiser et
+al. 2013</a> Long-Term Dynamics of Adaptation in Asexual Populations</p>
+</div>
+<div id="fri.-jan-2-2015" class="section level5">
+<h5>Fri. Jan 2, 2015</h5>
+<p>No R.E.H.A.B., but celebrate the new year in plant genomics by <a
+href="http://www.nespal.org/peng_lab/papers/S1687537008742304.pdf">reading
+up on cotton</a>, including the C-genome species that are 2015 megabases
+in size.</p>
+</div>
+</div>
+</div>
+<div id="section-10" class="section level2">
+<h2>2014</h2>
+<div id="december-2014" class="section level3">
+<h3>December 2014</h3>
+<div id="fri.-dec.-26-2014" class="section level5">
+<h5>Fri. Dec. 26, 2014</h5>
+<p>No R.E.H.A.B., but feel free to get your plant genomics fix by
+reading up on the <a
+href="http://www.nature.com/nature/journal/v497/n7451/full/nature12211.html">Christmas
+Tree genome</a></p>
+</div>
+<div id="fri.-dec.-19-2014" class="section level5">
+<h5>Fri. Dec. 19, 2014</h5>
+<p>R.E.H.A.B. unexpectedly cancelled due to lab partying
+(seriously).</p>
+</div>
+<div id="fri.-dec.-12-2014" class="section level5">
+<h5>Fri. Dec. 12, 2014</h5>
+<p><a
+href="http://biorxiv.org/content/biorxiv/early/2014/09/29/009456.full.pdf">Poh
+et al. preprint</a> On the prospect of identifying adaptive loci in
+recently bottlenecked populations</p>
+</div>
+<div id="fri.-dec.-5-2014" class="section level5">
+<h5>Fri. Dec. 5, 2014</h5>
+<p><a
+href="http://www.sciencedirect.com/science/article/pii/S0002929714003899">Fu
+et al. 2014</a> Characteristics of Neutral and Deleterious
+Protein-Coding Variation among Individuals and Populations</p>
+</div>
+</div>
+<div id="november-2014" class="section level3">
+<h3>November 2014</h3>
+<div id="fri.-nov.-28-2014" class="section level5">
+<h5>Fri. Nov. 28, 2014</h5>
+<p>No REHAB. But that doesn’t meant you can’t get a second helping of <a
+href="http://ps.oxfordjournals.org/content/93/2/479.short">turkey
+genomics</a> should you so desire.</p>
+</div>
+<div id="fri.-nov.-21-2014" class="section level5">
+<h5>Fri. Nov. 21, 2014</h5>
+<p><a
+href="https://github.com/rossibarra/hilo_paper/blob/master/HighLow.pdf?raw=true">Takuno
+et al. in prep</a> Independent molecular basis of convergent highland
+adaptation in maize</p>
+</div>
+<div id="fri.-nov.-14-2014" class="section level5">
+<h5>Fri. Nov. 14, 2014</h5>
+<p><a href="http://biorxiv.org/content/early/2014/10/30/010934">Gravel
+preprint</a> When is selection effective?</p>
+</div>
+<div id="fri.-nov.-7-2014" class="section level5">
+<h5>Fri. Nov. 7, 2014</h5>
+<p><a href="http://www.pnas.org/content/111/21/7713.abstract">Hough et
+al. 2014</a>. Genetic degeneration of old and young Y chromosomes in the
+flowering plant Rumex hastatulus.</p>
+</div>
+</div>
+<div id="october-2014" class="section level3">
+<h3>October 2014</h3>
+<div id="fri.-oct-31-2014" class="section level5">
+<h5>Fri. Oct 31, 2014</h5>
+<p><a
+href="http://www.nature.com/ng/journal/v46/n8/pdf/ng.3015.pdf">Schiffels
+&amp; Durbin</a>. Inferring human population size and separation history
+from multiple genome sequences.</p>
+</div>
+<div id="fri.-oct-24-2014" class="section level5">
+<h5>Fri. Oct 24, 2014</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030163">Caicedo
+et al. 2007</a>. Genome-Wide Patterns of Nucleotide Polymorphism in
+Domesticated Rice</p>
+</div>
+<div id="fri.-oct.-17-2014" class="section level5">
+<h5>Fri. Oct. 17, 2014</h5>
+<p><a
+href="http://biorxiv.org/content/biorxiv/early/2014/10/01/009837.full.pdf">Crawford
+et al. preprint</a> Reticulate speciation and adaptive introgression in
+the Anopheles gambiae species complex</p>
+</div>
+<div id="fri.-oct.-10-2014" class="section level5">
+<h5>Fri. Oct. 10, 2014</h5>
+<p><a href="http://biorxiv.org/content/early/2014/08/20/001347">Martin
+et al preprint</a>. Evaluating the use of ABBA-BABA statistics to locate
+introgressed loci.</p>
+</div>
+<div id="fri.-oct.-3-2014" class="section level5">
+<h5>Fri. Oct. 3, 2014</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/25158800">Huber et
+al. 2014</a> Keeping it Local: Evidence for Positive Selection in
+Swedish Arabidopsis thaliana.</p>
+</div>
+</div>
+<div id="september-2014" class="section level3">
+<h3>September 2014</h3>
+<div id="fri.-sept.-26-2014" class="section level5">
+<h5>Fri. Sept. 26, 2014</h5>
+<p><a
+href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13685.html?WT.ec_id=NATURE-20140821">Romiguier
+et al. 2014</a> Comparative population genomics in animals uncovers the
+determinants of genetic diversity</p>
+</div>
+<div id="fri.-sept.-19-2014" class="section level5">
+<h5>Fri. Sept. 19, 2014</h5>
+<p><a
+href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13726.html">Brawand
+et al. 2014</a> The genomic substrate for adaptive radiation in African
+cichlid fish</p>
+</div>
+<div id="fri.-sept-12-2014" class="section level5">
+<h5>Fri. Sept 12, 2014</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0020148">Spencer
+et al. 2006</a> The Influence of Recombination on Human Genetic
+Diversity</p>
+</div>
+<div id="fri.-sept-5-2014" class="section level5">
+<h5>Fri. Sept 5, 2014</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003519">Carneiro
+et al. 2014</a> The Genomic Architecture of Population Divergence
+between Subspecies of the European Rabbit.</p>
+</div>
+</div>
+<div id="august-2014" class="section level3">
+<h3>August 2014</h3>
+<div id="fri.-aug-30-2014" class="section level5">
+<h5>Fri. Aug 30, 2014</h5>
+<p><a
+href="http://www.nature.com/ncomms/2014/140812/ncomms5611/full/ncomms5611.html">Kelley
+et al. 2014</a> Compact genome of the Antarctic midge is likely an
+adaptation to an extreme environment.</p>
+</div>
+<div id="fri.-aug-23-2014" class="section level5">
+<h5>Fri. Aug 23, 2014</h5>
+<p><a
+href="http://www.genetics.org/content/early/2014/07/23/genetics.114.165571.abstract">Wilson
+et al. 2014</a>. Soft Selective Sweeps in Complex Demographic
+Scenarios.</p>
+</div>
+<div id="fri.-aug-16-2014" class="section level5">
+<h5>Fri. Aug 16, 2014</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004434">Comeron
+2014</a>. Background Selection as Baseline for Nucleotide Variation
+across the Drosophila Genome</p>
+</div>
+<div id="fri.-aug-9-2014" class="section level5">
+<h5>Fri. Aug 9, 2014</h5>
+<p><a
+href="http://genome.cshlp.org/content/early/2014/05/02/gr.164822.113.full.pdf">Enard
+et al. 2014</a>. Genome-wide signals of positive selection in human
+evolution</p>
+</div>
+<div id="fri.-aug-1-2014" class="section level5">
+<h5>Fri. Aug 1, 2014</h5>
+<p><a
+href="http://www.nature.com/nature/journal/v511/n7509/full/nature13301.html">Arnegard
+et al. 2014</a>. Genetics of ecological divergence during speciation</p>
+</div>
+</div>
+<div id="july-2014" class="section level3">
+<h3>July 2014</h3>
+<div id="fri.-july-25-2014" class="section level5">
+<h5>Fri. July 25, 2014</h5>
+<p><strong>Special double genome delux!</strong> <a
+href="http://www.nature.com/nature/journal/v510/n7505/full/nature13308.html">Myburg
+et al. 2014</a>. The genome of Eucalyptus grandis <strong>and</strong>
+<a
+href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3008.html">Schmutz
+et al. 2014</a> A reference genome for common bean and genome-wide
+analysis of dual domestications</p>
+</div>
+<div id="fri.-july-18-2014" class="section level5">
+<h5>Fri. July 18, 2014</h5>
+<p><a
+href="http://elifesciences.org/content/early/2014/06/17/eLife.02792">Macadangdang
+et al. 2014</a>. Evolution of histone 2A for chromatin compaction in
+eukaryotes</p>
+<p><a href="blogs/18072014.html">blog post</a></p>
+</div>
+<div id="fri.-july-11-2014" class="section level5">
+<h5>Fri. July 11, 2014</h5>
+<p><a
+href="http://www.nature.com/ng/journal/v46/n7/full/ng.2991.html?WT.ec_id=NG-201407">Guenther
+et al</a> A molecular basis for classic blond hair color in
+Europeans</p>
+</div>
+<div id="fri.-july-4-2014" class="section level5">
+<h5>Fri. July 4, 2014</h5>
+<p>No R.E.H.A.B. Watch some <a
+href="http://daviswiki.org/July_4th_Fireworks">fireworks</a>
+instead!</p>
+</div>
+</div>
+<div id="june-2014" class="section level3">
+<h3>June 2014</h3>
+<div id="fri.-june-27-2014" class="section level5">
+<h5>Fri. June 27, 2014</h5>
+<p><a href="http://mbe.oxfordjournals.org/content/31/6/1568">Ho and
+Zhang 2014</a>. The Genotype–Phenotype Map of Yeast Complex Traits:
+Basic Parameters and the Role of Natural Selection</p>
+</div>
+<div id="fri.-june-20-2014" class="section level5">
+<h5>Fri. June 20, 2014</h5>
+<p><a
+href="http://www.pnas.org/content/110/19/E1743.full?sid=bfb4a537-ab08-4c97-811f-cd0b63ba9e9a">Yeaman
+2013</a>. Genomic rearrangements and the evolution of clusters of
+locally adaptive loci</p>
+<p><a href="blogs/20062014.html">blog post</a></p>
+</div>
+<div id="fri.-june-13-2014" class="section level5">
+<h5>Fri. June 13, 2014</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003661">Chari
+and Dworkin 2013</a>. The Conditional Nature of Genetic Interactions:
+The Consequences of Wild-Type Backgrounds on Mutational Interactions in
+a Genome-Wide Modifier Screen</p>
+<p><a href="blogs/13062014.html">blog post</a></p>
+</div>
+<div id="fri.-june-6-2014" class="section level5">
+<h5>Fri. June 6, 2014</h5>
+<p><a
+href="http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf">Balick
+et al. preprint</a>. Response to a population bottleneck can be used to
+infer recessive selection</p>
+</div>
+</div>
+<div id="may-2014" class="section level3">
+<h3>May 2014</h3>
+<div id="fri.-may-30-2014" class="section level5">
+<h5>Fri. May 30, 2014</h5>
+<p><a
+href="http://genome.cshlp.org/content/early/2014/05/13/gr.169292.113.abstract">Nadeau
+et al. 2014</a>. Population genomics of parallel hybrid zones in the
+mimetic butterflies, H. melpomene and H. erato</p>
+<p><a href="blogs/30052014.html">blog post</a></p>
+</div>
+<div id="fri.-may-23-2014" class="section level5">
+<h5>Fri. May 23, 2014</h5>
+<p><a
+href="http://www.sciencemag.org/content/344/6185/738.abstract">Soria-Carrasco
+et al. 2014</a>. Stick Insect Genomes Reveal Natural Selection’s Role in
+Parallel Speciation</p>
+<p><a href="blogs/23052014.html">blog post</a></p>
+</div>
+<div id="fri.-may-16-2014" class="section level5">
+<h5>Fri. May 16, 2014</h5>
+<p><a href="http://arxiv.org/abs/1405.0518">Rogers et al. 2014</a>.
+Tandem duplications and the limits of natural selection in Drosophila
+yakuba and Drosophila simulans</p>
+<p><a href="blogs/16052014.html">blog post</a></p>
+</div>
+<div id="fri.-may-9-2014" class="section level5">
+<h5>Fri. May 9, 2014</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/tpj.12537/abstract">Hawkins
+et al. 2014</a>. Variation in allelic expression associated with a
+recombination hotspot in Zea mays</p>
+<p><a href="blogs/09052014.html">blog post</a></p>
+</div>
+<div id="fri.-may-2-2014-jri" class="section level5">
+<h5>Fri. May 2, 2014 (JRI)</h5>
+<p><a href="http://arxiv.org/abs/1402.4896">Do et al. 2014</a>. No
+evidence that natural selection has been less effective at removing
+deleterious mutations in Europeans than in West Africans</p>
+</div>
+</div>
+<div id="april-2014" class="section level3">
+<h3>April 2014</h3>
+<div id="fri.-april-25-2014-vb" class="section level5">
+<h5>Fri. April 25, 2014 (VB)</h5>
+<p><a href="http://arxiv.org/abs/1404.0929">Li 2014</a>. Towards Better
+Understanding of Artifacts in Variant Calling from High-Coverage
+Samples.</p>
+<p>\emph{Also see <a
+href="http://lyonlab.cshl.edu/Journal%20Club/JC20140407.pdf">slides</a>}</p>
+</div>
+<div id="fri.-april-18-2014-jri" class="section level5">
+<h5>Fri. April 18, 2014 (JRI)</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/mec.12738/abstract">Nabholz
+et al. 2014</a>. Transcriptome population genomics reveals severe
+bottleneck and domestication cost in the African rice (O.
+glaberrima)</p>
+<p><em>JRI’s review (molecol.tex) available in Lab Share folder on
+Dropbox</em></p>
+</div>
+<div id="fri.-april-11-2014-jri" class="section level5">
+<h5>Fri. April 11, 2014 (JRI)</h5>
+<p>NO R.E.H.A.B. Check out the <a
+href="http://plantbreeding2014.ucdavis.edu">Plant Breeding Symposium</a>
+instead!</p>
+</div>
+<div id="fri.-april-4-2014-jri" class="section level5">
+<h5>Fri. April 4, 2014 (JRI)</h5>
+<p><a href="http://mbe.oxfordjournals.org/content/31/4/1010">Campos et
+al. 2014</a>. The Relation between Recombination Rate and Patterns of
+Molecular Evolution and Variation in Drosophila melanogaster.</p>
+</div>
+</div>
+<div id="march-2014" class="section level3">
+<h3>March 2014</h3>
+<div id="fri-mar.-28-2014-jri" class="section level5">
+<h5>Fri Mar. 28 2014 (JRI)</h5>
+<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/24488960">Hirsch et
+al. 2014</a>. Insights into the maize pan-genome and
+pan-transcriptome.</p>
+</div>
+<div id="fri-mar.-21-2014-sm" class="section level5">
+<h5>Fri Mar. 21 2014 (SM)</h5>
+<p><a href="http://www.genetics.org/content/177/3/1881">Piepho and
+Möhring 2007</a>. Computing Heritability and Selection Response From
+Unbalanced Plant Breeding Trials</p>
+</div>
+<div id="fri-mar.-14-2014-dv" class="section level5">
+<h5>Fri Mar. 14 2014 (DV)</h5>
+<p><a
+href="http://www.sciencemag.org/content/343/6175/1145.abstract">Cortijo
+et al</a>. Mapping the Epigenetic Basis of Complex Traits</p>
+</div>
+<div id="fri-mar.-7-2014-sm" class="section level5">
+<h5>Fri Mar. 7 2014 (SM)</h5>
+<p><a
+href="http://www.genetics.org/content/early/2014/02/06/genetics.113.159152.full.pdf">Peiffer
+et al. 2014</a>. The genetic architecture of maize height</p>
+</div>
+</div>
+<div id="february-2014" class="section level3">
+<h3>February 2014</h3>
+<div id="fri-feb.-28-2014-ms" class="section level5">
+<h5>Fri Feb. 28 2014 (MS)</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004115">Cavrak
+et al. 2014</a>. How a Retrotransposon Exploits the Plant’s Heat Stress
+Response for Its Activation</p>
+</div>
+<div id="fri-feb.-21-2014-pb" class="section level5">
+<h5>Fri Feb. 21 2014 (PB)</h5>
+<p><a
+href="http://www.nature.com/ejhg/journal/vaop/ncurrent/abs/ejhg2013303a.html">Elhaik
+et al. 2014</a>. The ‘extremely ancient’ chromosome that isn’t: a
+forensic bioinformatic investigation of Albert Perry’s X-degenerate
+portion of the Y chromosome</p>
+</div>
+<div id="fri-feb.-14-2014-dv" class="section level5">
+<h5>Fri Feb. 14 2014 (DV)</h5>
+<p><a
+href="http://mbe.oxfordjournals.org/content/early/2013/11/27/molbev.mst229.abstract">Han
+et al. 2013</a>. Characterizing bias in population genetic inferences
+from low coverage sequencing data</p>
+</div>
+<div id="fri.-feb.-7-2014-jri" class="section level5">
+<h5>Fri. Feb. 7 2014 (JRI)</h5>
+<p><a
+href="http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12961.pdf">Sankararaman
+et al. 2014</a>. The genomic landscape of Neanderthal ancestry in
+present-day humans</p>
+</div>
+</div>
+<div id="january-2014" class="section level3">
+<h3>January 2014</h3>
+<div id="fri.-jan-31-2014-vb" class="section level5">
+<h5>Fri. Jan 31 2014 (VB)</h5>
+<p><a
+href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003942?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+plosgenetics%2FNewArticles+%28PLOS+Genetics+-+New+Articles%29">Nadachowska-Brzyska
+et al.</a>. Demographic Divergence History of Pied Flycatcher and
+Collared Flycatcher Inferred from Whole-Genome Re-sequencing Data</p>
+</div>
+<div id="fri.-jan-24-2014-vb" class="section level5">
+<h5>Fri. Jan 24 2014 (VB)</h5>
+<p><a
+href="http://www.nature.com/nature/journal/v483/n7388/full/nature10842.html%3FWT.ec_id%3DNATURE-20120308">Scally
+et al. 2012</a>. Insights into hominid evolution from the gorilla genome
+sequence</p>
+</div>
+<div id="fri-jan.-17-2014-jri" class="section level5">
+<h5>Fri Jan. 17 2014 (JRI)</h5>
+<p><a href="http://mbe.oxfordjournals.org/content/30/12/2553">Chapman et
+al. 2013</a>. Genomic Divergence during Speciation Driven by Adaptation
+to Altitude</p>
+</div>
+<div id="fri-jan.-3-2014-ao" class="section level5">
+<h5>Fri Jan. 3 2014 (AO)</h5>
+<p>&lt;CANCELED&gt; – There’s a first time for everything. (Translation:
+“CANCELLED” for our British and Canadian friends)</p>
+</div>
+<div id="fri-jan.-3-2014-ao-1" class="section level5">
+<h5>Fri Jan. 3 2014 (AO)</h5>
+<p><a
+href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12268/abstract">Karhunen
+et al. 2013</a>. Bringing habitat information into statistical tests of
+local adaptation in quantitative traits: a case study of nine-spined
+sticklebacks.</p>
+</div>
+</div>
+</div>
+<div id="section-11" class="section level2">
+<h2>2013</h2>
+<div id="december-2013" class="section level3">
+<h3>December 2013</h3>
+<div id="fri-dec.-20-2013-dv" class="section level5">
+<h5>Fri Dec. 20 2013 (DV)</h5>
+<p><a href="http://www.jstor.org/stable/full/10.1086/673488">Rettelbach
+et al. 2013</a>. Three modes of adaptive speciation in spatially
+structured populations</p>
+</div>
+<div id="fri-dec.-13-2013-jri" class="section level5">
+<h5>Fri Dec. 13 2013 (JRI)</h5>
+<p><a
+href="http://www.biomedcentral.com/content/pdf/1471-2105-14-289.pdf">Korneliussen
+et al. 2013</a>. Calculation of Tajima’s D and other neutrality test
+statistics from low depth next-generation sequencing data</p>
+</div>
+<div id="fri-dec-6-2013-vb" class="section level5">
+<h5>Fri Dec 6 2013 (VB)</h5>
+<p><a
+href="http://www.sciencedirect.com/science/article/pii/S109727651300748X">Teng
+et al. 2013</a>. Genome-wide Consequences of Deleting Any Single
+Gene</p>
+</div>
+</div>
+<div id="november-2013" class="section level3">
+<h3>November 2013</h3>
+<div id="fri-nov-29-2013" class="section level5">
+<h5>Fri Nov 29 2013</h5>
+<p>No R.E.H.A.B., but to go along with all your TurkeyDay related
+activities: <a
+href="http://onlinelibrary.wiley.com/doi/10.1002/jwmg.575/full">Seidel
+et al. 2013</a>. Influence of translocations on eastern wild turkey
+population genetics in Texas</p>
+</div>
+<div id="fri-nov-22-2013-vbdv" class="section level5">
+<h5>Fri Nov 22 2013 (VB,DV)</h5>
+<p><a
+href="http://www.sciencemag.org/content/342/6160/871.full.pdf">Thallmann
+et al. 2012</a>. Complete Mitochondrial Genomes of Ancient Canids
+Suggest a European Origin of Domestic Dogs</p>
+</div>
+<div id="fri-nov-15-2013-jri" class="section level5">
+<h5>Fri Nov 15 2013 (JRI)</h5>
+<p><a
+href="http://www.genetics.org/content/early/2013/08/26/genetics.113.150292.full.pdf">Kijima
+and Innan 2013</a>. Population Genetics and Molecular Evolution of DNA
+Sequences in Transposable Elements. I. A Simulation Framework</p>
+</div>
+<div id="fri-nov-08-2013-jri" class="section level5">
+<h5>Fri Nov 08 2013 (JRI)</h5>
+<p>Review! Pick up hard copy in 262 Robbins.</p>
+</div>
+<div id="fri-nov-01-2013-jri" class="section level5">
+<h5>Fri Nov 01 2013 (JRI)</h5>
+<p><a
+href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CC4QFjAA&amp;url=http%3A%2F%2Farxiv.org%2Fabs%2F1306.5261&amp;ei=UURzUrfOGqW-igLBtoCAAg&amp;usg=AFQjCNFoh5KxhwcrmuKZP1UM3xQN2xk0ug">Lohmueller
+2013</a>. The impact of population demography and selection on the
+genetic architecture of complex traits</p>
+</div>
+</div>
+<div id="october-2013" class="section level3">
+<h3>October 2013</h3>
+<div id="fri-oct-25-2013-oa" class="section level5">
+<h5>Fri Oct 25 2013 (OA)</h5>
+<p><a
+href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CCkQFjAA&amp;url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv502%2Fn7470%2Ffull%2Fnature12511.html&amp;ei=PkRzUpb-NYWdiAKQqYG4CQ&amp;usg=AFQjCNGhGBxb-ICUpfOeut7Iq-CNBcmT0Q&amp;bvm=bv.55819444,d.cGE">Parker
+et al. 2013</a>. Genome-wide signatures of convergent evolution in
+echolocating mammals</p>
+</div>
+<div id="fri-oct-18-2013-aovb" class="section level5">
+<h5>Fri Oct 18 2013 (AO,VB)</h5>
+<p><a
+href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CDAQFjAA&amp;url=http%3A%2F%2Farxiv.org%2Fabs%2F1306.1652&amp;ei=K0RzUozGG6-IigKZq4CoAg&amp;usg=AFQjCNE187lCk7EURsZ_3rWrzNzoVZA0rg&amp;bvm=bv.55819444,d.cGE">Peischl
+et al. arxiv</a>. On the accumulation of deleterious mutations during
+range expansions</p>
+</div>
+<div id="fri-oct-11-2013-pmg" class="section level5">
+<h5>Fri Oct 11 2013 (PMG)</h5>
+<p><a
+href="http://www.genetics.org/content/early/2013/06/10/genetics.113.152587">Ronen
+et al. 2013</a>. Learning Natural Selection from the Site Frequency
+Spectrum</p>
+</div>
+<div id="fri-oct-04-2013-jmb" class="section level5">
+<h5>Fri Oct 04 2013 (JMB)</h5>
+<p><a
+href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CCsQFjAA&amp;url=http%3A%2F%2Fmbe.oxfordjournals.org%2Fcontent%2Fearly%2F2013%2F05%2F17%2Fmolbev.mst095&amp;ei=y0NzUq3YJ-GgjAK264CICA&amp;usg=AFQjCNFixSoYD_TS-4tXJ8HmXdF6noaCew&amp;bvm=bv.55819444,d.cGE">Szovenyi
+et al. 2013</a>. Selection Is No More Efficient in Haploid than in
+Diploid Life Stages of an Angiosperm and a Moss</p>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
