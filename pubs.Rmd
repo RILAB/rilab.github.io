@@ -36,6 +36,17 @@ Click on a triangle for the article abstract.
 ### Preprints
 
 <details> 
+    <summary> The utility of environmental data from traditional varieties for climate-adaptive maize breeding 
+ [[preprint](https://www.biorxiv.org/content/10.1101/2024.09.19.613351v1
+)]  
+ **Li F**, **Gates DJ**, Buckler ES, ...[8 authors]...  Hearne S,  **Ross-Ibarra J**, Runcie DE
+ 
+</summary> 
+    <p style="margin-left: 30px">
+Maintaining crop yields in the face of climate change is a major challenge facing plant breeding today. Considerable genetic variation exists in ex-situ collections of traditional crop varieties, but identifying adaptive loci and testing their agronomic performance in large populations in field trials is costly. Here, we study the utility of climate and genomic data for identifying promising traditional varieties to incorporate into maize breeding programs. To do so, we use phenotypic data from more than 4,000 traditional maize varieties grown in 13 trial environments. First, we used genotype data to predict environmental characteristics of germplasm collections to identify varieties that may be locally adapted to target environments. Second, we used environmental GWAS (envGWAS) to identify genetic loci associated with historical divergence along climatic gradients, such as the putative heat shock protein Hsftf9 and the large-scale adaptive inversion Inv4m. Finally, we compared the value of environmental data and envGWAS-prioritized loci to genomic data for prioritizing traditional varieties. We find that maize yield traits are best predicted by genomic data, and that envGWAS-identified variants provide little direct predictive information over patterns of population structure. We also find that adding environment-of-origin variables does not improve yield component prediction over kinship or population structure alone, but could be a useful selection proxy in the absence of sequencing data. While our results suggest little utility of environmental data for selecting traditional varieties to incorporate in breeding programs, environmental GWAS is nonetheless a potentially powerful approach to identify individual novel loci for maize improvement, especially when coupled with high density genotyping.
+</p></details><br> 
+
+<details> 
     <summary> A unified VCF data set from nearly 1,500 diverse maize accessions and resources to explore the genomic landscape of maize 
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.04.30.591904v1)]  
 Andorf CM,  **Ross-Ibarra J**, Seetharam AS,  Hufford MB, Woodhouse MR  

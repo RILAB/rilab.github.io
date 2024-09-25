@@ -36,15 +36,27 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ### October
 
-#### Oct 4
+#### Ot 25
+
+[Baduel et al. preprint](https://www.biorxiv.org/content/10.1101/2024.09.20.614076v1) Transposable elements are prevalent vectors of transgenerational epigenetic inheritance in nature
+
+#### Oct 18
 
 [Patel et al. preprint](https://www.biorxiv.org/content/10.1101/2024.06.15.599126v1) 
 Conditional frequency spectra as a tool for studying selection on complex traits in biobanks
 
+#### Oct 11
+
+[Huang et al. preprint](https://www.biorxiv.org/content/10.1101/2024.09.17.613564v1) Varying recombination landscapes between individuals are driven by polymorphic transposable elements
+
+#### Oct 4
+
+[Holland-Lulewicz et al. 2024](https://www.nature.com/articles/s41467-024-52597-8?fbclid=IwZXh0bgNhZW0CMTEAAR2YM6nzDAD8I-DmjLEbJuuyQPt99IUIYy2A84WCZxnQwVb5JyQ20kqE9LQ_aem_Qk0nvfLtYTDyLYxA5Bl2Kw)  The initial spread of peaches across eastern North America was structured by Indigenous communities and ecologies
+
 ### September
 
 #### Sept 27
-[Akbari et al, 2024](https://www.biorxiv.org/content/10.1101/2024.09.14.613021v1) Pervasive findings of directional selection realize the promise of ancient DNA to elucidate human adaptation
+[Akbari et al. 2024](https://www.biorxiv.org/content/10.1101/2024.09.14.613021v1) Pervasive findings of directional selection realize the promise of ancient DNA to elucidate human adaptation
 
 #### Sept 20.  
 [Bolognini et al. 2024](https://www.nature.com/articles/s41586-024-07911-1) Recurrent evolution and selection shape structural diversity at the amylase locus. 
