@@ -78,7 +78,7 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 (he/him)
 
 Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
-<br>
+<br><br>
 
 ::: {style="float: left"}
 <img src="images/beibei.jpg" style="border:10px solid white" width="125px"/></a>
