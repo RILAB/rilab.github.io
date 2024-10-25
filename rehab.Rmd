@@ -34,12 +34,29 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2024
 
-## November
+### December
+
+#### Dec 6
+Harris 2007 (See Slack for Chapter PDF) Agriculture, Cultivation and Domestication: Exploring the Conceptual Framework of Early Food Production
+
+### November
+
+#### Nov 29
+No REHAB - Turkey Preservation Day
+
+#### Nov 22
+[Deletre et al 2021](https://www.nature.com/articles/s41467-021-24720-6) Kinship networks of seed exchange shape spatial patterns of plant virus diversity
+
+#### Nov 15
+[Milesi et al 2024](https://www.nature.com/articles/s41467-024-52612-y) Resilience of genetic diversity in forest trees over the Quaternary 
+
+With additional reading [here](https://communities.springernature.com/posts/tree-population-genomics-a-story-of-10-years-of-research-and-10-million-years-of-evolution?channel_id=behind-the-paper)
+
+#### Nov 8
+[Li et al 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11221428/) A pan-TE map highlights transposable elements underlying domestication and agronomic traits in Asian rice
 
 #### Nov 1
-
-[Patel et al. preprint](https://www.biorxiv.org/content/10.1101/2024.06.15.599126v1) 
-Conditional frequency spectra as a tool for studying selection on complex traits in biobanks
+[Rainegeval et al 2024](https://www.nature.com/articles/s41477-024-01807-8) Retrotransposon-driven environmental regulation of FLC leads to adaptive response to herbicide
 
 ### October
 
