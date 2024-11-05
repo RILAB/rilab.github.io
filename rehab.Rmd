@@ -35,6 +35,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 ## 2024
 
 ### December
+#### Dec 13
+[Li et al 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11221428/) A pan-TE map highlights transposable elements underlying domestication and agronomic traits in Asian rice
 
 #### Dec 6
 Harris 2007 (See Slack for Chapter PDF) Agriculture, Cultivation and Domestication: Exploring the Conceptual Framework of Early Food Production
