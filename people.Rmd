@@ -83,7 +83,7 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 <br><br> 
 
 ::: {style="float: left"}
-<img src="images/julia.jpg" style="border:10px solid white" width="125"/>
+<img src="images/julia2.jpg" style="border:10px solid white" width="125"/>
 :::
 
 **Julia Harenčár** <a href="https://sites.google.com/view/juliaharencar"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a><a href="https://www.linkedin.com/in/julia-harencar/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0001-6944-4337"><img src="images/orcid.png" style="width: 15px;"/><a href="https://scholar.google.com/citations?user=U7ZRlZkAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
@@ -101,7 +101,7 @@ Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https:
 (he/him)
 
 Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ::: {style="float: left"}
 <img src="images/beibei.jpg" style="border:10px solid white" width="125px"/></a>
