@@ -37,8 +37,8 @@ Click on a triangle for the article abstract.
 
 <details>
     <summary> Molecular evolution of a reproductive barrier in maize and related species
- [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626474v1)]
- **Cryan, E**, **Phinney G**, Seetharam AS, Evans MMS, Kellogg EA, Zhan J, Meyers BC, Kliebenstein D, **Ross-Ibarra J**
+ [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626474v1)]   
+**Cryan, E**, **Phinney G**, Seetharam AS, Evans MMS, Kellogg EA, Zhan J, Meyers BC, Kliebenstein D, **Ross-Ibarra J**
 
 </summary>
     <p style="margin-left: 30px">
