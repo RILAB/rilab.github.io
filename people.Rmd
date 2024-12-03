@@ -44,6 +44,15 @@ Please read more information on [joining the lab](prosp.html) and [lab expectati
 Brenda is the lab manager and czar. In addition to working with us, she manages the [Bay](https://baylab.github.io), [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well, and is an [award-winning](https://safetyservices.ucdavis.edu/safety-star-program) lab safety expert.
 
 ::: {style="float: left"}
+<img src="images/cao.jpg" style="border:10px solid white" width="125"/>
+:::
+
+**Yu Cao** <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a>
+(she/her)
+
+Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN) at HZAU. Yu is working on understanding the population and quantitative genetics of introgressed teosinte haplotypes in maize. xpert.
+
+::: {style="float: left"}
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
 :::
 
@@ -116,7 +125,7 @@ Sowmya is a sophomore Genetics and Genomics major investigating the population g
 <img src="images/jri_camping.png" style="border:10px solid white" width="125px"/></a>
 :::
 
-**Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a> <a href="https://twitter.com/jrossibarra"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"/> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\
+**Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a> <a href="https://bsky.app/profile/jrossibarra.bsky.social"><img src="images/Bluesky_Logo.svg" style="width: 15px;"/></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"/> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him)
 
 Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).  

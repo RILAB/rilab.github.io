@@ -35,7 +35,6 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
-
 <details>
     <summary> Molecular evolution of a reproductive barrier in maize and related species
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626474v1)]
