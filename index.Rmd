@@ -13,7 +13,7 @@
 
 <script type="text/javascript">
   var imageURLs = [
-       "images/IMG_7116.png"
+       "images/IMG_8348.jpeg"
      , "images/cornkey3.png"
      , "images/heart.png"
   ];

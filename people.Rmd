@@ -57,7 +57,7 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
 :::
 
-**Elli Cryan** <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0009-0006-8018-6686"><img src="images/orcid.png" style="width: 15px;"/>
+**Elli Cryan** <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0009-0006-8018-6686"><img src="images/orcid.png" style="width: 15px;"/><a/>  
 (she/her)
 
 Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks and the evolution of cross-incompatibility loci.
@@ -76,7 +76,7 @@ Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) gradua
 <img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"/>
 :::
 
-**Regina Fairbanks** <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0003-4485-0376"><img src="images/orcid.png" style="width: 15px;"/>
+**Regina Fairbanks** <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0003-4485-0376"><img src="images/orcid.png" style="width: 15px;"/><a/>  
 (they/them)
 
 Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group, currently working on the population genetics and archaeology of the maize domestication locus *tga1*.
@@ -101,7 +101,7 @@ Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https:
 (he/him)
 
 Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
-<br><br><br><br>
+<br><br><br>
 
 ::: {style="float: left"}
 <img src="images/beibei.jpg" style="border:10px solid white" width="125px"/></a>
