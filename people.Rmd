@@ -47,7 +47,7 @@ Brenda is the lab manager and czar. In addition to working with us, she manages 
 <img src="images/cao.jpg.jpg" style="border:10px solid white" width="125"/>
 :::
 
-**Yu Cao** <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a>. 
+**Yu Cao** <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a>  
 (she/her)
 
 Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN) at HZAU. Yu is working on understanding the population and quantitative genetics of introgressed teosinte haplotypes in maize. 
@@ -101,7 +101,7 @@ Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https:
 (he/him)
 
 Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ::: {style="float: left"}
 <img src="images/beibei.jpg" style="border:10px solid white" width="125px"/></a>
