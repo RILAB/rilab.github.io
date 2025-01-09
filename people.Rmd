@@ -44,10 +44,10 @@ Please read more information on [joining the lab](prosp.html) and [lab expectati
 Brenda is the lab manager and czar. In addition to working with us, she manages the [Bay](https://baylab.github.io), [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well, and is an [award-winning](https://safetyservices.ucdavis.edu/safety-star-program) lab safety expert.
 
 ::: {style="float: left"}
-<img src="images/cao.jpg.jpg" style="border:10px solid white" width="125"/>
+<img src="images/cao.jpg" style="border:10px solid white" width="125"/>
 :::
 
-**Yu Cao** <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a>  
+**Yu Cao** <a href="https://github.com/Caoyu819"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a>  
 (she/her)
 
 Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN) at HZAU. Yu is working on understanding the population and quantitative genetics of introgressed teosinte haplotypes in maize. 
