@@ -36,6 +36,31 @@ Click on a triangle for the article abstract.
 ### Preprints
 
 <details>
+    <summary> Extensive genome evolution distinguishes maize within a
+stable tribe of grasses
+ [[preprint]()]   
+Stitzer MC, Seetharam AS, Scheben A ...[35 authors including **Phillips AR**]... **Ross-Ibarra J**, Romay MC, Kellogg EA, Buckler ES, Hufford MB
+</summary>
+    <p style="margin-left: 30px">
+Over the last 20 million years, the Andropogoneae tribe of grasses has evolved to
+dominate 17% of global land area. Domestication of these grasses in the last 10,000 years has
+yielded our most productive crops, including maize, sugarcane, and sorghum. The majority of
+Andropogoneae species, including maize, show a history of polyploidy – a condition that, while
+offering the evolutionary advantage of multiple gene copies, poses challenges to basic cellular
+processes, gene expression, and epigenetic regulation. Genomic studies of polyploidy have
+been limited by sparse sampling of taxa in groups with multiple polyploidy events. Here, we
+present 33 genome assemblies from 27 species, including chromosome-scale assemblies of
+maize relatives Zea and Tripsacum. In maize, the after-effects of polyploidy have been widely
+studied, showing reduced chromosome number, biased fractionation of duplicate genes, and
+transposable element (TE) expansions. While we observe these patterns within the genus Zea,
+12 other polyploidy events deviate significantly. Those tetraploids and hexaploids retain
+elevated chromosome number, maintain nearly complete complements of duplicate genes, and
+have only stochastic TE amplifications. These genomes reveal variable outcomes of polyploidy,
+challenging simple predictions and providing a foundation for understanding its evolutionary
+implications in an ecologically and economically important clade.
+</p></details><br>
+
+<details>
     <summary> Molecular evolution of a reproductive barrier in maize and related species
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626474v1)]   
 **Cryan, E**, **Phinney G**, Seetharam AS, Evans MMS, Kellogg EA, Zhan J, Meyers BC, Kliebenstein D, **Ross-Ibarra J**
@@ -69,7 +94,7 @@ These multiple lines of evidence suggest that maize domestication likely drew up
     <summary> The utility of environmental data from traditional varieties for climate-adaptive maize breeding 
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.09.19.613351v1
 )]  
- **Li F**, **Gates DJ**, Buckler ES, ...[8 authors]...  Hearne S,  **Ross-Ibarra J**, Runcie DE
+ **Li F**, **Gates DJ**, Buckler ES ...[8 authors]...  Hearne S,  **Ross-Ibarra J**, Runcie DE
  
 </summary> 
     <p style="margin-left: 30px">
@@ -80,7 +105,7 @@ Maintaining crop yields in the face of climate change is a major challenge facin
 <details> 
     <summary> Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
  [[preprint](https://biorxiv.org/cgi/content/short/2023.08.08.551183v1)]  
-Engelhorn J, **Snodgrass SJ**, Kok A, Seetharam AS, ...[15 authors]... Frommer WB, **Ross-Ibarra J**, Hartwig T
+Engelhorn J, **Snodgrass SJ**, Kok A, Seetharam AS ...[15 authors]... Frommer WB, **Ross-Ibarra J**, Hartwig T
 
 </summary> 
     <p style="margin-left: 30px">
@@ -135,7 +160,7 @@ However, we found weak patterns of local adaptation between teosinte and biota f
 
 <details> 
     <summary> [Teosinte Pollen Drive guides maize domestication and evolution by RNAi](https://rdcu.be/dQg54) [[preprint](https://www.biorxiv.org/content/10.1101/2023.07.12.548689v1)]  
-Berube B, Ernst E, Cahn J, ...[3 authors]... Scheben A, Siepel A, **Ross-Ibarra J**, Kermicle J, Martienssen RA.
+Berube B, Ernst E, Cahn J ...[3 authors]... Scheben A, Siepel A, **Ross-Ibarra J**, Kermicle J, Martienssen RA.
 
 </summary> 
     <p style="margin-left: 30px">
@@ -172,7 +197,7 @@ Despite its global importance as a crop with broad economic, dietary, and cultur
 <details> 
     <summary> [Not so local: the population genetics of convergent adaptation in maize and teosinte.](https://elifesciences.org/reviewed-preprints/92405)
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1)]  
-**Tittes S**, **Lorant A**, **McGinty S**,  ...[4 authors]... Tenaillon MI, **Ross-Ibarra J**  
+**Tittes S**, **Lorant A**, **McGinty S**  ...[4 authors]... Tenaillon MI, **Ross-Ibarra J**  
 
 </summary> 
     <p style="margin-left: 30px">
@@ -314,7 +339,7 @@ Native Americans domesticated maize (Zea mays ssp. mays) from lowland teosinte p
 <details> 
     <summary> [Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009797)
  [[preprint](https://www.biorxiv.org/content/10.1101/2021.09.01.458502v1)]  
-Holland JB, Samayoa LF,  Olukolu BA, Yang CJ, ...[7 authors]...  **Yang J**,  **Ross-Ibarra J**, Buckler ES,  Doebley JF.
+Holland JB, Samayoa LF,  Olukolu BA, Yang CJ ...[7 authors]...  **Yang J**,  **Ross-Ibarra J**, Buckler ES,  Doebley JF.
 
 </summary> 
     <p style="margin-left: 30px">
@@ -373,7 +398,7 @@ While often deleterious, hybridization can also be a key source of genetic varia
 
 <details> 
     <summary>[*De novo* assembly, annotation, and comparative analysis of 26 diverse maize genomes](https://science.sciencemag.org/content/373/6555/655.abstract).  [[preprint](https://www.biorxiv.org/content/10.1101/2021.01.14.426684v1)]  
-    Hufford MB, Seetharam AS, ...[40 authors including **Hudson AI** and **Tittes S**]... **Ross-Ibarra J**, Yu J, Gent JI, Hirsch CN, Ware D, Dawe RK.
+    Hufford MB, Seetharam AS ...[40 authors including **Hudson AI** and **Tittes S**]... **Ross-Ibarra J**, Yu J, Gent JI, Hirsch CN, Ware D, Dawe RK.
     
 
 </summary>
