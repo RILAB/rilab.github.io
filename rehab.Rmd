@@ -33,12 +33,18 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2025
 ### January
-#### Jan 17
+
+#### Jan 31
+
+
+#### Jan 24
 [Arribas et al 2024](https://www.cell.com/cell/fulltext/S0092-8674(24)01328-X) Transposable element exonization generates a reservoir of evolving and functional protein isoforms
 
-#### Jan 10
+#### Jan 17
 [Li et al 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11221428/) A pan-TE map highlights transposable elements underlying domestication and agronomic traits in Asian rice
 
+### Jan 10
+No REHAB - skipped
 
 #### Jan 3
 No REHAB - Happy new year!
