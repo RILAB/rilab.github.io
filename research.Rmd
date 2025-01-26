@@ -1,0 +1,120 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5300959-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+---
+title: "Research" 
+---
+<hr>
+<a name="adaptation"></a>
+![](images/teosinte.jpg)
+
+## **Genetics of adaptation**
+
+Maize spread rapidly after domestication, adapting to a wide range of environments.
+Today maize is grown across a broader geographic breadth than any of the world's other staple crops, from sea level to altitudes of $>4,000$m and from deserts to near-flooded conditions. The wild relatives of maize have also adapted to environments varying widely in elevation, temperature, and moisture availability. The lab is working on a number of projects using maize and its wild relatives to understand the genetic basis of adaptation. 
+Projects in this area are currently funded by multiple grants from the NSF PGRP ([here](https://nsf.gov/awardsearch/showAward?AWD_ID=1546719&HistoricalAwards=false) and [here](https://nsf.gov/awardsearch/showAward?AWD_ID=1822330&HistoricalAwards=false))
+
+### Selected Recent Publications
+
+* Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces.  [[preprint](https://www.biorxiv.org/content/10.1101/2020.07.31.227629v1)]   
+     **Wang L**, **Josephs EB**, Lee KM, Roverts LM, Rellán-Álvarez R, **Ross-Ibarra J**, Hufford MB.  
+
+* Single gene resolution of locally adaptive genetic variation in Mexican maize [[preprint](https://www.biorxiv.org/content/10.1101/706739v1)]  
+**Gates DJ**, Runcie D, Janzen GM, Romero Navarro A ...[4 authors]... Buckler ES, Hearne S, Hufford MB, **Ross-Ibarra J**  
+
+* Adaptive phenotypic divergence in teosinte differs across biotic contexts
+[[preprint](https://www.biorxiv.org/content/early/2018/08/01/382770)]  
+**O'Brien AM**, Sawers RJH, Strauss SY, **Ross-Ibarra J**
+
+* [Detecting adaptive differentiation in structured populations with genomic data and common gardens](http://www.genetics.org/content/early/2019/01/24/genetics.118.301786)  [[preprint](https://www.biorxiv.org/content/early/2018/07/13/368506)] [[github](https://github.com/emjosephs/qpc-maize)]    
+**Josephs EB**, Berg JJ, **Ross-Ibarra J**, Coop G
+
+* [Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007794) [[preprint](https://www.biorxiv.org/content/early/2018/05/03/313247)] [[Shiny app](https://mgstetter.shinyapps.io/quantgensimAPP/)]    
+**Stetter MG**, Thornton K, **Ross-Ibarra J**
+
+* [Evolutionary responses to conditionality in species interactions across environmental gradients](https://www.journals.uchicago.edu/doi/10.1086/700118) [[preprint](http://biorxiv.org/content/early/2017/03/01/031195)][[review](https://www.authorea.com/inst/14743?articles_format=list&page=5)]     
+**O'Brien AM**, Sawers RJH, **Ross-Ibarra J**, Strauss SY  
+
+* [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) [[perspective](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007249)]  [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] [[slides](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays)]  
+**Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
+ 
+* [Adaptation in plant genomes: bigger is different](https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1002) [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)][[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)][[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
+**Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**
+
+* [The interplay of demography and selection during maize domestication and diffusion](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4) [[preprint](http://www.google.com/url?q=http%3A%2F%2Fbiorxiv.org%2Fcontent%2Fearly%2F2017%2F03%2F07%2F114579&sa=D&sntz=1&usg=AFQjCNHr4cDzAxS_7BXVZOfyuIWzXiHr0w)][[github](https://github.com/HuffordLab/Wang_et_al._Demography)][[YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM)]  
+Wang L, **Beissinger TM**, **Lorant A**, **Ross-Ibarra C**, **Ross-Ibarra J**, Hufford MB.
+
+* [Recent demography drives changes in linked selection across the maize genome](http://rdcu.be/kHEB) [[github](https://github.com/timbeissinger/Maize-Teo-Scripts/)] [[preprint](http://biorxiv.org/content/early/2015/11/13/031666)]    
+**Beissinger TM**, Wang L, **Crosby K**, **Durvasula A**, Hufford MB, **Ross-Ibarra J**      
+ 
+<hr>
+<a name="experimental"></a>
+![](images/corn.jpg)
+
+## **Experimental Evolution**
+
+Plant domestication and modern breeding represent examples of experimentally evolved populations. Studying these populations provides an opportunity to understand not only the genetic basis of evolutionary change but also how the processes of evolution interact to shape modern genetic and phenotypic diversity. Projects in this area are currently funded by the [NSF DEB](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1753632&HistoricalAwards=false).
+
+### Selected Recent Publications
+
+* [Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landraces](https://www.g3journal.org/content/ggg/early/2020/05/28/g3.120.401196.full.pdf) [[preprint](https://www.biorxiv.org/content/10.1101/817791v1)][[github](https://github.com/LZeitler/eurodh-scripts/blob/master/README.org)]  
+**Zeitler L**, **Ross-Ibarra J**, **Stetter MGS**
+
+* [Genome-wide selection and genetic improvement during modern maize breeding](https://drive.google.com/file/d/1UxPN_Yf2HQ0OOJdqbP537Bwxlm2N1EkL/view?usp=sharing)  
+Wang B, Lin Z, Li X, Zhao Y ...[17 authors]... Hufford MB, **Ross-Ibarra J**, He H, Wang H.
+
+* [Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007794) [[preprint](https://www.biorxiv.org/content/early/2018/05/03/313247)] [[Shiny app](https://mgstetter.shinyapps.io/quantgensimAPP/)]    
+**Stetter MG**, Thornton K, **Ross-Ibarra J**
+
+* [Maize domestication and gene  interaction](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15350)
+**Stitzer MC**, **Ross-Ibarra J**
+
+* [Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) [[preprint](http://biorxiv.org/content/early/2016/11/07/086132)] [[github](https://github.com/yangjl/GERP-diallel)]  
+**Yang J**, **Mezmouk S**, Baumgarten A, Buckler ES, Guill KE, McMullen MD, Mumm RH, **Ross-Ibarra J**
+
+* [The potential role of genetic assimilation during maize domestication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202) [[preprint](http://biorxiv.org/content/early/2017/02/03/105940)]  
+**Lorant A**, Pedersen, S, Holst I, Hufford MB, Winter K, Piperno D, **Ross-Ibarra J**
+  
+<hr>
+<a name="csomes"></a>
+![](images/csomes.jpg)
+
+## **Genome Evolution**
+
+In addition to discerning the genetic basis of phenotypic evolution, we are interested in understanding the processes that shape evolution of the genome itself. From copy number variation and inversions to the evolution of recombination rate and coevolution between  transposable elements and their hosts, the diversity and evolutionary lability of genomes offers a lot to explore. This work is currently funded by the [NSF PGRP](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1238014)  
+
+### Selected Recent Publications
+
+* Conflict over fertilization underlies the transient evolution of reinforcement.  [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.10.377481v1)]   **Rushworth C**, Wardlaw AW, **Ross-Ibarra J**, Brandvain YB.
+
+* [Adaptive evolution of DNA methylation reshaped gene regulation in maize](https://www.nature.com/articles/s41467-020-19333-4)  [[preprint]( https://www.biorxiv.org/content/10.1101/2020.03.13.991117v1)] [[github](https://github.com/jyanglab/msfs_teo)]  
+    Xu G, Lyu J, Li Q, Liu H, Wang D, Zhang M, Springer NM, **Ross-Ibarra J**, Yang J
+
+* [The temporal dynamics of background selection in non-equilibrium populations](https://www.genetics.org/content/214/4/1019) [[preprint](https://www.biorxiv.org/content/10.1101/618389v1
+)][[github](https://github.com/RILAB/BGS_sims/)]  
+Torres R, **Stetter MG**, Hernandez R,  **Ross-Ibarra J**  
+
+* The Genomic Ecosystem of Transposable Elements in Maize 
+[[preprint](https://www.biorxiv.org/content/10.1101/559922v1)]
+**Stitzer MC**,   Anderson SN,  Springer NM,  **Ross-Ibarra J**
+
+* Transposable elements contribute to dynamic genome content in maize
+[[preprint](https://www.biorxiv.org/content/10.1101/547398v1?rss=1)]  
+Anderson SN,  **Stitzer MC**,  Brohammer AB, Peng Zhou P, Noshay JM,  Hirsch CD,  **Ross-Ibarra J**,  Hirsch CN,  Springer NM
+
+* [Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea mays*](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162) [[perspective](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007249)]  [[preprint](http://www.biorxiv.org/content/early/2017/07/13/134528)] [[github](https://github.com/paulbilinski/GenomeSizeAnalysis)] [[slides](https://www.slideshare.net/jrossibarra/parallel-altitudinal-clines-reveal-adaptive-evolution-of-genome-size-in-zea-mays)]  
+**Bilinski P**, Albert P, Berg JJ, Birchler JA, Grote M, **Lorant A**, **Quezada J**, Swarts K, **Yang J**, **Ross-Ibarra J** 
+ 
+* [Adaptation in plant genomes: bigger is different](https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1002) [[preprint](https://www.biorxiv.org/content/early/2017/10/02/196501)][[github](https://github.com/RILAB/AJB_MutationalTargetSize_GenomeSize)][[YouTube](https://www.youtube.com/watch?v=aXLuWruOmO4_)][[slides](https://www.slideshare.net/jrossibarra/adaptation-in-plant-genomes-bigger-is-different)]  
+**Mei W**, **Stetter MG**, **Gates DJ**, **Stitzer MC**, **Ross-Ibarra J**
+
+
+<hr>

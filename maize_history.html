@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>maize_history</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Ross-Ibarra Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="people.html">People</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="pubs.html">Publications</a>
+</li>
+<li>
+  <a href="https://github.com/RILAB/lab-docs">Lab Docs</a>
+</li>
+<li>
+  <a href="rehab.html">R.E.H.A.B</a>
+</li>
+<li>
+  <a href="news.html">News</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<p><strong>A Brief History of Maize</strong></p>
+<p>Maize (Zea mays ssp. mays), known in the United States as corn, is a
+grass, along with other important crops such as rice, wheat, and
+barley.</p>
+<p>Because of its distinctive morphology, the origins of maize and its
+closest wild relatives were the subject of more than a century of
+debate, but thanks to the confluence of evidence from both genetics and
+archaeology we now know the broad brushstrokes of the evolution of maize
+in the Americas.</p>
+<p>Archaeological evidence shows people living in what is today SW
+Mexico, began domesticating maize as early as 9000 years ago from a wild
+annual grass known as teosinte (<em>Zea mays</em> ssp.
+<em>parviglumis</em>). Why people domesticated maize remains poorly
+understood, and whether people initially used the grains for flour or
+for popcorn, or perhaps the sweet stems, is still unknown. In either
+case, domestication left maize completely dependent on people for its
+spread and reproduction. Quickly after domestication, early farmers
+moved maize with them and traded it with other communities. Within 1500
+years maize reached S. America, but moved somewhat more slowly north,
+arriving in the US SW nearly 5000 years after domestication began.
+Although it is now a global staple, maize was introduced to other
+continents only after European colonization beginning in the early 16th
+century.</p>
+<p>By the time of European colonization, Indigenous groups throughout
+the Americas had bred and adapted maize to a wide variety of
+environments and a vast number of cultural and culinary uses. Even
+today, traditional maize farming practices continue over tens of
+millions of hectares of farmland, playing an important role in local
+economies and food supplies but also contributing to the continued
+evolution of maize.</p>
+<p><strong>The Cultural and Culinary Importance of Maize</strong></p>
+<p>Maize holds incredible cultural importance to many peoples. Here we
+focus on a few examples. For many cultures in the Americas, maize
+fulfills not just nutritional requirements, but also important
+religious, spiritual, and ceremonial roles. For example, the central
+protagonists in the Popul Vuh, the origin story of the K’iche and
+Yucatec Mayans, are twins born from the god of maize from two types of
+maize (white and yellow). Deities of maize, such as the Aztec gods
+Centeotl and Chicomecoatl, were central to many societies. Maize was
+served as sacred food and drink throughout the Americas – in the Incan
+empire, for example, ajha (chicha de jora) made from fermented maize was
+often used as a ritual beverage.</p>
+<p>Fueled by the agronomic ingenuity of indigenous farmers, maize
+evolved to become a staple crop throughout the Americas. Of the many
+processing techniques developed by indigenous groups, nixtamalization is
+of particular importance. Nixtamalization of maize is a chemical process
+where kernels are cooked in alkaline solutions of lime or wood ash to
+allow for nutrients in maize to be more easily accessible. Agricultural
+innovations also allowed maize to dominate food production systems, such
+as the “three sisters” co-cropping method of farming, involving a
+planting system of maize, beans, and squash. Regional selection for
+specific traits reflecting cultivation techniques, environmental
+differences, and cultural and culinary preferences have contributed to
+the diversity we see in maize today. Examples include “palomero” maize
+selected for popcorn production, “ancho” and “cacahuazintle” maize for
+pozole soups, and “pepitilla” for tortilla masa.</p>
+<p>With the introduction of improved modern maize varieties into Mexico,
+the diversity of these culturally and culinarily significant traditional
+varieties has eroded. However, smallholder farmers today still consider
+traditional maize varieties to have relative benefits, especially women
+farmers who readily acknowledge the importance of grain flavor and
+cooking volume over yield. Today, contemporary farmers of traditional
+maize varieties – the most marginalized participants in the broader
+maize economy – nonetheless remain crucial to the selection and
+maintenance of culturally and environmentally relevant maize
+diversity.</p>
+<p><strong>Collection and Use of Maize Germplasm</strong></p>
+<p>Continued maize breeding and research heavily utilize germplasm
+collections of maize. Much of this material was collected during the
+20th century as part of private and government initiatives, many
+motivated by concerns of population growth rooted in eugenics ideology.
+These trips extracted seed from indigenous communities, where maize had
+been bred for millenia, and placed them in long-term <em>ex situ</em>
+germplasm repositories. The International Maize and Wheat Improvement
+Center, CIMMYT, which grew in part out of these programs, maintains an
+extensive germplasm collection. Germplasm collections have directly
+contributed to advances such as genetic transformation and continue to
+be used by researchers and breeders today.</p>
+<p>Geneticists leading many of these historical collection projects used
+the term ‘race’ or ‘landrace’ to describe maize populations, arguing
+that “the problem of races and their recognition is indeed almost the
+same in <em>Zea Mays</em> [sic] as in mankind” (Anderson &amp; Cutler
+1942). The idea of race as a biological category is unfounded and stems
+from a <a
+href="https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race"><em>history
+of scientific racism</em></a>. In maize, as in humans, ‘race’ is a
+social construct; while maize ‘races’ often share some morphological
+features, this sharing is imperfect and not representative of wider
+underlying genetic similarities. We advocate instead using the term
+‘traditional varieties’.</p>
+<p>Indigenous communities have historically not benefited from the use
+of germplasm collections or the economic windfalls of modern maize
+production. To combat extractive research practices and the denial of
+Indigenous data rights, we recommend the <a
+href="https://www.nature.com/articles/s41559-023-02161-2"><em>CARE
+Principles for Indigenous Data Governance</em></a>, which presents
+guidelines for protecting Indigenous data rights in current and future
+scientific research. Another important avenue to address historic and
+ongoing extractive scientific practices is seed rematriation efforts,
+where seeds are returned to the original community from which they were
+collected. Ongoing efforts, including at CIMMYT, recognize the integral
+role of rematriation in building a more integrative, collaborative, and
+respectful partnership with the communities who maintain agricultural
+biodiversity.</p>
+<p><strong>Bibliography</strong></p>
+<p><strong><em>Websites</em></strong></p>
+<p><a
+href="https://graham.umich.edu/news/sustaining-lifeways-and-anishinaabe-partners"><em>Sustaining
+Lifeways and Anishinaabe Partners</em></a></p>
+<p><a
+href="https://resource.rockarch.org/story/rockefeller-philanthropy-and-population-related-fields/"><em>Rockefeller
+Philanthropy and Population-Related Fields</em></a></p>
+<p><a
+href="https://resource.rockarch.org/story/the-rockefeller-foundations-mexican-agriculture-program-1943-1965/"><em>The
+Rockefeller Foundation’s Mexican Agriculture Program,
+1943-1965</em></a></p>
+<p><a href="https://www.cimmyt.org/about/our-history/"><em>CIMMYT - Our
+History</em></a></p>
+<p><a
+href="https://www.cimmyt.org/news/what-is-nixtamalization/"><em>CIMMYT -
+What is nixtamalization?</em></a></p>
+<p><a
+href="https://www.cimmyt.org/news/cimmyt-recognized-for-support-in-restoring-guatemalan-seed-systems-after-hurricane/"><em>CIMMYT
+recognized for support in restoring Guatemalan seed systems after
+hurricane</em></a></p>
+<p><a
+href="https://nap.nationalacademies.org/read/2037/chapter/16"><em>Biographical
+Memoir, Elvin Charles Stakman</em></a></p>
+<p><a
+href="https://www.ars.usda.gov/midwest-area/ames/plant-introduction-research/home/races-of-maize-permissions"><em>About
+the Races of Maize Collection</em></a></p>
+<p><a
+href="https://profiles.nlm.nih.gov/spotlight/ll/feature/origins"><em>Searching
+for the Origins of Maize in Latin America, 1957-1981</em></a></p>
+<p><a
+href="https://figshare.com/articles/figure/Maize_Moving/12781307"><em>Maize
+Moving Figure</em></a></p>
+<p><a
+href="https://maize.teacherfriendlyguide.org/index.php/what-is-maize/cultural-uses-of-maize"><em>The
+Teacher-Friendly Guide to the Evolution of Maize</em></a></p>
+<p><a
+href="https://emergencemagazine.org/feature/corn-tastes-better/"><em>Corn
+Tastes Better on the Honor System, Robin Wall Kimmerer</em></a></p>
+<p><a
+href="https://flaar-mesoamerica.org/2020/08/10/maize-the-most-important-crop-for-the-mayan-culture/"><em>Maize:
+The most important crop for The Mayan Culture</em></a></p>
+<p><a
+href="https://maya.nmai.si.edu/the-maya/creation-story-maya"><em>Creation
+Story of the Maya</em></a></p>
+<p><a
+href="https://www.nal.usda.gov/collections/stories/three-sisters#:~:text=To%20the%20Iroquois%20people%2C%20corn,agriculture%20to%20the%20Iroquois%20nations"><em>The
+Three Sisters of Indigenous American Agriculture</em></a></p>
+<p><a href="https://sierraseeds.org/seed-rematriation/"><em>Seed
+Rematriation</em></a></p>
+<p><strong><em>Academic articles and books</em></strong></p>
+<p>Anderson, E., &amp; Cutler, H. C. (1942). Races of Zea mays: I. Their
+recognition and classification. <em>Annals of the Missouri Botanical
+Garden</em>, <em>29</em>(2), 69-88.</p>
+<p>Bellon, M. R., Mastretta-Yanes, A., Ponce-Mendoza, A.,
+Ortiz-Santamaría, D., Oliveros-Galindo, O., Perales, H., … &amp;
+Sarukhán, J. (2018). Evolutionary and food supply implications of
+ongoing maize domestication by Mexican campesinos. <em>Proceedings of
+the Royal Society B</em>, <em>285</em>(1885), 20181049.</p>
+<p>Casañas, F., Simó, J., Casals, J., &amp; Prohens, J. (2017). Toward
+an evolved concept of landrace. <em>Frontiers in plant science</em>,
+<em>8</em>, 145.</p>
+<p>Curry, H. A. (2021). Taxonomy, race science, and Mexican maize.
+<em>Isis</em>, <em>112</em>(1), 1-21.</p>
+<p>Eddens, A. (2019). White science and indigenous maize: The racial
+logics of the green revolution. <em>The Journal of Peasant Studies</em>,
+<em>46</em>(3), 653-673.</p>
+<p>Hellin, J., Keleman, A., &amp; Bellon, M. (2010). Maize diversity and
+gender: research from Mexico. <em>Gender &amp; Development</em>,
+<em>18</em>(3), 427-437.</p>
+<p>Kausch, A. P., Wang, K., Kaeppler, H. F., &amp; Gordon-Kamm, W.
+(2021). Maize transformation: history, progress, and perspectives.
+<em>Molecular Breeding</em>, <em>41</em>, 1-36.</p>
+<p>Matsuoka, Y., Vigouroux, Y., Goodman, M. M., Sanchez G, J., Buckler,
+E., &amp; Doebley, J. (2002). A single domestication for maize shown by
+multilocus microsatellite genotyping. <em>Proceedings of the National
+Academy of Sciences</em>, <em>99</em>(9), 6080-6084.</p>
+<p>Ocampo-Giraldo, V., Camacho-Villa, C., Costich, D. E., Vidal
+Martínez, V. A., Smale, M., &amp; Jamora, N. (2020). Dynamic
+conservation of genetic resources: Rematriation of the maize landrace
+Jala. <em>Food Security</em>, <em>12</em>, 945-958.</p>
+<p>Piperno, D. R., Ranere, A. J., Holst, I., Iriarte, J., &amp; Dickau,
+R. (2009). Starch grain and phytolith evidence for early ninth
+millennium BP maize from the Central Balsas River Valley, Mexico.
+<em>Proceedings of the National Academy of Sciences</em>,
+<em>106</em>(13), 5019-5024.</p>
+<p>Staller, J., Tykot, R., &amp; Benz, B. (Eds.). (2006). <em>Histories
+of maize: multidisciplinary approaches to the prehistory, linguistics,
+biogeography, domestication, and evolution of maize</em>. Left Coast
+Press.</p>
+<p>Willcox, M. C., Castillo-Gonzalez, F., Aragón-Cuevas, F., &amp;
+Garcia, F. H. C. (2019). Native maize in Mexico: Participatory breeding
+and connections to culinary markets. In <em>Farmers and Plant
+Breeding</em> (pp. 80-90). Routledge.</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

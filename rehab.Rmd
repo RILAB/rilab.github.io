@@ -1,0 +1,2252 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5300959-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+---
+title: "R.E.H.A.B." 
+---
+
+Science and a beverage on a Friday afternoon  are a good combination.  R.E.H.A.B. is intended to be a low-key venue for people to get discuss papers and become familiar with a broader literature. Nobody presents or defends the papers. We assume everyone has read the paper (but you are welcome to come and listen and chat even if you haven't!). We start by asking each person's thoughts and questions about the paper, then jump right in to discussion.  This allows for a very informal discussion, and with a beverage and friendly colleagues involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.  
+
+We meet Fridays at [Pizza and Pints](https://www.villagepizzaandpints.com) at 3:30pm.
+
+To be aware of any last-minute changes, please [email Jeff](mailto:rossibarra@ucdavis.edu) to be added to the Slack channel.
+
+Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
+
+We're proud of the growing list of journal clubs modelled on R.E.H.A.B., including  [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ),   [esfoyaza](https://github.com/sawers-rellan-labs/esfoyaza), [Q.U.I.T.](http://jyanglab.com/jc/), [p.r.o.s.t.](https://brandvainlab.wordpress.com/p-r-o-s-t/), [frydomics](https://github.com/arundurvasula/frydomics/blob/master/README.md), and [C.R.O.P.](https://www.cropevolution.org/reading.html)
+
+
+<!-- [Peer Rebrew](https://kevinabird.wixsite.com/kevinbird/peer-rebrew). -->
+<!-- [EvolFri](http://evolfri.blogspot.com/), -->
+<!-- [detox](http://beissingerlab.org/Detox/), -->
+
+And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
+
+<!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
+
+## 2025
+### February
+#### Feb 21
+[Lopez-Valdivia et al. preprint](https://www.biorxiv.org/content/10.1101/2024.11.18.623787v3) In silico analysis of the evolution of root phenotypes during maize domestication in Neolithic soils of Tehuacán
+
+#### Feb 14
+[Schmutzer et al. 2024](https://link.springer.com/article/10.1007/s00239-024-10161-4) Frustration can Limit the Adaptation of Promiscuous Enzymes Through Gene Duplication and Specialisation
+
+#### Feb 7
+### January
+[Todesco et al 2020](https://www.nature.com/articles/s41586-020-2467-6) Massive haplotypes underlie ecotypic differentiation in sunflowers
+
+#### Jan 31
+[Tournebize Chikhi 2024](https://www.nature.com/articles/s41559-024-02591-6) 
+Ignoring population structure in hominin evolutionary models can lead to the inference of spurious admixture events
+
+
+
+#### Jan 24
+[Arribas et al 2024](https://www.cell.com/cell/fulltext/S0092-8674(24)01328-X) Transposable element exonization generates a reservoir of evolving and functional protein isoforms
+
+#### Jan 17
+[Li et al 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11221428/) A pan-TE map highlights transposable elements underlying domestication and agronomic traits in Asian rice
+
+### Jan 10
+No REHAB - skipped
+
+#### Jan 3
+No REHAB - Happy new year!
+
+
+## 2024
+
+### December
+#### Dec 27
+Winter holiday
+
+#### Dec 20
+[Ramos-Madrigal et al 2024](https://www.cell.com/cell/abstract/S0092-8674(24)01277-7) The genomic origin of early maize in eastern North America
+
+#### Dec 13
+Harvest day - no REHAB
+
+#### Dec 6
+Harris 2007 (See Slack for Chapter PDF) Agriculture, Cultivation and Domestication: Exploring the Conceptual Framework of Early Food Production
+
+### November
+
+#### Nov 29
+No REHAB - Turkey Preservation Day
+
+#### Nov 22
+[Deletre et al 2021](https://www.nature.com/articles/s41467-021-24720-6) Kinship networks of seed exchange shape spatial patterns of plant virus diversity
+
+#### Nov 15
+[Milesi et al 2024](https://www.nature.com/articles/s41467-024-52612-y) Resilience of genetic diversity in forest trees over the Quaternary 
+
+With additional reading [here](https://communities.springernature.com/posts/tree-population-genomics-a-story-of-10-years-of-research-and-10-million-years-of-evolution?channel_id=behind-the-paper)
+
+#### Nov 8
+BAPG
+
+#### Nov 1
+[Rainegeval et al 2024](https://www.nature.com/articles/s41477-024-01807-8) Retrotransposon-driven environmental regulation of FLC leads to adaptive response to herbicide
+
+### October
+
+#### Oct 25
+
+[Huang et al. preprint](https://www.biorxiv.org/content/10.1101/2024.09.17.613564v1) Varying recombination landscapes between individuals are driven by polymorphic transposable elements
+
+#### Oct 18
+
+No R.E.H.A.B.
+
+#### Oct 11
+
+[Baduel et al. preprint](https://www.biorxiv.org/content/10.1101/2024.09.20.614076v1) Transposable elements are prevalent vectors of transgenerational epigenetic inheritance in nature
+
+#### Oct 4
+
+[Holland-Lulewicz et al. 2024](https://www.nature.com/articles/s41467-024-52597-8?fbclid=IwZXh0bgNhZW0CMTEAAR2YM6nzDAD8I-DmjLEbJuuyQPt99IUIYy2A84WCZxnQwVb5JyQ20kqE9LQ_aem_Qk0nvfLtYTDyLYxA5Bl2Kw)  The initial spread of peaches across eastern North America was structured by Indigenous communities and ecologies
+
+### September
+
+#### Sept 27
+[Akbari et al. 2024](https://www.biorxiv.org/content/10.1101/2024.09.14.613021v1) Pervasive findings of directional selection realize the promise of ancient DNA to elucidate human adaptation
+
+#### Sept 20.  
+[Bolognini et al. 2024](https://www.nature.com/articles/s41586-024-07911-1) Recurrent evolution and selection shape structural diversity at the amylase locus. 
+
+#### Sept. 13.  
+[Eroglu et al. 2024](https://www.nature.com/articles/s41556-024-01494-9) Noncanonical inheritance of phenotypic information by protein amyloids. 
+
+#### Sept 6
+[Feschotte 2023](https://www.nature.com/articles/s41576-023-00652-3) 
+
+### August
+
+#### August 23
+[Lin et al 2023](https://www.science.org/doi/full/10.1126/science.adi6549) The history of Coast Salish “woolly dogs” revealed by ancient genomics and Indigenous Knowledge
+
+#### August 9
+[Ritchey et al 2022](https://www.tandfonline.com/doi/full/10.1080/00438243.2022.2030792) "The wind that shakes the barley: the role of East Asian cuisines on barley grain size"
+
+### July  
+
+#### July 5 
+
+No R.E.H.A.B.
+
+### June 
+
+#### June 28
+[Lasky et al 2024](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyae082/7676102?redirectedFrom=fulltext) Estimating scale-specific and localized spatial patterns in allele frequency  
+
+#### June 21  
+[Tataru et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.14.599085v1)  Fluctuating selection in a Monkeyflower hybrid zone  
+
+#### June 14
+[Zhang et al 2024](https://www.science.org/doi/10.1126/science.ade4487)Rice’s trajectory from wild to domesticated in East Asia
+
+#### June 7
+[Usui & Angert 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature
+
+### May
+#### May 31 No R.E.H.A.B.
+
+#### May 24  
+[Liu et al. 2024](https://www.nature.com/articles/s41467-024-47015-y) Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations
+
+#### May 17
+[Jian et al. 2023](https://academic.oup.com/plcell/article-abstract/36/4/840/7456361?redirectedFrom=fulltext)  Forces driving transposable element load variation during Arabidopsis range expansion Get access  
+
+#### May 10 
+[Marsh and Johri preprint](https://www.biorxiv.org/content/10.1101/2024.04.22.590609v1.full)  Biases in ARG-based inference of historical population size in populations experiencing selection  
+
+#### May 3
+[Nocchi et al preprint](https://www.biorxiv.org/content/10.1101/2024.04.02.587814v1) Repeated global adaptation across plant species  
+
+### April
+#### April 18
+[Spiedel et al preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585102v1.full.pdf+html) High-resolution genomic ancestry reveals mobility in early medieval Europe
+
+#### Arpil 12  
+no R.E.H.A.B.
+
+#### April 5
+[de la Fuente Castro et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1) The genomic and cultural diversity of the Inka Qhapaq hucha ceremony in Chile and Argentina
+
+### March
+#### March 29
+No R.E.H.A.B.
+
+#### March 22  
+[Lanaud et al 2024](https://www.nature.com/articles/s41598-024-53010-6) A revisited history of cacao domestication in pre-Columbian times revealed by archaeogenomic approaches
+
+#### March 15  
+No R.E.H.A.B.
+
+#### March 8  
+[Long et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1) Muller’s Ratchet in Action: The Erosion of Sexual Reproduction Genes in Domesticated Cassava (Manihot esculenta)
+
+#### March 1  
+No R.E.H.A.B. -- [Maize meeting!](https://www.maizegdb.org/mgc/maizemeeting/2024)
+
+### February
+#### Feb 23 
+[Pironon, Ondo, et. al.](https://www.science.org/doi/10.1126/science.adg8028) The global distribution of plants used by humans
+
+#### Feb 16
+[Pope et al . 2023](https://www.pnas.org/doi/full/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
+
+#### Feb 9  
+No R.E.H.A.B.
+
+#### Feb 2
+[Löytynoja 2022](http://m.genome.cshlp.org/content/32/8/1437.full.pdf) Thousands of human mutation clusters are explained by short-range template switching
+
+
+#### Jan 26
+[Lind et al preprint](https://www.biorxiv.org/content/10.1101/2023.02.10.528022v2) How useful is genomic data for predicting maladaptation to future climate?
+
+#### Jan 19
+[Delmore et al 2023](https://academic.oup.com/evlett/article/7/6/401/7298704) Structural genomic variation and migratory behavior in a wild songbird
+
+#### Jan 12
+[Gautier et al 2023](https://www.biorxiv.org/content/10.1101/2023.11.24.568563v1.full) Genomic reconstruction of the successful establishment of a feralized bovine population on the subantarctic island of Amsterdam
+
+
+#### Jan 5
+no REHAB
+
+
+## 2023
+
+### December
+
+#### Dec 29
+Happy New Year's!
+
+#### Dec 22
+No REHAB
+
+#### Dec 15
+[Zhang et al 2023](https://www.pnas.org/doi/full/10.1073/pnas.2305208120) The lack of negative association between TE load and subgenome dominance in synthesized Brassica allotetraploids
+
+#### Dec 8
+[Rivera-Rodríguez et al 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291944) Genomic diversity and population structure of teosinte (Zea spp.) and its conservation implications
+
+#### Dec 1
+[Nigenda-Morales et al 2023](https://www.nature.com/articles/s41467-023-40052-z) The genomic footprint of whaling and isolation in fin whale populations
+
+### November
+
+#### Nov 24
+Gobble gobble gobble gobble gobble gobble
+
+#### Nov 17
+[Diop et al 2023](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10428) Ethnolinguistic and genetic diversity of fonio (Digitaria exilis) in Senegal
+
+#### Nov 10
+Veteran's Day - no REHAB
+
+#### Nov 3
+[Igolkina et al 2023](https://academic.oup.com/mbe/article/40/6/msad110/7158554) Historical Routes for Diversification of Domesticated Chickpea Inferred from Landrace Genomics
+
+### October
+
+#### Oct 27
+[Lang et al 2022](https://www.biorxiv.org/content/10.1101/2022.10.23.513440v1) Century-long timelines of herbarium genomes predict plant stomatal response to climate change
+
+#### Oct 20
+[Castillo et al 2023](https://www.biorxiv.org/content/10.1101/2023.09.27.559715v1.abstract) Predicting rapid adaptation in time from adaptation in space: a 30-year field experiment in marine snails
+
+#### Oct 13
+No REHAB
+
+#### Oct 6
+[Gordon et al. 2023](https://www.nature.com/articles/s41467-020-17302-5) Gradual polyploid genome evolution revealed by pan-genomic analysis of Brachypodium hybridum and its diploid progenitors
+
+### September
+
+#### Sep 29
+[Bontrager et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.01.364349v1.full) Climate warming weakens local adaptation
+
+#### Sep 22
+No REHAB -- lab event
+
+#### Sep 15
+[Pope et al. 2023](https://www.pnas.org/doi/abs/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
+
+#### Sep 8
+No REHAB - lab trip!
+
+#### Sep 1
+[Engelhorn et al. 2023](https://www.biorxiv.org/content/10.1101/2023.08.08.551183v1) Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
+
+### August
+#### Aug 24  
+[Mueller et al. 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284136) The taming of the weed: Developmental plasticity facilitated plant domestication  
+
+#### Aug 11
+[Jorgensen et al. 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajpa.24656) Genetic adaptations to potato starch digestionin the Peruvian Andes 
+
+#### Aug 4
+[Berube et al preprint](https://www.biorxiv.org/content/10.1101/2023.07.12.548689v1) Teosinte Pollen Drive guides maize domestication and evolution by RNAi
+
+### July
+
+#### July 28  
+[Benegas et al preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v2) DNA language models are powerful zero-shot predictors of genome-wide variant effects
+
+
+#### July 21
+[Hohenlohe et al. 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016716/) Using population genomics to detect selection in natural populations: key concpets and methodological considerations (Topic: detecting selection)
+
+#### July 14
+No REHAB
+
+#### Jul 7
+[Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
+
+### June
+
+#### June 30
+[Battey, Ralph, and Kern 2020](https://academic.oup.com/genetics/article/215/1/193/5930485) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data (Topic: assumptions of population structure)
+
+#### June 23
+[Hayward and Sella 2022](https://elifesciences.org/articles/66697) Polygenic adaptation after a sudden change in environment (Topic: polygenic adaptation)
+
+#### June 16
+No REHAB
+
+#### June 9
+<!-- [Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory) -->
+[Mather 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6972798/) A practical introduction to sequentially Markovian coalescent methods for estimating demographic history from genomic data (Topic: applications of coalescence theory)
+
+#### June 2 
+[Sethupathy and Hanenhali 2008](https://www.hindawi.com/journals/abi/2008/257864/) A tutorial of the poisson random field model in population penetics (Topic: diffusion theory)
+
+### May
+
+#### May 26
+[Torres et al. 2020](https://academic.oup.com/genetics/article/214/4/1019/5930513) The temporal dynamics of background selection in nonequilibrium populations (Topic: linked selection)
+
+#### May 5  
+[Kelly 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.308) The genomic scale of fluctuating selection in a natural plant population  
+
+### April
+
+#### April 28
+No R.E.H.A.B. -- visiting our awesome undergraduate researchers presenting at the [URSCA Conference](https://urc.ucdavis.edu/conference)
+
+#### April 21
+[Muir et al. 2015](https://www.journals.uchicago.edu/doi/full/10.1086/679108) The Limited Contribution of Reciprocal Gene Loss to Increased Speciation Rates Following Whole-Genome Duplication.
+
+#### April 14  
+[Silva and Van de Peer preprint](https://www.biorxiv.org/content/biorxiv/early/2023/03/14/2023.03.13.532351.full.pdf)  Whole-genome duplications and the long-term evolution of gene regulatory networks in angiosperms
+
+#### April 7  
+[Dong et al. 2023](https://www.science.org/doi/full/10.1126/science.add8655?casa_token=ZatU2HbDnvcAAAAA%3AUvUjasHreueF7WW2kEHDlkGjJuSn3vCsjUv1nbm01i-gcQ0Pz4o_mo042UQxUJWb2N-l_h6OC_ZX) Dual domestications and origin of traits in grapevine evolution
+
+### March
+
+#### March 24  No R.E.H.A.B. (Spring Break)
+
+#### March 24  
+[Gonçalves-Dias preprint](https://www.biorxiv.org/content/10.1101/2023.03.17.533106v1) Evolutionary rescue through gene flow despite genetic incompatibilities shaped diversity of the pseudo-cereal grain amaranth
+
+#### March 17  
+No R.E.H.A.B. -- maize meeting!
+
+#### March 10  
+[ Bénitière et al. preprint ](https://www.biorxiv.org/content/10.1101/2022.12.09.519597v2) Random genetic drift sets an upper limit on mRNA splicing accuracy in metazoans
+
+#### March 3  
+[Soudi et al. preprint](https://www.biorxiv.org/content/10.1101/2023.02.17.528989v1)  Repeatability of adaptation in sunflowers: genomic regions harbouring inversions also drive adaptation in species lacking an inversion
+
+### February
+#### Feb 24  
+[Rodrigues et al. preprint](https://www.biorxiv.org/content/10.1101/2023.02.07.527547v1) Shared evolutionary processes shape landscapes of genomic variation in the great apes
+
+#### Feb 17  
+[Matheson and Masel preprint](https://www.biorxiv.org/content/10.1101/2022.01.11.475913v2.full.pdf+html) Unlinked background selection reduces neutral diversity more than linked background selection
+
+#### Feb 10  
+[Barbeiri et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2122084119) A global analysis of matches and mismatches between human genetic and linguistic histories
+
+
+#### Feb 3  
+[Opedal et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2203228120) Evolvability and trait function predict phenotypic divergence of plant populations
+
+### January
+#### Jan 27  
+[ Milesi et al. preprint ](https://www.biorxiv.org/content/10.1101/2023.01.05.522822v1) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles
+
+#### Jan 20  
+[ Bohutinska et al. preprint](https://www.biorxiv.org/content/10.1101/2023.01.11.523565v1) Repeated adaptation to whole genome duplication in outcrossing Arabidopsis is mediated by mosaic adaptive haplotypes
+
+## 2022
+### November 
+#### Nov 4  
+[Chturvedi et al. 2022](https://www.nature.com/articles/s41559-022-01909-6.epdf?sharing_token=8R7fLq_R2gVPX3f1p86yt9RgN0jAjWel9jnR3ZoTv0NSro4BSkPDy8gCPphbKfs8YITAQZ01UWI1NeI6DYAQpDN9HFOgS62zfcXl-AUoXHctcYqCFgKi2agLOXCiMo9snJ9qqhsO5r975o2Kld7RpIXxqLOiSwXhVykUYnmjptQ%3D) Local adaptation of life-history traits within urban populations of Arabidopsis thaliana
+
+### October
+#### Oct 28  
+[Schmitz et al. preprint](https://www.biorxiv.org/content/10.1101/2022.10.03.510679v1) Local adaptation of life-history traits within urban populations of Arabidopsis thaliana
+
+#### Oct 21  
+[Hibbins & Hahn 2022](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009892) The effects of introgression across thousands of quantitative traits revealed by gene expression in wild tomatoes
+
+#### Oct 14
+No R.E.H.A.B. -- harvest!
+
+#### Oct 7  
+[Todd et al. 2022](https://www.science.org/doi/10.1126/science.abo3503) The genomic history and global expansion of domestic donkeys
+
+### September 
+#### Sept 30
+No R.E.H.A.B. -- [corn maze](https://www.coolpatchpumpkins.com)! Email if you'd like to join!
+
+#### Sept 23
+[Le et al, preprint](https://www.biorxiv.org/content/10.1101/2022.08.24.505188v1) 1,000 ancient genomes uncover 10,000 years of natural selection in Europe
+
+#### Sept 16
+[Bieker et al. 2022](https://www.science.org/doi/10.1126/sciadv.abo5115) Uncovering the genomic basis of an extraordinary plant invasion
+
+#### Sept 9
+[Le et al, preprint](https://www.biorxiv.org/content/10.1101/2022.08.24.505188v1) 1,000 ancient genomes uncover 10,000 years of natural selection in Europe
+
+#### Sept 2
+[Liu and Zhang 2022](https://academic.oup.com/mbe/article/39/8/msac169/6652438?login=false) Is the Mutation Rate Lower in Genomic Regions of Stronger Selective Constraints?
+
+### August
+#### Aug 26  
+[Lotterhos preprint](https://www.biorxiv.org/content/10.1101/2022.08.03.502621v1) Does the paradigm of genotype-environment associations need to be re-assessed? The paradox of adaptive phenotypic clines with non-clinal patterns in causal alleles
+
+#### Aug 19  
+Postponed
+
+#### Aug 12  
+[Moreno-Villena et al. 2022](https://www.science.org/doi/10.1126/sciadv.abn2349#.Yu8M_rXLkC4.twitter) Spatial resolution of an integrated C4+CAM photosynthetic metabolism
+
+#### Aug 5  
+[Widen et al. preprint](https://www.biorxiv.org/content/10.1101/2022.07.12.499685v1) Virus-like transposons cross the species barrier and drive the evolution of genetic incompatibilities
+
+### July
+#### July 29
+[Barnes, Rordíguez-Zapata, Juárez-Núñez  et al. 2022](https://www.pnas.org/doi/epdf/10.1073/pnas.2100036119) An adaptive teosinte mexicana introgression modulates phosphatidylcholine levels and is associated with maize flowering time
+
+#### July 22
+[Gloss et al. 2022](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0512)  Genome-wide association mapping within a local Arabidopsis thaliana population more fully reveals the genetic architecture for defensive metabolite diversity
+
+#### July 15
+[Wu et al. 2022](https://www.nature.com/articles/s41477-019-0563-0) Allelochemicals targeted to balance competing selections in African agroecosystems
+
+#### July 8
+[Cai et al. 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.13807) Transposable element insertion: a hidden major source ofdomesticated phenotypic variation inBrassica rapa
+
+#### July 1
+[Berdan et al. 2022](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0199) Mutation accumulation opposes polymorphism: supergenes and the curious case of balanced lethals
+
+### June
+#### June 24
+[Weide et al. 2022](https://www.nature.com/articles/s41477-022-01161-7) A new functional ecological model reveals the nature of early plant management in southwest Asia
+
+#### June 17 
+[Atmore et al. preprint](https://www.biorxiv.org/content/10.1101/2022.05.18.492457v1) Serial depletion of Baltic herring since the Viking Age revealed by ancient DNA and population genomics
+
+#### June 10
+No R.E.H.A.B -- PEQG!
+
+#### June 3
+[ Padilla-Iglesias et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2113936119) Population interconnectivity over the past 120,000 years explains distribution and diversity of Central African hunter-gatherers
+
+### May
+#### May 27
+[Franco et al. preprint](https://www.biorxiv.org/content/10.1101/2020.08.31.268425v2)A Maize Practical Haplotype Graph Leverages Diverse NAM Assemblies
+
+#### May 20
+[Mostafavi et al. preprint](https://www.biorxiv.org/content/10.1101/2022.05.07.491045v1) Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery
+
+#### May 13
+[Thornton 2019](https://academic.oup.com/genetics/article/213/4/1513/5930641) Polygenic Adaptation to an Environmental Shift: Temporal Dynamics of Variation Under Gaussian Stabilizing Selection and Additive Effects on a Single Trait 
+
+#### May 6
+[Láruson et a l. 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13354) Seeing the forest for the trees: Assessing genetic offset predictions from gradient forest
+
+### April 29
+
+Postponed, see May 6
+
+#### April 22
+[Zuin et al. 2022](https://www.nature.com/articles/s41586-022-04570-y) Nonlinear control of transcription through enhancer–promoter interactions
+
+#### April 15
+[Napier et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2118879119) A generalist–specialist trade-off between switchgrass cytotypes impacts climate adaptation and geographic range
+
+
+#### April 8  
+[Lasky et al. preprint](https://www.biorxiv.org/content/10.1101/2022.03.21.485229v1) Wavelet characterization of spatial pattern in allele frequency
+
+#### April 1  
+[Wuitchik et al. 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16396) Evolution of thermal physiology alters the projected range of threespine stickleback under climate change
+
+### March
+#### March 25  
+University holiday, no R.E.H.A.B.
+
+#### March 18
+[White et al. 2022](https://www.sciencedirect.com/science/article/pii/S0960982222001105?dgcid=author) Experimental evolution of local adaptation under unidimensional and multidimensional selection
+
+#### March 11
+[Haupt & Schmid preprint](https://www.biorxiv.org/content/10.1101/2022.02.18.480989v2?ct=) Using landscape genomics to infer genomic regions involved in environmental adaptation of soybean genebank accessions
+
+#### March 4
+[Kreiner et al. 2022](https://elifesciences.org/articles/70242) Repeated origins, widespread gene flow, and allelic interactions of target-site herbicide resistance mutations
+
+### February
+
+#### Feb 25 
+[McGlothlin et al. preprint](https://www.biorxiv.org/content/10.1101/2021.02.18.431064v2.full.pdf) Conservation and Convergence of Genetic Architecture in the Adaptive Radiation of Anolis Lizards
+
+#### Feb 18 
+[Cooke et al. 2020](https://www.science.org/doi/10.1126/sciadv.abc6318) Genomic signatures in the coral holobiont reveal host adaptations driven by Holocene climate change and reef specific symbionts
+
+#### Feb 11
+[Murphy et al. preprint](https://www.biorxiv.org/content/10.1101/2021.07.02.450762v2) Broad-scale variation in human genetic diversity levels is predicted by purifying selection on coding and non-coding elements
+
+#### Feb 4 
+[van der Zee et al. 2022](https://onlinelibrary.wiley.com/doi/10.1002/evl3.272) Rapid genomic convergent evolution in experimental populations of Trinidadian guppies (Poecilia reticulata)
+
+### January
+
+#### Jan 28
+[Saleh et al. 2022](https://onlinelibrary.wiley.com/doi/10.1002/evl3.269) Genome-wide evolutionary response of European oaks during the Anthropocene
+
+#### Jan 21  
+[Dahan-Meir preprint](https://www.biorxiv.org/content/10.1101/2022.01.10.475641v1) The genetic structure of a wild wheat population has remained associated with microhabitats over 36 years
+
+#### Jan 14
+[Ho et al.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009827) Engines of change: Transposable element mutation rates are high and variable within *Daphnia magna*.
+
+#### Jan 7
+[Exposito-Alonso et al preprint](https://www.biorxiv.org/content/10.1101/2021.10.13.464000v1) Quantifying the scale of genetic diversity extinction in the Anthropocene.
+
+## 2021
+
+### December
+
+#### Dec 3
+[Matheson et al. preprint](https://www.biorxiv.org/content/10.1101/2021.11.01.466728v1) Haldane’s cost of selection imposes a mild constraint on adaptation, with a high proportion of deaths in A. thaliana being selective
+
+### November
+#### Nov 26 
+[Zongker et al. preprint](https://isotropic.org/papers/chicken.pdf) Turkey or chicken? A perennial Thanksgiving debate. (No REHAB)
+
+#### Nov 19
+[Jaegle et al. preprint](https://www.biorxiv.org/content/10.1101/2021.11.15.468652v1) Extensive gene duplication in Arabidopsis revealed by pseudo-heterozygosity.
+
+#### Nov 12
+[Johri et al preprint](https://www.biorxiv.org/content/10.1101/2021.10.27.466171v1.full.pdf) Statistical inference in population genomics.
+
+### October
+#### Oct 29
+[Kulbaba et al. preprint](https://www.biorxiv.org/content/10.1101/2021.10.12.464067v1) Chasing the fitness optimum: temporal variation in the genetic and environmental expression of life-history traits for a perennial plant
+
+#### Oct 22
+[Ye et al. 2019](https://www.nature.com/articles/s41559-019-0976-1) Genomic evidence of human selection on Vavilovian mimicry
+
+#### Oct 15 
+No R.E.H.A.B. -- RI-lab fest for Gates, Tittes, Fairbanks, Solares et al. and annual corn maize!
+
+#### Oct 8
+[Ojeda-Granado et al. preprint](https://www.biorxiv.org/content/10.1101/2021.04.14.439124v1.abstract) Dietary, Cultural and Pathogens-related Selective Pressures Shaped Differential Adaptive Evolution Among Native Mexican Populations
+
+
+#### Oct 1
+[Battlay et al preprint](https://www.biorxiv.org/content/10.1101/2021.09.13.459985v1?ct=) Pleiotropy drives repeatability in the genetic basis of adaptation
+
+### September
+
+#### Sept 24 
+[Grieshop et al. preprint](https://arxiv.org/abs/2109.01571) Dominance reversals, antagonistic pleiotropy, and the maintenance of genetic variation
+
+#### Sept 17
+[Howe et al. preprint](https://www.biorxiv.org/content/10.1101/2021.03.05.433935v1) Within-sibship GWAS improve estimates of direct genetic effects
+
+*AND*
+
+[Paige Harden 2018](https://www.nytimes.com/2018/07/24/opinion/dna-nature-genetics-education.html) Why Progressives Should Embrace the Genetics of Education
+
+#### Sept 10
+[Brown and Kelly preprint](https://www.biorxiv.org/content/10.1101/2021.06.02.446804v1) Genome-wide association mapping of transcriptome variation in Mimulus guttatus indicates differing patterns of selection on cis- versus trans-acting mutations
+
+#### Sept 3
+
+[Domínguez et al. 2020](https://www.nature.com/articles/s41467-020-17874-2) The impact of transposable elements on tomato diversity
+
+### August
+#### August 27
+
+[Aguirre-Liguori et al. 2021](https://www.nature.com/articles/s41559-021-01526-9) The evolutionary genomics of species’ responses to climate change
+
+#### August 20
+
+[Gibson et al. 2021](https://elifesciences.org/articles/64165v1) Introgression shapes fruit color convergence in invasive Galápagos tomato
+
+#### August 13
+
+[Todesco et al, preprint](https://www.biorxiv.org/content/10.1101/2021.06.26.449999v1) Genetic basis and dual adaptive role of floral pigmentation in sunflowers
+
+#### August 6
+
+[Szukala et al](https://www.biorxiv.org/content/10.1101/2021.07.05.451094v2) Polygenic routes lead to parallel altitudinal adaptation in Heliosperma pusillum (Caryophyllaceae). 
+
+### July
+
+#### July 30
+[Moutinho et al, 2021](https://www.biorxiv.org/content/10.1101/2021.04.28.441765v1) Testing the adaptive walk model of gene evolution. 
+
+#### July 23
+Tittes et al. DRAFT (PDF on Slack, or request access by email). The population genetics of local adaptation and convergence in maize landrace and its wild relative teosinte.
+
+#### July 16
+[Brown & Kelly, 2021](https://www.biorxiv.org/content/10.1101/2021.06.02.446804v1) Genome-wide association mapping of transcriptome variation in Mimulus guttatus indicates differing patterns of selection on cis- versus trans-acting mutations
+
+#### July 9
+[Blavet et al. 2021](https://www.pnas.org/content/118/23/e2104254118.short) Sequence of the supernumerary B chromosome of maize provides insight into its drive mechanism and evolution
+
+#### July 2
+[Kistler et al. 2020](https://www.pnas.org/content/117/52/33124) Archaeological Central American maize genomes suggest ancient gene flow from South America
+
+### June
+
+#### June 25
+
+[Yamaguchi & Otto, 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14032) Insights from Fisher's geometric model on the likelihood of speciation under different histories of environmental change
+
+#### June 18
+
+[Booker et al. 2021](https://www.biorxiv.org/content/10.1101/2021.06.10.447924v1)  Selective sweeps influence diversity over large regions of the mouse genome
+
+#### June 11
+
+[Kirch et al. 2021](https://www.sciencedirect.com/science/article/abs/pii/S0960982221002682) Ancient and modern stickleback genomes reveal the demographic constraints on adaptation
+
+#### June 4
+
+[Milla & Osborne 2021](https://www.nature.com/articles/s41477-021-00905-1) Crop origins explain variation in global agricultural relevance
+
+### May
+
+#### Friday May 28
+
+[Burban et al. 2021](https://www.biorxiv.org/content/10.1101/2021.03.19.436202v1) Gene network simulations provide testable predictions for the molecular domestication syndrome
+
+#### Friday May 21
+
+[Hejase et al. 2020](https://www.pnas.org/content/117/48/30554.short) Genomic islands of differentiation in a rapid avian radiation have been driven by recent selective sweeps
+
+#### Friday May 14
+
+Cancelled
+
+#### Friday May 7
+
+[Rudman et al. preprint](https://www.biorxiv.org/content/10.1101/2021.04.27.441526v1) Direct observation of adaptive tracking on ecological timescales in Drosophila
+
+
+### April
+
+#### Friday Apr 30
+
+[Kling and Ackerly](https://www.pnas.org/content/118/17/e2017317118) Global wind patterns shape genetic differentiation, asymmetric gene flow, and genetic diversity in trees
+
+
+#### Friday Apr 23
+
+[Gupta et al. preprint](https://www.biorxiv.org/content/10.1101/2021.04.04.438381v1) Inter-chromosomal linkage disequilibrium and linked fitness cost loci influence the evolution of nontarget site herbicide resistance in an agricultural weed
+
+#### Friday Apr 16
+
+No R.E.H.A.B.
+
+#### Friday Apr 9
+
+[Bergström, Franz et al. 2020](https://science.sciencemag.org/content/370/6516/557) Origins and genetic legacy of prehistoric dogs
+
+#### Friday Apr 2
+[Shahzad et al 2021](https://www.biorxiv.org/content/10.1101/2021.03.15.435374v1.article-info) Gene body methylation mediates epigenetic inheritance of plant traits.
+
+### March
+
+#### Friday Mar 26
+[Meng et al. 20201](https://www.pnas.org/content/118/10/e2026330118) Predicting transcriptional responses to cold stress across plant species
+
+
+#### Friday Mar 19
+[Buffalo preprint](https://www.biorxiv.org/content/10.1101/2021.02.03.429633v1.abstract) Why do species get a thin slice of π? Revisiting Lewontin’s Paradox of Variation 
+
+
+#### Friday Mar 12
+[Soni et al. preprint](https://www.biorxiv.org/content/10.1101/2021.02.08.430226v2) A new test suggests that balancing selection maintains hundreds of non-synonymous polymorphisms in the human genome
+
+
+#### Friday Mar 5
+[Lovell et al. 2021](https://www.nature.com/articles/s41586-020-03127-1) Genomic mechanisms of climate adaptation in polyploid bioenergy switchgrass
+
+### February
+
+
+#### Friday Feb 26
+[Hufnagel et al. 2021](https://www.biorxiv.org/content/10.1101/2021.02.11.430632v1) Evidence for Multiple Teosinte Hybrid Zones in Central Mexico
+
+
+#### Friday Feb 19
+[Wei et al. 2021](https://www.nature.com/articles/s41588-020-00769-9) A quantitative genomics map of rice provides genetic insights and guides breeding
+
+#### Friday Feb 12
+[Nelson et al. preprint](https://www.biorxiv.org/content/10.1101/2020.09.08.287151v1) Ancient and recent introgression shape the evolutionary history of pollinator adaptation and speciation in a model monkeyflower radiation (*Mimulus section Erythranthe*)
+
+#### Friday Feb 5
+[Schluter et al. 2021](https://www.pnas.org/content/118/3/e1914889118) Fitness maps to a large-effect locus in introduced stickleback populations
+
+### January
+
+
+#### Friday Jan 29
+
+[Wos et al. 2020](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15105) Parallelism in gene expression between foothill and alpine ecotypes in Arabidopsis arenosa
+
+#### Friday Jan 22
+[Domb et al. 2020](https://www.pnas.org/content/117/52/33700.short) DNA methylation mutants in Physcomitrella patens elucidate individual roles of CG and non-CG methylation in genome regulation
+
+#### Friday Jan 15
+
+[Göktay et al. 2020](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa309/6008718) A new catalogue of structural variants in 1301 A. thaliana lines from Africa, Eurasia and North America reveals a signature of balancing at defense response genes
+
+#### Friday Jan 8
+[Desbiez-Piat et al. preprint](https://www.biorxiv.org/content/10.1101/2020.12.22.423930v1.full) Interplay between high-drift and high-selection limits the genetic load in small selfing maize populations
+
+## 2020
+
+### December
+
+#### Friday Dec 18
+
+[Bergero et al. 2019](https://www.pnas.org/content/116/14/6924) Exaggerated heterochiasmy in a fish with sex-linked male coloration polymorphisms
+
+#### Friday Dec 11
+
+[Mérel et al. preprint](https://www.biorxiv.org/content/10.1101/2020.11.06.370932v1) The worldwide invasion of Drosophila suzukii is accompanied by a large increase of transposable element load and a small number of putatively adaptive insertions
+
+#### Friday Dec 4
+
+[Gordon et al. 2020](https://www.journals.uchicago.edu/doi/abs/10.1086/689864) Rapid Changes in the Sex Linkage of Male Coloration in Introduced Guppy Populations
+
+### November
+
+#### Friday November 27
+
+No R.E.H.A.B.
+
+
+#### Friday November 20
+
+No R.E.H.A.B.
+
+#### Friday November 13
+
+[Crouse et al. 2020](https://www.genetics.org/content/early/2020/10/16/genetics.120.303393) Inferring the Allelic Series at QTL in Multiparental Populations
+
+#### Friday November 6
+
+[Batstone et al. 2020 et al.](https://science.sciencemag.org/content/370/6515/476) Experimental evolution makes microbes more cooperative with their local host genotype
+
+### October
+
+#### Friday October 30
+
+[Geiler-Samerotte et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000836) Extent and context dependence of pleiotropy revealed by high-throughput single-cell phenotyping
+
+#### Friday Oct 23
+
+[Wyler et al. 2020](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa180/5898196) Impact of transposable elements on methylation and gene expression across natural accessions of Brachypodium distachyon
+
+#### Friday Oct 16
+
+[Corre et al. 2020](https://www.pnas.org/content/early/2020/09/25/2006633117) Adaptive introgression from maize has facilitated the establishment of teosinte as a noxious weed in Europe
+
+#### Friday Oct 9
+
+[Spencer et al. 2006](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0020148&type=printable) The Influence of Recombination on Human Genetic Diversity
+
+#### Friday Oct 2
+
+[Bourgeois et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14042) Genome‐wide scans of selection highlight the impact of biotic and abiotic constraints in natural populations of the model grass Brachypodium distachyon
+
+### September
+
+#### Friday Sept 25
+
+[Franco et al. preprint](https://www.biorxiv.org/content/10.1101/2020.08.31.268425v1.full.pdf) A Maize Practical Haplotype Graph Leverages Diverse NAM Assemblies  
+
+#### Friday Sept 18
+
+[Ahrens et al.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15614?casa_token=AhYswM2_1OQAAAAA:afdynHvcGBc3Vf8_oVBzO8KG2m_bh8BvDW6kJ6hj8qDU4H6DeymYWem2TkariGYmAKJ8MtwgVQABurPX) Spatial, climate, and ploidy factors drive genomic diversity and resilience in the widespread grass Themeda triandra
+
+#### Friday Sept 11
+
+[Kreiner et al. preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257972v1) The genetic architecture and genomic context of glyphosate resistance
+
+#### Friday Sept 4
+
+[Liu et al. 2020](https://www.sciencedirect.com/science/article/abs/pii/S0092867420306188) Pan-Genome of Wild and Cultivated Soybeans
+
+### August
+
+#### Friday August 28
+
+[Wang et al.](https://www.biorxiv.org/content/10.1101/2020.08.05.237834v1) Automatic Inference of Demographic Parameters Using Generative Adversarial Networks
+
+#### Friday August 21
+
+[James et al.](https://www.biorxiv.org/content/10.1101/2020.02.05.936450v2.full.pdf) A framework to quantify phenotypic and genotypic parallel evolution
+
+#### Friday August 14
+
+[Kon et al.](https://www.cell.com/current-biology/pdf/S0960-9822(20)30548-0.pdf) The Genetic Basis of Morphological Diversity in Domesticated Goldfish
+
+
+#### Friday August 7
+
+
+[Exposito-Alonso et al. preprint](https://www.biorxiv.org/content/10.1101/2020.07.14.194407v1) Non-additive polygenic models improve predictions of fitness traits in three eukaryote model species
+
+
+### July
+
+
+#### Friday July 31
+
+Manuscript Review (check slack or email JRI for docs)
+
+#### Friday July 24
+
+[Choi & Purugganan preprint](https://www.biorxiv.org/content/10.1101/2020.07.04.188102v1) Telomere lengths in plants are correlated with flowering time variation
+
+#### Friday July 17
+
+[Boukas et al. preprint](https://www.biorxiv.org/content/10.1101/2020.07.04.187880v1) Purifying selection acts on germline methylation to modify the CpG mutation rate at promoters
+
+#### Friday July 10
+
+[Monnahan et al. 2020](https://www.biorxiv.org/content/10.1101/2020.06.23.166736v1) Predicting evolutionary change at the DNA level in a natural Mimulus population
+
+#### Friday July 3
+
+[Fang et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14539) Genetic basis of kernel nutritional traits during maize domestication and improvement
+
+### June
+
+#### Friday June 26
+
+[DeWitt et al.](https://www.biorxiv.org/content/10.1101/2020.06.16.153452v1) Joint nonparametric coalescent inference of mutation spectrum history and demography
+
+#### Friday June 19
+
+[Hämälä and Tiffin](https://www.genetics.org/content/early/2020/05/15/genetics.120.303335) Biased Gene Conversion Constrains Adaptation in Arabidopsis thaliana
+
+#### Friday June 12
+
+[Shah et al.](https://www.nature.com/articles/s41467-019-14213-y) Extreme genetic signatures of local adaptation during Lotus japonicus colonization of Japan
+
+#### Friday June 5
+
+[Kyriazis, Wayne, and Lohmueller](https://www.biorxiv.org/content/10.1101/678524v1.abstract) High genetic diversity can contribute to extinction in small populations
+
+### May
+
+#### Friday May 29
+
+[Ralph et al. 2020](https://www.genetics.org/content/early/2020/05/01/genetics.120.303253) Efficiently summarizing relationships in large samples: a general duality between statistics of genealogies and genomes
+
+#### Friday May 22
+
+[Baduel et al. 2019](https://www.nature.com/articles/s41467-019-13730-0.pdf) Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation
+
+#### Friday May  15
+
+[Monroe et al. manuscript](mailto:rossibarra@ucdavis.edu) Is mutation rate variation across the Arabidopsis thaliana genome adaptive? (email/slack JRI for copy)
+
+#### Friday May 8
+
+[MacPherson et al. preprint](https://www.biorxiv.org/content/10.1101/2020.04.28.066308v1.full) Parental population range expansion before secondary contact promotes heterosis
+
+
+#### Friday May 1
+
+[Kiefer et al. 2019](https://www.nature.com/articles/s41477-019-0486-9) Interspecies association mapping links reduced CG to TG substitution rates to the loss of gene-body methylation
+
+### April
+
+#### Friday Apr 24
+
+[Voichek Weigel 2020](https://www.nature.com/articles/s41588-020-0612-7#Bib1) Identifying genetic variants underlying phenotypic variation in plants without complete genomes
+
+#### Friday Apr 17
+
+[Thompson 2020](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/708722) Experimental hybridization studies suggest that pleiotropic alleles commonly underlie adaptive divergence between natural populations
+
+#### Friday April 10
+
+[Hamlin et a l. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.159#.Xl58IugRs38.twitter) Assessing biological factors affecting postspeciation introgression
+
+
+#### Friday Apr 3
+
+[Khromov and Morozov preprint](https://www.biorxiv.org/content/10.1101/2020.02.12.946392v1.abstract) Widespread selection against deleterious mutations in the Drosophila genome
+
+### March
+
+#### Friday Mar 27
+
+[Quadrana et al. 2019](https://www.nature.com/articles/s41467-019-11385-5) Transposition favors the generation of large effect mutations that may facilitate rapid adaption
+
+#### Friday Mar 20
+
+[Corbett-Detig et al. 2020](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa028/5728642) Phenotypic convergence is not mirrored at the protein level in a lizard adaptive radiation
+
+#### Friday Mar 13
+
+[Lesaffre and Billiard preprint](https://www.biorxiv.org/content/10.1101/865220v1) On deleterious mutations in perennials: inbreeding depression, mutation load and life-history evolution
+
+#### Friday Mar 6
+
+[Durvasula and Sankararaman 2020](https://advances.sciencemag.org/content/6/7/eaax5097) Recovering signals of ghost archaic introgression in African populations
+
+### February
+
+#### Friday Feb 28
+
+[Lee et al 2017](https://www.nature.com/articles/ncomms14458) On the post-glacial spread of human commensal Arabidopsis thaliana
+
+#### Friday Feb 21
+
+[Chen et al 2020](pdfs/IBDmix-cell.pdf) Identifying and Interpreting Apparent Neanderthal Ancestry in African Individuals
+
+#### Friday Feb. 14
+
+[Aguirre-Liguori et al. 2019](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0486?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed#d3e580) Climate change is predicted to disrupt patterns of local adaptation in wild and cultivated maize.
+
+#### Friday Feb. 7
+
+[Brown and Kelly 2019](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13876) Severe inbreeding depression is predicted by the “rare allele load” in *Mimulus guttatus*
+
+### January
+
+#### Friday Jan. 31
+[Battey et al. preprint](https://www.biorxiv.org/content/10.1101/659235v2) Space is the Place: Effects of Continuous Spatial Structure on Analysis of Population Genetic Data
+
+#### Friday Jan. 24
+[Xu et al. manuscript](https://rilab.slack.com/files/U0DUKG5FE/FSQPH51TM/methylome_gen-2.pdf) Adaptive evolution of DNA methylation reshaped gene regulation in maize
+
+#### Friday Jan. 17
+
+[Wisser et al. 2019](https://www.genetics.org/content/213/4/1479) The Genomic Basis for Short-Term Evolution of Environmental Adaptation in Maize
+
+#### Friday Jan. 10
+
+[Fitzpatrick et al. 2020](https://www.cell.com/current-biology/fulltext/S0960-9822(19)31532-5) Genomic and Fitness Consequences of Genetic Rescue in Wild Populations
+
+#### Friday Jan. 3
+
+[Johri 2019](https://www.biorxiv.org/content/10.1101/2019.12.18.881516v1) Towards an evolutionarily appropriate null model: jointly inferring demography and purifying selection.
+
+## 2019
+
+### December
+
+#### Friday Dec. 20
+
+[Bierne 2010](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2010.01050.x) The distinctive footprints of local hitchhiking in a varied environment and global hitchhiking in a subdivided population
+
+#### Friday Dec. 13
+
+[Adams et al. preprint](https://www.biorxiv.org/content/10.1101/862631v1) Slow recovery from inbreeding depression generated by the complex genetic architecture of segregating deleterious mutations [comment](http://disq.us/p/264d90o)
+
+#### Friday Dec. 6
+
+[Bellis et al. preprint](https://www.biorxiv.org/content/10.1101/633529v1)
+Genomics of sorghum local adaptation to a parasitic plant
+
+### November
+
+
+#### Friday Nov 22
+
+[McClintock 1984](https://www.jstor.org/stable/1693251) The Significance of Responses of the Genome to Challenge
+
+#### Friday Nov 15
+[Zhao et al. 2019](https://www.nature.com/articles/s41467-019-12133-5?fbclid=IwAR0SU-1KHqKm183Au7M7w3wd5LkENycs4fSBgJfK3ppHw4lohLBeu6pq6oU) Resequencing 545 ginkgo genomes across the world reveals the evolutionary history of the living fossil
+
+
+#### Friday Nov 8
+
+[Hayward and Sella preprint](https://www.biorxiv.org/content/biorxiv/early/2019/10/03/792952.full.pdf) Polygenic  adaptation after a sudden change in environment
+
+#### Friday Nov 1
+
+[Schwarzkopf et al. preprint](https://www.biorxiv.org/content/biorxiv/early/2019/04/20/482299.full.pdf) Genetic differentiation and intrinsic genomic features explain variation in recombination hotspots among cocoa tree populations
+
+
+
+### October
+
+#### Friday Oct 25
+[Todesco et al. preprint](https://www.biorxiv.org/content/10.1101/790279v1.full) Massive haplotypes underlie ecotypic differentiation in sunflowers
+
+
+#### Friday Oct 18
+
+[Muyle et al. preprint](https://www.biorxiv.org/content/10.1101/777037v1) Gene capture by transposable elements leads to epigenetic conflict
+
+#### Friday Oct 11
+
+[Samuk et al. preprint](https://www.biorxiv.org/content/biorxiv/early/2019/09/30/787382.full.pdf) Natural selection shapes variation in genome-wide recombination rate in Drosophila pseudoobscura
+
+#### Friday Oct 4
+
+[Rojas-Barrera et  al. 2019](https://www.pnas.org/content/early/2019/09/26/1817664116.short?rss=1)  Contemporary evolution of maize landraces and their wild relatives influenced by gene flow with modern maize varieties
+
+
+### September
+#### Friday Sept 27
+[Gutaker et al. preprint](https://www.biorxiv.org/content/10.1101/748178v1) Genomic history and ecology of the geographic spread of rice
+
+#### Friday Sept 20
+[Hämälä et al. 2019](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz206/5566251#.XX3Qn54_1Vo.twitter) Gene expression modularity reveals footprints of polygenic adaptation in Theobroma cacao
+
+#### Friday Sept 13
+[Booker et al. preprint](https://www.biorxiv.org/content/10.1101/742247v1) Global adaptation confounds the search for local adaptation
+
+#### Friday Sept 6
+No R.E.H.A.B.
+
+### August
+#### Friday August 31
+[Galloway et al. preprint](https://www.biorxiv.org/content/10.1101/713040v1) A few stickleback suffice for the transport of alleles to new lakes
+
+#### Friday August 24
+[Rougemont et al. preprint](https://www.biorxiv.org/content/10.1101/732750v2) Demographic history, linked selection, and recombination shape the genomic landscape of a broadly distributed Pacific salmon
+
+#### Friday August 17
+[Stankowski et al. 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000391) Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers
+
+#### Friday August 9
+[Yan et al. 2019](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.14376) Parallels between natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize
+
+#### Friday August 2
+[Dunning et al. 2019](https://www.pnas.org/content/pnas/116/10/4416.full.pdf) Lateral transfers of large DNA fragments spread functional genes among grasses
+
+### July
+
+#### Friday July 26
+[Xu et al. 2019](http://www.plantcell.org/content/plantcell/early/2019/06/21/tpc.19.00111.full.pdf) Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and its Wild Ancestor, Teosinte
+
+#### Friday July 19
+No R.E.H.A.B.
+
+#### Friday July 12
+[Uricchio 2019](https://link.springer.com/article/10.1007/s00439-019-02040-6) Evolutionary perspectives on polygenic selection, missing heritability, and GWAS
+
+#### Friday July 5
+[Bradburd and Ralph preprint](https://arxiv.org/pdf/1904.09847.pdf) Spatial Population Genetics: It’s About Time
+
+### June
+
+#### Friday June 28
+[Hämälä and Savolainen 2019](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msz149/5522663?redirectedFrom=fulltext) Genomic patterns of local adaptation under gene flow in Arabidopsis lyrata
+
+#### Friday June 21  
+[Wang et al. 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000191) The architecture of intra-organism mutation rate variation in plants
+
+#### Friday June 14  
+[Lowry et al. 2019](https://www.pnas.org/content/early/2019/06/05/1821543116.short) QTL × environment interactions underlie adaptive divergence in switchgrass across a large latitudinal gradient
+
+#### Friday June 7  
+[Yang et al. 2019](https://www.nature.com/articles/s41588-019-0427-6) Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement
+
+### May
+
+#### Friday May 31  
+[Harris 2015](https://www.pnas.org/content/112/11/3439.long) Evidence for recent, population-specific evolution of the human mutation rate
+
+#### Friday May 24  
+[Verta and Jones 2019](https://elifesciences.org/articles/43785) Predominance of cis-regulatory changes in parallel expression divergence of sticklebacks
+
+#### Friday May 17
+[MS in development](mailto:rossibarra@ucdavis.edu) email Jeff for link or find on Slack
+
+#### Friday May 10
+[Vasseur et al. 2019](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000214) Nonlinear phenotypic variation uncovers the emergence of heterosis in Arabidopsis thaliana
+
+#### Friday May 3
+[Wang et al. 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1683-6) Genome-wide nucleotide patterns and potential mechanisms of genome divergence following domestication in maize and soybean
+
+### April
+
+#### Friday April 26
+[Berg et al. 2019](https://elifesciences.org/articles/39725) Reduced signal for polygenic adaptation of height in UK Biobank
+
+#### Friday April 19
+[Fustier et al. preprint](https://www.biorxiv.org/content/10.1101/563585v1) Genomic footprints of local adaptation along elevation gradients associate with present phenotypic variation in teosintes
+
+#### Friday April 12
+[Wainschtein et al. preprint](https://www.biorxiv.org/content/10.1101/588020v1) Recovery of trait heritability from whole genome sequence data
+
+#### Friday April 5
+[Yang et al. 2019](https://www.pnas.org/content/116/12/5643.abstract) The genetic architecture of teosinte catalyzed and constrained maize domestication
+
+### March
+#### Friday Mar 29
+[Monnahan et al 2019](https://www.nature.com/articles/s41559-019-0807-4) Pervasive population genomic consequences of genome duplication in Arabidopsis arenosa
+
+#### Friday Mar 22
+[Liu et al. 2019](https://www.nature.com/articles/s41467-018-08270-y) Biological relevance of computationally predicted pathogenicity of noncoding variants
+
+#### Friday Mar 15
+Maize Genetics Conference
+
+#### Friday Mar 8
+[Owens and Samuk preprint](https://www.biorxiv.org/content/10.1101/553230v1) Adaptive introgression during environmental change can weaken reproductive isolation
+
+#### Friday Mar 1
+[Mee and Yeaman preprint](https://www.biorxiv.org/content/biorxiv/early/2019/02/13/549329.full.pdf) Unpacking conditional neutrality: genomic signatures of selection on conditionally beneficial and conditionally deleterious mutations
+
+### February
+#### Friday Feb 22
+[Esnault et al. 2019](https://genome.cshlp.org/content/29/1/85.long) Transposable element insertions in fission yeast drive adaptation to environmental stress
+
+#### Friday Feb 15
+[Uricchio et al. 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.97) An evolutionary compass for detecting signals of polygenic selection and mutational bias
+
+#### Friday Feb 8
+ [Petr et al. 2019](https://www.pnas.org/content/early/2019/01/14/1814338116) Limits of long-term selection against Neandertal introgression
+
+### February
+#### Friday Feb 1
+[Lee et al. preprint](https://www.biorxiv.org/content/10.1101/525873v1) Pericentromeric heterochromatin is hierarchically organized and spatially contacts H3K9me2/3 islands located in euchromatic genome
+
+### January
+#### Friday Jan 25
+[Ferrero-Serrano et al. 2019](https://www.nature.com/articles/s41559-018-0754-5) Phenotypic and genome-wide association with the local environment of Arabidopsis
+
+#### Friday Jan 18
+[Weng et al. 2018](http://www.genetics.org/content/early/2018/12/04/genetics.118.301721) Fine-Grained Analysis of Spontaneous Mutation Spectrum and Frequency in Arabidopsis thaliana
+
+
+#### Friday Jan 11
+[Martin et al., preprint](https://www.biorxiv.org/content/biorxiv/early/2018/04/08/297531.full.pdf) Recombination rate variation shapes barriers to introgression across butterfly genomes
+
+#### Friday Jan 4
+[Zhou et al., preprint](https://www.biorxiv.org/content/early/2018/12/31/508119?rss=1) Structural variants, clonal propagation, and genome evolution in grapevine (Vitis vinifera)
+
+## 2018
+
+### December
+
+#### Friday December 28
+Happy Holidays, no R.E.H.A.B.
+
+#### Friday December 21
+Happy Holidays, no R.E.H.A.B.
+
+#### Friday December 14
+[Tenaillon et al, preprint](https://www.biorxiv.org/content/early/2018/11/05/461947)
+Transcriptomic response to divergent selection for flowering time in maize reveals convergence and key players of the underlying gene regulatory network
+
+#### Friday December 7
+[Kelleher et al, preprint](https://www.biorxiv.org/content/early/2018/11/01/458067)
+Inferring the ancestry of everyone
+
+### November
+#### Friday November 30
+[Ruby et al, 2018](http://www.genetics.org/content/210/3/1109)
+Estimates of the Heritability of Human Longevity Are Substantially Inflated due to Assortative Mating
+
+#### Friday November 23
+No R.E.H.A.B., but in honor of Thanksgiving you can read about the origin of your favorite side dish, [sweet potato](https://www.ncbi.nlm.nih.gov/pubmed/29657119)
+
+#### Friday November 16
+[more eLife review!](mailto:rossibarra@ucdavis.edu) email Jeff for link or find on Slack
+
+#### Friday November 9
+[Lin et al. 2018](http://www.pnas.org/content/early/2018/10/23/1801437115) Functional and evolutionary genomic inferences in Populus through genome and population sequencing of American and European aspen
+
+#### Friday November 2
+Special Seminar -- no R.E.H.A.B.
+
+### October
+
+#### Friday October 26
+[Fugère and Hendry, 2018](http://www.pnas.org/content/early/2018/09/12/1806013115)
+Human influences on the strength of phenotypic selection
+
+#### Friday October 19
+[Tavares et al. 2018](http://www.pnas.org/content/early/2018/10/04/1801832115)
+Selection and gene flow shape genomic islands that control floral guides
+
+#### Friday October 12
+[Yang et al. 2018](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.15296)
+Kin recognition in rice (Oryza sativa) lines
+
+#### Friday October 5
+[Albers and McVean, preprint](https://www.biorxiv.org/content/early/2018/09/13/416610) Dating genomic variants and shared ancestry in population-scale sequencing data
+
+### September
+#### Friday September 28
+[eLife review](mailto:rossibarra@ucdavis.edu) email Jeff for link
+
+#### Friday September 21
+[Bellon et al., 2018](http://rspb.royalsocietypublishing.org/content/285/1885/20181049) Evolutionary and food supply implications of ongoing maize domestication by Mexican campesinos
+
+#### Friday September 14
+[Zuellig et al., 2018](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13596) A two‐locus hybrid incompatibility is widespread, polymorphic, and active in natural populations of Mimulus
+
+#### Friday September 7
+[Crown et al., 2018](https://www.sciencedirect.com/science/article/pii/S0960982218309035) Local inversion heterozygosity alters recombination throughout the genome
+
+### August
+#### Friday August 31
+[Fuller et al. 2018](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007526) Ancestral polymorphisms explain the role of chromosomal inversions in speciation
+
+#### Friday August 24
+[Simon et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.66) Coadapted genomes and selection on hybrids: Fisher's geometric model explains a variety of empirical patterns
+
+#### Friday August 17
+[Ashander et al. preprint](https://www.biorxiv.org/content/early/2018/06/23/354530) Demographic inference in a spatially-explicit ecological model from genomic data: a proof of concept for the Mojave Desert Tortoise
+
+##### Friday August 10
+[Stankowski et al. preprint](https://www.biorxiv.org/content/early/2018/06/21/342352) The tempo of linked selection: Rapid emergence of a heterogeneous genomic landscape during a radiation of monkeyflowers
+
+##### Friday August 3
+[Jay et al. 2018](https://www.sciencedirect.com/science/article/pii/S096098221830544X?via%3Dihub) Supergene Evolution Triggered by the Introgression of a Chromosomal Inversion
+
+
+### July
+##### Friday July 27
+[Marques et al. 2018](https://www.nature.com/articles/s41559-018-0581-8) Experimental evidence for rapid genomic adaptation to a new niche in an adaptive radiation
+
+##### Friday July 20
+[McGlothlin et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.72) Adaptive radiation along a deeply conserved genetic line of least resistance in Anolis lizards
+
+##### Friday July 13
+[Parada and Charlesworth preprint](https://www.biorxiv.org/content/early/2018/06/29/358309) The effects on neutral variability of recurrent selective sweeps and background selection
+
+
+##### Friday July 6
+[Constable and Kokko 2018](https://www.nature.com/articles/s41559-018-0580-9) The rate of facultative sex governs the number of expected mating type
+
+
+### June
+
+##### Friday June 29
+[Smith et al., preprint](https://www.biorxiv.org/content/early/2018/06/03/336503) A domestication history of dynamic adaptation and genomic deterioration in sorghum
+
+##### Friday June 22
+[Zou, et al., 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1378-9) Adaptation of Arabidopsis thaliana to the Yangtze River basin
+
+##### Friday June 15
+[Fisher, 1918](http://www.indiana.edu/~curtweb/L567/readings/Fisher1918.pdf) The correlation between relatives on the supposition of Mendelian inheritance
+
+##### Friday June 8
+[Barghi et al. preprint](https://www.biorxiv.org/content/early/2018/05/28/332122) Polygenic adaptation fuels genetic redundancy in Drosophila
+
+##### Friday June 1
+[Flagel et al. preprint](https://www.biorxiv.org/content/early/2018/05/24/330159?rss=1) A synthesis of mapping experiments reveals extensive genomic structural diversity in the Mimulus guttatus species complex
+
+### May
+##### Friday May 25
+[Corbett-Detig et al. manuscript (email for pdf)](mailto:rossibarra@ucdavis.edu) Bulk Pollen Sequencing Reveals Rapid Evolution of Segregation Distortion In The Male Germline of Arabidopsis Hybrids
+
+##### Friday May 18
+[Raynes et al. 2018](http://www.pnas.org/content/pnas/115/13/3422.full.pdf) Sign of selection on mutation rate modifiers depends on population size
+
+##### Friday May 11
+[Kelly 2018](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy043/4960043) The amount of nitrogen used for photosynthesis modulates molecular evolution in plants
+
+
+##### Friday May 4
+[Kern and Hahn 2018](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy092/4990884) The neutral theory in light of natural selection
+
+### April
+##### Friday Apr. 27
+**Note: REHAB at 3pm at 3rd and U**  
+[Schumer et al. 2018](http://science.sciencemag.org/content/early/2018/04/18/science.aar3684) Natural selection interacts with recombination to shape the evolution of hybrid genomes
+
+##### Friday Apr. 20  
+[Zeng et al. 2018](https://www.nature.com/articles/s41588-018-0101-4) Signatures of negative selection in the genetic architecture of human
+
+##### Friday Apr. 13  
+[Gage et al. preprint](https://www.biorxiv.org/content/early/2018/03/18/284109) Selection signatures underlying dramatic male inflorescence transformation during modern hybrid maize breeding [[commentary](http://disq.us/p/1rsk6oq)]
+
+##### Friday Apr. 6  
+[Yeaman et al. preprint](https://www.biorxiv.org/content/early/2018/03/09/279661) Quantifying how constraints limit the diversity of viable routes to adaptation
+
+### March
+
+##### Friday Mar. 30   
+MGC -- no R.E.H.A.B.
+
+##### Friday Mar. 23  
+MGC -- no R.E.H.A.B.
+
+##### Friday Mar. 16
+[Booker and Keightley preprint](https://www.biorxiv.org/content/early/2018/03/02/275610) Understanding the factors that shape patterns of nucleotide diversity in the house mouse genome [comment](http://disq.us/p/1r3smf5)
+
+##### Friday Mar. 9
+[Filiault et al. preprint](https://www.biorxiv.org/content/early/2018/02/12/264101) The Aquilegia genome: adaptive radiation and an extraordinarily polymorphic chromosome with a unique history
+
+##### Friday Mar. 2
+[di Iulio et al. 2018](https://www.nature.com/articles/s41588-018-0062-7) The human noncoding genome defined by genetic diversity
+
+### February
+##### Friday Feb. 23
+[Willi et al. 2018](https://www.ncbi.nlm.nih.gov/pubmed/29346601) Accumulation of mutational load at the edges of a species range.
+
+##### Friday Feb. 16
+[Huang et al. 2018](http://www.pnas.org/content/115/2/E334) ZmCCT9 enhances maize adaptation to higher latitudes
+
+##### Friday Feb. 9
+[Kong et al. 2018](http://science.sciencemag.org/content/359/6374/424) The nature of nurture: Effects of parental genotypes
+
+##### Friday Feb. 2
+[Ørsted et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/evo.13391/full) Environmental variation partitioned into separate heritable components
+
+### January
+##### Friday Jan. 26
+[Hayward et al. 2017](http://www.genetics.org/content/early/2017/11/10/genetics.117.300498) Evidence for Selection-by-Environment but Not Genotype-by-Environment Interactions for Fitness-Related Traits in a Wild Mammal Population
+
+##### Friday Jan. 19
+[Borges et al. 2018](https://www.nature.com/articles/s41588-017-0032-5) Transposon-derived small RNAs triggered by miR845 mediate genome dosage response in *Arabidopsis*
+
+##### Friday Jan. 12
+No R.E.H.A.B. (lab at Plant and Animal Genome conference)
+
+##### Friday Jan. 5
+[Patwa & Wahl 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2607448/pdf/rsif20080248.pdf) The fixation probability of beneficial mutations
+
+## 2017
+### December
+
+##### Dec. 22, 29 No R.E.H.A.B. -- Happy Holidays!
+
+##### Friday Dec. 15
+[Murray et al. 2017](http://science.sciencemag.org/content/358/6365/951) Natural selection shaped the rise and fall of passenger pigeon genomic diversity
+
+##### Friday Dec. 8
+[Comeron 2017](http://rstb.royalsocietypublishing.org/content/372/1736/20160471) Background selection as null hypothesis in population genomics: insights and challenges from Drosophila studies
+
+##### Friday Dec. 1
+[Gienapp et al. 2017](https://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S0169534717302343) Genomic Quantitative Genetics to Study Evolution in the Wild
+
+...and a special thanks to John Burke for making me owe Matt Hufford a beer.
+
+### November
+##### Friday Nov 24
+No R.E.H.A.B., but in honor of Thanksgiving you can bone up on your statistics by learning about [Turkey's test](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&q=%22turkey%27s+test%22&btnG=).
+
+##### Friday Nov 17
+[ Zan and Carlborg preprint](https://www.biorxiv.org/content/early/2017/10/20/206706?rss=1&utm_source=dlvr.it&utm_medium=twitter) Explorations of the polygenic genetic architecture of flowering time in the worldwide Arabidopsis thaliana population
+
+##### Friday Nov 10
+[Bosse et al. 2017](http://science.sciencemag.org/content/358/6361/365) Recent natural selection causes adaptive evolution of an avian polygenic trait
+
+##### Friday Nov 3
+[Schrider & Kern preprint](https://www.biorxiv.org/content/early/2017/10/20/206482) Machine Learning for Population Genetics: A New Paradigm
+
+### October
+##### Friday Oct 27
+[Osada et al. 2017](http://www.genetics.org/content/206/4/2139) Cis- and Trans-regulatory Effects on Gene Expression in a Natural Population of Drosophila melanogaster
+
+##### Friday Oct 20
+[Lotterhos et al. preprint](https://www.biorxiv.org/content/early/2017/10/13/202481) Modular environmental pleiotropy of genes involved in local adaptation to climate despite physical linkage
+
+##### Friday Oct 13
+[Forsythe et al preprint](https://www.biorxiv.org/content/early/2017/10/02/197087) Epistatic interactions drive biased gene retention in the face of massive nuclear introgression
+
+##### Friday Oct 6
+[Salojärvi et al. 2017](http://dx.doi.org/10.1038/ng.3862) Genome sequencing and population genomic analyses provide insights into the adaptive landscape of silver birch.
+
+### September
+##### Friday Sept 29
+[Huber et al preprint](http://www.biorxiv.org/content/early/2017/08/31/182865) Gene expression drives the evolution of dominance
+
+##### Friday Sept 22
+[Jain and Stephan 2017](https://academic.oup.com/mbe/article-abstract/doi/10.1093/molbev/msx240/4110473/Modes-of-rapid-polygenic-adaptation?redirectedFrom=fulltext) Modes of rapid polygenic adaptation
+
+##### Friday Sept 15
+[Gage et al. 2017]() The effect of artificial selection on phenotypic plasticity in maize ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
+
+##### Friday Sept 8
+[Oka et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4) Genome-wide mapping of transcriptional enhancer candidates using DNA and chromatin features in maize
+
+##### Friday Sept 1
+R.E.H.A.B. joint paper review. ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
+
+### August
+##### Friday Aug 25
+[Zhang and Gao 2017](http://www.g3journal.org/content/7/6/1875) Rapid and Recent Evolution of LTR Retrotransposons Drives Rice Genome Evolution During the Speciation of AA-Genome Oryza Species
+
+##### Friday Aug 18
+[González-Martínez4 et al. 2017](http://www.cell.com/current-biology/fulltext/S0960-9822(17)30865-5) Range Expansion Compromises Adaptive Evolution in an Outcrossing Plant
+
+##### Friday Aug 11
+[Hübner et al. 2017]() The Cultivated Sunflower Pan Genome Provides Insights on the Contribution of Introgressions to Breeding of Modern Varieties
+
+##### Friday Aug 4
+No R.E.H.A.B.
+
+### July
+##### Friday July 28
+[Zan et al. 2017](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msx194) Artificial selection response due to polygenic adaptation from a multi-locus, multi-allelic genetic architecture
+
+##### Friday July 21
+[Sohail et al 2017](http://science.sciencemag.org/content/356/6337/539) Negative selection in humans and fruit flies involves synergistic epistasis
+
+##### Friday July 14
+[Chen et al. 2017](https://academic.oup.com/mbe/article-abstract/34/6/1417/3049540/Genetic-Diversity-and-the-Efficacy-of-Purifying?redirectedFrom=PDF) Genetic Diversity and the Efficacy of Purifying Selection across Plant and Animal Species
+
+##### Friday July 7
+[Hurst and Randerson 2000](http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0022519300920952)
+Dosage, Deletions and Dominance: Simple Models of the Evolution of Gene Expression
+
+### June
+##### Friday June 30
+[Vijay et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/mec.14195/full) Genome-wide patterns of variation in genetic diversity are shared among populations, species and higher order taxa
+
+##### Friday June 23
+[Gould et al. preprint](http://biorxiv.org/content/early/2017/06/03/145805) The Gene Regulatory Landscape of Local Adaptation
+
+##### Friday June 16
+[Zeng et al. preprint](http://biorxiv.org/content/early/2017/06/03/145755) Widespread signatures of negative selection in the genetic architecture of human complex traits
+
+##### Friday June 9
+[Simons et al. 2017](https://arxiv.org/abs/1704.06707) A model for the genetic architecture of quantitative traits under stabilizing selection
+
+##### Friday June 2
+[Walter et al. preprint](http://biorxiv.org/content/early/2017/01/02/097642)
+Evolution of genetic variance during adaptive radiation
+
+### May
+##### Friday May 26
+[Lee et al. 2017](https://www.nature.com/articles/s41559-017-0119) Young inversion with multiple linked QTLs under selection in a hybrid zone
+
+##### Friday May 19
+[Corbett-Detig et al. 2015](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002112) Natural Selection Constrains Neutral Diversity across A Wide Range of Species
+
+*AND*
+
+[Coop 2016 preprint](http://biorxiv.org/content/early/2016/03/07/042598) Does linked selection explain the narrow range of genetic diversity across species?
+
+##### Friday May 12
+[Durvasula et al. 2017](http://www.pnas.org/content/early/2017/05/03/1616736114.abstract) African genomes illuminate the early history and transition to selfing in Arabidopsis thaliana
+
+##### Friday May 5
+[Gilbert et al. 2017](http://www.journals.uchicago.edu/doi/abs/10.1086/690673) Local Adaptation Interacts with Expansion Load during Range Expansion: Maladaptation Reduces Expansion Load
+
+### April
+##### Friday April 28
+[Gilbert and Whitlock 2017](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13029/full) The genetics of adaptation to discrete heterogeneous environments: frequent mutation or large‐effect alleles can allow range expansion
+
+##### Friday April 21
+[Huang, Gulko & Siepel 2017](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3810.html?WT.feed_name=subjects_genetics) Fast, scalable prediction of deleterious noncoding variants from functional and population genomic data
+
+##### Friday April 14
+[Wang et al. 2017](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3807.html#f1) Asymmetric subgenome selection and cis-regulatory divergence during cotton domestication
+
+##### Friday April 7
+[Charlesworth 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730922/) Stabilizing Selection, Purifying Selection, and Mutational Bias in Finite Populations
+
+### March
+##### Friday March 31
+[Franssen et al. 2017](http://www.nature.com/hdy/journal/v118/n1/full/hdy201698a.html) Uncovering the genetic signature of quantitative trait evolution with replicated time series data
+
+##### Friday March 24
+[Hermisson & Pennings preprint](http://biorxiv.org/content/early/2017/03/07/114587) Soft sweeps and beyond: Understanding the patterns and probabilities of selection footprints under rapid adaptation
+
+##### Friday March 17
+[Brandenburg et al 2017](https://rilab.slack.com/archives/papers/p1489556863288990) Independent introductions and admixtures have contributed to adaptation of European maize and its American counterparts
+
+##### Friday March 10
+[Maize meeting](http://www.maizegdb.org/maize_meeting/2017/) -- no R.E.H.A.B.
+
+##### Friday March 3
+[Messer and Petrov 2013](https://www.ncbi.nlm.nih.gov/pubmed/24075201) Population genomics of rapid adaptation by soft selective sweeps.
+
+### February 2017
+##### Friday Feb. 24
+[Robillard et al 2016](http://www.pnas.org/content/113/51/14763.abstract) Experimental evolution reveals hyperparasitic interactions among transposable elements
+
+##### Friday Feb. 17
+[Watson et al. 2016](http://www.pnas.org/content/113/43/12226.abstract) Germline replications and somatic mutation accumulation are independent of vegetative life span in *Arabidopsis*
+
+##### Friday Feb. 10
+Two papers on enhancers and diversity. If short of time, read [Ludwig et al.](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) first.
+
+**1)** [Ludwig et al. 2000](http://www.nature.com/nature/journal/v403/n6769/full/403564a0.html) Evidence for stabilizing selection in a eukaryotic enhancer element  
+**2)** [Alexandre et al preprint](http://biorxiv.org/content/early/2017/01/30/104323) Regulatory DNA in A. thaliana can tolerate high levels of sequence divergence
+
+##### Friday Feb. 3
+[Wagner et al. 2017](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12653/abstract) Spatial detection of outlier loci with Moran eigenvector maps (MEM)
+
+### January 2017
+
+##### Friday Jan 27
+[Weir and Goudet preprint](http://www.biorxiv.org/content/early/2016/11/17/088260) A unified characterization of population structure and relatedness.
+
+##### Friday Jan 20
+[Puzey et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13922/full) Population structure and local selection yield high genomic variation in Mimulus guttatus
+
+##### Friday Jan 13
+PAG - no R.E.H.A.B.
+
+##### Friday Jan 6
+[Vidalis et al. 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1127-5) Methylome evolution in plants
+
+## 2016
+
+### December 2016
+##### Friday Dec. 30
+No R.E.H.A.B. Happy new year!
+
+##### Friday Dec. 23
+No R.E.H.A.B. Happy [Festivus](https://en.wikipedia.org/wiki/Festivus)!
+
+##### Friday Dec. 16
+[Barton 2016](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy2016109a.html) How does epistasis influence the response to selection?
+
+##### Friday Dec. 9
+[Imprialou et al. preprint](http://biorxiv.org/content/early/2016/11/12/087387) Genomic Rearrangements Considered as Quantitative Traits
+
+##### Friday Dec 2
+[Klasen et al 2016](http://www.nature.com/articles/ncomms13299) A multi-marker association method for genome-wide association studies without the need for population structure correction
+
+### November 2016
+##### Friday Nov 25
+No R.E.H.A.B. -- Turkey Day!
+
+##### Friday Nov 18
+[Moyerbrailean et al. 2016](http://genome.cshlp.org/content/early/2016/10/18/gr.209759.116) High-throughput allele-specific expression across 250 environmental conditions
+
+##### Friday Nov 11
+No R.E.H.A.B. - Veteran's Day
+
+##### Friday Nov 4
+[Gould et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13881/abstract) Pooled Ecotype Sequencing Reveals Candidate Genetic Mechanisms for Adaptive Differentiation and Reproductive Isolation
+
+### October 2016
+##### Friday Oct 28
+[Phung et al preprint](http://biorxiv.org/content/early/2015/11/14/031740) Natural selection reduces linked neutral divergence between distantly related species
+
+##### Friday Oct 21
+[Johnsson](http://www.nature.com/articles/ncomms12950) Feralisation targets different genomic loci to domestication in the chicken
+
+##### Friday Oct 14
+[Fraïsse et al. 2014](http://www.genetics.org/content/197/3/939.short) Gene-Flow in a Mosaic Hybrid Zone: Is Local Introgression Adaptive?
+
+##### Friday Oct 7
+[Willing et al. 2016](http://www.nature.com/articles/nplants201423) Genome expansion of Arabis alpina linked with retrotransposition and reduced symmetric DNA methylation
+
+### September 2016
+##### Friday Sept 30
+[Schrider et al. 2016](http://www.genetics.org/content/early/2016/09/06/genetics.116.190223) Effects of Linked Selective Sweeps on Demographic Inference and Model Selection
+
+##### Friday Sept 23
+[Hughes, Langdale, Kelly 2016](http://genome.cshlp.org/content/24/8/1348.full) The impact of widespread regulatory neofunctionalization on homeolog gene evolution following whole-genome duplication in maize
+
+##### Friday Sept 16
+[Groth and Blumenstiel 2016](http://jhered.oxfordjournals.org/content/early/2016/08/24/jhered.esw050.abstract) Horizontal transfer can drive a greater transposable element load in large populations
+
+##### Friday Sept 9
+[Venkataram et al 2016](http://www.cell.com/cell/fulltext/S0092-8674(16)31010-8#) Development of a Comprehensive Genotype-to-Fitness Map of Adaptation-Driving Mutations in Yeast
+
+##### Friday Sept 2
+[Uricchio et al. 2016](http://genome.cshlp.org/content/early/2016/05/18/gr.202440.115.abstract?papetoc) Selection and explosive growth alter genetic architecture and hamper the detection of causal rare variants
+
+### August 2016
+##### Friday Aug 26
+[Zhang et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/08/10/molbev.msw169) Recombination rate variation, hitchhiking, and demographic history shape deleterious load in poplar
+
+##### Friday Aug 19
+[Fransz et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13262/full) Molecular, genetic and evolutionary analysis of a paracentric inversion in Arabidopsis thaliana
+
+##### Friday August 12
+[Fu et al 2016](http://www.nature.com/nature/journal/v534/n7606/full/nature17993.html) The genetic history of Ice Age Europe
+
+##### Friday Aug 5
+[Sanseverino et al. 2015](http://www.ncbi.nlm.nih.gov/pubmed/26174143?dopt=Abstract&utm_source=dlvr.it&utm_medium=twitter) Transposon Insertions, Structural Variations, and SNPs Contribute to the Evolution of the Melon Genome.
+
+### July 2016
+##### Friday July 29
+[Russel et al 2016](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3612.html) Exome sequencing of geographically diverse barley landraces and wild relatives gives insights into environmental adaptation
+
+**AND**
+
+[Lasky et al. 2015](http://advances.sciencemag.org/content/1/6/e1400218) Genome-environment associations in sorghum landraces predict adaptive traits
+
+
+##### Friday July 22
+[Sharp & Agrawal 2016](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002419) Low Genetic Quality Alters Key Dimensions of the Mutational Spectrum
+
+[blog post](blogs/22072016.html)
+
+##### Friday July 15
+[Arnold et al. 2016](http://www.pnas.org/content/early/2016/06/28/1600405113.abstract) Borrowed alleles and convergence in serpentine adaptation
+
+
+##### Friday July 8
+[Bailey et a 2015](http://m.mbe.oxfordjournals.org/content/early/2015/03/26/molbev.msv033.full) The Effect of Selection Environment on the Probability of Parallel Evolution
+
+##### Friday July 1
+[Zhena and Andolfatto 2012](http://link.springer.com/protocol/10.1007%2F978-1-61779-585-5_6) Methods to Detect Selection on Noncoding DNA
+
+### June 2016
+
+##### Friday June 24 2016
+[Quadrana et al](https://elifesciences.org/content/5/e15716) The Arabidopsis thaliana mobilome and its impact at the species level
+
+##### Friday June 17 2016
+[1001 Genomes Consortium](http://www.cell.com/cell/abstract/S0092-8674(16)30667-5) 1,135 Genomes Reveal the Global Pattern of Polymorphism in Arabidopsis thaliana
+
+##### Friday June 10 2016
+[Cardoso-Moreira et al. 2016](http://m.genome.cshlp.org/content/26/6/787) Evidence for the fixation of gene duplications by positive selection in Drosophila
+
+##### Friday June 3 2016
+[Wales et al. 2016](https://rilab.slack.com/files/jri/F1CQU52JX/th162_curbioreport_300516-2.pdf) Genome sequence of a 5300-year-old maize cob recovered from the Tehuacan Valley provides insights into the early stages of maize domestication
+
+### May 2016
+##### Friday May 27 2016
+[Paccard et al 2016](http://www.journals.uchicago.edu/doi/pdfplus/10.1086/685643) Quantitative Genetic Architecture at Latitudinal Range Boundaries: Reduced Variation but Higher Trait Independence
+
+##### Friday May 20 2016
+[Keightley et al 2016](http://www.genetics.org/content/early/2016/04/18/genetics.116.188102) Inferring the Frequency Spectrum of Derived Variants to Quantify Adaptive Molecular Evolution in Protein-Coding Genes of Drosophila melanogaster
+
+##### Friday May 13 2016
+[Exposito-Alonso et al preprint](http://biorxiv.org/content/early/2016/04/25/050203) The rate and effect of de novo mutations in natural populations of Arabidopsis thaliana
+
+##### Friday May 6 2016
+[Kelley et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13573/abstract?wol1URL=/doi/10.1111/mec.13573/abstract&regionCode=US-CA&identityKey=77f2fe64-6ec1-4c14-a95a-63aa4a9960d1) The multivariate association between genomewide DNA methylation and climate across the range of Arabidopsis thaliana
+
+##### Friday April 29 2016
+[Roles et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/evo.12913/abstract) Field measurements of genotype by environment interaction for fitness caused by spontaneous mutations in Arabidopsis thaliana
+
+### April 2016
+
+##### Friday April 22 2016
+[Sanjak et al. preprint](http://biorxiv.org/content/early/2016/04/15/048819) The Genetic Architecture of a Complex Trait is more Sensitive to Genetic Model than Population Growth
+
+##### Friday April 15 2016
+Novikova et al. manuscript (see \#papers channel on slack for pdf)
+
+##### Friday April 8 2016
+[He and Knowles 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13619/full) Identifying targets of selection in mosaic genomes with machine learning: applications in Anopheles gambiae for detecting sites within locally adapted chromosomal inversions
+
+##### Friday April 1 2016
+[Lolle et al. 2005](http://www.genetics.org/content/early/2016/03/21/genetics.115.184630) Genome-wide non-mendelian inheritance of extra-genomic information in Arabidopsis.
+
+### March 2016
+##### Friday Mar 25
+[Marschall et al. preprint](http://biorxiv.org/content/early/2016/03/12/043430) Computational Pan-Genomics: Status, Promises and Challenges
+
+##### Friday Mar 18
+No R.E.H.A.B. (Maize Meeting!)
+
+##### Friday Mar 11
+[Lamichhaney et al. 2012](http://www.pnas.org/content/109/47/19345.short)
+ Population-scale sequencing reveals genetic differentiation due to local adaptation in Atlantic herring
+
+##### Friday Mar 4
+[Keller and Fitzpatrick 2014](http://onlinelibrary.wiley.com/doi/10.1111/ele.12376/abstract) Ecological genomics meets community-level modelling of biodiversity: mapping the genomic landscape of current and future environmental adaptation
+
+### February 2016
+
+##### Fri. Feb 26
+[Rausher and Delph 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12687/abstract) When does understanding phenotypic evolution require identification of the underlying genes?
+
+##### Fri. Feb 19 2016
+[Gao et al 2015](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0867-y) Landscape and evolutionary dynamics of terminal repeat retrotransposons in miniature in plant genomes
+
+##### Fri. Feb 12 2016
+[Mäki-Tanila and Hill](http://genetics.org/content/early/2014/06/26/genetics.114.165282.full-text.pdf+html) Influence of Gene Interaction on Complex Trait Variation with Multi-Locus Models
+
+##### Fri. Feb 5 2016
+[Sheehan and Song preprint](http://biorxiv.org/content/biorxiv/early/2015/10/02/028175.full.pdf) Deep learning for population genetic inference
+
+### January 2016
+##### Fri. Jan 29 2016
+[Lamichhaney  et al. 2016](http://www.ncbi.nlm.nih.gov/pubmed/26569123) Structural genomic changes underlie alternative reproductive strategies in the ruff (Philomachus pugnax).
+
+##### Fri. Jan 22 2016
+[Stephan 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13288/epdf) Signatures of positive selection: from selective sweeps atindividual loci to subtle allele frequency changes inpolygenic adaptation
+
+##### Fri. Jan 15 2016
+[Bainard et al. 2012](http://www.ncbi.nlm.nih.gov/pubmed/23078229) A multivariate analysis of variation in genome size and endoreduplication in angiosperms reveals strong phylogenetic signal and association with phenotypic traits
+
+##### Fri. Jan 8 2016
+[Marsden et al. 2015](http://www.pnas.org/content/early/2015/12/17/1512501113.long) Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs
+
+## 2015
+### December 2015
+##### Fri. Dec. 18 2015
+[Steige et al. preprint](http://biorxiv.org/content/early/2015/12/10/034025) The impact of natural selection on the distribution of cis-regulatory variation across the genome of an outcrossing plant
+
+##### Fri. Dec. 11 2015
+[Mascagni et al. 2015](http://gbe.oxfordjournals.org/content/early/2015/11/24/gbe.evv230.short?rss=1&utm_source=dlvr.it&utm_medium=twitter) Repetitive DNA and plant domestication: variation in copy number and proximity to genes of LTR-retrotransposons among wild and cultivated sunflower (Helianthus annuus) genotypes.
+
+##### Fri. Dec. 4 2015
+[Remington 2015](http://www.ncbi.nlm.nih.gov/pubmed/26374707) Alleles versus mutations: Understanding the evolution of genetic architecture requires a molecular perspective on allelic origins.
+
+### November 2015
+
+##### Fri. Nov. 27 2015
+No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](http://www.biomedcentral.com/1471-2156/15/117/) nonetheless.
+
+##### Fri. Nov. 20 2015
+[Beissinger et al. 2015](https://github.com/RILAB/beissinger_ms/raw/master/manuscript_submit.pdf) Recent demography drives changes in linked selection across the maize genome
+
+##### Fri. Nov. 13 2015
+
+[van Heerwaarden et al. 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005594) Genome-Wide Association Analysis of Adaptation Using Environmentally Predicted Traits
+
+##### Fri. Nov. 6 2015
+
+[Scheiner et al. 2015](http://www.jstor.org/stable/10.1086/680552) The Genetics of Phenotypic Plasticity. XIV. Coevolution
+
+### October 2015
+
+##### Fri. Oct. 30 2015
+
+[Chevin and Hospital 2008](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581964/) (AGAIN!) Selective Sweep at a Quantitative Trait Locus in the Presence of Background Genetic Variation
+
+##### Fri. Oct. 23 2015
+
+[Chevin and Hospital 2008](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581964/) Selective Sweep at a Quantitative Trait Locus in the Presence of Background Genetic Variation
+
+##### Fri. Oct. 16 2015
+
+[Raghavan et al. 2015](http://www.sciencemag.org/content/349/6250/aab3884.full.pdf) Genomic evidence for the Pleistocene and recent population history of Native Americans
+
+**AND**
+
+[Skoglund et al. 2015](http://www.nature.com/articles/nature14895.epdf?referrer_access_token=tF-nTz-prCDEH27ShnkdPdRgN0jAjWel9jnR3ZoTv0N6yB-nEyCdRoL51ykMO5E91orKw8mXMzuxoORJJBQhEqcxnwkIiI9eF80kfbg_ZrqmuZw6FTNFC8G_t31NWwGTUNhn_xmpabdr3EDodtD6tQ4AqlmsBeTdeFjIrgbc4bKOCYfPhWfbbNt9PySbQ_si&tracking_referrer=www.bbc.com) Genetic evidence for two founding populations of the Americas
+
+##### Fri. Oct. 9 2015
+
+[Heath and Nuismer 2014](http://www.ncbi.nlm.nih.gov/pubmed/24782890) Connecting functional and statistical definitions of genotype by genotype interactions in coevolutionary studies
+
+##### Fri. Oct. 2 2015
+
+[Wang et al. 2015](http://www.pnas.org/content/112/35/E4959.long) Hybrid mimics and hybrid vigor in Arabidopsis
+
+[blog post](http://www.rilab.org/blogs/02102015.html)
+
+### September 2015
+
+##### Fri. Sept. 25 2015
+
+[Lande and Arnold 1983](http://people.oregonstate.edu/~arnoldst/pdf_files/Lande%20&%20Arnold%201983.pdf) The measurement of selection on correlated characters
+
+##### Fri. Sept. 18 2015
+
+[Thornton et al. 2013](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003258) Properties and Modeling of GWAS when Complex Disease Risk Is Due to Non-Complementing, Deleterious Mutations in Genes of Large Effect
+
+##### Fri. Sept. 11 2015
+
+[Renaut and Reiseberg 2015](http://mbe.oxfordjournals.org/content/32/9/2273) The Accumulation of Deleterious Mutations as a Consequence of Domestication and Improvement in Sunflowers and Other Compositae Crops
+
+##### Fri. Sept. 4 2015
+
+[Kuester et al. preprint](http://biorxiv.org/content/early/2015/08/20/024950) A resurrection experiment finds evidence of both reduced genetic diversity and adaptive evolution in the agricultural weed Ipomoea purpurea
+
+### August 2015
+
+##### Fri. Aug. 28 2015
+
+[Weis et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12677/abstract) Hard and soft selection on phenology through seasonal shifts in the general and social environments: A study on plant emergence time
+
+##### Fri. Aug. 21 2015
+
+[Snir et al. 2015](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131422) The Origin of Cultivation and Proto-Weeds, Long Before Neolithic Farming
+
+##### Fri. Aug. 14 2015
+
+[Dubin et al. 2015](http://elifesciences.org/content/4/e05255) DNA methylation in Arabidopsis has a genetic basis and shows evidence of local adaptation
+
+##### Fri. Aug. 7 2015
+
+[Castellano et al. preprint](http://biorxiv.org/content/early/2015/06/27/021600) Adaptive evolution is substantially impeded by Hill-Robertson interference in Drosophila
+
+### July 2015
+
+##### Fri. July 31 2015
+
+**Myriad Mutation Models: Three papers on heterozygote impacts on mutation**
+
+[Yang et al. 2015](http://www.nature.com/nature/journal/v523/n7561/full/nature14649.html) Parent–progeny sequencing indicates higher mutation rates in heterozygotes
+
+[Hollister et al. 2010](http://mbe.oxfordjournals.org/content/27/2/409.abstract) Indel-Associated Mutation Rate Varies with Mating System in Flowering Plants
+
+[Tian et al. 2008](http://www.nature.com/nature/journal/v455/n7209/abs/nature07175.html) Single-nucleotide mutation rate increases close to insertions/deletions in eukaryotes
+
+##### Fri. July 24 2015
+
+[Mazet et al. 2015](http://arxiv.org/abs/1412.1243) Demographic inference using genetic data from a single individual: separating population size variation from population structure
+
+##### Fri. July 17 2015
+
+[Oakley et al 2015](http://www.nature.com/hdy/journal/v115/n1/full/hdy201518a.html) Heterosis and outbreeding depression in crosses between natural populations of Arabidopsis thaliana
+
+##### Fri. July 10 2015
+
+[Monnahan et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12698/abstract) A genomic selection component analysis characterizes migration-selection balance
+
+##### Fri. July 3 2015
+
+[Fierst et al. 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005323) Reproductive Mode and the Evolution of Genome Size and Structure in Caenorhabditis Nematodes
+
+### June 2015
+
+##### Fri. June 26 2015
+
+[Asaf et al. 2015](http://m.pnas.org/content/112/20/E2658.abstract) Obstruction of adaptation in diploids by recessive, strongly deleterious alleles
+
+##### Fri. June 19 2015
+
+[Mafessoni and Lachman preprint](http://biorxiv.org/content/biorxiv/early/2015/03/23/016881.full.pdf)
+Selective strolls: fixation and extinction in diploids are slower for weakly selected mutations than for neutral ones
+
+##### Fri. June 12 2015
+
+[Pease and Hahn 2015](http://sysbio.oxfordjournals.org/content/early/2015/04/17/sysbio.syv023.long) Detection and Polarization of Introgression in a Five-taxon Phylogeny
+
+##### Fri. June 5 2015
+
+[Wilkes 1977](http://www.jstor.org/stable/4253844?seq=1#page_scan_tab_contents) Hybridization of Maize and Teosinte, in Mexico and Guatemala and the Improvement of Maize
+
+### May 2015
+
+##### Fri. May 29, 2015
+
+[Van der Graf 2015](http://www.pnas.org/content/112/21/6676.abstract) Rate, spectrum, and evolutionary dynamics of spontaneous epimutations.
+
+
+##### Fri. May 22, 2015
+
+[Monnahan and Kelly 2015](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005201) Epistasis Is a Major Determinant of the Additive Genetic Variance in Mimulus guttatus
+
+##### Fri. May 15, 2015
+
+[Mathieson and McVean 2013](http://www.ncbi.nlm.nih.gov/pubmed/23307902) Estimating selection coefficients in spatially structured populations from time series data of allele frequencies
+
+##### Fri. May 8, 2015
+
+[Sheng et al. preprint](http://biorxiv.org/content/early/2015/04/29/018721) Standing genetic variation as a major contributor to adaptation in the Virginia chicken lines selection experiment
+
+##### Fri. May 1, 2015
+
+[Fishman and Kelly 2015](http://onlinelibrary.wiley.com/doi/10.1111/evo.12661/abstract;jsessionid=0A4565C367B1ED7DA47A6F1989FF4009.f02t02) Centromere–associated meiotic drive and female fitness variation in Mimulus
+
+[blog post](blogs/01052015.html)
+
+### April 2015
+
+##### Fri. April 24, 2015
+
+[Agren et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/evo.12627/abstract;jsessionid=1E212DDEDBAC6D87C26FC8A5FA7F134F.f03t02) No evidence that sex and transposable elements drive genome size variation in evening primroses
+
+##### Fri. April 17, 2015
+
+[Douglas et al. 2015](http://www.pnas.org/content/112/9/2806.abstract) Hybrid origins and the earliest stages of diploidization in the highly successful recent polyploid Capsella bursa-pastoris
+
+##### Fri. April 10, 2015
+
+No R.E.H.A.B. Come to the [UCDavis Plant Breeding Symposium](http://plantbreeding2015.ucdavis.edu/) instead.
+
+##### Fri. April 3, 2015
+
+Romero et al. SeeDs manuscript (email Jeff for the URL).
+
+### March 2015
+
+##### Fri. March 27, 2015
+
+Cesar Chavez Day; university closed. No R.E.H.A.B.
+
+##### Fri. March 20, 2015
+
+[Jeffares et al 2015](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3215.html) The genomic and phenotypic diversity of Schizosaccharomyces pombe
+
+##### Fri. March 13, 2015
+
+NO R.E.H.A.B. -- [MGC](http://www.maizegdb.org/maize_meeting/2015/) baby!
+
+##### Fri. March 6, 2015
+
+[Bergland et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004775) Genomic Evidence of Rapid and Stable Adaptive Oscillations over Seasonal Time Scales in Drosophila
+
+### February 2015
+
+##### Fri. Feb. 27, 2015
+
+[Brown and Levin 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437465/) Social dilemmas among supergenes: intragenomic sexual conflict and a selfing solution in Oenothera
+
+##### Fri. Feb. 20, 2015
+
+[Huang et al 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004527) Genome-Wide Patterns of Genetic Variation within and among Alternative Selective Regimes
+
+##### Fri. Feb. 13, 2015
+
+Li et al. Methylation manuscript. (printed version available from JRI).
+
+##### Fri. Feb. 6, 2015
+
+Rodgers-Melnick  et al. Recombination manuscript. (printed version available from JRI).
+
+### January 2015
+
+##### Fri. Jan 30, 2015
+
+[Brandvain et al. 2014](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004410) Speciation and Introgression between Mimulus nasutus and Mimulus guttatus
+
+##### Fri. Jan 23, 2015
+
+[Charlesworth 2015](http://www.pnas.org/content/early/2015/01/07/1423275112.abstract) Causes of natural variation in fitness: Evidence from studies of Drosophila populations
+
+##### Fri. Jan 16, 2015
+
+[Antonovics 1976](http://www.jstor.org/stable/2395303) The nature of limits to natural selection.
+
+##### Fri. Jan 9, 2015
+[Wiser et al. 2013](http://www.sciencemag.org/content/342/6164/1364) Long-Term Dynamics of Adaptation in Asexual Populations
+
+##### Fri. Jan 2, 2015
+
+No R.E.H.A.B., but celebrate the new year in plant genomics by [reading up on cotton](http://www.nespal.org/peng_lab/papers/S1687537008742304.pdf), including the C-genome species that are 2015 megabases in size.
+
+## 2014
+
+### December 2014
+
+##### Fri. Dec. 26, 2014
+
+No R.E.H.A.B., but feel free to get your plant genomics fix by reading up on the [Christmas Tree genome](http://www.nature.com/nature/journal/v497/n7451/full/nature12211.html)
+
+##### Fri. Dec. 19, 2014
+
+R.E.H.A.B. unexpectedly cancelled due to lab partying (seriously).
+
+##### Fri. Dec. 12, 2014
+
+[Poh et al. preprint](http://biorxiv.org/content/biorxiv/early/2014/09/29/009456.full.pdf) On the prospect of identifying adaptive loci in recently bottlenecked populations
+
+##### Fri. Dec. 5, 2014
+
+[Fu et al. 2014](http://www.sciencedirect.com/science/article/pii/S0002929714003899) Characteristics of Neutral and Deleterious Protein-Coding Variation among Individuals and Populations
+
+### November 2014
+
+##### Fri. Nov. 28, 2014
+
+No REHAB. But that doesn't meant you can't get a second helping of [turkey genomics](http://ps.oxfordjournals.org/content/93/2/479.short) should you so desire.
+
+##### Fri. Nov. 21, 2014
+
+[Takuno et al. in prep](https://github.com/rossibarra/hilo_paper/blob/master/HighLow.pdf?raw=true) Independent molecular basis of convergent highland adaptation in maize
+
+##### Fri. Nov. 14, 2014
+
+[Gravel preprint](http://biorxiv.org/content/early/2014/10/30/010934) When is selection effective?
+
+##### Fri. Nov. 7, 2014
+
+[Hough et al. 2014](http://www.pnas.org/content/111/21/7713.abstract). Genetic degeneration of old and young Y chromosomes in the flowering plant Rumex hastatulus.
+
+### October 2014
+
+##### Fri. Oct 31, 2014
+
+[Schiffels & Durbin](http://www.nature.com/ng/journal/v46/n8/pdf/ng.3015.pdf). Inferring human population size and separation history from multiple genome sequences.
+
+##### Fri. Oct 24, 2014
+
+[Caicedo et al. 2007](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030163). Genome-Wide Patterns of Nucleotide Polymorphism in Domesticated Rice
+
+##### Fri. Oct. 17, 2014
+
+[Crawford et al. preprint](http://biorxiv.org/content/biorxiv/early/2014/10/01/009837.full.pdf) Reticulate speciation and adaptive introgression in the Anopheles gambiae species complex
+
+##### Fri. Oct. 10, 2014
+
+[Martin et al preprint](http://biorxiv.org/content/early/2014/08/20/001347). Evaluating the use of ABBA-BABA statistics to locate introgressed loci.
+
+
+##### Fri. Oct. 3, 2014
+
+[Huber et al. 2014](http://www.ncbi.nlm.nih.gov/pubmed/25158800) Keeping it Local: Evidence for Positive Selection in Swedish Arabidopsis thaliana.
+
+### September 2014
+
+##### Fri. Sept. 26, 2014
+
+[Romiguier et al. 2014]( http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13685.html?WT.ec_id=NATURE-20140821 ) Comparative population genomics in animals uncovers the determinants of genetic diversity
+
+##### Fri. Sept. 19, 2014
+
+[Brawand et al. 2014](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13726.html) The genomic substrate for adaptive radiation in African cichlid fish
+
+
+##### Fri. Sept 12, 2014
+
+[Spencer et al. 2006](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0020148) The Influence of Recombination on Human Genetic Diversity
+
+##### Fri. Sept 5, 2014
+
+[Carneiro et al. 2014](http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1003519) The Genomic Architecture of Population Divergence between Subspecies of the European Rabbit.
+
+### August 2014
+
+##### Fri. Aug 30, 2014
+
+[Kelley et al. 2014](http://www.nature.com/ncomms/2014/140812/ncomms5611/full/ncomms5611.html) Compact genome of the Antarctic midge is likely an adaptation to an extreme environment.
+
+##### Fri. Aug 23, 2014
+
+[Wilson et al. 2014 ](http://www.genetics.org/content/early/2014/07/23/genetics.114.165571.abstract). Soft Selective Sweeps in Complex Demographic Scenarios.
+
+##### Fri. Aug 16, 2014
+
+[Comeron 2014](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004434). Background Selection as Baseline for Nucleotide Variation across the Drosophila Genome
+
+##### Fri. Aug 9, 2014
+
+[Enard et al. 2014](http://genome.cshlp.org/content/early/2014/05/02/gr.164822.113.full.pdf). Genome-wide signals of positive selection in human evolution
+
+##### Fri. Aug 1, 2014
+
+[Arnegard et al. 2014](http://www.nature.com/nature/journal/v511/n7509/full/nature13301.html). Genetics of ecological divergence during speciation
+
+### July 2014
+
+##### Fri. July 25, 2014
+
+**Special double genome delux!** [Myburg et al. 2014](http://www.nature.com/nature/journal/v510/n7505/full/nature13308.html). The genome of Eucalyptus grandis **and** [Schmutz et al. 2014](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3008.html) A reference genome for common bean and genome-wide analysis of dual domestications
+
+##### Fri. July 18, 2014
+
+[Macadangdang et al. 2014](http://elifesciences.org/content/early/2014/06/17/eLife.02792). Evolution of histone 2A for chromatin compaction in eukaryotes
+
+[blog post](blogs/18072014.html)
+
+##### Fri. July 11, 2014
+
+[Guenther et al](http://www.nature.com/ng/journal/v46/n7/full/ng.2991.html?WT.ec_id=NG-201407) A molecular basis for classic blond hair color in Europeans
+
+##### Fri. July 4, 2014
+
+No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) instead!
+
+### June 2014
+
+##### Fri. June 27, 2014
+
+[Ho and Zhang 2014](http://mbe.oxfordjournals.org/content/31/6/1568). The Genotype–Phenotype Map of Yeast Complex Traits: Basic Parameters and the Role of Natural Selection
+
+##### Fri. June 20, 2014
+
+[Yeaman 2013](http://www.pnas.org/content/110/19/E1743.full?sid=bfb4a537-ab08-4c97-811f-cd0b63ba9e9a). Genomic rearrangements and the evolution of clusters of locally adaptive loci
+
+[blog post](blogs/20062014.html)
+
+##### Fri. June 13, 2014
+
+[Chari and Dworkin 2013](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003661). The Conditional Nature of Genetic Interactions: The Consequences of Wild-Type Backgrounds on Mutational Interactions in a Genome-Wide Modifier Screen
+
+[blog post](blogs/13062014.html)
+
+##### Fri. June 6, 2014
+
+[Balick et al. preprint](http://biorxiv.org/content/biorxiv/early/2014/03/21/003491.full.pdf). Response to a population bottleneck can be used to infer recessive selection
+
+### May 2014
+
+##### Fri. May 30, 2014
+
+[Nadeau et al. 2014](http://genome.cshlp.org/content/early/2014/05/13/gr.169292.113.abstract). Population genomics of parallel hybrid zones in the mimetic butterflies, H. melpomene and H. erato
+
+[blog post](blogs/30052014.html)
+
+##### Fri. May 23, 2014
+
+[Soria-Carrasco et al. 2014](http://www.sciencemag.org/content/344/6185/738.abstract). Stick Insect Genomes Reveal Natural Selection’s Role in Parallel Speciation
+
+[blog post](blogs/23052014.html)
+
+##### Fri. May 16, 2014
+
+[Rogers et al. 2014](http://arxiv.org/abs/1405.0518). Tandem duplications and the limits of natural selection in Drosophila yakuba and Drosophila simulans
+
+[blog post](blogs/16052014.html)
+
+##### Fri. May 9, 2014
+
+[Hawkins et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12537/abstract). Variation in allelic expression associated with a recombination hotspot in Zea mays
+
+[blog post](blogs/09052014.html)
+
+##### Fri. May 2, 2014 (JRI)
+
+[Do et al. 2014](http://arxiv.org/abs/1402.4896). No evidence that natural selection has been less effective at removing deleterious mutations in Europeans than in West Africans
+
+### April 2014
+
+##### Fri. April 25, 2014 (VB)
+
+[Li 2014](http://arxiv.org/abs/1404.0929). Towards Better Understanding of Artifacts in Variant Calling from High-Coverage Samples.
+
+\emph{Also see [slides](http://lyonlab.cshl.edu/Journal%20Club/JC20140407.pdf)}
+
+##### Fri. April 18, 2014 (JRI)
+
+[Nabholz et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/mec.12738/abstract). Transcriptome population genomics reveals severe bottleneck and domestication cost in the African rice (O. glaberrima)
+
+*JRI's review (molecol.tex) available in Lab Share folder on Dropbox*
+
+##### Fri. April 11, 2014 (JRI)
+
+NO R.E.H.A.B.  Check out the [Plant Breeding Symposium](http://plantbreeding2014.ucdavis.edu) instead!
+
+##### Fri. April 4, 2014 (JRI)
+
+[Campos et al. 2014](http://mbe.oxfordjournals.org/content/31/4/1010). The Relation between Recombination Rate and Patterns of Molecular Evolution and Variation in Drosophila melanogaster.
+
+### March 2014
+
+##### Fri Mar. 28 2014 (JRI)
+
+[Hirsch et al. 2014](http://www.ncbi.nlm.nih.gov/pubmed/24488960). Insights into the maize pan-genome and pan-transcriptome.
+
+##### Fri Mar. 21 2014 (SM)
+
+[Piepho and Möhring 2007](http://www.genetics.org/content/177/3/1881). Computing Heritability and Selection Response From Unbalanced Plant Breeding Trials
+
+##### Fri Mar. 14 2014 (DV)
+
+[Cortijo et al](http://www.sciencemag.org/content/343/6175/1145.abstract). Mapping the Epigenetic Basis of Complex Traits
+
+##### Fri Mar. 7 2014 (SM)
+
+[Peiffer et al. 2014](http://www.genetics.org/content/early/2014/02/06/genetics.113.159152.full.pdf). The genetic architecture of maize height
+
+### February 2014
+
+##### Fri Feb. 28 2014 (MS)
+
+[Cavrak et al. 2014](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004115). How a Retrotransposon Exploits the Plant's Heat Stress Response for Its Activation
+
+##### Fri Feb. 21 2014 (PB)
+
+[Elhaik et al. 2014](http://www.nature.com/ejhg/journal/vaop/ncurrent/abs/ejhg2013303a.html). The ‘extremely ancient’ chromosome that isn’t: a forensic bioinformatic investigation of Albert Perry’s X-degenerate portion of the Y chromosome
+
+##### Fri Feb. 14 2014 (DV)
+
+[Han et al. 2013](http://mbe.oxfordjournals.org/content/early/2013/11/27/molbev.mst229.abstract). Characterizing bias in population genetic inferences from low coverage sequencing data
+
+##### Fri. Feb. 7 2014 (JRI)
+
+[Sankararaman et al. 2014](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12961.pdf). The genomic landscape of Neanderthal ancestry in present-day humans
+
+### January 2014
+
+##### Fri. Jan 31 2014 (VB)
+
+[Nadachowska-Brzyska et al.](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003942?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+plosgenetics%2FNewArticles+%28PLOS+Genetics+-+New+Articles%29). Demographic Divergence History of Pied Flycatcher and Collared Flycatcher Inferred from Whole-Genome Re-sequencing Data
+
+##### Fri. Jan 24 2014 (VB)
+
+[Scally et al. 2012](http://www.nature.com/nature/journal/v483/n7388/full/nature10842.html%3FWT.ec_id%3DNATURE-20120308). Insights into hominid evolution from the gorilla genome sequence
+
+##### Fri Jan. 17 2014 (JRI)
+
+[Chapman et al. 2013](http://mbe.oxfordjournals.org/content/30/12/2553). Genomic Divergence during Speciation Driven by Adaptation to Altitude
+
+##### Fri Jan. 3 2014 (AO)
+
+\<CANCELED\> -- There's a first time for everything. (Translation: "CANCELLED" for our British and Canadian friends)
+
+##### Fri Jan. 3 2014 (AO)
+
+[Karhunen et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/evo.12268/abstract). Bringing habitat information into statistical tests of local adaptation in quantitative traits: a case study of nine-spined sticklebacks.
+
+## 2013
+
+### December 2013
+
+##### Fri Dec. 20 2013 (DV)
+
+[Rettelbach et al. 2013](http://www.jstor.org/stable/full/10.1086/673488). Three modes of adaptive speciation in spatially structured populations
+
+##### Fri Dec. 13 2013 (JRI)
+
+[Korneliussen et al. 2013](http://www.biomedcentral.com/content/pdf/1471-2105-14-289.pdf). Calculation of Tajima's D and other neutrality test statistics from low depth next-generation sequencing data
+
+##### Fri Dec 6 2013 (VB)
+
+[Teng et al. 2013](http://www.sciencedirect.com/science/article/pii/S109727651300748X). Genome-wide Consequences of Deleting Any Single Gene
+
+### November 2013
+
+##### Fri Nov 29 2013
+
+No R.E.H.A.B., but to go along with all your TurkeyDay related activities: [Seidel et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.575/full). Influence of translocations on eastern wild turkey population genetics in Texas
+
+##### Fri Nov 22 2013 (VB,DV)
+
+[Thallmann et al. 2012](http://www.sciencemag.org/content/342/6160/871.full.pdf). Complete Mitochondrial Genomes of Ancient Canids Suggest a European Origin of Domestic Dogs
+
+##### Fri Nov 15 2013 (JRI)
+
+[Kijima and Innan 2013](http://www.genetics.org/content/early/2013/08/26/genetics.113.150292.full.pdf). Population Genetics and Molecular Evolution of DNA Sequences in Transposable Elements. I. A Simulation Framework
+
+##### Fri Nov 08 2013 (JRI)
+
+Review! Pick up hard copy in 262 Robbins.
+
+##### Fri Nov 01 2013 (JRI)
+
+[Lohmueller 2013](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC4QFjAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1306.5261&ei=UURzUrfOGqW-igLBtoCAAg&usg=AFQjCNFoh5KxhwcrmuKZP1UM3xQN2xk0ug). The impact of population demography and selection on the genetic architecture of complex traits
+
+### October 2013
+
+##### Fri Oct 25 2013 (OA)
+
+[Parker et al. 2013](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCkQFjAA&url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv502%2Fn7470%2Ffull%2Fnature12511.html&ei=PkRzUpb-NYWdiAKQqYG4CQ&usg=AFQjCNGhGBxb-ICUpfOeut7Iq-CNBcmT0Q&bvm=bv.55819444,d.cGE). Genome-wide signatures of convergent evolution in echolocating mammals
+
+##### Fri Oct 18 2013 (AO,VB)
+
+[Peischl et al. arxiv](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDAQFjAA&url=http%3A%2F%2Farxiv.org%2Fabs%2F1306.1652&ei=K0RzUozGG6-IigKZq4CoAg&usg=AFQjCNE187lCk7EURsZ_3rWrzNzoVZA0rg&bvm=bv.55819444,d.cGE). On the accumulation of deleterious mutations during range expansions
+
+##### Fri Oct 11 2013 (PMG)
+
+[Ronen et al. 2013](http://www.genetics.org/content/early/2013/06/10/genetics.113.152587). Learning Natural Selection from the Site Frequency Spectrum
+
+##### Fri Oct 04 2013 (JMB)
+
+[Szovenyi et al. 2013](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fmbe.oxfordjournals.org%2Fcontent%2Fearly%2F2013%2F05%2F17%2Fmolbev.mst095&ei=y0NzUq3YJ-GgjAK264CICA&usg=AFQjCNFixSoYD_TS-4tXJ8HmXdF6noaCew&bvm=bv.55819444,d.cGE). Selection Is No More Efficient in Haploid than in Diploid Life Stages of an Angiosperm and a Moss

@@ -1,0 +1,282 @@
+```{=html}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5300959-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+```
+```{=html}
+<style>
+  .col2 {
+    columns: 2 400px;         /* number of columns and width in pixels*/
+    -webkit-column: 2 400px; /* chrome, safari */
+    -moz-columns: 2 400px;    /* firefox */
+  }
+</style>
+```
+```{=html}
+<style>
+.forceBreak { -webkit-column-break-after: always; break-after: column; }
+</style>
+```
+---
+title: "People" 
+---
+
+## Current R-I Lab members
+
+Please read more information on [joining the lab](prosp.html) and [lab expectations](expectations.html). <!-- break -->
+
+<div class="col2">
+
+::: {style="float: left"}
+<img src="images/cameron.jpg" style="border:10px solid white" width="125"/>
+:::
+
+**Brenda Cameron**\
+(she/her)
+
+Brenda is the lab manager and czar. In addition to working with us, she manages the [Bay](https://baylab.github.io), [Grosberg](http://www-eve.ucdavis.edu/grosberg/) and [Stachowicz](https://stachlab.wordpress.com) labs as well, and is an [award-winning](https://safetyservices.ucdavis.edu/safety-star-program) lab safety expert.
+
+::: {style="float: left"}
+<img src="images/cao.jpg" style="border:10px solid white" width="125"/>
+:::
+
+**Yu Cao** <a href="https://github.com/Caoyu819"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a>  
+(she/her)
+
+Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN) at HZAU. Yu is working on understanding the population and quantitative genetics of introgressed teosinte haplotypes in maize. 
+<br><br>
+
+::: {style="float: left"}
+<img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
+:::
+
+**Elli Cryan** <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0009-0006-8018-6686"><img src="images/orcid.png" style="width: 15px;"/><a/>  
+(she/her)
+
+Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks and the evolution of cross-incompatibility loci.
+<br><br>
+
+::: {style="float: left"}
+<img src="images/natasha.jpg" style="border:10px solid white" width="125px"/>
+:::
+
+**Natasha Dhamrait** <a href="https://twitter.com/frondsrfriends"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>\
+(she/her)
+
+Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group with interests including plant evolution, domestication, genome biology, and transposable elements.
+
+::: {style="float: left"}
+<img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"/>
+:::
+
+**Regina Fairbanks** <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0003-4485-0376"><img src="images/orcid.png" style="width: 15px;"/><a/>  
+(they/them)
+
+Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group, currently working on the population genetics and archaeology of the maize domestication locus *tga1*.
+<br><br> 
+
+::: {style="float: left"}
+<img src="images/julia2.jpg" style="border:10px solid white" width="125"/>
+:::
+
+**Julia Harenčár** <a href="https://sites.google.com/view/juliaharencar"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a><a href="https://www.linkedin.com/in/julia-harencar/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0001-6944-4337"><img src="images/orcid.png" style="width: 15px;"/><a href="https://scholar.google.com/citations?user=U7ZRlZkAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
+(she/her)
+
+Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https://funk.ucdavis.edu) and [Jenny Gremer](https://gremerlab.faculty.ucdavis.edu), working on climate adaptation and hybridization in California wild radishes.
+
+<br>
+
+::: {style="float: left"}
+<img src="images/Forrest_casual.jpg" style="border:10px solid white" width="125"/>
+:::
+
+**Forrest Li** <a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
+(he/him)
+
+Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
+<br><br><br>
+
+::: {style="float: left"}
+<img src="images/beibei.jpg" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Beibei Liu**  <a href="https://twitter.com/beibeiliu13"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="http://scholar.google.com/citations?user=yhHsL9gAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\
+(she/her)
+
+Beibei is a postdoc working on the evolution of transposable elements in maize and teosinte During her PhD she worked on epigenetics in maize.
+<br><br>
+
+::: {style="float: left"}
+<img src="images/paulo.png" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Paulo Magalang** <a href="https://www.linkedin.com/in/paulo-magalang-0b1468155/"><img src="images/lin.png" style="width: 15px;"/> <a href="https://github.com/pmagalang"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> \
+(he/him)
+
+Paulo is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on using whole genome assemblies to study allelic diversity and demography in maize.
+<br>
+
+
+::: {style="float: left"}
+<img src="images/sowmya2.jpg" style="border:10px solid white" width="125px"/>
+:::
+
+**Sowmya Mambakkam**  
+(she/her)
+
+Sowmya is a senior Genetics and Genomics major. She has worked on inversions, convergent evolution, and is now studying associations between genes in maize and indigenous language.  
+<br>
+
+
+::: {style="float: left"}
+<img src="images/jri_camping.png" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a> <a href="https://bsky.app/profile/jrossibarra.bsky.social"><img src="images/Bluesky_Logo.svg" style="width: 15px;"/></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"/> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\
+(he/him)
+
+Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).  
+<br>  
+
+::: {style="float: left"}
+<img src="images/itay-et-ayelet.png" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Ayelet Salman-Minkov** <a href="https://scholar.google.com/citations?user=SWqRX4QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
+(she/her)
+
+Ayelet is a project scientist working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) and [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be used for crop breeding.
+<br> 
+
+::: {style="float: left"}
+<img src="images/sam.jpeg" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Samantha Snodgrass**  <a href="https://twitter.com/snodgrasshopper"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0001-9209-6051"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="http://scholar.google.com/citations?user=yhHsL9gAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\
+(she/her)
+
+Sam is an NSF Plant Genome postdoc working on the coevolution of humans and their domesticated plants. She is coadvised by [Graham Coop](http://gcbias.org).
+
+<br>
+
+::: {style="float: left"}
+<img src="images/stark.jpg" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Cristian Stark **  <a href="https://www.linkedin.com/in/cristian-stark/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://github.com/cstark14"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a>
+(he/him)
+
+Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on genomic selection, pangenomes, and inbreeding depression in *Zea*. He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
+
+<br>  
+
+## Lab Alumni
+
+- [Alyssa Phillips](https://scholar.google.com/citations?user=p9u2mzwAAAAJ&hl=en) PhD student 2018-2024 (Postdoc UC Berkeley)
+- [Garnet Phinney]() Undergraduate researcher, 2023-2024 (PhD Student UC Irvine)
+- [Sarah Odell](https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao) PhD student 2016-2023
+-   [Edwin Solares](https://www.linkedin.com/in/solarese) Postdoc 2021-2023 (Lecturer, UC Davis)
+- [Miriam Nancy Salazar Vidal](https://scholar.google.com/citations?user=Ewa91LUAAAAJ&hl=en&oi=ao) Postdoc 2018-2023 (Research Scientist, U Missouri)
+-   [Mitra Menon](https://scholar.google.com/citations?user=3Q2yL_MAAAAJ&hl=en) Postdoc 2020-2022 (Computational Biologist, Form Bio)
+-   [Julianna Porter](https://github.com/juliannaporter) Postbac, 2021-2022 (PhD Student, UC Davis)
+-   [Luke Sparreo](www.linkedin.com/in/luke-sparreo) Summer REU, 2022
+-   [Asher Hudson](https://aihudson.github.io) PhD student, 2017-2022 (Postdoc, USDA NC State)
+-   [Catherine Rushworth](https://www.cathyrushworth.org) Postdoc 2018-2022 (Asst. Prof, Utah State)
+-   [Silas Tittes](https://scholar.google.com/citations?user=LxGAurUAAAAJ&hl=en): Postdoc 2018-2022 (Research Scientist, U Oregon)
+-   [Robert Horvath](https://scholar.google.com/citations?user=U9evFmUAAAAJ&hl=en&oi=sra): Postdoc 2020-2021 (Postdoc, U. Zurich)
+-   [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN): Postdoc 2019-2021 (Professor, Huazhong Ag. University)
+-   [Daniel Gates](https://danjgates.wordpress.com): Postdoc 2016-2020 (Bioinformatician, Checkerspot)
+-   [Taylor Perkins](https://orcid.org/0000-0002-1076-0527): Lab Manager 2019-2020
+-   [Sarah Turner-Hissong](https://mishaploid.github.io): Postdoc 2019-2020 (Research Scientist, Bayer Crop Sci.)
+-   [Michelle Stitzer](http://mcstitzer.github.io) PhD student 2013-2019 (NSF Postdoc, Cornell)
+-   [Dianne Velasco](https://scholar.google.com/citations?user=h2_YtiYAAAAJ&hl=en) PhD Student 2010-2019 (USDA-ARS National Clonal Germplasm Repository)
+-   [Li Wang](https://scholar.google.com/citations?user=yGEvdz0AAAAJ&hl=en): Postdoc 2018-2019 (Research Scientist, Agricultural Genomics Institute Shenzhen)
+-   [Markus Stetter](https://www.cropevolution.org): Postdoc 2017-2019 (Asst. Group Leader, U. Köln)
+-   [Wenbin Mei](https://scholar.google.com/citations?user=LR1KOxwAAAAJ&hl=en): Postdoc 2016-2018 (Scientist at Inari Agriculture)
+-   [Anne Lorant](https://scholar.google.com/citations?user=mnHb3lYAAAAJ&hl=en): Lab manager, PhD student, postdoc 2013-2018 (Bioinformatician, LBMCC)
+-   [Emily Josephs](https://josephslab.github.io): Postdoc 2015-2018 (Asst. Professor, MSU)
+-   [Luis Avila](https://lmavila.github.io): Programmer 2016-2018 (Research Scientist, Genentech)
+-   [Anna O'Brien](https://annamobrien.wordpress.com): PhD Student 2011-2017 (Postdoc, U. Toronto)
+-   [Jinliang Yang](http://jyanglab.com): Postdoc 2014-2017 (Assistant Professor, U. Nebraska)
+-   [Josh Hough](https://scholar.google.fr/citations?user=FmClXYIAAAAJ&hl=en): Postdoc 2016-2017
+-   [Paul Bilinski](https://scholar.google.com/citations?user=c03DwHkAAAAJ&hl=en): PhD Student 2010-2016 (Associate Professor, West Shore Community College)
+-   [Simon Renny-Byfield](https://scholar.google.com/citations?hl=en&user=uZTFIaAAAAAJ): Postdoc 2014-2016 (Research Scientist, Corteva Agriscience)
+-   [Kate Crosby](https://github.com/kate-crosby): Postdoc 2014-2015 (Research Scientist, Indigo Ag)
+-   Sayuri Tsukahara: Postdoc 2013-2015
+-   [Tim Beissinger](https://www.uni-goettingen.de/en/599788.html): Postdoc 2014-2015 (Professor, U. Göttingen)
+-   [Arun Durvasula](https://arundurvasula.wordpress.com): Undergraduate 2013-2015 (PhD Student, UCLA)
+-   Nivaz Brar: Undergraduate 2014-2015
+-   [Chris Fiscus](https://cjfiscus.github.io/): Undergraduate 2014 (PhD Student, UC Riverside)
+-   [Tyler Kent](https://github.com/tvkent): Undergraduate 2013-2015 (PhD Student, U. Toronto)
+-   [Vince Buffalo](http://www.vincebuffalo.com): Programmer 2013-2014 (Postdoc, U Oregon)
+-   [Sofiane Mezmouk](http://www.linkedin.com/pub/sofiane-mezmouk/6b/a35/a34): Postdoc 2012-2014 (Research Scientist, KWS)
+-   [Shohei Takuno](https://sites.google.com/site/shoheitakuno/): Postdoc 2012-2013 (Asst. Professor, SOKENDAI)
+-   [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html): Postdoc 2010-2013 (Assoc. Professor, Iowa State)
+-   [Tanja Pyhäjärvi](https://www2.helsinki.fi/en/researchgroups/forest-genomics): Postdoc 2010-2012 (Associate Professor, U. Helsinki)
+-   [Joost van Heerwaarden](http://www.wageningenur.nl/en/Persons/dr.ir.-J-Joost-van-Heerwaarden.htm): Postdoc 2009-2011 (Researcher, U. Wageningen)
+
+### Visiting Scholar: for \>100 hours of scholastic visitation
+
+-   [Andi Kur](https://www.instagram.com/andi_kur_art/?hl=en)
+-   [Azalea Guerra García](http://www.fciencias.unam.mx/directorio/57770)
+-   [Kelly Dawe](http://www.dawelab.org)\
+-   [Rute Fonseca](http://rutefonseca.wix.com/bioinformatics)
+-   [Eric Fuchs](https://sites.google.com/site/ejfuchs/)
+-   [Peter Morrell](http://faculty.agronomy.cfans.umn.edu/pmorrell/)
+-   [Chad Niederhuth](http://niederhuthlab.com)
+-   [Ginnie Morrison](http://www.panzea.org/#!ginnie-morrison/c1lov)
+-   [Markus Stetter](http://mstetter.github.io)
+-   [Sivan Yair](https://scholar.google.com/citations?user=Ru46Ih4AAAAJ&hl=en)
+
+### Fellow of the R-I Lab: for \>500 hours of scholastic fellowship
+
+-   [Peter Tiffin](http://www.cbs.umn.edu/lab/tiffin)
+-   [Leo Zeitler](https://www.researchgate.net/profile/Leo_Zeitler)
+
+### Current Collaborators
+
+**Genetic diversity in maize and teosinte**
+
+-   [Jianbing Yan](http://maizego.org)\
+-   [Ning Yang](http://maizego.org)
+
+**Evolution of Incompatibility Loci in Maize and Teosinte**
+
+-   [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)\
+-   [Yaniv Brandvain](https://brandvainlab.wordpress.com)
+
+**Quantitative Genetics of Genotype x Environment Interaction**
+
+-   [Dan Runcie](http://runcielab.ucdavis.edu/)\
+-   [Limagrain](https://www.limagrain.com/?lang=en)
+
+**Evolutionary Genetics of Transposable Elements**
+
+-   [Nathan Springer](https://cbs.umn.edu/springer-lab/home)
+-   [Candice Hirsch](http://hirschlab.cfans.umn.edu)
+-   [Emily Josephs](https://josephslab.github.io)
+-   [Shawn Kaeppler](https://agronomy.wisc.edu/shawn-kaeppler/)
+
+**Convergent Evolution in the Andropogoneae**
+
+-   [Toby Kellogg](http://kellogglab.weebly.com)\
+-   [Adam Siepel](http://compgen.cshl.edu/~acs/)\
+-   [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
+-   [Qi Sun](http://vivo.cornell.edu/display/individual24418)\
+-   [Ed Buckler](http://www.maizegenetics.net)
+
+**Evolutionary genetics of highland adaptation in maize**
+
+-   [Graham Coop](https://gcbias.org)
+-   [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
+-   [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
+-   [Ruben Rellan-Alvarez](http://www.rrlab.org)
+-   [Dan Runcie](http://runcielab.ucdavis.edu/)
+-   [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165)
