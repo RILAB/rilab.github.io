@@ -33,21 +33,22 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2025
 ### February
-#### Feb 21
+#### Feb 28
 [Lopez-Valdivia et al. preprint](https://www.biorxiv.org/content/10.1101/2024.11.18.623787v3) In silico analysis of the evolution of root phenotypes during maize domestication in Neolithic soils of Tehuacán
 
-#### Feb 14
+#### Feb 21
 [Schmutzer et al. 2024](https://link.springer.com/article/10.1007/s00239-024-10161-4) Frustration can Limit the Adaptation of Promiscuous Enzymes Through Gene Duplication and Specialisation
+
+#### Feb 14
+[Tournebize Chikhi 2024](https://www.nature.com/articles/s41559-024-02591-6) 
+Ignoring population structure in hominin evolutionary models can lead to the inference of spurious admixture events
 
 #### Feb 7
 ### January
 [Todesco et al 2020](https://www.nature.com/articles/s41586-020-2467-6) Massive haplotypes underlie ecotypic differentiation in sunflowers
 
 #### Jan 31
-[Tournebize Chikhi 2024](https://www.nature.com/articles/s41559-024-02591-6) 
-Ignoring population structure in hominin evolutionary models can lead to the inference of spurious admixture events
-
-
+No REHAB
 
 #### Jan 24
 [Arribas et al 2024](https://www.cell.com/cell/fulltext/S0092-8674(24)01328-X) Transposable element exonization generates a reservoir of evolving and functional protein isoforms
