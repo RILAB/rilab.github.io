@@ -48,7 +48,7 @@ Brenda is the lab manager and czar. In addition to working with us, she manages 
 :::
 
 **Yu Cao** <a href="https://github.com/Caoyu819"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a>  
-(she/her)
+(she/her)  
 
 Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN) at HZAU. Yu is working on understanding the population and quantitative genetics of introgressed teosinte haplotypes in maize. 
 <br><br>
@@ -57,8 +57,8 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
 :::
 
-**Elli Cryan** <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0009-0006-8018-6686"><img src="images/orcid.png" style="width: 15px;"/><a/>  
-(she/her)
+**Elli Cryan** <a href="https://www.linkedin.com/in/elli-cryan-a150ba121/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/https://twitter.com/cryan4plants"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0009-0006-8018-6686"><img src="images/orcid.png" style="width: 15px;"/></a>  
+(she/her)  
 
 Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks and the evolution of cross-incompatibility loci.
 <br><br>
@@ -76,7 +76,7 @@ Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) gradua
 <img src="images/fairbanks.jpg" style="border:10px solid white" width="125px"/>
 :::
 
-**Regina Fairbanks** <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0003-4485-0376"><img src="images/orcid.png" style="width: 15px;"/><a/>  
+**Regina Fairbanks** <a href="https://twitter.com/r_fairb?lang=en"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://orcid.org/0000-0003-4485-0376"><img src="images/orcid.png" style="width: 15px;"/></a>  
 (they/them)
 
 Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group, currently working on the population genetics and archaeology of the maize domestication locus *tga1*.
@@ -91,7 +91,7 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 
 Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https://funk.ucdavis.edu) and [Jenny Gremer](https://gremerlab.faculty.ucdavis.edu), working on climate adaptation and hybridization in California wild radishes.
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ::: {style="float: left"}
 <img src="images/Forrest_casual.jpg" style="border:10px solid white" width="125"/>
@@ -100,8 +100,8 @@ Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https:
 **Forrest Li** <a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him)
 
-Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
-<br><br><br>
+Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.ucdavis.edu).
+
 
 ::: {style="float: left"}
 <img src="images/beibei.jpg" style="border:10px solid white" width="125px"/></a>
@@ -122,7 +122,6 @@ Beibei is a postdoc working on the evolution of transposable elements in maize a
 
 Paulo is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on using whole genome assemblies to study allelic diversity and demography in maize.
 <br>
-
 
 ::: {style="float: left"}
 <img src="images/sowmya2.jpg" style="border:10px solid white" width="125px"/>
@@ -146,16 +145,6 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 <br>  
 
 ::: {style="float: left"}
-<img src="images/itay-et-ayelet.png" style="border:10px solid white" width="125px"/></a>
-:::
-
-**Ayelet Salman-Minkov** <a href="https://scholar.google.com/citations?user=SWqRX4QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
-(she/her)
-
-Ayelet is a project scientist working in collaboration with [Dan Runcie](https://runcielab.ucdavis.edu) and [CIMMYT](https://www.cimmyt.org) to understand how genotype-environment association approaches can be used for crop breeding.
-<br> 
-
-::: {style="float: left"}
 <img src="images/sam.jpeg" style="border:10px solid white" width="125px"/></a>
 :::
 
@@ -170,7 +159,7 @@ Sam is an NSF Plant Genome postdoc working on the coevolution of humans and thei
 <img src="images/stark.jpg" style="border:10px solid white" width="125px"/></a>
 :::
 
-**Cristian Stark **  <a href="https://www.linkedin.com/in/cristian-stark/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://github.com/cstark14"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a>
+**Cristian Stark **  <a href="https://www.linkedin.com/in/cristian-stark/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://github.com/cstark14"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a>  
 (he/him)
 
 Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on genomic selection, pangenomes, and inbreeding depression in *Zea*. He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
@@ -179,9 +168,10 @@ Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate
 
 ## Lab Alumni
 
+- [Ayelet Salman-Minkov](https://scholar.google.com/citations?user=SWqRX4QAAAAJ&hl=en) Project Scientist 2023-2024
 - [Alyssa Phillips](https://scholar.google.com/citations?user=p9u2mzwAAAAJ&hl=en) PhD student 2018-2024 (Postdoc UC Berkeley)
 - [Garnet Phinney]() Undergraduate researcher, 2023-2024 (PhD Student UC Irvine)
-- [Sarah Odell](https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao) PhD student 2016-2023
+- [Sarah Nicholson](https://scholar.google.com/citations?user=uQ7Z4PAAAAAJ&hl=en&oi=ao) PhD student 2016-2023
 -   [Edwin Solares](https://www.linkedin.com/in/solarese) Postdoc 2021-2023 (Lecturer, UC Davis)
 - [Miriam Nancy Salazar Vidal](https://scholar.google.com/citations?user=Ewa91LUAAAAJ&hl=en&oi=ao) Postdoc 2018-2023 (Research Scientist, U Missouri)
 -   [Mitra Menon](https://scholar.google.com/citations?user=3Q2yL_MAAAAJ&hl=en) Postdoc 2020-2022 (Computational Biologist, Form Bio)
@@ -247,36 +237,40 @@ Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate
 -   [Jianbing Yan](http://maizego.org)\
 -   [Ning Yang](http://maizego.org)
 
-**Evolution of Incompatibility Loci in Maize and Teosinte**
+**Identifying environmentally adaptive alleles for breeding**
 
--   [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)\
--   [Yaniv Brandvain](https://brandvainlab.wordpress.com)
+-   [Daniel Runcie](https://runcielab.ucdavis.edu)
+-   [CIMMYT](https://www.cimmyt.org)
+<!-- **Evolution of Incompatibility Loci in Maize and Teosinte** -->
 
-**Quantitative Genetics of Genotype x Environment Interaction**
+<!-- -   [Matt Evans](https://carnegiescience.edu/scientist/matthew-evans)\ -->
+<!-- -   [Yaniv Brandvain](https://brandvainlab.wordpress.com) -->
 
--   [Dan Runcie](http://runcielab.ucdavis.edu/)\
--   [Limagrain](https://www.limagrain.com/?lang=en)
+<!-- **Quantitative Genetics of Genotype x Environment Interaction** -->
 
-**Evolutionary Genetics of Transposable Elements**
+<!-- -   [Dan Runcie](http://runcielab.ucdavis.edu/)\ -->
+<!-- -   [Limagrain](https://www.limagrain.com/?lang=en) -->
 
--   [Nathan Springer](https://cbs.umn.edu/springer-lab/home)
--   [Candice Hirsch](http://hirschlab.cfans.umn.edu)
--   [Emily Josephs](https://josephslab.github.io)
--   [Shawn Kaeppler](https://agronomy.wisc.edu/shawn-kaeppler/)
+<!-- **Evolutionary Genetics of Transposable Elements** -->
 
-**Convergent Evolution in the Andropogoneae**
+<!-- -   [Nathan Springer](https://cbs.umn.edu/springer-lab/home) -->
+<!-- -   [Candice Hirsch](http://hirschlab.cfans.umn.edu) -->
+<!-- -   [Emily Josephs](https://josephslab.github.io) -->
+<!-- -   [Shawn Kaeppler](https://agronomy.wisc.edu/shawn-kaeppler/) -->
 
--   [Toby Kellogg](http://kellogglab.weebly.com)\
--   [Adam Siepel](http://compgen.cshl.edu/~acs/)\
--   [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
--   [Qi Sun](http://vivo.cornell.edu/display/individual24418)\
--   [Ed Buckler](http://www.maizegenetics.net)
+<!-- **Convergent Evolution in the Andropogoneae** -->
 
-**Evolutionary genetics of highland adaptation in maize**
+<!-- -   [Toby Kellogg](http://kellogglab.weebly.com)\ -->
+<!-- -   [Adam Siepel](http://compgen.cshl.edu/~acs/)\ -->
+<!-- -   [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) -->
+<!-- -   [Qi Sun](http://vivo.cornell.edu/display/individual24418)\ -->
+<!-- -   [Ed Buckler](http://www.maizegenetics.net) -->
 
--   [Graham Coop](https://gcbias.org)
--   [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/)
--   [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html)
--   [Ruben Rellan-Alvarez](http://www.rrlab.org)
--   [Dan Runcie](http://runcielab.ucdavis.edu/)
--   [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165)
+<!-- **Evolutionary genetics of highland adaptation in maize** -->
+
+<!-- -   [Graham Coop](https://gcbias.org) -->
+<!-- -   [Sherry Flint-Garcia](http://web.missouri.edu/~flint-garcias/) -->
+<!-- -   [Matthew Hufford](http://www.public.iastate.edu/~mhufford/HuffordLab/home.html) -->
+<!-- -   [Ruben Rellan-Alvarez](http://www.rrlab.org) -->
+<!-- -   [Dan Runcie](http://runcielab.ucdavis.edu/) -->
+<!-- -   [Ruairidh Sawers](http://www.langebio.cinvestav.mx/?pag=165) -->
