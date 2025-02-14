@@ -32,21 +32,39 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2025
-### February
-#### Feb 28
+### April
+### April 4
+[Ragsdale preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1) Archaic introgression and the distribution of shared variation under stabilizing selection
+
+### March
+#### Mar 28
+[Frayer et al 2024](https://academic.oup.com/evolut/article/78/6/1025/7630243) Do genetic loci that cause reproductive isolation in the lab inhibit gene flow in nature?
+
+#### Mar 21
+[Mohan et al 2024](https://www.cell.com/trends/genetics/fulltext/S0168-9525(24)00131-8) A three-dimensional genomics view for speciation research
+
+#### Mar 14
+[Nie et al 2025](https://www.nature.com/articles/s41477-024-01899-2)Molecular regulation and domestication of parthenocarpy in cucumber
+
+#### Mar 7
 [Lopez-Valdivia et al. preprint](https://www.biorxiv.org/content/10.1101/2024.11.18.623787v3) In silico analysis of the evolution of root phenotypes during maize domestication in Neolithic soils of Tehuacán
 
-#### Feb 21
+### February
+#### Feb 28
 [Schmutzer et al. 2024](https://link.springer.com/article/10.1007/s00239-024-10161-4) Frustration can Limit the Adaptation of Promiscuous Enzymes Through Gene Duplication and Specialisation
 
-#### Feb 14
+#### Feb 21
 [Tournebize Chikhi 2024](https://www.nature.com/articles/s41559-024-02591-6) 
 Ignoring population structure in hominin evolutionary models can lead to the inference of spurious admixture events
 
-#### Feb 7
-### January
+#### Feb 14
 [Todesco et al 2020](https://www.nature.com/articles/s41586-020-2467-6) Massive haplotypes underlie ecotypic differentiation in sunflowers
 
+
+#### Feb 7
+Jeff is in Canada - skipped
+
+### January
 #### Jan 31
 No REHAB
 
