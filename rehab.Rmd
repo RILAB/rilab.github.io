@@ -33,21 +33,31 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2025
 ### April
-### April 4
+### April 25
+[Schneemann and Welch preprint](https://www.biorxiv.org/content/10.1101/2025.02.13.638087v1) Predicting hybrid fitness: the effects of ploidy and complex ancestry
+
+### April 18
+[Kistler et al 2025](https://www.science.org/doi/10.1126/science.adq0018) Historic manioc genomes illuminate maintenance of diversity under long-lived clonal cultivation
+
+### April 11
 [Ragsdale preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1) Archaic introgression and the distribution of shared variation under stabilizing selection
 
-### March
-#### Mar 28
+#### April 4
 [Frayer et al 2024](https://academic.oup.com/evolut/article/78/6/1025/7630243) Do genetic loci that cause reproductive isolation in the lab inhibit gene flow in nature?
 
-#### Mar 21
+### March
+
+#### Mar 28
 [Mohan et al 2024](https://www.cell.com/trends/genetics/fulltext/S0168-9525(24)00131-8) A three-dimensional genomics view for speciation research
 
+#### Mar 21
+[Nie et al 2025](https://www.nature.com/articles/s41477-024-01899-2) Molecular regulation and domestication of parthenocarpy in cucumber
+
 #### Mar 14
-[Nie et al 2025](https://www.nature.com/articles/s41477-024-01899-2)Molecular regulation and domestication of parthenocarpy in cucumber
+[Lopez-Valdivia et al. preprint](https://www.biorxiv.org/content/10.1101/2024.11.18.623787v3) In silico analysis of the evolution of root phenotypes during maize domestication in Neolithic soils of Tehuacán
 
 #### Mar 7
-[Lopez-Valdivia et al. preprint](https://www.biorxiv.org/content/10.1101/2024.11.18.623787v3) In silico analysis of the evolution of root phenotypes during maize domestication in Neolithic soils of Tehuacán
+Maize meeting in St Louis!
 
 ### February
 #### Feb 28
