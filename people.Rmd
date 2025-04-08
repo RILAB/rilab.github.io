@@ -71,7 +71,7 @@ Vibha is a biochemistry major interested in computational biology. They are curr
 (she/her)  
 
 Mackenzie is a 2nd-year Stats/Anthro double major, working with Paulo Magalang on genome evolution and genetic variation in maize.
-<br><br>
+<br><br><br>
 
 ::: {style="float: left"}
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
