@@ -54,6 +54,26 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 <br><br>
 
 ::: {style="float: left"}
+<img src="images/vibha.png" style="border:10px solid white" width="125"/>
+:::
+
+**Vibha Chandrasekar** <a href="https://www.linkedin.com/in/vibha-chandrasekar-3522481b0/"><img src="images/lin.png" style="width: 15px;"/></a>   
+(they/she)
+
+Vibha is a biochemistry major interested in computational biology. They are currently working with Natasha Dhamrait to understand the evolution of transposable elements in the maize genome.
+<br>
+
+::: {style="float: left"}
+<img src="images/chun.jpg" style="border:10px solid white" width="125"/>
+:::
+
+**Mackenzie Chun** <a href="https://www.linkedin.com/in/mackenzie-chun-4027982a9"><img src="images/lin.png" style="width: 15px;"/></a>   
+(she/her)  
+
+Mackenzie is a 2nd-year Stats/Anthro double major, working with Paulo Magalang on genome evolution and genetic variation in maize.
+<br><br>
+
+::: {style="float: left"}
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
 :::
 
@@ -61,7 +81,7 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 (she/her)  
 
 Elli is a [Plant Biology](https://pbi.ucdavis.edu) graduate student coadvised by [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/), working on the evolution of gene networks and the evolution of cross-incompatibility loci.
-<br><br>
+<br>
 
 ::: {style="float: left"}
 <img src="images/natasha.jpg" style="border:10px solid white" width="125px"/>
@@ -80,7 +100,7 @@ Natasha is a student in the [Population Biology](https://pbg.ucdavis.edu) gradua
 (they/them)
 
 Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduate group, currently working on the population genetics and archaeology of the maize domestication locus *tga1*.
-<br><br> 
+<br>
 
 ::: {style="float: left"}
 <img src="images/julia2.jpg" style="border:10px solid white" width="125"/>
@@ -90,8 +110,7 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 (she/her)
 
 Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https://funk.ucdavis.edu) and [Jenny Gremer](https://gremerlab.faculty.ucdavis.edu), working on climate adaptation and hybridization in California wild radishes.
-
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ::: {style="float: left"}
 <img src="images/Forrest_casual.jpg" style="border:10px solid white" width="125"/>
@@ -131,8 +150,6 @@ Paulo is a graduate student in [Integrative Genetics and Genomics](https://igg.u
 (she/her)
 
 Sowmya is a senior Genetics and Genomics major. She has worked on inversions, convergent evolution, and is now studying associations between genes in maize and indigenous language.  
-<br>
-
 
 ::: {style="float: left"}
 <img src="images/jri_camping.png" style="border:10px solid white" width="125px"/></a>
@@ -141,7 +158,7 @@ Sowmya is a senior Genetics and Genomics major. She has worked on inversions, co
 **Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a> <a href="https://bsky.app/profile/jrossibarra.bsky.social"><img src="images/Bluesky_Logo.svg" style="width: 15px;"/></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"/> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him)
 
-Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu).  
+Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucdavis.edu) and a faculty member of the [Center for Population Biology](http://cpb.ucdavis.edu) and the [Genome Center](ttp://www.genomecenter.ucdavis.edu). He is also the Scientific Director of [HPC@UCD](https://hpc.ucdavis.edu/) 
 <br>  
 
 ::: {style="float: left"}
@@ -152,8 +169,7 @@ Jeff is a Professor in the [Department of Evolution and Ecology](http://eve.ucda
 (she/her)
 
 Sam is an NSF Plant Genome postdoc working on the coevolution of humans and their domesticated plants. She is coadvised by [Graham Coop](http://gcbias.org).
-
-<br>
+<br><br>
 
 ::: {style="float: left"}
 <img src="images/stark.jpg" style="border:10px solid white" width="125px"/></a>
