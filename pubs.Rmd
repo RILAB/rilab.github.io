@@ -60,15 +60,6 @@ challenging simple predictions and providing a foundation for understanding its 
 implications in an ecologically and economically important clade.
 </p></details><br>
 
-<details>
-    <summary> Molecular evolution of a reproductive barrier in maize and related species
- [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626474v1)]   
-**Cryan, E**, **Phinney G**, Seetharam AS, Evans MMS, Kellogg EA, Zhan J, Meyers BC, Kliebenstein D, **Ross-Ibarra J**
-
-</summary>
-    <p style="margin-left: 30px">
-Three cross-incompatibility loci each control a distinct reproductive barrier in domesticated maize (Zea mays ssp. mays) and its wild teosinte relatives. These three loci, Teosinte crossing barrier 1 (Tcb1), Gametophytic factor 1 (Ga1), and Ga2, each play a key role in preventing hybridization between populations and are proposed to maintain the barrier between domesticated and wild subspecies. Each locus encodes a matching pair of silk- and pollen-active pectin methylesterases (PMEs). To investigate the diversity and molecular evolution of these gametophytic factor loci, we identified existing and improved models of the responsible genes in a new genome assembly which contains active versions of all three loci. We then examined fifty-two assembled genomes from seventeen species to classify haplotype diversity and identify sites under diversifying selection during the evolution of the causal genes. We show that Ga2, the oldest of these three loci, was duplicated to form Ga1 at least 12 million years ago. Tcb1, the youngest locus, arose as a duplicate of Ga1 before or around the time of diversification of the Zea genus. We find evidence of positive selection during evolution of the functional genes at an active site in the pollen-expressed PME and predicted surface sites in both the silk- and pollen-expressed PMEs. The most common allele at the Ga1 locus is a conserved ga1 allele (ga1-O), which is non-coding due to conserved stop codons in full-length gene copies that are between 610 thousand and 1.5 million years old. We show that the ga1-O allele is associated with and likely generates 24 nt siRNAs in developing pollen-producing tissue, and these siRNAs map to functional Ga1 alleles. In previously-published crosses, the ga1-O allele associates with reduced function of the typically dominant functional alleles for the Ga1 and Tcb1 barriers. Taken together, this seems to be an example of a type of epigenetic trans-homolog silencing known as paramutation functioning at a locus controlling a reproductive barrier.
-</p></details><br>
 
 <details>
     <summary> An ancient origin of the naked grains of maize
@@ -89,7 +80,6 @@ Finally, we compare observed patterns of haplotype structure and mutational age 
 These multiple lines of evidence suggest that maize domestication likely drew upon standing genetic variation at _tga1_ and cement the importance of standing variation in driving adaptation during domestication.
  </p></details><br>
 
-
 <details> 
     <summary> The utility of environmental data from traditional varieties for climate-adaptive maize breeding 
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.09.19.613351v1
@@ -102,15 +92,7 @@ Maintaining crop yields in the face of climate change is a major challenge facin
 </p></details><br> 
 
 
-<details> 
-    <summary> Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
- [[preprint](https://biorxiv.org/cgi/content/short/2023.08.08.551183v1)]  
-Engelhorn J, **Snodgrass SJ**, Kok A, Seetharam AS ...[15 authors]... Frommer WB, **Ross-Ibarra J**, Hartwig T
 
-</summary> 
-    <p style="margin-left: 30px">
-Comprehensive maps of functional variation at transcription factor (TF) binding sites (cis-elements) are crucial for elucidating how genotype shapes phenotype. Here we report the construction of a pan-cistrome of the maize leaf under well-watered and drought conditions. We quantified haplotype-specific TF footprints across a pan-genome of 25 maize hybrids and mapped nearly two-hundred thousand genetic variants (termed binding-QTLs) linked to cis-element occupancy. The functional significance of binding-QTLs is supported by three lines of evidence: i) they coincide with known causative loci that regulate traits, including novel alleles of Upright Plant Architecture2, Trehalase1, and the MITE transposon site of ZmNAC111 under drought; ii) their allelic bias is mirrored between inbred parents and by ChIP-seq; iii) partitioning genetic variation across genomic regions demonstrates that binding-QTLs capture the majority of heritable trait variation across ~70% of 143 phenotypes. Our study provides a promising approach to make previously hidden cis-variation more accessible for genetic studies and multi-target engineering of complex traits.
-</p></details><br> 
 
 
 
@@ -128,7 +110,28 @@ Comprehensive maps of functional variation at transcription factor (TF) binding 
 <!--     Sun, X., Xiang, Y., Dou, N. et al. The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize. Nat Biotechnol 41, 120–127 (2023).  -->
 <!-- </p></details><br>  -->
 
+### 2025
 
+<details> 
+    <summary> Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
+ [[preprint](https://biorxiv.org/cgi/content/short/2023.08.08.551183v1)]  
+Engelhorn J, **Snodgrass SJ**, Kok A, Seetharam AS ...[15 authors]... Frommer WB, **Ross-Ibarra J**, Hartwig T
+
+</summary> 
+    <p style="margin-left: 30px">
+Comprehensive maps of functional variation at transcription factor (TF) binding sites (cis-elements) are crucial for elucidating how genotype shapes phenotype. Here we report the construction of a pan-cistrome of the maize leaf under well-watered and drought conditions. We quantified haplotype-specific TF footprints across a pan-genome of 25 maize hybrids and mapped nearly two-hundred thousand genetic variants (termed binding-QTLs) linked to cis-element occupancy. The functional significance of binding-QTLs is supported by three lines of evidence: i) they coincide with known causative loci that regulate traits, including novel alleles of Upright Plant Architecture2, Trehalase1, and the MITE transposon site of ZmNAC111 under drought; ii) their allelic bias is mirrored between inbred parents and by ChIP-seq; iii) partitioning genetic variation across genomic regions demonstrates that binding-QTLs capture the majority of heritable trait variation across ~70% of 143 phenotypes. Our study provides a promising approach to make previously hidden cis-variation more accessible for genetic studies and multi-target engineering of complex traits.
+</p></details><br> 
+
+
+<details>
+    <summary> Molecular evolution of a reproductive barrier in maize and related species
+ [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626474v1)]   
+**Cryan, E**, **Phinney G**, Seetharam AS, Evans MMS, Kellogg EA, Zhan J, Meyers BC, Kliebenstein D, **Ross-Ibarra J**
+
+</summary>
+    <p style="margin-left: 30px">
+Three cross-incompatibility loci each control a distinct reproductive barrier in domesticated maize (Zea mays ssp. mays) and its wild teosinte relatives. These three loci, Teosinte crossing barrier 1 (Tcb1), Gametophytic factor 1 (Ga1), and Ga2, each play a key role in preventing hybridization between populations and are proposed to maintain the barrier between domesticated and wild subspecies. Each locus encodes a matching pair of silk- and pollen-active pectin methylesterases (PMEs). To investigate the diversity and molecular evolution of these gametophytic factor loci, we identified existing and improved models of the responsible genes in a new genome assembly which contains active versions of all three loci. We then examined fifty-two assembled genomes from seventeen species to classify haplotype diversity and identify sites under diversifying selection during the evolution of the causal genes. We show that Ga2, the oldest of these three loci, was duplicated to form Ga1 at least 12 million years ago. Tcb1, the youngest locus, arose as a duplicate of Ga1 before or around the time of diversification of the Zea genus. We find evidence of positive selection during evolution of the functional genes at an active site in the pollen-expressed PME and predicted surface sites in both the silk- and pollen-expressed PMEs. The most common allele at the Ga1 locus is a conserved ga1 allele (ga1-O), which is non-coding due to conserved stop codons in full-length gene copies that are between 610 thousand and 1.5 million years old. We show that the ga1-O allele is associated with and likely generates 24 nt siRNAs in developing pollen-producing tissue, and these siRNAs map to functional Ga1 alleles. In previously-published crosses, the ga1-O allele associates with reduced function of the typically dominant functional alleles for the Ga1 and Tcb1 barriers. Taken together, this seems to be an example of a type of epigenetic trans-homolog silencing known as paramutation functioning at a locus controlling a reproductive barrier.
+</p></details><br>
 
 ### 2024  
 
