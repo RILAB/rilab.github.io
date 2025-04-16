@@ -33,22 +33,25 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 ## 2025
 ### May
-#### May 16
+#### May 23
 [Jiang et al 2025](https://www.nature.com/articles/s41467-025-58021-z) Incorporating genetic load contributes to predicting Arabidopsis thaliana’s response to climate change
 
-#### May 9
+#### May 16
 [Schneemann and Welch preprint](https://www.biorxiv.org/content/10.1101/2025.02.13.638087v1) Predicting hybrid fitness: the effects of ploidy and complex ancestry
 
-#### May 2
+#### May 9
 [Kistler et al 2025](https://www.science.org/doi/10.1126/science.adq0018) Historic manioc genomes illuminate maintenance of diversity under long-lived clonal cultivation
+
+#### May 2
+[Ragsdale preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1) Archaic introgression and the distribution of shared variation under stabilizing selection
 
 ## April
 
 #### April 25
-[Ragsdale preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1) Archaic introgression and the distribution of shared variation under stabilizing selection
+[Frayer et al 2024](https://academic.oup.com/evolut/article/78/6/1025/7630243) Do genetic loci that cause reproductive isolation in the lab inhibit gene flow in nature?
 
 #### April 18
-[Frayer et al 2024](https://academic.oup.com/evolut/article/78/6/1025/7630243) Do genetic loci that cause reproductive isolation in the lab inhibit gene flow in nature?
+[Gibbs et al 2025](https://academic.oup.com/genetics/article/229/3/iyaf003/7954791) Trait genetic architecture and population structure determine model selection for genomic prediction in natural Arabidopsis thaliana populations 
 
 #### April 11
 [Mohan et al 2024](https://www.cell.com/trends/genetics/fulltext/S0168-9525(24)00131-8) A three-dimensional genomics view for speciation research
