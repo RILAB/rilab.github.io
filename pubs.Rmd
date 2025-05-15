@@ -61,6 +61,22 @@ implications in an ecologically and economically important clade.
 </p></details><br>
 
 
+<!-- <details>  -->
+<!--     <summary>**Other papers by lab members** -->
+
+<!-- </summary> -->
+<!--     <p style="margin-left: 30px"> -->
+<!-- **Regina Fairbanks**     -->
+
+<!--     DiVito Evans, A., Fairbanks, R. A., Schmidt, P., & Levine, M. T. (2023). Histone methylation regulates reproductive diapause in Drosophila melanogaster. PLoS genetics, 19(9), e1010906.  -->
+
+<!-- **Mitra Menon** -->
+
+<!--     Sun, X., Xiang, Y., Dou, N. et al. The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize. Nat Biotechnol 41, 120–127 (2023).  -->
+<!-- </p></details><br>  -->
+
+### 2025
+
 <details>
     <summary> An ancient origin of the naked grains of maize
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626434v1)]  
@@ -92,26 +108,6 @@ Maintaining crop yields in the face of climate change is a major challenge facin
 </p></details><br> 
 
 
-
-
-
-
-<!-- <details>  -->
-<!--     <summary>**Other papers by lab members** -->
-
-<!-- </summary> -->
-<!--     <p style="margin-left: 30px"> -->
-<!-- **Regina Fairbanks**     -->
-
-<!--     DiVito Evans, A., Fairbanks, R. A., Schmidt, P., & Levine, M. T. (2023). Histone methylation regulates reproductive diapause in Drosophila melanogaster. PLoS genetics, 19(9), e1010906.  -->
-
-<!-- **Mitra Menon** -->
-
-<!--     Sun, X., Xiang, Y., Dou, N. et al. The role of transposon inverted repeats in balancing drought tolerance and yield-related traits in maize. Nat Biotechnol 41, 120–127 (2023).  -->
-<!-- </p></details><br>  -->
-
-### 2025
-
 <details> 
     <summary> Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
  [[preprint](https://biorxiv.org/cgi/content/short/2023.08.08.551183v1)]  
@@ -124,7 +120,7 @@ Comprehensive maps of functional variation at transcription factor (TF) binding 
 
 
 <details>
-    <summary> Molecular evolution of a reproductive barrier in maize and related species
+    <summary> [Molecular evolution of a reproductive barrier in maize and related species](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyaf085/8126661?login=false)
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626474v1)]   
 **Cryan, E**, **Phinney G**, Seetharam AS, Evans MMS, Kellogg EA, Zhan J, Meyers BC, Kliebenstein D, **Ross-Ibarra J**
 
@@ -136,7 +132,7 @@ Three cross-incompatibility loci each control a distinct reproductive barrier in
 ### 2024  
 
 <details> 
-    <summary> A unified VCF data set from nearly 1,500 diverse maize accessions and resources to explore the genomic landscape of maize 
+    <summary> [A unified VCF data set from nearly 1,500 diverse maize accessions and resources to explore the genomic landscape of maize](https://academic.oup.com/g3journal/article/15/2/jkae281/7913450).  
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.04.30.591904v1)]  
 Andorf CM,  **Ross-Ibarra J**, Seetharam AS,  Hufford MB, Woodhouse MR  
 
