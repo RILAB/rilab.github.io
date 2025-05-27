@@ -32,18 +32,26 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2025
+### June
+#### June 6
+[Sakamoto and Yeaman preprint](https://www.biorxiv.org/content/10.1101/2025.04.25.650679v1.full.pdf) Maintenance of polymorphism in spatially heterogeneous
+environments
+
 ### May
-#### May 23
+#### May 30
 [Jiang et al 2025](https://www.nature.com/articles/s41467-025-58021-z) Incorporating genetic load contributes to predicting Arabidopsis thaliana’s response to climate change
 
-#### May 16
+#### May 23
 [Schneemann and Welch preprint](https://www.biorxiv.org/content/10.1101/2025.02.13.638087v1) Predicting hybrid fitness: the effects of ploidy and complex ancestry
 
-#### May 9
+#### May 16
 [Kistler et al 2025](https://www.science.org/doi/10.1126/science.adq0018) Historic manioc genomes illuminate maintenance of diversity under long-lived clonal cultivation
 
-#### May 2
+#### May 9
 [Ragsdale preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1) Archaic introgression and the distribution of shared variation under stabilizing selection
+
+#### May 2
+No REHAB
 
 ## April
 
