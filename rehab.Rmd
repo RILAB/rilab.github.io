@@ -32,7 +32,30 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2025
+### July
+
+#### July 25
+[Manin et al 2025](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2024.2443) Ancient dog mitogenomes support the dual dispersal of dogs and agriculture into South America
+
+#### July 18
+[Macharia et al 2025](https://www.nature.com/articles/s42003-025-08227-0) Cowpea (Vigna unguiculata L. Walp.) landraces in Mozambique and neighbouring Southern African countries harbour genetic loci with potential for climate adaptation
+
+#### July 11
+[Jing et al 2025](https://www.nature.com/articles/s41467-025-60663-y) Maximizing meiotic crossover rates reveals the map of Crossover Potential
+
+#### July 4
+Independence Day
+
 ### June
+#### June 26
+[Herklotz et al 2025](https://www.nature.com/articles/s41586-025-09171-z) Bimodal centromeres in pentaploid dogroses shed light on their unique meiosis
+
+#### June 20
+No REHAB
+
+#### June 13
+[Murray et al 2025](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00577-9)] Ancient genomes reveal demographic trajectories during the Classic Maya period
+
 #### June 6
 [Sakamoto and Yeaman preprint](https://www.biorxiv.org/content/10.1101/2025.04.25.650679v1.full.pdf) Maintenance of polymorphism in spatially heterogeneous
 environments
