@@ -32,6 +32,15 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2025
+
+### August
+
+#### August 8
+[Manin et al 2025](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2024.2443) Ancient dog mitogenomes support the dual dispersal of dogs and agriculture into South America
+
+#### August 1
+TBA
+
 ### July
 
 #### July 25
@@ -47,8 +56,8 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 Independence Day
 
 ### June
-#### June 26
-[Manin et al 2025](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2024.2443) Ancient dog mitogenomes support the dual dispersal of dogs and agriculture into South America
+#### June 27
+[Wang et al 2025](https://www.nature.com/articles/s42003-025-08127-3) DNA gains and losses in gigantic genomes do not track differences in transposable element-host silencing interactions
 
 #### June 20
 No REHAB
