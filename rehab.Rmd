@@ -32,14 +32,26 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2025
+### September
+#### September 5
+[Roberts et al 2025](https://academic.oup.com/mbe/article/42/3/msaf047/8052716) K-mer-based Approaches to Bridging Pangenomics and Population Genetics
 
 ### August
+#### August 29
+[Carey et al preprint](https://www.biorxiv.org/content/10.1101/2024.12.09.627636v2) An X-linked sex determination mechanism in cannabis and hop
+
+#### August 22
+[Piri et al preprint](https://www.biorxiv.org/content/10.1101/2025.01.31.635908v1) Higher order repeat structures reflect diverging evolutionary paths in maize centromeres and knobs
+
+#### August 15
+[Anderson et al 2025](https://www.science.org/doi/10.1126/science.adr1010) Adaptation and gene flow are insufficient to rescue a montane plant under climate change
+
 
 #### August 8
 [Manin et al 2025](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2024.2443) Ancient dog mitogenomes support the dual dispersal of dogs and agriculture into South America
 
 #### August 1
-TBA
+[Tushingham et al 2025](https://www.sciencedirect.com/science/article/pii/S0305440325001165) Biodiversity science of ancient fisheries: Archaeological indicators of eelgrass meadow health and indigenous (Wiyot) aquaculture, Humboldt Bay, CA
 
 ### July
 
