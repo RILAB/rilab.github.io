@@ -70,7 +70,7 @@ Vibha is a biochemistry major interested in computational biology. They are curr
 **Mackenzie Chun** <a href="https://www.linkedin.com/in/mackenzie-chun-4027982a9"><img src="images/lin.png" style="width: 15px;"/></a>   
 (she/her)  
 
-Mackenzie is a 2nd-year Stats/Anthro double major, working with Paulo Magalang on genome evolution and genetic variation in maize.
+Mackenzie is an EVE Scholar and a 2nd-year Stats/Anthro double major, working with Paulo Magalang on genome evolution and genetic variation in maize.
 <br><br><br><br>
 
 ::: {style="float: left"}
@@ -180,7 +180,16 @@ Sam is an NSF Plant Genome postdoc working on the coevolution of humans and thei
 
 Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on genomic selection, pangenomes, and inbreeding depression in *Zea*. He is coadvised by [Dan Runcie](https://runcielab.u4cdavis.edu).
 
-<br>  
+::: {style="float: left"}
+<img src="images/NatalieCubiePhoto.jpeg" style="border:10px solid white" width="125px"/></a>
+:::
+
+**Natalie Veech**  <a href="https://www.linkedin.com/in/natalie-veech/"><img src="images/lin.png" style="width: 15px;"/></a>   
+(she/her)
+
+Natalie is a 3rd Year Environmental Science and Management Major and EVE Scholar working on machine learning approaches to study life history of radishes using herbarium specimens. She works closely with Julia Harenčár and is also a member of the [Gremer Lab](https://gremerlab.faculty.ucdavis.edu).
+<br><br>
+
 
 ## Lab Alumni
 
