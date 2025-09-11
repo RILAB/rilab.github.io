@@ -35,6 +35,39 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
+
+HERITABILITY AND QTL MAPPING OF AERIAL ROOTS AND OTHER YIELD
+COMPONENT TRAITS WITH IMPLICATIONS FOR N2 FIXATION IN ZEA MAYS
+
+<details>
+<summary> Heritability and QTL mapping of aerial roots and other yield component traits with implications for N2 fication in *Zea mays*. 
+ [[preprint]()]   
+O’Donnell1 DA, **Yang J**,  Zamora P, **Lorant A**, ...[3 authors]... Bennett A, **Ross-Ibarra J**
+</summary>
+<p style="margin-left: 30px">
+*Zea mays* L. spp. *mays* (hereafter maize) populations from an indigenous community of Mexico
+have been reported to perform well using traditional cultivation practices that exclude industrial
+fertilizers despite low soil nitrate levels. The local maize cultivar is characterized by extended
+maturity, tall stature, and presence of thick aerial roots that secrete an abundance of
+polysaccharide-rich root exudate, or mucilage, that is implicated in the recruitment of diazotrophic
+microbes to facilitate biological nitrogen fixation. Here we estimate the broad sense heritability of
+traits related to nitrogen fixation in a panel of *Zea* entries spanning pre-domestication, post-
+domestication and post-improvement, and identify QTL via F2:F3 families for traits including
+aerial root node counts and various other yield related traits (i.e. germination rate, time to
+reproductive maturity, total biomass and nitrogen content of shoot and grain). Across two separate
+field studies, aerial root node count (AR) demonstrates heritability of 64% and 73%, and genetic
+mapping reveals three distinct QTL distributed on chromosomes 1 and 9. Further, we report novel
+QTL for germination rate via stand counts after direct sowing (SC), Plant Total Nitrogen (PTN),
+Plant Dry Mass (PDM), and a joint QTL for Grain Total Nitrogen (GTN) and Grain Dry Mass
+(GDM). Finally, we identify overlap between QTL for multiple traits (including AR and SC) and
+regions of elevated introgression from wild *Zea mays* L. spp. *mexicana* (hereafter mexicana) into
+Totontepec maize, with a greater degree of overlap than expected under a uniform genomic
+distribution suggesting adaptive introgression from mexicana. Given its pronounced aerial root
+morphology, we propose that mexicana is the ancestral source for prominent aerial roots and
+corresponding abundant mucilage production in Totontepec maize and other maize traditional
+varieties.
+</p></details><br>
+
 <details>
     <summary> Extensive genome evolution distinguishes maize within a
 stable tribe of grasses
