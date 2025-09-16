@@ -32,8 +32,17 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2025
+### November
+#### November 1
+[Kreiner 2025](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70520) The genetic architecture and spatiotemporal dynamics of adaptation across human-modified landscapes
+
+
 ### October
+#### October 31
+
 #### October 24
+[Slalov et al 2025](https://www.pnas.org/doi/10.1073/pnas.2425691122) Population structure limits the use of genomic data for predicting phenotypes and managing genetic resources in forest trees
+
 #### October 17
 [Mead et al preprint](https://www.biorxiv.org/content/10.1101/2025.05.16.654548v1.full.pdf) Variation in responses to temperature across admixed genotypes of Populus trichocarpa × P.
 balsamifera predict geographic shifts in regions where hybrids are favored
@@ -42,14 +51,14 @@ balsamifera predict geographic shifts in regions where hybrids are favored
 [Lopez et al 2025](https://onlinelibrary.wiley.com/doi/10.1111/mec.70081) Museum Genomics Reveals Temporal Genetic Stasis and Global Genetic Diversity in Arabidopsis thaliana
 
 #### October 3
-[Brady et al 2025](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011742) Genetic and environmental influences on the distributions of three chromosomal drive haplotypes in maize
+[Carey et al preprint](https://www.biorxiv.org/content/10.1101/2024.12.09.627636v2) An X-linked sex determination mechanism in cannabis and hop
 
 ### September
 #### September 26
 [Roberts et al 2025](https://academic.oup.com/mbe/article/42/3/msaf047/8052716) K-mer-based Approaches to Bridging Pangenomics and Population Genetics
 
 #### September 19
-[Carey et al preprint](https://www.biorxiv.org/content/10.1101/2024.12.09.627636v2) An X-linked sex determination mechanism in cannabis and hop
+[Brady et al 2025](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011742) Genetic and environmental influences on the distributions of three chromosomal drive haplotypes in maize
 
 #### September 12
 [Piri et al preprint](https://www.biorxiv.org/content/10.1101/2025.01.31.635908v1) Higher order repeat structures reflect diverging evolutionary paths in maize centromeres and knobs
