@@ -54,16 +54,6 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 <br><br>
 
 ::: {style="float: left"}
-<img src="images/vibha.png" style="border:10px solid white" width="125"/>
-:::
-
-**Vibha Chandrasekar** <a href="https://www.linkedin.com/in/vibha-chandrasekar-3522481b0/"><img src="images/lin.png" style="width: 15px;"/></a>   
-(they/she)
-
-Vibha is a biochemistry major interested in computational biology. They are currently working with Natasha Dhamrait to understand the evolution of transposable elements in the maize genome.
-<br>
-
-::: {style="float: left"}
 <img src="images/chun.jpg" style="border:10px solid white" width="125"/>
 :::
 
@@ -109,7 +99,7 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 **Julia Harenčár** <a href="https://sites.google.com/view/juliaharencar"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a><a href="https://www.linkedin.com/in/julia-harencar/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0001-6944-4337"><img src="images/orcid.png" style="width: 15px;"/><a href="https://scholar.google.com/citations?user=U7ZRlZkAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (she/her)
 
-Julia is a [CPB](https://cpb.ucdavis.edu) postdoc coadvised by [Jen Funk](https://funk.ucdavis.edu) and [Jenny Gremer](https://gremerlab.faculty.ucdavis.edu), working on climate adaptation and hybridization in California wild radishes.
+Julia is a [CPB](https://cpb.ucdavis.edu) and USDA postdoc coadvised by [Graham Coop](https://gcbias.org), [Jen Funk](https://funk.ucdavis.edu) and [Jenny Gremer](https://gremerlab.faculty.ucdavis.edu), working on climate adaptation and hybridization in California wild radishes.
 <br><br><br><br>
 
 ::: {style="float: left"}
@@ -142,18 +132,18 @@ Beibei is a postdoc working on the evolution of transposable elements in maize a
 Paulo is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on using whole genome assemblies to study allelic diversity and demography in maize.
 <br>
 
-::: {style="float: left"}
-<img src="images/sowmya2.jpg" style="border:10px solid white" width="125px"/>
-:::
+<!-- ::: {style="float: left"} -->
+<!-- <img src="images/sowmya2.jpg" style="border:10px solid white" width="125px"/> -->
+<!-- ::: -->
 
-**Sowmya Mambakkam**  
-(she/her)
+<!-- **Sowmya Mambakkam**   -->
+<!-- (she/her) -->
 
-Sowmya is a senior Genetics and Genomics major. She has worked on inversions, convergent evolution, and is now studying associations between genes in maize and indigenous language.  
+<!-- Sowmya is a senior Genetics and Genomics major. She has worked on inversions, convergent evolution, and is now studying associations between genes in maize and indigenous language.   -->
 
-::: {style="float: left"}
-<img src="images/jri_camping.png" style="border:10px solid white" width="125px"/></a>
-:::
+<!-- ::: {style="float: left"} -->
+<!-- <img src="images/jri_camping.png" style="border:10px solid white" width="125px"/></a> -->
+<!-- ::: -->
 
 **Jeffrey Ross-Ibarra** <a href="https://rilab.ucdavis.edu"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a> <a href="https://bsky.app/profile/jrossibarra.bsky.social"><img src="images/Bluesky_Logo.svg" style="width: 15px;"/></a> <a href="http://github.com/rossibarra"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://github.com/rossibarra/CV"><img src="images/txt.png" style="width: 15px;"/> <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him)
@@ -184,7 +174,7 @@ Cristian is a Genomics Data Scientist at Bayer Vegetables R&D and a PhD graduate
 <img src="images/NatalieCubiePhoto.jpeg" style="border:10px solid white" width="125px"/></a>
 :::
 
-**Natalie Veech**  <a href="https://www.linkedin.com/in/natalie-veech/"><img src="images/lin.png" style="width: 15px;"/></a>   
+**Natalie Veech**  <a href="https://www.linkedin.com/in/natalie-veech/"><img src="images/lin.png" style="width: 15px;"/></a>
 (she/her)
 
 Natalie is a 3rd Year Environmental Science and Management Major and EVE Scholar working on machine learning approaches to study life history of radishes using herbarium specimens. She works closely with Julia Harenčár and is also a member of the [Gremer Lab](https://gremerlab.faculty.ucdavis.edu).

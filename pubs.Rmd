@@ -35,6 +35,28 @@ Click on a triangle for the article abstract.
 
 ### Preprints
 
+
+<!-- <details> -->
+<!-- <summary> The origins and adaptive consequences of polyploidy in a dominant prairie grass.  -->
+<!--  [[preprint]()]    -->
+<!-- **Phillips A**,  AuBuchon-Elderc T,  Barryd K,  Stitzer MC ...[21 authors including **Cameron B**, **Cryan EP**, **Julianna Porter**]... Kellogg EA, **Ross-Ibarra J**   -->
+<!-- </summary> -->
+<!-- <p style="margin-left: 30px"> -->
+
+<!-- xxx -->
+
+<!-- </p></details><br> -->
+
+<details>
+<summary> The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize [[preprint](https://www.biorxiv.org/content/10.1101/2025.11.03.686376v1?ct=)]   
+Xu G,  Yang X,  Zhang M,  Kang C,  Tian Z,  Qi Y,  Luo M,  Liu P,  **Ross-Ibarra J**,  Yang J,  Liu H
+</summary>
+<p style="margin-left: 30px">
+
+Heterosis, or hybrid vigor, is a key phenomenon in genetics research and agricultural production, and has been primarily attributed to non-additive genetic effects such as dominance — a prevailing consensus shaped by decades of empirical research and theoretical debate. Although dominance may arguably arise from distal modifiers, their selective advantage is debated due to presumably small individual effects. To address this longstanding question, particularly how genetic dominance manifests at the transcriptomic level and contributes to phenotypic heterosis, we integrated transcriptomic and phenotypic data from a large population of maize hybrids and their inbred parents. We found that ≈ 30% of the expressed seedling genes in a significant proportion of hybrids exhibited expression patterns deviating from the average of the two parents, indicative of non-additivity. Further analysis suggests that while hybrid gene expression per se is primarily regulated by cis-eQTLs, expression dominance (or non-additivity) is disproportionately controlled by trans-eQTLs. These trans-eQTLs cluster into hotspots that regulate the non-additivity of hundreds of target genes, mostly within co-expression networks, and are notably enriched for transcription factors (TFs). Focusing on one such hotspot, we functionally validated a classical maize gene ZmR1, a basic helix-loop-helix (bHLH) TF associated with multiple seedling trait heterosis, as a candidate regulator of expression dominance across hundreds of genes. Overexpression of ZmR1 enhances expression dominance of downstream genes and increases phenotypic heterosis in both seedling and adult traits. Further experiments confirmed its direct regulatory role in modulating genes involved in anthocyanin biosynthesis and lignin metabolism, driving transcriptome-level dominance. These results provide empirical support for the modifier hypothesis under an omnigenic model, suggesting that heterosis arises not from the modification of a single gene′s inheritance but through the coordinated regulation of hundreds of phenotype-associated genes, thereby helping to reconcile the long-standing debate over the genetic basis of dominance in heterosis.
+</p></details><br>
+
+
 <details>
 <summary> Genome-wide selection on transposable elements in maize. 
  [[preprint](https://www.biorxiv.org/content/10.1101/2025.09.16.676665v1)]   
@@ -115,6 +137,8 @@ implications in an ecologically and economically important clade.
 
 ### 2025
 
+
+
 <details>
     <summary> [An ancient origin of the naked grains of maize](https://www.pnas.org/doi/abs/10.1073/pnas.2503748122)
  [[preprint](https://www.biorxiv.org/content/10.1101/2024.12.02.626434v1)]  
@@ -132,6 +156,15 @@ We first estimated the age of \textit{tga1-maize} using a genealogy-based method
 We also identify, for the first time, _tga1-maize_ in teosinte populations, indicating the allele can survive in the wild.
 Finally, we compare observed patterns of haplotype structure and mutational age distributions near _tga1_ with simulations, finding that patterns near _tga1_ in maize better resemble those generated under simulated selective sweeps on standing variation.
 These multiple lines of evidence suggest that maize domestication likely drew upon standing genetic variation at _tga1_ and cement the importance of standing variation in driving adaptation during domestication.
+ </p></details><br>
+
+<details>
+    <summary> [Plant Domestication Revisited: Genomic Insights into Origins, Mechanisms, and Convergent Evolution]()   
+ **Cao Y**, **Ross-Ibarra J**, Yang N
+
+ </summary>  
+    <p style="margin-left: 30px"> 
+ Plant domestication is a complex evolutionary process shaped by genic and regulatory variation, selection, and gene flow between crops and their wild relatives. Hybridization and introgression have been pivotal in both initial domestication and post-domestication adaptation, while cis-regulatory elements and epigenetic modifications mediate transcriptional divergence underlying key traits, including those of the domestication syndrome. In this review, we synthesize recent advances in the evolutionary origins and molecular mechanisms of domestication in major crops, with emphasis on maize, rice, and wheat. We highlight the roles of interspecific hybridization and adaptive introgression in shaping dynamic domestication trajectories and enhancing environmental adaptation. We then examine how cis-regulatory elements drive phenotypic innovation through modulation of gene expression, transposable element activity, and epigenetic reprogramming. Finally, we discuss convergent domestication, showing how deep conservation of homologous loci and lineage-specific innovations in regulatory networks shape agronomic traits across diverse lineages. Together, these insights provide an integrative framework for domestication genomics and highlight how multi-omics approaches can simultaneously advance evolutionary understanding and guide future crop improvement.
  </p></details><br>
 
 <details> 
