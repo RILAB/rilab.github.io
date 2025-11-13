@@ -32,6 +32,16 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2025
+### December
+#### December 17
+[Amundson et al](https://www.biorxiv.org/content/10.1101/2025.09.17.676453v1) A deep-time landscape of plant cis-regulatory sequence evolution
+
+#### December 12
+[Baril, Pucetti, and Croll](https://www.nature.com/articles/s41467-025-64944-4) Historic transposon mobilisation waves create distinct pools of adaptive variants in a major crop pathogen
+
+#### December 5
+[Braasch, Harenčár, Swope](https://www.authorea.com/doi/full/10.22541/au.175873518.81404075) Extremely fine-scale soil heterogeneity in a rare serpentine endemic plant shapes patterns of genetic diversity
+
 ### November
 #### November 28
 [Spence et al 2025](https://www.nature.com/articles/s41586-025-09703-7) Specificity, length and luck drive gene rankings in association studies
