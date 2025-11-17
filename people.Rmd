@@ -61,7 +61,7 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 (she/her)  
 
 Mackenzie is an EVE Scholar and a 2nd-year Stats/Anthro double major, working with Paulo Magalang on genome evolution and genetic variation in maize.
-<br>
+<br><br>
 
 ::: {style="float: left"}
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
@@ -106,6 +106,7 @@ Julia is a [CPB](https://cpb.ucdavis.edu) and USDA postdoc coadvised by [Graham 
 <img src="images/Forrest_casual.jpg" style="border:10px solid white" width="125"/>
 :::
 
+<br><br>
 
 **Forrest Li** <a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\
 (he/him)
@@ -121,7 +122,7 @@ Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg
 (she/her)
 
 Beibei is a postdoc working on the evolution of transposable elements in maize and teosinte During her PhD she worked on epigenetics in maize.
-
+<br><br>
 
 ::: {style="float: left"}
 <img src="images/paulo.png" style="border:10px solid white" width="125px"/></a>
