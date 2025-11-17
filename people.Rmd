@@ -61,7 +61,7 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 (she/her)  
 
 Mackenzie is an EVE Scholar and a 2nd-year Stats/Anthro double major, working with Paulo Magalang on genome evolution and genetic variation in maize.
-
+<br>
 
 ::: {style="float: left"}
 <img src="images/cryan.jpeg" style="border:10px solid white" width="125"/>
