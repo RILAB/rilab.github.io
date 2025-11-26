@@ -36,16 +36,14 @@ Click on a triangle for the article abstract.
 ### Preprints
 
 
-<!-- <details> -->
-<!-- <summary> The origins and adaptive consequences of polyploidy in a dominant prairie grass.  -->
-<!--  [[preprint]()]    -->
-<!-- **Phillips A**,  AuBuchon-Elderc T,  Barryd K,  Stitzer MC ...[21 authors including **Cameron B**, **Cryan EP**, **Julianna Porter**]... Kellogg EA, **Ross-Ibarra J**   -->
-<!-- </summary> -->
-<!-- <p style="margin-left: 30px"> -->
-
-<!-- xxx -->
-
-<!-- </p></details><br> -->
+<details>
+<summary> The origins and adaptive consequences of polyploidy in a dominant prairie grass.
+ [[preprint](https://www.biorxiv.org/content/10.1101/2025.11.25.690567v1)]  
+**Phillips A**,  AuBuchon-Elder T,  ...[23 authors including **Cameron B**, **Cryan EP**, **Julianna Porter**]... Kellogg EA, **Ross-Ibarra J**
+</summary>
+<p style="margin-left: 30px">
+Polyploidy is ubiquitous across North American prairies, which provide essential ecosystem services and rich soil for agriculture. Yet the mechanism driving polyploid abundance is unclear. Multiple hypotheses have been proposed including polyploid abundance is proportional to the opportunity for whole genome duplication (WGD), and WGD alters phenotypes that may increase fitness. We tested these two hypotheses together in the mixed-ploidy species Andropogon gerardi, a dominant grass species in endangered North American tallgrass prairies. Leveraging a novel, phased allopolyploid reference genome, we found the A. gerardi hexaploid arose after the C4 grassland expansion in the early Pleistocene, when glacial cycles likely increased secondary contact between the diploid progenitors. We sequenced A. gerardi from 25 populations and examined cytotype performance and morphology in a controlled environment to investigate the consequences of the contemporary mixed-ploidy populations. We found the 9x A. gerardi cytotype is a neopolyploid and a result of recurrent WGD events. Further, we demonstrate the 9x neopolyploids have greater growth and a decreased stomatal pore index, which is adaptive in xeric climates where the 9x cytotype is most common. Together, our results support both hypotheses for polyploid abundance in North America: WGD is a product of opportunity and can have immediate fitness consequences. Although the changes to fitness may provide an advantage to 9x A. gerardi, the establishment of 9x may lower overall population fitness due to the lower reproductive viability of 9x individuals.
+</p></details><br>
 
 <details>
 <summary> The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize [[preprint](https://www.biorxiv.org/content/10.1101/2025.11.03.686376v1?ct=)]   
@@ -60,7 +58,7 @@ Heterosis, or hybrid vigor, is a key phenomenon in genetics research and agricul
 <details>
 <summary> Genome-wide selection on transposable elements in maize. 
  [[preprint](https://www.biorxiv.org/content/10.1101/2025.09.16.676665v1)]   
-**Liu B**, Munasinghe M, Fairbanks RA, Hirsch CN, **Ross-Ibarra J**  
+**Liu B**, Munasinghe M, **Fairbanks RA**, Hirsch CN, **Ross-Ibarra J**  
 </summary>
 <p style="margin-left: 30px">
 While most evolutionary research has focused on single nucleotide polymorphisms (SNPs), transposable elements (TEs) represent a major but understudied source of mutations that can influence organismal fitness. Previous studies on TEs often overlook the mechanisms and rates of transposition, rely on short-read sequencing that limits TE detection, or focus on small genomes such as Arabidopsis or Drosophila. In this study, we leveraged high-quality, long-read genome assemblies from 26 maize inbreds to investigate natural selection on TEs. We developed a novel and interpretable method, ΦSFS, which incorporates TE age and improves resolution for detecting selection. Using this approach, we identified key factors influencing selection on TEs: (1) the distance to the nearest gene, (2) the pre-insertion DNA methylation level at the insertion site, and (3) intrinsic TE characteristics, including copy number and expression level. This work represents the first application of long-read genome assemblies to study TE selection in a major crop species with a typical plant genome size. Our ΦSFSmethod offers a broadly applicable framework for detecting selection on TEs, and the factors uncovered provide new insights into the evolutionary dynamics and trade-offs between TEs and host genes.
