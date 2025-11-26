@@ -255,7 +255,7 @@ Meiotic drivers subvert Mendelian expectations by manipulating reproductive deve
 <details> 
     <summary> [Two teosintes made modern maize](https://www.science.org/doi/10.1126/science.adg8940). [[preprint](https://www.biorxiv.org/content/10.1101/2023.01.31.526540v1
 )]  
-**Yang N**\*, Wang Y\*, Liu X\* ...[20 authors including **Mambakkam M** and **Menon M**]... Stitzer MC, Runcie DE, Yan J, **Ross- Ibarra J** 
+**Yang N**\*, Wang Y\*, Liu X\* ...[20 authors including **Mambakkam S** and **Menon M**]... Stitzer MC, Runcie DE, Yan J, **Ross-Ibarra J** 
 
 </summary> 
     <p style="margin-left: 30px">
