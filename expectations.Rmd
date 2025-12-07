@@ -26,7 +26,7 @@ Attendance to regular weekly lab meetings is expected of all lab members. Partic
 Everyone is encouraged to attend at least one conference a year.  Members of the lab regularly attend such meetings as the maize meeting, SMBE, Evolution, and ESA. The department and university offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks. 
 
 #### Authorship
-We follow the [IJME rules for authorship rules](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html):   
+We follow the [ICJME rules for authorship rules](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html):   
 1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND  
 2. Drafting the work or revising it critically for important intellectual content; AND  
 3. Final approval of the version to be published; AND  
