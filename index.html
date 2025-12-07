@@ -267,25 +267,77 @@ $(document).ready(function () {
 </div>
 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5300959-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+  var imageURLs = [
+       "images/2025lab.png"
+     , "images/cornkey3.png"
+     , "images/heart.png"
+  ];
+  function getImageTag() {
+    var img = '<img src=\"';
+    var randomIndex = Math.floor(Math.random() * imageURLs.length);
+    img += imageURLs[randomIndex];
+    img += '\" alt=\"Some alt text\"/ width=400px>';
+    return img;
+  }
+</script>
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-column: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+<style>
+.forceBreak { -webkit-column-break-after: always; break-after: column; }
+</style>
 <p>Welcome to the Ross-Ibarra Lab in the <a
-href="http://eve.ucdavis.edu">Dept. of Evolution and Ecology</a> and the
-<a href="http://eve.ucdavis.edu">Center for Population Biology</a> and
-the <a href="http://eve.ucdavis.edu">Genome Center</a> at the <a
-href="http://www.ucdavis.edu">University of California Davis</a>. We
-work on the evolutionary genetics of maize and teosinte. Please explore
-to see <a href="people.html">who we are</a> and <a
+href="http://eve.ucdavis.edu">Dept. of Evolution and Ecology</a> as well
+as the <a href="http://eve.ucdavis.edu">Center for Population
+Biology</a> and the <a href="http://eve.ucdavis.edu">Genome Center</a>
+at the <a href="http://www.ucdavis.edu">University of California
+Davis</a>. We work on the evolutionary genetics of maize and teosinte.
+Please explore to see <a href="people.html">who we are</a> and <a
 href="research.html">what we do</a>, check out the <a
 href="news.html">news</a> for updates and latest happenings, read our <a
 href="expectations.html">lab philosophy and expectations</a>, or even
 join our <a href="rehab.html">journal club</a>.</p>
+<style>
+  .wrapper {
+    display: flex;
+  }
+</style>
+<div class="wrapper">
+<script type="text/javascript">
+  document.write(getImageTag());
+</script>
+</div>
 <div id="contact-info" class="section level3">
 <h3>Contact Info</h3>
-<p>Jeffrey Ross-Ibarra<br />
+Jeffrey Ross-Ibarra<br />
 530-752-4565<br />
 Dept. of Evolution and Ecology<br />
 University of California<br />
 Storer Hall, One Shields Ave<br />
-Davis, CA 95616</p>
+Davis, CA 95616
+</p>
+<p><br></p>
+<p><br><br></p>
 </div>
 
 
