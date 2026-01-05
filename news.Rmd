@@ -13,17 +13,25 @@
 title: "Lab News" 
 ---
 
-## 2023
+### January 2026
 
-#### April
-* Shelling the 2022 SynAdapt for planting next month ![alt text here](images/shelling2023.png)
-* Sowmya receives an EVE summer research fellowship to continue her work on inversions
-* Sam Snodgrass receives and NSF PRFB to start in Jan. 2024 as a postdoc in the lab, jointly advised by Graham Coop
+-  Julia receives a JGI grant to sequence and assemble radish genomes!  
+-  Elli begins her postdoc with the Gaut Lab at UC Irvine!
+-  Alyssa accepts a job as research conservation geneticist with the Atlanta Botanical Gardens! 
 
-#### January
-* Mitra accepts a job with [Form Bio](https://www.formbio.com) starting late Spring. Congratulations!
-* JRI on the [Good Food Podcast](https://www.kcrw.com/culture/shows/good-food/masa-corn-history-science-politics-reair?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss0) talking maize diversity 
-* Mitra is a mom! Daughter Vaanya is happy and healthy.
+
+
+<!-- ## 2023 -->
+
+<!-- #### April -->
+<!-- * Shelling the 2022 SynAdapt for planting next month ![alt text here](images/shelling2023.png) -->
+<!-- * Sowmya receives an EVE summer research fellowship to continue her work on inversions -->
+<!-- * Sam Snodgrass receives and NSF PRFB to start in Jan. 2024 as a postdoc in the lab, jointly advised by Graham Coop -->
+
+<!-- #### January -->
+<!-- * Mitra accepts a job with [Form Bio](https://www.formbio.com) starting late Spring. Congratulations! -->
+<!-- * JRI on the [Good Food Podcast](https://www.kcrw.com/culture/shows/good-food/masa-corn-history-science-politics-reair?utm_source=KCRW&utm_medium=RSS&utm_campaign=kcrw-show-rss0) talking maize diversity  -->
+<!-- * Mitra is a mom! Daughter Vaanya is happy and healthy. -->
 
 <!-- ## 2021 -->
 
