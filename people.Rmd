@@ -82,7 +82,7 @@ Regina is a student in the [Population Biology](https://pbg.ucdavis.edu) graduat
 **Julia Harenčár** <a href="https://sites.google.com/view/juliaharencar"><img src="images/Home_icon_black.png" style="width: 15px;"/> </a><a href="https://www.linkedin.com/in/julia-harencar/"><img src="images/lin.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0001-6944-4337"><img src="images/orcid.png" style="width: 15px;"/><a href="https://scholar.google.com/citations?user=U7ZRlZkAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\ (she/her)
 
 Julia is a [CPB](https://cpb.ucdavis.edu) and USDA postdoc coadvised by [Graham Coop](https://gcbias.org), [Jen Funk](https://funk.ucdavis.edu) and [Jenny Gremer](https://gremerlab.faculty.ucdavis.edu), working on climate adaptation and hybridization in California wild radishes.  
-<br>
+<br><br>
 
 ::: {style="float: left"}
 <img src="images/Forrest_casual.jpg" style="border:10px solid white" width="125"/>
