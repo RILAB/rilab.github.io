@@ -55,7 +55,7 @@ Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.c
 **Mackenzie Chun** <a href="https://www.linkedin.com/in/mackenzie-chun-4027982a9"><img src="images/lin.png" style="width: 15px;"/></a> (she/her)  
 
 Mackenzie is an EVE Scholar and a 2nd-year Stats/Anthro double major, working with Paulo Magalang on genome evolution and genetic variation in maize.
-<br><br>
+<br><br><br>
 
 ::: {style="float: left"}
 <img src="images/natasha.jpg" style="border:10px solid white" width="125px"/>
@@ -89,7 +89,6 @@ Julia is a [CPB](https://cpb.ucdavis.edu) and USDA postdoc coadvised by [Graham 
 :::
 
 **Forrest Li** <a href="https://www.linkedin.com/in/forrest-li/"><img src="images/lin.png" style="width: 15px;"/></a> <a href="https://twitter.com/genomeofforrest"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a> <a href="https://github.com/liforrest6"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0003-2965-2494"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="https://scholar.google.com/citations?user=HSmh38QAAAAJ&hl=en"><img src="images/scholar.png" style="width: 30px;"/></a>\ (he/him)
-
 
 Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg.ucdavis.edu) working on climate adaptation in maize as part of a large international collaboration led by [CIMMYT](https://www.cimmyt.org). He is coadvised by [Dan Runcie](https://runcielab.ucdavis.edu). 
 <br>
