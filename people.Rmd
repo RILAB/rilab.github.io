@@ -102,7 +102,7 @@ Forrest is a graduate student in [Integrative Genetics and Genomics](https://igg
 **Beibei Liu**  <a href="https://twitter.com/beibeiliu13"><img src="images/Twitter_logo_blue.png" style="width: 15px;"/></a>  <a href="https://orcid.org/0000-0003-1656-4954"><img src="images/orcid.png" style="width: 15px;"/></a> <a href="http://scholar.google.com/citations?user=yhHsL9gAAAAJ"><img src="images/scholar.png" style="width: 30px;"/></a>\ (she/her)  
 
 Beibei is a postdoc working on the evolution of transposable elements in maize and teosinte During her PhD she worked on epigenetics in maize.
-<br><br>
+<br><br><br>
 
 ::: {style="float: left"}
 <img src="images/paulo.png" style="border:10px solid white" width="125px"/></a>
