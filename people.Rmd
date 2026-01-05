@@ -46,7 +46,7 @@ Brenda is the lab manager and czar. In addition to working with us, she manages 
 **Yu Cao** <a href="https://github.com/Caoyu819"><img src="images/GitHub-Mark-32px.png" style="width:15px;"/></a> <a href="https://orcid.org/0000-0002-4682-7308"><img src="images/orcid.png" style="width: 15px;"/></a> (she/her)  
 
 Yu is a joint postdoc with our collaborator [Ning Yang](https://scholar.google.com/citations?user=Eu-hz1EAAAAJ&hl=zh-CN) at HZAU. Yu is working on understanding the population and quantitative genetics of introgressed teosinte haplotypes in maize. 
-<br><br>
+<br><br><br>
 
 ::: {style="float: left"}
 <img src="images/chun.jpg" style="border:10px solid white" width="125"/>
