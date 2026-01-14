@@ -31,16 +31,22 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
+## 2026
+### January
+#### Jan 23
+[James and Lascoux preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695387v1) The effect of genome organisation on selection efficiency in two contrasted plant species
+
+#### Jan 16
+[Amundson et al preprint](https://www.biorxiv.org/content/10.1101/2025.09.17.676453v1) A deep-time landscape of plant cis-regulatory sequence evolution
+
 ## 2025
 ### December
-#### December 17
-[Amundson et al](https://www.biorxiv.org/content/10.1101/2025.09.17.676453v1) A deep-time landscape of plant cis-regulatory sequence evolution
 
 #### December 12
 [Baril, Pucetti, and Croll](https://www.nature.com/articles/s41467-025-64944-4) Historic transposon mobilisation waves create distinct pools of adaptive variants in a major crop pathogen
 
 #### December 5
-[Braasch, Harenčár, Swope](https://www.authorea.com/doi/full/10.22541/au.175873518.81404075) Extremely fine-scale soil heterogeneity in a rare serpentine endemic plant shapes patterns of genetic diversity
+[Braasch, Harenčár, Swope preprint](https://www.authorea.com/doi/full/10.22541/au.175873518.81404075) Extremely fine-scale soil heterogeneity in a rare serpentine endemic plant shapes patterns of genetic diversity
 
 ### November
 #### November 28
