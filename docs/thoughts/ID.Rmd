@@ -1,0 +1,43 @@
+---
+title: "Some fun inbreeding depression (ID) results"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Jim Holland shows maize has higher ID than teosinte
+
+<img src=/Users/jri/Desktop/id_jim.jpg alt="inbreeding depression" width="500"/>
+
+We thought this odd, because we showed w/ GERP ([Wang 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4)) that teo has more segregating deleterious sites than maize (panel c). Maize does have higher total load (panel a), but we interpreted that as being due to the big change in the number of fixed deleterious sites.
+
+<img src=https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-017-1346-4/MediaObjects/13059_2017_1346_Fig3_HTML.gif?as=webp alt="GERP load Wang" width="400"/>
+
+In this light, Jim’s result seemed weird, since del. sites fixed in maize can’t contribute to ID in maize (measured as self vs outcross progeny).
+
+Today we ([Markus Stetter](https://cropevolution.org)) looked at GERP in the parents of Jim's pops, focusing only on segregating sites.  We see the same pattern as before for number of deleterious sites:
+
+<img src=/Users/jri/Downloads/gerp_sites.pdf alt="GERP counts Holland" width="400"/>
+
+But here, looking only at segregating deleterious alleles within each taxa, we still see higher load in maize!
+
+<img src=/Users/jri/Downloads/mean_total_load.pdf alt="mean GERP load Holland" width="400"/>
+
+One explanation is higher selfing/inbreeding in maize, such that each maize individual is more likely to be homozygous for a given allele. But Jim looked at that, and NOPE:
+
+<img src=/Users/jri/Desktop/fmaizeteo.jpg alt="F stats Holland" width="400"/>
+
+The only other explanation is a right-shifted SFS, such that any given deleterious allele is at higher frequencies in maize. Sure enough:
+
+<img src=/Users/jri/Downloads/DAFmaizeteo.png alt="GERP load Holland" width="400"/>
+
+Which, in [retrospect](https://www.nature.com/articles/nplants201684), should have been obvious from Tajima's D in genes and out (left is maize, right is teo):
+
+<img src=https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnplants.2016.84/MediaObjects/41477_2016_Article_BFnplants201684_Fig1_HTML.jpg?as=webp alt="Taj D" width="400"/>
+
+The difference in D in GERP-rich genic regions is much bigger than outside of genes, suggesting a right skew in the SFS.
+
+**So increased ID in maize is due to lots of weakly deleterious alleles having been bumped up to higher alleele freq.**
+

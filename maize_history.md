@@ -1,3 +1,7 @@
+---
+title: "Maize History"
+---
+
 **A Brief History of Maize**
 
 Maize (Zea mays ssp. mays), known in the United States as corn, is a
