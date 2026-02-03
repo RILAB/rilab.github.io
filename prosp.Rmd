@@ -1,3 +1,7 @@
+---
+title: "Prospective Students"
+---
+
 ## Prospective lab members
 
 If you are interested in joining the lab, please also see information on [expectations](expectations.html) for lab members.

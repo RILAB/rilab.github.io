@@ -20,5 +20,9 @@ output:
   html_document:
     theme: cosmo
     highlight: kate
-exclude: [".Rproj","README.md"]
-output_dir: "."
+    css: site.css
+    includes:
+      in_header: includes/header.html
+      after_body: includes/footer.html
+exclude: [".Rproj","README.md","docs 2","docs/docs 2"]
+output_dir: "docs"
