@@ -4,7 +4,7 @@ title: "People"
 
 ## Current R-I Lab members
 
-Please read more information on [lab expectations](expectations.html).
+Please read more information on [joining the lab](prosp.html) and [lab expectations](expectations.html).
 
 ```{r people_render, results='asis', echo=FALSE}
 people <- read.csv("data/people_current.csv", stringsAsFactors = FALSE)
