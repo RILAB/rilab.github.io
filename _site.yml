@@ -25,4 +25,4 @@ output:
       in_header: includes/header.html
       after_body: includes/footer.html
 exclude: [".Rproj","README.md","docs 2","docs/docs 2"]
-output_dir: "docs"
+output_dir: "."
