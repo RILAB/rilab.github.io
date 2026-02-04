@@ -48,6 +48,7 @@ img {
   width: 125px;
   height: auto;
   flex: 0 0 auto;
+  display: block;
 }
 
 .person-meta {
@@ -76,5 +77,6 @@ img {
 
   .person-photo {
     width: 140px;
+    height: auto;
   }
 }

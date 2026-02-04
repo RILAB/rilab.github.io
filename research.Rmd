@@ -7,7 +7,7 @@ title: "Research"
 <img src="images/teosinte.jpg" width="150" align="right"/>
 
 Maize spread rapidly after domestication, adapting to a wide range of environments.
-Today maize is grown across a broader geographic breadth than any of the world's other staple crops, from sea level to altitudes of $>4,000$m and from deserts to near-flooded conditions. The wild relatives of maize have also adapted to environments varying widely in elevation, temperature, and moisture availability. The lab works on a number of projects using maize and its wild relatives to understand the genetic basis of adaptation. 
+Today maize is grown across a broader geographic breadth than any of the world's other staple crops, from sea level to altitudes of $>4,000$m and from deserts to near-flooded conditions. The wild relatives of maize have also adapted to environments varying widely in elevation, temperature, and moisture availability. The lab works on a number of projects using maize and its wild relatives to understand the genetic basis of adaptation. Also see our [brief history of maize](maize_history.html).
 
 ### Selected Recent Publications
 
