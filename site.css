@@ -47,7 +47,9 @@ img {
 .person-photo {
   border: 10px solid white;
   width: 125px;
-  height: auto;
+  height: auto !important;
+  max-height: none;
+  object-fit: contain;
   flex: 0 0 auto;
   display: block;
   align-self: flex-start;
