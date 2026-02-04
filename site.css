@@ -41,6 +41,7 @@ img {
   display: flex;
   gap: 12px;
   margin-bottom: 18px;
+  align-items: flex-start;
 }
 
 .person-photo {
@@ -49,6 +50,7 @@ img {
   height: auto;
   flex: 0 0 auto;
   display: block;
+  align-self: flex-start;
 }
 
 .person-meta {
