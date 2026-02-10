@@ -22,6 +22,13 @@ And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2026
+### February
+#### Feb 20
+[Simons et al 2025](https://pubmed.ncbi.nlm.nih.gov/41082512/) Simple scaling laws control the genetic architectures of human complex traits
+
+#### Feb 13
+[Tianlin et al preprint](https://www.biorxiv.org/content/10.64898/2026.02.01.703099v1) The genetic architecture of local adaptation is historically contingent
+
 ### January
 #### Jan 23
 [James and Lascoux preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695387v1) The effect of genome organisation on selection efficiency in two contrasted plant species
