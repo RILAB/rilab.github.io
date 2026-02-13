@@ -1,23 +1,23 @@
 ---
-title: "R.E.H.A.B." 
+title: "journal club" 
 ---
 
-Science and a beverage on a Friday afternoon  are a good combination.  R.E.H.A.B. is intended to be a low-key venue for people to get discuss papers and become familiar with a broader literature. Nobody presents or defends the papers. We assume everyone has read the paper (but you are welcome to come and listen and chat even if you haven't!). We start by asking each person's thoughts and questions about the paper, then jump right in to discussion.  This allows for a very informal discussion, and with a beverage and friendly colleagues involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.  
+Science and a beverage on a Friday afternoon  are a good combination. Our journal club is intended to be a low-key venue for people to get discuss papers and become familiar with a broader literature. Nobody presents or defends the papers. We assume everyone has read the paper (but you are welcome to come and listen and chat even if you haven't!). We start by asking each person's thoughts and questions about the paper, then jump right in to discussion.  This allows for a very informal discussion, and with a beverage and friendly colleagues involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date.  
 
 We meet Fridays at [Pizza and Pints](https://www.villagepizzaandpints.com) at 3:30pm.
 
 To be aware of any last-minute changes, please [email Jeff](mailto:rossibarra@ucdavis.edu) to be added to the Slack channel.
 
-Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_rehab.html).
+Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_jclub.html).
 
-We're proud of the growing list of journal clubs modelled on R.E.H.A.B., including  [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ),   [esfoyaza](https://github.com/sawers-rellan-labs/esfoyaza), [Q.U.I.T.](http://jyanglab.com/jc/), [p.r.o.s.t.](https://brandvainlab.wordpress.com/p-r-o-s-t/), [frydomics](https://github.com/arundurvasula/frydomics/blob/master/README.md), and [C.R.O.P.](https://www.cropevolution.org/reading.html)
+We're proud of the growing list of journal clubs modelled on ours, including  [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ),   [esfoyaza](https://github.com/sawers-rellan-labs/esfoyaza), [Q.U.I.T.](http://jyanglab.com/jc/), [p.r.o.s.t.](https://brandvainlab.wordpress.com/p-r-o-s-t/), [frydomics](https://github.com/arundurvasula/frydomics/blob/master/README.md), and [C.R.O.P.](https://www.cropevolution.org/reading.html)
 
 
 <!-- [Peer Rebrew](https://kevinabird.wixsite.com/kevinbird/peer-rebrew). -->
 <!-- [EvolFri](http://evolfri.blogspot.com/), -->
 <!-- [detox](http://beissingerlab.org/Detox/), -->
 
-And no, I won't tell you what R.E.H.A.B. stands for, so don't ask.
+<!-- And no, I won't tell you what journal club stands for, so don't ask. -->
 
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
@@ -127,7 +127,7 @@ Independence Day
 [Wang et al 2025](https://www.nature.com/articles/s42003-025-08127-3) DNA gains and losses in gigantic genomes do not track differences in transposable element-host silencing interactions
 
 #### June 20
-No REHAB
+No journal club
 
 #### June 13
 [Murray et al 2025](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00577-9)] Ancient genomes reveal demographic trajectories during the Classic Maya period
@@ -150,7 +150,7 @@ environments
 [Ragsdale preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608876v1) Archaic introgression and the distribution of shared variation under stabilizing selection
 
 #### May 2
-No REHAB
+No journal club
 
 ## April
 
@@ -169,7 +169,7 @@ No REHAB
 ### March
 
 #### Mar 28
-Spring break - no REHAB
+Spring break - no journal club
 
 
 #### Mar 21
@@ -199,7 +199,7 @@ Jeff is in Canada - skipped
 
 ### January
 #### Jan 31
-No REHAB
+No journal club
 
 #### Jan 24
 [Arribas et al 2024](https://www.cell.com/cell/fulltext/S0092-8674(24)01328-X) Transposable element exonization generates a reservoir of evolving and functional protein isoforms
@@ -208,10 +208,10 @@ No REHAB
 [Li et al 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11221428/) A pan-TE map highlights transposable elements underlying domestication and agronomic traits in Asian rice
 
 ### Jan 10
-No REHAB - skipped
+No journal club - skipped
 
 #### Jan 3
-No REHAB - Happy new year!
+No journal club - Happy new year!
 
 
 ## 2024
@@ -224,7 +224,7 @@ Winter holiday
 [Ramos-Madrigal et al 2024](https://www.cell.com/cell/abstract/S0092-8674(24)01277-7) The genomic origin of early maize in eastern North America
 
 #### Dec 13
-Harvest day - no REHAB
+Harvest day - no journal club
 
 #### Dec 6
 Harris 2007 (See Slack for Chapter PDF) Agriculture, Cultivation and Domestication: Exploring the Conceptual Framework of Early Food Production
@@ -232,7 +232,7 @@ Harris 2007 (See Slack for Chapter PDF) Agriculture, Cultivation and Domesticati
 ### November
 
 #### Nov 29
-No REHAB - Turkey Preservation Day
+No journal club - Turkey Preservation Day
 
 #### Nov 22
 [Deletre et al 2021](https://www.nature.com/articles/s41467-021-24720-6) Kinship networks of seed exchange shape spatial patterns of plant virus diversity
@@ -256,7 +256,7 @@ BAPG
 
 #### Oct 18
 
-No R.E.H.A.B.
+No journal club
 
 #### Oct 11
 
@@ -292,7 +292,7 @@ No R.E.H.A.B.
 
 #### July 5 
 
-No R.E.H.A.B.
+No journal club
 
 ### June 
 
@@ -309,7 +309,7 @@ No R.E.H.A.B.
 [Usui & Angert 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14406) Range expansion is both slower and more variable with rapid evolution across a spatial gradient in temperature
 
 ### May
-#### May 31 No R.E.H.A.B.
+#### May 31 No journal club
 
 #### May 24  
 [Liu et al. 2024](https://www.nature.com/articles/s41467-024-47015-y) Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations
@@ -328,26 +328,26 @@ No R.E.H.A.B.
 [Spiedel et al preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585102v1.full.pdf+html) High-resolution genomic ancestry reveals mobility in early medieval Europe
 
 #### Arpil 12  
-no R.E.H.A.B.
+no journal club
 
 #### April 5
 [de la Fuente Castro et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.19.581063v1) The genomic and cultural diversity of the Inka Qhapaq hucha ceremony in Chile and Argentina
 
 ### March
 #### March 29
-No R.E.H.A.B.
+No journal club
 
 #### March 22  
 [Lanaud et al 2024](https://www.nature.com/articles/s41598-024-53010-6) A revisited history of cacao domestication in pre-Columbian times revealed by archaeogenomic approaches
 
 #### March 15  
-No R.E.H.A.B.
+No journal club
 
 #### March 8  
 [Long et al 2024](https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1) Muller’s Ratchet in Action: The Erosion of Sexual Reproduction Genes in Domesticated Cassava (Manihot esculenta)
 
 #### March 1  
-No R.E.H.A.B. -- [Maize meeting!](https://www.maizegdb.org/mgc/maizemeeting/2024)
+No journal club -- [Maize meeting!](https://www.maizegdb.org/mgc/maizemeeting/2024)
 
 ### February
 #### Feb 23 
@@ -357,7 +357,7 @@ No R.E.H.A.B. -- [Maize meeting!](https://www.maizegdb.org/mgc/maizemeeting/2024
 [Pope et al . 2023](https://www.pnas.org/doi/full/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
 
 #### Feb 9  
-No R.E.H.A.B.
+No journal club
 
 #### Feb 2
 [Löytynoja 2022](http://m.genome.cshlp.org/content/32/8/1437.full.pdf) Thousands of human mutation clusters are explained by short-range template switching
@@ -374,7 +374,7 @@ No R.E.H.A.B.
 
 
 #### Jan 5
-no REHAB
+no journal club
 
 
 ## 2023
@@ -385,7 +385,7 @@ no REHAB
 Happy New Year's!
 
 #### Dec 22
-No REHAB
+No journal club
 
 #### Dec 15
 [Zhang et al 2023](https://www.pnas.org/doi/full/10.1073/pnas.2305208120) The lack of negative association between TE load and subgenome dominance in synthesized Brassica allotetraploids
@@ -405,7 +405,7 @@ Gobble gobble gobble gobble gobble gobble
 [Diop et al 2023](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10428) Ethnolinguistic and genetic diversity of fonio (Digitaria exilis) in Senegal
 
 #### Nov 10
-Veteran's Day - no REHAB
+Veteran's Day - no journal club
 
 #### Nov 3
 [Igolkina et al 2023](https://academic.oup.com/mbe/article/40/6/msad110/7158554) Historical Routes for Diversification of Domesticated Chickpea Inferred from Landrace Genomics
@@ -419,7 +419,7 @@ Veteran's Day - no REHAB
 [Castillo et al 2023](https://www.biorxiv.org/content/10.1101/2023.09.27.559715v1.abstract) Predicting rapid adaptation in time from adaptation in space: a 30-year field experiment in marine snails
 
 #### Oct 13
-No REHAB
+No journal club
 
 #### Oct 6
 [Gordon et al. 2023](https://www.nature.com/articles/s41467-020-17302-5) Gradual polyploid genome evolution revealed by pan-genomic analysis of Brachypodium hybridum and its diploid progenitors
@@ -430,13 +430,13 @@ No REHAB
 [Bontrager et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.01.364349v1.full) Climate warming weakens local adaptation
 
 #### Sep 22
-No REHAB -- lab event
+No journal club -- lab event
 
 #### Sep 15
 [Pope et al. 2023](https://www.pnas.org/doi/abs/10.1073/pnas.2208116120) The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
 
 #### Sep 8
-No REHAB - lab trip!
+No journal club - lab trip!
 
 #### Sep 1
 [Engelhorn et al. 2023](https://www.biorxiv.org/content/10.1101/2023.08.08.551183v1) Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
@@ -461,7 +461,7 @@ No REHAB - lab trip!
 [Hohenlohe et al. 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3016716/) Using population genomics to detect selection in natural populations: key concpets and methodological considerations (Topic: detecting selection)
 
 #### July 14
-No REHAB
+No journal club
 
 #### Jul 7
 [Peter 2016](https://academic.oup.com/genetics/article/202/4/1485/5930214) Admixture, Population Structure, and F-Statistics (Topic: inferring population structure)
@@ -475,7 +475,7 @@ No REHAB
 [Hayward and Sella 2022](https://elifesciences.org/articles/66697) Polygenic adaptation after a sudden change in environment (Topic: polygenic adaptation)
 
 #### June 16
-No REHAB
+No journal club
 
 #### June 9
 <!-- [Wakeley and Aliacar 2001](https://pubmed.ncbi.nlm.nih.gov/11606561/) Gene Genealogies in a Metapopulation (Topic: applications of coalescence theory) -->
@@ -495,7 +495,7 @@ No REHAB
 ### April
 
 #### April 28
-No R.E.H.A.B. -- visiting our awesome undergraduate researchers presenting at the [URSCA Conference](https://urc.ucdavis.edu/conference)
+No journal club -- visiting our awesome undergraduate researchers presenting at the [URSCA Conference](https://urc.ucdavis.edu/conference)
 
 #### April 21
 [Muir et al. 2015](https://www.journals.uchicago.edu/doi/full/10.1086/679108) The Limited Contribution of Reciprocal Gene Loss to Increased Speciation Rates Following Whole-Genome Duplication.
@@ -508,13 +508,13 @@ No R.E.H.A.B. -- visiting our awesome undergraduate researchers presenting at th
 
 ### March
 
-#### March 24  No R.E.H.A.B. (Spring Break)
+#### March 24  No journal club (Spring Break)
 
 #### March 24  
 [Gonçalves-Dias preprint](https://www.biorxiv.org/content/10.1101/2023.03.17.533106v1) Evolutionary rescue through gene flow despite genetic incompatibilities shaped diversity of the pseudo-cereal grain amaranth
 
 #### March 17  
-No R.E.H.A.B. -- maize meeting!
+No journal club -- maize meeting!
 
 #### March 10  
 [ Bénitière et al. preprint ](https://www.biorxiv.org/content/10.1101/2022.12.09.519597v2) Random genetic drift sets an upper limit on mRNA splicing accuracy in metazoans
@@ -556,14 +556,14 @@ No R.E.H.A.B. -- maize meeting!
 [Hibbins & Hahn 2022](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009892) The effects of introgression across thousands of quantitative traits revealed by gene expression in wild tomatoes
 
 #### Oct 14
-No R.E.H.A.B. -- harvest!
+No journal club -- harvest!
 
 #### Oct 7  
 [Todd et al. 2022](https://www.science.org/doi/10.1126/science.abo3503) The genomic history and global expansion of domestic donkeys
 
 ### September 
 #### Sept 30
-No R.E.H.A.B. -- [corn maze](https://www.coolpatchpumpkins.com)! Email if you'd like to join!
+No journal club -- [corn maze](https://www.coolpatchpumpkins.com)! Email if you'd like to join!
 
 #### Sept 23
 [Le et al, preprint](https://www.biorxiv.org/content/10.1101/2022.08.24.505188v1) 1,000 ancient genomes uncover 10,000 years of natural selection in Europe
@@ -614,7 +614,7 @@ Postponed
 [Atmore et al. preprint](https://www.biorxiv.org/content/10.1101/2022.05.18.492457v1) Serial depletion of Baltic herring since the Viking Age revealed by ancient DNA and population genomics
 
 #### June 10
-No R.E.H.A.B -- PEQG!
+No journal club -- PEQG!
 
 #### June 3
 [ Padilla-Iglesias et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2113936119) Population interconnectivity over the past 120,000 years explains distribution and diversity of Central African hunter-gatherers
@@ -651,7 +651,7 @@ Postponed, see May 6
 
 ### March
 #### March 25  
-University holiday, no R.E.H.A.B.
+University holiday, no journal club
 
 #### March 18
 [White et al. 2022](https://www.sciencedirect.com/science/article/pii/S0960982222001105?dgcid=author) Experimental evolution of local adaptation under unidimensional and multidimensional selection
@@ -699,7 +699,7 @@ University holiday, no R.E.H.A.B.
 
 ### November
 #### Nov 26 
-[Zongker et al. preprint](https://isotropic.org/papers/chicken.pdf) Turkey or chicken? A perennial Thanksgiving debate. (No REHAB)
+[Zongker et al. preprint](https://isotropic.org/papers/chicken.pdf) Turkey or chicken? A perennial Thanksgiving debate. (No journal club)
 
 #### Nov 19
 [Jaegle et al. preprint](https://www.biorxiv.org/content/10.1101/2021.11.15.468652v1) Extensive gene duplication in Arabidopsis revealed by pseudo-heterozygosity.
@@ -715,7 +715,7 @@ University holiday, no R.E.H.A.B.
 [Ye et al. 2019](https://www.nature.com/articles/s41559-019-0976-1) Genomic evidence of human selection on Vavilovian mimicry
 
 #### Oct 15 
-No R.E.H.A.B. -- RI-lab fest for Gates, Tittes, Fairbanks, Solares et al. and annual corn maize!
+No journal club -- RI-lab fest for Gates, Tittes, Fairbanks, Solares et al. and annual corn maize!
 
 #### Oct 8
 [Ojeda-Granado et al. preprint](https://www.biorxiv.org/content/10.1101/2021.04.14.439124v1.abstract) Dietary, Cultural and Pathogens-related Selective Pressures Shaped Differential Adaptive Evolution Among Native Mexican Populations
@@ -827,7 +827,7 @@ Cancelled
 
 #### Friday Apr 16
 
-No R.E.H.A.B.
+No journal club
 
 #### Friday Apr 9
 
@@ -906,12 +906,12 @@ No R.E.H.A.B.
 
 #### Friday November 27
 
-No R.E.H.A.B.
+No journal club
 
 
 #### Friday November 20
 
-No R.E.H.A.B.
+No journal club
 
 #### Friday November 13
 
@@ -1189,7 +1189,7 @@ Genomics of sorghum local adaptation to a parasitic plant
 [Booker et al. preprint](https://www.biorxiv.org/content/10.1101/742247v1) Global adaptation confounds the search for local adaptation
 
 #### Friday Sept 6
-No R.E.H.A.B.
+No journal club
 
 ### August
 #### Friday August 31
@@ -1213,7 +1213,7 @@ No R.E.H.A.B.
 [Xu et al. 2019](http://www.plantcell.org/content/plantcell/early/2019/06/21/tpc.19.00111.full.pdf) Evolutionary Metabolomics Identifies Substantial Metabolic Divergence between Maize and its Wild Ancestor, Teosinte
 
 #### Friday July 19
-No R.E.H.A.B.
+No journal club
 
 #### Friday July 12
 [Uricchio 2019](https://link.springer.com/article/10.1007/s00439-019-02040-6) Evolutionary perspectives on polygenic selection, missing heritability, and GWAS
@@ -1315,10 +1315,10 @@ Maize Genetics Conference
 ### December
 
 #### Friday December 28
-Happy Holidays, no R.E.H.A.B.
+Happy Holidays, no journal club
 
 #### Friday December 21
-Happy Holidays, no R.E.H.A.B.
+Happy Holidays, no journal club
 
 #### Friday December 14
 [Tenaillon et al, preprint](https://www.biorxiv.org/content/early/2018/11/05/461947)
@@ -1334,7 +1334,7 @@ Inferring the ancestry of everyone
 Estimates of the Heritability of Human Longevity Are Substantially Inflated due to Assortative Mating
 
 #### Friday November 23
-No R.E.H.A.B., but in honor of Thanksgiving you can read about the origin of your favorite side dish, [sweet potato](https://www.ncbi.nlm.nih.gov/pubmed/29657119)
+No journal club, but in honor of Thanksgiving you can read about the origin of your favorite side dish, [sweet potato](https://www.ncbi.nlm.nih.gov/pubmed/29657119)
 
 #### Friday November 16
 [more eLife review!](mailto:rossibarra@ucdavis.edu) email Jeff for link or find on Slack
@@ -1343,7 +1343,7 @@ No R.E.H.A.B., but in honor of Thanksgiving you can read about the origin of you
 [Lin et al. 2018](http://www.pnas.org/content/early/2018/10/23/1801437115) Functional and evolutionary genomic inferences in Populus through genome and population sequencing of American and European aspen
 
 #### Friday November 2
-Special Seminar -- no R.E.H.A.B.
+Special Seminar -- no journal club
 
 ### October
 
@@ -1440,7 +1440,7 @@ Kin recognition in rice (Oryza sativa) lines
 
 ### April
 ##### Friday Apr. 27
-**Note: REHAB at 3pm at 3rd and U**  
+**Note: journal club at 3pm at 3rd and U**  
 [Schumer et al. 2018](http://science.sciencemag.org/content/early/2018/04/18/science.aar3684) Natural selection interacts with recombination to shape the evolution of hybrid genomes
 
 ##### Friday Apr. 20  
@@ -1455,10 +1455,10 @@ Kin recognition in rice (Oryza sativa) lines
 ### March
 
 ##### Friday Mar. 30   
-MGC -- no R.E.H.A.B.
+MGC -- no journal club
 
 ##### Friday Mar. 23  
-MGC -- no R.E.H.A.B.
+MGC -- no journal club
 
 ##### Friday Mar. 16
 [Booker and Keightley preprint](https://www.biorxiv.org/content/early/2018/03/02/275610) Understanding the factors that shape patterns of nucleotide diversity in the house mouse genome [comment](http://disq.us/p/1r3smf5)
@@ -1490,7 +1490,7 @@ MGC -- no R.E.H.A.B.
 [Borges et al. 2018](https://www.nature.com/articles/s41588-017-0032-5) Transposon-derived small RNAs triggered by miR845 mediate genome dosage response in *Arabidopsis*
 
 ##### Friday Jan. 12
-No R.E.H.A.B. (lab at Plant and Animal Genome conference)
+No journal club (lab at Plant and Animal Genome conference)
 
 ##### Friday Jan. 5
 [Patwa & Wahl 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2607448/pdf/rsif20080248.pdf) The fixation probability of beneficial mutations
@@ -1498,7 +1498,7 @@ No R.E.H.A.B. (lab at Plant and Animal Genome conference)
 ## 2017
 ### December
 
-##### Dec. 22, 29 No R.E.H.A.B. -- Happy Holidays!
+##### Dec. 22, 29 No journal club -- Happy Holidays!
 
 ##### Friday Dec. 15
 [Murray et al. 2017](http://science.sciencemag.org/content/358/6365/951) Natural selection shaped the rise and fall of passenger pigeon genomic diversity
@@ -1513,7 +1513,7 @@ No R.E.H.A.B. (lab at Plant and Animal Genome conference)
 
 ### November
 ##### Friday Nov 24
-No R.E.H.A.B., but in honor of Thanksgiving you can bone up on your statistics by learning about [Turkey's test](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&q=%22turkey%27s+test%22&btnG=).
+No journal club, but in honor of Thanksgiving you can bone up on your statistics by learning about [Turkey's test](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&q=%22turkey%27s+test%22&btnG=).
 
 ##### Friday Nov 17
 [ Zan and Carlborg preprint](https://www.biorxiv.org/content/early/2017/10/20/206706?rss=1&utm_source=dlvr.it&utm_medium=twitter) Explorations of the polygenic genetic architecture of flowering time in the worldwide Arabidopsis thaliana population
@@ -1551,7 +1551,7 @@ No R.E.H.A.B., but in honor of Thanksgiving you can bone up on your statistics b
 [Oka et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1273-4) Genome-wide mapping of transcriptional enhancer candidates using DNA and chromatin features in maize
 
 ##### Friday Sept 1
-R.E.H.A.B. joint paper review. ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
+journal club joint paper review. ([email](mailto:rossibarra@ucdavis.edu) or see lab Slack for paper)
 
 ### August
 ##### Friday Aug 25
@@ -1564,7 +1564,7 @@ R.E.H.A.B. joint paper review. ([email](mailto:rossibarra@ucdavis.edu) or see la
 [Hübner et al. 2017]() The Cultivated Sunflower Pan Genome Provides Insights on the Contribution of Introgressions to Breeding of Modern Varieties
 
 ##### Friday Aug 4
-No R.E.H.A.B.
+No journal club
 
 ### July
 ##### Friday July 28
@@ -1638,7 +1638,7 @@ Evolution of genetic variance during adaptive radiation
 [Brandenburg et al 2017](https://rilab.slack.com/archives/papers/p1489556863288990) Independent introductions and admixtures have contributed to adaptation of European maize and its American counterparts
 
 ##### Friday March 10
-[Maize meeting](http://www.maizegdb.org/maize_meeting/2017/) -- no R.E.H.A.B.
+[Maize meeting](http://www.maizegdb.org/maize_meeting/2017/) -- no journal club
 
 ##### Friday March 3
 [Messer and Petrov 2013](https://www.ncbi.nlm.nih.gov/pubmed/24075201) Population genomics of rapid adaptation by soft selective sweeps.
@@ -1668,7 +1668,7 @@ Two papers on enhancers and diversity. If short of time, read [Ludwig et al.](ht
 [Puzey et al 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13922/full) Population structure and local selection yield high genomic variation in Mimulus guttatus
 
 ##### Friday Jan 13
-PAG - no R.E.H.A.B.
+PAG - no journal club
 
 ##### Friday Jan 6
 [Vidalis et al. 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1127-5) Methylome evolution in plants
@@ -1677,10 +1677,10 @@ PAG - no R.E.H.A.B.
 
 ### December 2016
 ##### Friday Dec. 30
-No R.E.H.A.B. Happy new year!
+No journal club Happy new year!
 
 ##### Friday Dec. 23
-No R.E.H.A.B. Happy [Festivus](https://en.wikipedia.org/wiki/Festivus)!
+No journal club Happy [Festivus](https://en.wikipedia.org/wiki/Festivus)!
 
 ##### Friday Dec. 16
 [Barton 2016](http://www.nature.com/hdy/journal/vaop/ncurrent/full/hdy2016109a.html) How does epistasis influence the response to selection?
@@ -1693,13 +1693,13 @@ No R.E.H.A.B. Happy [Festivus](https://en.wikipedia.org/wiki/Festivus)!
 
 ### November 2016
 ##### Friday Nov 25
-No R.E.H.A.B. -- Turkey Day!
+No journal club -- Turkey Day!
 
 ##### Friday Nov 18
 [Moyerbrailean et al. 2016](http://genome.cshlp.org/content/early/2016/10/18/gr.209759.116) High-throughput allele-specific expression across 250 environmental conditions
 
 ##### Friday Nov 11
-No R.E.H.A.B. - Veteran's Day
+No journal club - Veteran's Day
 
 ##### Friday Nov 4
 [Gould et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/mec.13881/abstract) Pooled Ecotype Sequencing Reveals Candidate Genetic Mechanisms for Adaptive Differentiation and Reproductive Isolation
@@ -1819,7 +1819,7 @@ Novikova et al. manuscript (see \#papers channel on slack for pdf)
 [Marschall et al. preprint](http://biorxiv.org/content/early/2016/03/12/043430) Computational Pan-Genomics: Status, Promises and Challenges
 
 ##### Friday Mar 18
-No R.E.H.A.B. (Maize Meeting!)
+No journal club (Maize Meeting!)
 
 ##### Friday Mar 11
 [Lamichhaney et al. 2012](http://www.pnas.org/content/109/47/19345.short)
@@ -1869,7 +1869,7 @@ No R.E.H.A.B. (Maize Meeting!)
 ### November 2015
 
 ##### Fri. Nov. 27 2015
-No R.E.H.A.B. for the holidays. But you can get your fill of [turkey popgen](http://www.biomedcentral.com/1471-2156/15/117/) nonetheless.
+No journal club for the holidays. But you can get your fill of [turkey popgen](http://www.biomedcentral.com/1471-2156/15/117/) nonetheless.
 
 ##### Fri. Nov. 20 2015
 [Beissinger et al. 2015](https://github.com/RILAB/beissinger_ms/raw/master/manuscript_submit.pdf) Recent demography drives changes in linked selection across the maize genome
@@ -2030,7 +2030,7 @@ Selective strolls: fixation and extinction in diploids are slower for weakly sel
 
 ##### Fri. April 10, 2015
 
-No R.E.H.A.B. Come to the [UCDavis Plant Breeding Symposium](http://plantbreeding2015.ucdavis.edu/) instead.
+No journal club Come to the [UCDavis Plant Breeding Symposium](http://plantbreeding2015.ucdavis.edu/) instead.
 
 ##### Fri. April 3, 2015
 
@@ -2040,7 +2040,7 @@ Romero et al. SeeDs manuscript (email Jeff for the URL).
 
 ##### Fri. March 27, 2015
 
-Cesar Chavez Day; university closed. No R.E.H.A.B.
+Cesar Chavez Day; university closed. No journal club
 
 ##### Fri. March 20, 2015
 
@@ -2048,7 +2048,7 @@ Cesar Chavez Day; university closed. No R.E.H.A.B.
 
 ##### Fri. March 13, 2015
 
-NO R.E.H.A.B. -- [MGC](http://www.maizegdb.org/maize_meeting/2015/) baby!
+NO journal club -- [MGC](http://www.maizegdb.org/maize_meeting/2015/) baby!
 
 ##### Fri. March 6, 2015
 
@@ -2091,7 +2091,7 @@ Rodgers-Melnick  et al. Recombination manuscript. (printed version available fro
 
 ##### Fri. Jan 2, 2015
 
-No R.E.H.A.B., but celebrate the new year in plant genomics by [reading up on cotton](http://www.nespal.org/peng_lab/papers/S1687537008742304.pdf), including the C-genome species that are 2015 megabases in size.
+No journal club, but celebrate the new year in plant genomics by [reading up on cotton](http://www.nespal.org/peng_lab/papers/S1687537008742304.pdf), including the C-genome species that are 2015 megabases in size.
 
 ## 2014
 
@@ -2099,11 +2099,11 @@ No R.E.H.A.B., but celebrate the new year in plant genomics by [reading up on co
 
 ##### Fri. Dec. 26, 2014
 
-No R.E.H.A.B., but feel free to get your plant genomics fix by reading up on the [Christmas Tree genome](http://www.nature.com/nature/journal/v497/n7451/full/nature12211.html)
+No journal club, but feel free to get your plant genomics fix by reading up on the [Christmas Tree genome](http://www.nature.com/nature/journal/v497/n7451/full/nature12211.html)
 
 ##### Fri. Dec. 19, 2014
 
-R.E.H.A.B. unexpectedly cancelled due to lab partying (seriously).
+journal club unexpectedly cancelled due to lab partying (seriously).
 
 ##### Fri. Dec. 12, 2014
 
@@ -2117,7 +2117,7 @@ R.E.H.A.B. unexpectedly cancelled due to lab partying (seriously).
 
 ##### Fri. Nov. 28, 2014
 
-No REHAB. But that doesn't meant you can't get a second helping of [turkey genomics](http://ps.oxfordjournals.org/content/93/2/479.short) should you so desire.
+No journal club. But that doesn't meant you can't get a second helping of [turkey genomics](http://ps.oxfordjournals.org/content/93/2/479.short) should you so desire.
 
 ##### Fri. Nov. 21, 2014
 
@@ -2213,7 +2213,7 @@ No REHAB. But that doesn't meant you can't get a second helping of [turkey genom
 
 ##### Fri. July 4, 2014
 
-No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) instead!
+No journal club Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) instead!
 
 ### June 2014
 
@@ -2283,7 +2283,7 @@ No R.E.H.A.B. Watch some [fireworks](http://daviswiki.org/July_4th_Fireworks) in
 
 ##### Fri. April 11, 2014 (JRI)
 
-NO R.E.H.A.B.  Check out the [Plant Breeding Symposium](http://plantbreeding2014.ucdavis.edu) instead!
+NO journal club  Check out the [Plant Breeding Symposium](http://plantbreeding2014.ucdavis.edu) instead!
 
 ##### Fri. April 4, 2014 (JRI)
 
@@ -2367,7 +2367,7 @@ NO R.E.H.A.B.  Check out the [Plant Breeding Symposium](http://plantbreeding2014
 
 ##### Fri Nov 29 2013
 
-No R.E.H.A.B., but to go along with all your TurkeyDay related activities: [Seidel et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.575/full). Influence of translocations on eastern wild turkey population genetics in Texas
+No journal club, but to go along with all your TurkeyDay related activities: [Seidel et al. 2013](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.575/full). Influence of translocations on eastern wild turkey population genetics in Texas
 
 ##### Fri Nov 22 2013 (VB,DV)
 

@@ -12,8 +12,8 @@ navbar:
       href: pubs.html
     - text: "Lab Docs"
       href: https://github.com/RILAB/lab-docs
-    - text: "R.E.H.A.B"
-      href: rehab.html
+    - text: "journal club"
+      href: jclub.html
     - text: "News"
       href: news.html
 output:
