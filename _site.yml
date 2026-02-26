@@ -10,10 +10,12 @@ navbar:
       href: research.html
     - text: "Publications"
       href: pubs.html
+    - text: "Publications (DOI)"
+      href: pubs_doi.html
     - text: "Lab Docs"
       href: https://github.com/RILAB/lab-docs
-    - text: "journal club"
-      href: jclub.html
+    - text: "POP:CORN"
+      href: POPCORN.html
     - text: "News"
       href: news.html
 output:
