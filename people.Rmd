@@ -17,7 +17,7 @@ link_map <- list(
   home = list(icon = "images/Home_icon_black.png", width = 15, alt = "Home"),
   scholar = list(icon = "images/scholar.png", width = 30, alt = "Scholar"),
   txt = list(icon = "images/txt.png", width = 15, alt = "CV"),
-  bluesky = list(icon = "images/Bluesky_Logo.svg", width = 15, alt = "Bluesky")
+  bluesky = list(icon = "images/Bluesky_Logo.png", width = 15, alt = "Bluesky")
 )
 
 build_links <- function(links_str) {
