@@ -3,11 +3,10 @@ title: "Publications"
 ---
 
 <a href="http://scholar.google.com/citations?user=5SzRq1oAAAAJ"><img src="images/scholar.png" style="width: 100px;"></a>
-
 <SCRIPT language="JavaScript" SRC='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></SCRIPT>
 
 ```{r,results='hide',echo=FALSE}
-rxiv=4
+rxiv=5
 img1 <- "images/alert.jpg"
 img2 <- "images/alert.jpg"
 img3 <- "images/alert.jpg"
@@ -19,6 +18,20 @@ Journal names have been intentionally excluded. Lab member names are in bold and
 Click on a triangle for the article abstract.
 
 ```{r pubs_render, results='asis', echo=FALSE}
+# Build publications from doi.txt during normal website render.
+# If DOI sync fails (e.g., offline), keep existing CSV and continue rendering.
+if (file.exists("scripts/generate_pubs_from_doi.R")) {
+  tryCatch(
+    {
+      source("scripts/generate_pubs_from_doi.R", local = TRUE)
+      generate_pubs_from_doi("doi.txt", "data/pubs.csv")
+    },
+    error = function(e) {
+      message("DOI sync skipped: ", conditionMessage(e))
+    }
+  )
+}
+
 pubs <- read.csv("data/pubs.csv", stringsAsFactors = FALSE)
 
 for (section in unique(pubs$section)) {
