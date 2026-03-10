@@ -1,0 +1,149 @@
+row,section,order,expected_title,url,observed_page_title,status,note,score
+1,Preprints,0,The origins and adaptive consequences of polyploidy in a dominant prairie grass,https://www.biorxiv.org/content/10.1101/2025.11.25.690567v1,The origins and adaptive consequences of polyploidy in a dominant prairie grass,match,ok:200,1.000
+2,Preprints,1,The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize,https://www.biorxiv.org/content/10.1101/2025.11.03.686376v1?ct=,The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize,match,ok:200,1.000
+3,Preprints,2,Genome-wide selection on transposable elements in maize,https://www.biorxiv.org/content/10.1101/2025.09.16.676665v1,Genome-wide selection on transposable elements in maize,match,ok:200,1.000
+4,Preprints,3,Heritability and QTL mapping of aerial roots and other yield component traits with implications for N2 fixation in Zea mays,https://www.biorxiv.org/content/10.1101/2025.09.10.675198v1,HERITABILITY AND QTL MAPPING OF AERIAL ROOTS AND OTHER YIELD COMPONENT TRAITS WITH IMPLICATIONS FOR N2 FIXATION IN ZEA MAYS,match,ok:200,1.000
+5,Preprints,4,Extensive genome evolution distinguishes maize within a stable tribe of grasses,https://www.biorxiv.org/content/10.1101/2025.01.22.633974v1,Extensive genome evolution distinguishes maize within a stable tribe of grasses,match,ok:200,1.000
+6,Preprints,5,,,,skip,section_header,
+7,2025,6,An ancient origin of the naked grains of maize,https://www.pnas.org/doi/abs/10.1073/pnas.2503748122,,uncertain,blocked:403,
+8,2025,7,"Plant Domestication Revisited: Genomic Insights into Origins, Mechanisms, and Convergent Evolution",https://www.cell.com/iscience/fulltext/S2589-0042(25)02323-5,,uncertain,blocked:403,
+9,2025,8,The utility of environmental data from traditional varieties for climate-adaptive maize breeding,https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011714,Environmental data provide marginal benefit for predicting climate adaptation,mismatch,ok:200,0.578
+10,2025,9,Genetic variation at transcription factor binding sites largely explains phenotypic heritability in maize,https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyaf085/8126661,,uncertain,blocked:403,
+11,2025,10,Molecular evolution of a reproductive barrier in maize and related species,https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyaf085/8126661?login=false,,uncertain,blocked:403,
+12,2025,11,,,,skip,section_header,
+13,2024,12,"A unified VCF data set from nearly 1,500 diverse maize accessions and resources to explore the genomic landscape of maize",https://academic.oup.com/g3journal/article/15/2/jkae281/7913450,,uncertain,blocked:403,
+14,2024,13,[preprint,https://www.biorxiv.org/content/10.1101/2021.04.20.440703v1,Strengthened mutualistic adaptation between teosinte and its rhizosphere biota in cold climates,mismatch,ok:200,0.117
+15,2024,14,Teosinte Pollen Drive guides maize domestication and evolution by RNAi,https://rdcu.be/dQg54,Teosinte Pollen Drive guides maize diversification and domestication by RNAi,match,ok:200,0.767
+16,2024,15,,,,skip,section_header,
+17,2023,16,Two teosintes made modern maize,https://www.science.org/doi/10.1126/science.adg8940,,uncertain,blocked:403,
+18,2023,17,Not so local: the population genetics of convergent adaptation in maize and teosinte.,https://elifesciences.org/reviewed-preprints/92405,,uncertain,no_title:406,
+19,2023,18,Genetic modification can improve crop yields — but stop overselling it,https://www.nature.com/articles/d41586-023-02895-w,Genetic modification can improve crop yields — but stop overselling it,match,ok:200,1.000
+20,2023,19,Unraveling prevalence and effects of deleterious mutations in maize elite lines across decades of modern breeding,https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad170/7231441?utm_source=authortollfreelink&utm_campaign=mbe&utm_medium=email&guestAccessKey=4c4e0dab-22b0-4c6d-be4f-009119c216fd,,uncertain,blocked:403,
+21,2023,20,Diamonds in the Not-So-Rough: Wild Relative Diversity Hidden in Crop Genomes,https://t.co/CM6xxYYmzy,https://plos.io/3XPnVF0,mismatch,ok:200,0.146
+22,2023,21,A happy accident: a novel turfgrass reference genome,https://academic.oup.com/g3journal/article/13/6/jkad073/7099442,,uncertain,blocked:403,
+23,2023,22,,,,skip,section_header,
+24,2022,23,Allele-specific expression reveals multiple paths to highland adaptation in maize,https://academic.oup.com/mbe/article/39/11/msac239/6795225,,uncertain,blocked:403,
+25,2022,24,Conflict over fertilization underlies the transient evolution of reinforcement.,https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001814#ack,Conflict over fertilization underlies the transient evolution of reinforcement,match,ok:200,1.000
+26,2022,25,Genome sequencing reveals evidence of adaptive variation in the genus *Zea*,https://www.nature.com/articles/s41588-022-01184-y,Genome sequencing reveals evidence of adaptive variation in the genus Zea,match,ok:200,1.000
+27,2022,26,Genomic Insights into Historical Improvement of Heterotic Groups during Modern Hybrid Maize Breeding,http://rilab.ucdavis.edu/pdfs/li22natplants.pdf,,uncertain,no_title:200,
+28,2022,27,The genomic signature of wild-to-crop introgression during the domestiation of scarlet runner bean (*Phaseolus coccineus L.*),https://onlinelibrary.wiley.com/doi/10.1002/evl3.285,,uncertain,blocked:403,
+29,2022,28,An adaptive teosinte mexicana introgression modulates phosphatidylcholine levels and is associated with maize flowering time,https://pnas.org/doi/full/10.1073/pnas.2100036119,,uncertain,blocked:403,
+30,2022,29,Controlling for variable transposition rate with an age-adjusted site frequency spectrum,https://academic.oup.com/gbe/article/14/2/evac016/6519160?login=false,,uncertain,blocked:403,
+31,2022,30,Analysis of genotype by environment interactions in a maize mapping population,https://academic.oup.com/g3journal/article/12/3/jkac013/6520465,,uncertain,blocked:403,
+32,2022,31,"Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte",https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009797,"Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte",match,ok:200,1.000
+33,2022,32,A B73 x Palomero Toluqueo mapping population reveals local adaptation in Mexican highland maize,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896015/,403,mismatch,ok:403,0.020
+34,2022,33,,,,skip,section_header,
+35,2021,34,Modeling Allelic Diversity of Multi-parent Mapping Populations Affects Detection of Quantitative Trait Loci,https://academic.oup.com/g3journal/article/12/3/jkac011/6509518?login=true,,uncertain,blocked:403,
+36,2021,35,Selective sorting of ancestral introgression in maize and teosinte along an elevational cline,https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1009810,Selective sorting of ancestral introgression in maize and teosinte along an elevational cline,match,ok:200,1.000
+37,2021,36,The Genomic Ecosystem of Transposable Elements in Maize,https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009768,The genomic ecosystem of transposable elements in maize,match,ok:200,1.000
+38,2021,37,"*De novo* assembly, annotation, and comparative analysis of 26 diverse maize genomes",https://science.sciencemag.org/content/373/6555/655.abstract,,uncertain,blocked:403,
+39,2021,38,Conserved noncoding sequences provide insights into regulatory sequence and loss of gene expression in maize,https://genome.cshlp.org/content/early/2021/05/27/gr.266528.120.abstract#aff-4,Conserved noncoding sequences provide insights into regulatory sequence and loss of gene expression in maize,match,ok:200,1.000
+40,2021,39,Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces,https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab119/6255756,,uncertain,blocked:403,
+41,2021,40,Gene body methylation is under selection in *Arabidopsis thaliana*.,https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyab061/6237897?searchresult=1,,uncertain,blocked:403,
+42,2021,41,Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize,https://www.nature.com/articles/s41477-020-00834-5.epdf?sharing_token=_mN9oSJzgPbS9Ldsr01s8dRgN0jAjWel9jnR3ZoTv0OIqw-nLs7dqtihevHgjRdBgKyJmnWQSkGOUEc4hulR2jnTLjP4fqtKbSUSzA7iWbyA0E0YEvXdfVUO_1_dmi2uNdJtrPRcKz9O_jp58VwFcP02Yhzr7I3YNxgg8Oit1Xk%3D,Comparative evolutionary genetics of deleterious load in sorghum and maize,mismatch,ok:200,0.729
+43,2021,42,,,,skip,section_header,
+44,2020,43,Adaptive evolution of DNA methylation reshaped gene regulation in maize,https://www.nature.com/articles/s41467-020-19333-4,Evolutionary and functional genomics of DNA methylation in maize domestication and improvement,mismatch,ok:200,0.448
+45,2020,44,"The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication",https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008791,"The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication",match,ok:200,1.000
+46,2020,45,Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landraces,https://www.g3journal.org/content/ggg/early/2020/05/28/g3.120.401196.full.pdf,,uncertain,fetch_error:SSLError,
+47,2020,46,Genome-wide selection and genetic improvement during modern maize breeding,https://drive.google.com/file/d/1UxPN_Yf2HQ0OOJdqbP537Bwxlm2N1EkL/view?usp=sharing,s41588-020-0616-3.pdf,mismatch,ok:200,0.042
+48,2020,47,Evolutionary insights into plant breeding,https://www.sciencedirect.com/science/article/pii/S1369526620300339,ScienceDirect,mismatch,ok:403,0.185
+49,2020,48,Genomics of long- and short- term adaptation in maize and teosinte,http://library.oapen.org/bitstream/handle/20.500.12657/23339/1006816.pdf?sequence=1#page=292,,uncertain,no_title:200,
+50,2020,49,The temporal dynamics of background selection in non-equilibrium populations,https://www.genetics.org/content/214/4/1019,,uncertain,blocked:403,
+51,2020,50,,,,skip,section_header,
+52,2019,51,Single gene resolution of locally adaptive genetic variation in Mexican maize,https://www.biorxiv.org/content/10.1101/706739v1,Single-gene resolution of locally adaptive genetic variation in Mexican maize,match,ok:200,1.000
+53,2019,52,Dynamic patterns of transcript abundance of transposable element families in maize,http://www.g3journal.org/cgi/pmidlookup?view=long&pmid=31506319,,uncertain,blocked:403,
+54,2019,53,Transposable elements contribute to dynamic genome content in maize,https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14489,,uncertain,blocked:403,
+55,2019,54,Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize,https://www.genetics.org/content/213/1/143,,uncertain,blocked:403,
+56,2019,55,Adaptive phenotypic divergence in teosinte differs across biotic contexts,https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13818,,uncertain,blocked:403,
+57,2019,56,Characterization of introgression from the teosinte *Zea *mays* ssp. *mexicana* to Mexican highland maize,https://peerj.com/articles/6815/,Characterization of introgression from the teosinte Zea mays ssp. mexicana to Mexican highland maize,match,ok:200,1.000
+58,2019,57,Detecting adaptive differentiation in structured populations with genomic data and common gardens,https://www.genetics.org/content/211/3/989,,uncertain,blocked:403,
+59,2019,58,,,,skip,section_header,
+60,2018,59,Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima,https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007794,Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima,match,ok:200,1.000
+61,2018,60,Evolutionary responses to conditionality in species interactions across environmental gradients,https://www.journals.uchicago.edu/doi/10.1086/700118,,uncertain,blocked:403,
+62,2018,61,Evolution and Adaptation in the Maize Genome,https://books.google.com/books?id=ZZl7DwAAQBAJ&pg=PA318&lpg=PA318&dq=maize+genome+snodgrass&source=bl&ots=jD5IvHVlpG&sig=JtkrFv2iBqp4Noq5ud81Y0aIQrU&hl=en&sa=X&ved=2ahUKEwigrdeIkf3eAhXnwlQKHQqgBEEQ6AEwAXoECAMQAQ#v=onepage&q=maize%20genome%20snodgrass&f=false,The Maize Genome,match,ok:200,0.533
+63,2018,62,Maize domestication and gene interaction,https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15350,,uncertain,blocked:403,
+64,2018,63,"A novel maize kinesin causes neocentromere activity and meiotic drive, altering inheritance patterns across the genome",http://www.cell.com/cell/fulltext/S0092-8674(18)30289-7,,uncertain,blocked:403,
+65,2018,64,Parallel altitudinal clines reveal adaptive evolution of genome size in *Zea *mays*,http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007162,Parallel altitudinal clines reveal trends in adaptive evolution of genome size in Zea mays,match,ok:200,0.941
+66,2018,65,Adaptation in plant genomes: bigger is different,https://onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1002,,uncertain,blocked:403,
+67,2018,66,Harnessing cross-border resources to confront climate change,https://www.sciencedirect.com/science/article/pii/S1462901117310602,ScienceDirect,mismatch,ok:403,0.192
+68,2018,67,,,,skip,section_header,
+69,2017,68,Construction of the third generation *Zea *mays* haplotype map,https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix134/4782225?searchresult=1,,uncertain,blocked:403,
+70,2017,69,The interplay of demography and selection during maize domestication and diffusion,https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4,The interplay of demography and selection during maize domestication and expansion,match,ok:200,0.939
+71,2017,70,Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize,http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019,Incomplete dominance of deleterious alleles contributes substantially to trait variation and heterosis in maize,match,ok:200,0.995
+72,2017,71,The potential role of genetic assimilation during maize domestication,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184202,The potential role of genetic assimilation during maize domestication,match,ok:200,1.000
+73,2017,72,Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño,https://peerj.com/articles/3737/,Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño,match,ok:200,1.000
+74,2017,73,Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America,http://science.sciencemag.org/content/357/6350/512.full,,uncertain,blocked:403,
+75,2017,74,How to make a domesticate,http://www.sciencedirect.com/science/article/pii/S0960982217307856,ScienceDirect,mismatch,ok:403,0.053
+76,2017,75,Improved maize reference genome with single-molecule technologies,http://www.nature.com/nature/journal/vaop/ncurrent/full/nature22971.html,"Browse Articles
+ | Nature",mismatch,ok:200,0.138
+77,2017,76,Gene fractionation and function in the ancient subgenomes of maize,https://academic.oup.com/mbe/article/34/8/1825/3742530/Gene-Fractionation-and-Function-in-the-Ancient?guestAccessKey=391f8f04-5fd6-4bc7-bac0-0057fb3102ab,,uncertain,blocked:403,
+78,2017,77,Genomic abundance is not predictive of tandem repeat localization in grass genomes,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177896,Genomic abundance is not predictive of tandem repeat localization in grass genomes,match,ok:200,1.000
+79,2017,78,,,,skip,section_header,
+80,2016,79,,,,skip,no_url,
+81,2016,80,Evolutionary genomics of peach and almond domestication,http://www.g3journal.org/content/6/12/3985.short?rss=1&ssource=mfr,,uncertain,blocked:403,
+82,2016,81,ANGSD-wrapper: utilities for analyzing next generation sequencing data,http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12578/full,,uncertain,blocked:403,
+83,2016,82,Recent demography drives changes in linked selection across the maize genome,http://rdcu.be/kHEB,Recent demography drives changes in linked selection across the maize genome,match,ok:200,1.000
+84,2016,83,Maize diversity associated with social origin and environmental variation in southern Mexico,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4834384/,403,mismatch,ok:403,0.000
+85,2016,84,High quality maize centromere 10 sequence reveals evidence of frequent recombination events,http://journal.frontiersin.org/article/10.3389/fpls.2016.00308/full,High Quality Maize Centromere 10 Sequence Reveals Evidence of Frequent Recombination Events,match,ok:200,1.000
+86,2016,85,,,,skip,section_header,
+87,2015,86,The genomic impacts of drift and selection for hybrid performance in maize,https://pubmed.ncbi.nlm.nih.gov/26385980/,403,mismatch,ok:403,0.000
+88,2015,87,Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport,https://www.nature.com/articles/ng.3422,Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport,match,ok:200,1.000
+89,2015,88,Independent molecular basis of convergent highland adaptation in maize,http://www.genetics.org/content/200/4/1297,,uncertain,blocked:403,
+90,2015,89,Natural variation in teosinte at the domestication locus teosinte branched1 (tb1),https://peerj.com/articles/900/,Natural variation in teosinte at the domestication locus teosinte branched1 (tb1),match,ok:200,1.000
+91,2015,90,"Genetic, evolutionary and plant breeding insights from the domestication of maize",http://elifesciences.org/content/4/e05861,,uncertain,no_title:406,
+92,2015,91,The origin and evolution of maize in the American Southwest,http://rdcu.be/kHD8,The origin and evolution of maize in the Southwestern United States,match,ok:200,0.794
+93,2015,92,Reply to Brush *et al.*: Wake-up call for crop conservation science,http://rilab.ucdavis.edu/pdfs/dyer2015.pdf,,uncertain,no_title:200,
+94,2015,93,Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress,http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004915,PLOS Genetics,mismatch,ok:200,0.231
+95,2015,94,,,,skip,section_header,
+96,2014,95,Advances and limits of using population genetics to understand local adaptation,http://rilab.ucdavis.edu/pdfs/tiffin2014.pdf,,uncertain,no_title:200,
+97,2014,96,Diversity and evolution of centromere repeats in the maize genome,http://rilab.ucdavis.edu/pdfs/Bilinski2014.pdf,,uncertain,no_title:200,
+98,2014,97,The pattern and distribution of deleterious mutations in maize,http://www.g3journal.org/content/4/1/163.full,,uncertain,blocked:403,
+99,2014,98,,,,skip,section_header,
+100,2013,99,Comprehensive analysis of imprinted genes in maize reveals allelic variation and limited conservation with other species,http://www.pnas.org/content/110/48/19639.abstract,,uncertain,blocked:403,
+101,2013,100,Complex patterns of local adaptation in teosinte,http://gbe.oxfordjournals.org/content/5/9/1594,,uncertain,blocked:403,
+102,2013,101,"From many, one: genetic control of prolificacy during maize domestication",http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003604,PLOS Genetics,mismatch,ok:200,0.238
+103,2013,102,Agriculture: Feeding the future,http://rilab.ucdavis.edu/pdfs/McCouch2013.pdf,,uncertain,no_title:200,
+104,2013,103,The genomic signature of crop-wild introgression in maize,http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477,PLOS Genetics,mismatch,ok:200,0.200
+105,2013,104,"Population genetics and ethnobotany of cultivated *Diospyros riojae* (Ebenaceae), an endangered fruit crop from Mexico",http://rilab.ucdavis.edu/pdfs/provance2013.pdf,,uncertain,no_title:200,
+106,2013,105,Comparative analysis of tandem repeats from hundreds of species reveals unique insights into centromere evolution,https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-r10,Comparative analysis of tandem repeats from hundreds of species reveals unique insights into centromere evolution,match,ok:200,1.000
+107,2013,106,Diversity and abundance of the Abnormal chromosome 10 meiotic drive complex in *Zea *mays*,https://www.nature.com/articles/hdy20132,Diversity and abundance of the abnormal chromosome 10 meiotic drive complex in Zea mays,match,ok:200,1.000
+108,2013,107,,,,skip,section_header,
+109,2012,108,Teosinte as a model system for population and ecological genomics,http://rilab.ucdavis.edu/pdfs/hufford2012.pdf,,uncertain,no_title:200,
+110,2012,109,Comparative population genomics of maize domestication and improvement,http://media.wix.com/ugd/fe9228_24240aa930bf4728be83b4b57da55f17.pdf,,uncertain,no_title:200,
+111,2012,110,Using nextgen sequencing to investigate genome size variation and transposable element content,http://rilab.ucdavis.edu/pdfs/Munoz_Diez_R1-1.pdf,,uncertain,no_title:200,
+112,2012,111,Historical genomics of North American maize,http://rilab.ucdavis.edu/pdfs/vanheerwaarden2012.pdf,,uncertain,no_title:200,
+113,2012,112,Reshaping of the maize transcriptome by domestication,http://rilab.ucdavis.edu/pdfs/swansonwagner2012.pdf,,uncertain,no_title:200,
+114,2012,113,Maize HapMap2 identifies extant variation from a genome in flux,http://media.wix.com/ugd/fe9228_86a609db506740ce96c549567c246b4c.pdf,,uncertain,no_title:200,
+115,2012,114,Megabase-scale inversion polymorphism in the wild ancestor of maize,http://www.genetics.org/content/191/3/883.abstract,,uncertain,blocked:403,
+116,2012,115,Genetic architecture of maize kernel composition in the Nested Association Mapping and Inbred Association panels,http://media.wix.com/ugd/fe9228_5ca9c5a7f6174a5bb0c85e67dec67dcc.pdf,,uncertain,no_title:200,
+117,2012,116,Crop genomics: advances and applications,http://media.wix.com/ugd/fe9228_a2a75f7435ec4c569d4a6996e8b5451e.pdf,,uncertain,no_title:200,
+118,2012,117,,,,skip,section_header,
+119,2011,118,Identification of a functional transposon insertion in the maize domestication gene *tb1*,http://media.wix.com/ugd/fe9228_14630f30e97f4e04b8b5980632002f7a.pdf,,uncertain,no_title:200,
+120,2011,119,"Genetic signals of origin, spread and introgression in a large sample of maize landraces",http://media.wix.com/ugd/fe9228_4916e7f7acec4aee869da040d519e0be.pdf,,uncertain,no_title:200,
+121,2011,120,Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize,http://rilab.ucdavis.edu/pdfs/hufford2011.pdf,,uncertain,no_title:200,
+122,2011,121,Genome size and TE content as determined by high-throughput sequencing in maize and *Zea luxurians*,https://www.ncbi.nlm.nih.gov/pubmed/21296765,403,mismatch,ok:403,0.000
+123,2011,122,,,,skip,section_header,
+124,2010,123,Patterns of population structure and environmental associations to aridity across the range of loblolly pine (*Pinus taeda*),http://www.genetics.org/content/185/3/969.abstract,,uncertain,blocked:403,
+125,2010,124,Reproductive biology of **Macleania rupestris** (Ericaceae): a pollen-limited Neotropical cloud-forest species in Costa Rica,http://rilab.ucdavis.edu/pdfs/Fuchs-et-al-2010.pdf,,uncertain,no_title:200,
+126,2010,125,A role for nonadaptive processes in plant genome size evolution?,http://rilab.ucdavis.edu/pdfs/Whitney-et-al-2010-402.pdf,,uncertain,no_title:200,
+127,2010,126,Fine scale genetic structure in the wild ancestor of maize (**Zea *mays** ssp. **parviglumis**),http://rilab.ucdavis.edu/pdfs/Van-Heerwaarden-et-al-2010-951.pdf,,uncertain,no_title:200,
+128,2010,127,Widespread gene conversion in centromere cores,http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000327,PLOS Biology,mismatch,ok:200,0.172
+129,2010,128,Indel-associated mutation rate varies with mating system in flowering plants,http://mbe.oxfordjournals.org/content/27/2/409.abstract,,uncertain,blocked:403,
+130,2010,129,Genetic diversity in a crop metapopulation,https://pubmed.ncbi.nlm.nih.gov/19738636/,403,mismatch,ok:403,0.000
+131,2010,130,,,,skip,section_header,
+132,2009,131,A first-generation haplotype map of maize,http://media.wix.com/ugd/fe9228_352f4ee9b69a425589e55a4bac60bc5d.pdf,,uncertain,no_title:200,
+133,2009,132,A pleistocene clone of Palmer's Oak persisting in Southern California,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008346,A Pleistocene Clone of Palmer's Oak Persisting in Southern California,match,ok:200,1.000
+134,2009,133,Selection on grain shattering genes and rates of rice domestication,http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.02984.x/epdf,,uncertain,blocked:403,
+135,2009,134,Historical divergence and gene flow in the genus Zea,http://www.genetics.org/content/181/4/1399.abstract,,uncertain,blocked:403,
+136,2008,135,Patterns of polymorphism and demographic history in natural populations of *Arabidopsis lyrata*,http://dx.doi.org/10.1371%2Fjournal.pone.0002411,Patterns of Polymorphism and Demographic History in Natural Populations of Arabidopsis lyrata,match,ok:200,1.000
+137,2008,136,Demography and weak selection drive patterns of TE diversity in natural populations of *A. lyrata*,http://www.pnas.org/content/105/37/13965.short,,uncertain,blocked:403,
+138,2008,137,Multiple domestications do not appear monophyletic,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614810/,403,mismatch,ok:403,0.000
+139,2008,138,Selection on major components of angiosperm genomes,http://rilab.ucdavis.edu/pdfs/Ross-Ibarra_Gaut_2008.pdf,,uncertain,no_title:200,
+140,2007,139,"Plant domestication, a unique opportunity to identify the genetic basis of adaptation",http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876441/,403,mismatch,ok:403,0.000
+141,2007,140,Genome size and recombination in angiosperms: a second look,http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01275.x/abstract,,uncertain,blocked:403,
+142,2001-2006,141,Mitochondrial DNA and population size,http://rilab.ucdavis.edu/pdfs/Wares-et-al-2006.pdf,,uncertain,no_title:200,
+143,2001-2006,142,Quantitative trait loci and the study of plant domestication,http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2005-15881692.pdf,,uncertain,no_title:200,
+144,2001-2006,143,The evolution of recombination under domestication: a test of two hypotheses,http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2004.pdf,,uncertain,no_title:200,
+145,2001-2006,144,Origen y domesticación de la chaya (*Cnidoscolus aconitifolius* Mill IM Johnst): La espinaca Maya,http://rilab.ucdavis.edu/pdfs/Ross-Ibarra-2003.pdf,,uncertain,no_title:200,
+146,2001-2006,145,The ethnobotany of Chaya (*Cnidoscolus aconitifolius* ssp. *aconitifolius* Breckon): A nutritious Maya vegetable,http://rilab.ucdavis.edu/pdfs/Ross-Ibarra_Molina-Cruz-2002.pdf,,uncertain,no_title:200,
+147,2001-2006,146,Implications of mating patterns for conservation of the endangered plant *Eriogonum ovalifolium* var. *vineum*,https://pubmed.ncbi.nlm.nih.gov/11454621/,403,mismatch,ok:403,0.000
