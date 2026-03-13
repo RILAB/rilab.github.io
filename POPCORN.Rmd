@@ -23,8 +23,11 @@ We're proud of the growing list of journal clubs modelled on ours, including  [C
 
 ## 2026
 ### March
-#### Mar 20
+#### Mar 27 
 [Zhang et al. preprint](https://www.biorxiv.org/content/10.64898/2026.03.03.709416v1) Recovering signatures of archaic introgression using ancestral recombination graphs
+
+#### Mar 20
+[Morris et al 2026](https://www.nature.com/articles/s41586-026-10229-9) A sorghum pangenome reference improves global crop trait discovery
 
 #### Mar 13 
 [Jiang et al. Preprint](https://www.biorxiv.org/content/10.64898/2026.03.04.709483v1) Phenotypic complexity determines the predictability of molecular convergence
