@@ -22,7 +22,20 @@ We're proud of the growing list of journal clubs modelled on ours, including  [C
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2026
+### May 
+#### May 15 
+[Presgraves et al 2026](https://academic.oup.com/mbe/article/43/2/msag020/8441737?login=false) The evolutionary genomics of meiotic drive 
+
+#### May 1
+[McFarlane et al 2026](https://onlinelibrary.wiley.com/doi/10.1111/mec.17359) Selection leads to remarkable variability in the outcomes of hybridisation across replicate hybrid zones
+
 ### April
+#### April 24
+[Gaut et al 2026](mailto:jri@ucdavis.edu) What has population genomics told us about the dynamics of selection and plant adaptation?
+
+#### April 17
+[Mualim et al 2026](https://www.pnas.org/doi/10.1073/pnas.2514371123) Large future genetic diversity losses are predicted from conservation indicators even with habitat protection
+
 #### April 10 **DOUBLE FEATURE** 
 [Yue et al. 2026](https://www.nature.com/articles/s43247-026-03224-5) Maize cultivation and forest collapse over five centuries in southern China 
 
@@ -31,7 +44,8 @@ We're proud of the growing list of journal clubs modelled on ours, including  [C
 [Somerville et al 2026](https://www.science.org/doi/full/10.1126/sciadv.adw9222) Multi-isotope analysis of mammal bones provides environmental context for the adoption of agriculture in the Tehuacan Valley of Mexico
 
 
-#### April 3 [Zhang et al. preprint](https://www.biorxiv.org/content/10.64898/2026.03.03.709416v1) Recovering signatures of archaic introgression using ancestral recombination graphs
+#### April 3 
+[Zhang et al. preprint](https://www.biorxiv.org/content/10.64898/2026.03.03.709416v1) Recovering signatures of archaic introgression using ancestral recombination graphs
 
 ### March
 #### Mar 27 
