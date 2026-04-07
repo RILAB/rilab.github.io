@@ -1,0 +1,20 @@
+#!/bin/zsh
+
+set -euo pipefail
+
+if [[ $# -lt 1 || $# -gt 2 ]]; then
+  echo "Usage: addpub <doi> [preprint_doi]" >&2
+  exit 1
+fi
+
+doi="$1"
+repo_root="${0:A:h}"
+cd "$repo_root"
+
+if [[ $# -eq 2 ]]; then
+  Rscript scripts/manage_pubs.R add "$doi" "$2"
+else
+  Rscript scripts/manage_pubs.R add "$doi"
+fi
+
+echo "Added $doi and rendered $repo_root/pubs.html"

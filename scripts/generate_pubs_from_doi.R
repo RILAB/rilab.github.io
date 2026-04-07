@@ -1,214 +1,355 @@
-generate_pubs_from_doi <- function(
-  doi_file = "doi.txt",
-  output_csv = "data/pubs.csv",
-  timeout_sec = 20
-) {
-  if (!requireNamespace("jsonlite", quietly = TRUE)) {
-    stop("Package 'jsonlite' is required to build pubs from DOI list.")
-  }
-
+parse_doi_file <- function(doi_file) {
   if (!file.exists(doi_file)) {
     stop(sprintf("DOI file not found: %s", doi_file))
   }
 
-  # Read DOI list (ignore blanks and comments)
   raw_lines <- readLines(doi_file, warn = FALSE, encoding = "UTF-8")
   doi_lines <- trimws(raw_lines)
-  dois <- doi_lines[nzchar(doi_lines) & !grepl("^#", doi_lines)]
-  dois <- unique(dois)
+  doi_lines <- doi_lines[nzchar(doi_lines) & !grepl("^#", doi_lines)]
 
-  if (!length(dois)) {
-    stop(sprintf("No DOIs found in %s", doi_file))
-  }
+  seen <- new.env(parent = emptyenv())
+  entries <- list()
 
-  crossref_work <- function(doi) {
-    safe_doi <- URLencode(doi, reserved = TRUE)
-    url <- sprintf("https://api.crossref.org/works/%s", safe_doi)
+  for (line in doi_lines) {
+    if (exists(line, envir = seen, inherits = FALSE)) next
+    assign(line, TRUE, envir = seen)
 
-    con <- url(url, open = "rb", encoding = "UTF-8")
-    on.exit(close(con), add = TRUE)
-    txt <- readLines(con, warn = FALSE)
-    obj <- jsonlite::fromJSON(paste(txt, collapse = "\n"), simplifyVector = TRUE)
-    obj$message
-  }
+    parts <- strsplit(line, "[[:space:]]+")[[1]]
+    parts <- trimws(parts)
+    parts <- parts[nzchar(parts)]
+    if (!length(parts)) next
 
-  datacite_work <- function(doi) {
-    safe_doi <- URLencode(doi, reserved = TRUE)
-    url <- sprintf("https://api.datacite.org/dois/%s", safe_doi)
-
-    con <- url(url, open = "rb", encoding = "UTF-8")
-    on.exit(close(con), add = TRUE)
-    txt <- readLines(con, warn = FALSE)
-    obj <- jsonlite::fromJSON(paste(txt, collapse = "\n"), simplifyVector = TRUE)
-    attrs <- obj$data$attributes
-
-    # Normalize DataCite response into a Crossref-like structure used below.
-    title_vals <- attrs$titles$title
-    if (is.null(title_vals)) title_vals <- character(0)
-
-    descs <- attrs$descriptions
-    abstract_val <- character(0)
-    if (!is.null(descs) && NROW(descs)) {
-      desc_type <- tolower(as.character(descs$descriptionType))
-      idx <- which(desc_type %in% c("abstract", "other"))
-      if (!length(idx)) idx <- seq_len(NROW(descs))
-      abstract_val <- as.character(descs$description[idx[1]])
-    }
-
-    creators <- attrs$creators
-    author_df <- NULL
-    if (!is.null(creators) && NROW(creators)) {
-      author_df <- data.frame(
-        given = if ("givenName" %in% names(creators)) creators$givenName else NA_character_,
-        family = if ("familyName" %in% names(creators)) creators$familyName else NA_character_,
-        name = if ("name" %in% names(creators)) creators$name else NA_character_,
-        stringsAsFactors = FALSE
-      )
-    }
-
-    pub_year <- suppressWarnings(as.integer(attrs$publicationYear))
-    if (is.na(pub_year) && !is.null(attrs$published) && nzchar(attrs$published)) {
-      pub_year <- suppressWarnings(as.integer(substr(as.character(attrs$published), 1, 4)))
-    }
-
-    list(
-      title = title_vals,
-      abstract = abstract_val,
-      author = author_df,
-      issued = list(`date-parts` = list(c(pub_year))),
-      created = list(`date-parts` = list(c(pub_year))),
-      `container-title` = if (!is.null(attrs$publisher)) attrs$publisher else character(0)
+    entries[[length(entries) + 1L]] <- list(
+      line = line,
+      primary = parts[[1]],
+      preprint = if (length(parts) >= 2L) parts[[2]] else NA_character_
     )
   }
 
-  metadata_work <- function(doi) {
-    tryCatch(
-      crossref_work(doi),
-      error = function(e) {
-        msg <- conditionMessage(e)
-        if (grepl("404", msg, fixed = TRUE)) {
-          message("Crossref 404 for DOI; trying DataCite: ", doi)
-          return(datacite_work(doi))
-        }
-        stop(e)
-      }
-    )
-  }
-
-  clean_text <- function(x) {
-    if (length(x) == 0 || is.null(x) || is.na(x)) return("")
-    x <- as.character(x[[1]])
-    x <- gsub("<[^>]+>", " ", x)
-    x <- gsub("\\s+", " ", x)
-    trimws(x)
-  }
-
-  author_string <- function(author_df) {
-    if (is.null(author_df) || !NROW(author_df)) return("Author list unavailable")
-    authors <- apply(author_df, 1, function(a) {
-      given <- trimws(as.character(a[["given"]]))
-      family <- trimws(as.character(a[["family"]]))
-      name <- trimws(paste(given, family))
-      if (!nzchar(name)) {
-        nm <- trimws(as.character(a[["name"]]))
-        name <- nm
-      }
-      if (grepl("Ross-Ibarra", name, fixed = TRUE)) {
-        name <- sprintf("**%s**", name)
-      }
-      name
-    })
-    paste(authors[nzchar(authors)], collapse = ", ")
-  }
-
-  get_year <- function(msg) {
-    year <- NA_integer_
-    if (!is.null(msg$issued$`date-parts`) && length(msg$issued$`date-parts`)) {
-      year <- suppressWarnings(as.integer(msg$issued$`date-parts`[[1]][1]))
-    }
-    if (is.na(year) && !is.null(msg$created$`date-parts`) && length(msg$created$`date-parts`)) {
-      year <- suppressWarnings(as.integer(msg$created$`date-parts`[[1]][1]))
-    }
-    year
-  }
-
-  is_preprint <- function(doi, msg) {
-    if (grepl("^10\\.1101/", doi, ignore.case = TRUE)) return(TRUE)
-    ct <- tolower(paste(unlist(msg$`container-title`), collapse = " "))
-    grepl("biorxiv|medrxiv|arxiv|preprint", ct)
-  }
-
-  rows <- lapply(dois, function(doi) {
-    msg <- metadata_work(doi)
-    title <- clean_text(msg$title)
-    abs <- clean_text(msg$abstract)
-    if (!nzchar(abs)) abs <- "Abstract unavailable."
-    authors <- author_string(msg$author)
-    year <- get_year(msg)
-    preprint <- is_preprint(doi, msg)
-    doi_url <- sprintf("https://doi.org/%s", doi)
-
-    if (preprint) {
-      section <- "Preprints"
-      details <- paste0(
-        "<details>\n",
-        "<summary> ", title, "\n",
-        " [[preprint](", doi_url, ")]  \n",
-        authors, "\n",
-        "</summary>\n",
-        "<p style=\"\"margin-left: 30px\"\">\n",
-        abs, "\n",
-        "</p></details><p></p>"
-      )
-      ord <- 0L
-    } else {
-      section <- as.character(year)
-      details <- paste0(
-        "<details>\n",
-        "    <summary> [", title, "](", doi_url, ")\n ",
-        authors, "\n\n",
-        " </summary>  \n",
-        "    <p style=\"\"margin-left: 30px\"\"> \n ",
-        abs, "\n",
-        " </p></details><p></p>"
-      )
-      ord <- ifelse(is.na(year), 9999L, as.integer(9999 - year))
-    }
-
-    data.frame(
-      section = section,
-      order = ord,
-      details_html = details,
-      year = ifelse(is.na(year), 0L, year),
-      stringsAsFactors = FALSE
-    )
-  })
-
-  pubs <- do.call(rbind, rows)
-
-  pre <- pubs[pubs$section == "Preprints", , drop = FALSE]
-  non_pre <- pubs[pubs$section != "Preprints", , drop = FALSE]
-
-  if (NROW(pre)) {
-    pre <- pre[order(pre$year, decreasing = TRUE), , drop = FALSE]
-    pre$order <- seq_len(NROW(pre)) - 1L
-  }
-
-  if (NROW(non_pre)) {
-    non_pre$section_num <- suppressWarnings(as.integer(non_pre$section))
-    non_pre <- non_pre[order(non_pre$section_num, decreasing = TRUE, non_pre$year, decreasing = TRUE), , drop = FALSE]
-    non_pre$order <- ave(non_pre$order, non_pre$section, FUN = function(x) seq_along(x) + 5L)
-    non_pre$section_num <- NULL
-  }
-
-  final <- rbind(pre, non_pre)
-  final$year <- NULL
-
-  dir.create(dirname(output_csv), recursive = TRUE, showWarnings = FALSE)
-  write.csv(final, output_csv, row.names = FALSE, quote = TRUE, fileEncoding = "UTF-8")
-  invisible(final)
+  entries
 }
 
-if (identical(environmentName(environment()), "R_GlobalEnv")) {
-  generate_pubs_from_doi()
+crossref_work <- function(doi) {
+  safe_doi <- URLencode(doi, reserved = TRUE)
+  url <- sprintf("https://api.crossref.org/works/%s", safe_doi)
+
+  con <- url(url, open = "rb", encoding = "UTF-8")
+  on.exit(close(con), add = TRUE)
+  txt <- readLines(con, warn = FALSE)
+  obj <- jsonlite::fromJSON(paste(txt, collapse = "\n"), simplifyVector = TRUE)
+  obj$message
+}
+
+datacite_work <- function(doi) {
+  safe_doi <- URLencode(doi, reserved = TRUE)
+  url <- sprintf("https://api.datacite.org/dois/%s", safe_doi)
+
+  con <- url(url, open = "rb", encoding = "UTF-8")
+  on.exit(close(con), add = TRUE)
+  txt <- readLines(con, warn = FALSE)
+  obj <- jsonlite::fromJSON(paste(txt, collapse = "\n"), simplifyVector = TRUE)
+  attrs <- obj$data$attributes
+
+  title_vals <- attrs$titles$title
+  if (is.null(title_vals)) title_vals <- character(0)
+
+  descs <- attrs$descriptions
+  abstract_val <- character(0)
+  if (!is.null(descs) && NROW(descs)) {
+    desc_type <- tolower(as.character(descs$descriptionType))
+    idx <- which(desc_type %in% c("abstract", "other"))
+    if (!length(idx)) idx <- seq_len(NROW(descs))
+    abstract_val <- as.character(descs$description[idx[1]])
+  }
+
+  creators <- attrs$creators
+  author_df <- NULL
+  if (!is.null(creators) && NROW(creators)) {
+    author_df <- data.frame(
+      given = if ("givenName" %in% names(creators)) creators$givenName else NA_character_,
+      family = if ("familyName" %in% names(creators)) creators$familyName else NA_character_,
+      name = if ("name" %in% names(creators)) creators$name else NA_character_,
+      stringsAsFactors = FALSE
+    )
+  }
+
+  pub_year <- suppressWarnings(as.integer(attrs$publicationYear))
+  if (is.na(pub_year) && !is.null(attrs$published) && nzchar(attrs$published)) {
+    pub_year <- suppressWarnings(as.integer(substr(as.character(attrs$published), 1, 4)))
+  }
+
+  list(
+    title = title_vals,
+    abstract = abstract_val,
+    author = author_df,
+    issued = list(`date-parts` = list(c(pub_year))),
+    created = list(`date-parts` = list(c(pub_year))),
+    `container-title` = if (!is.null(attrs$publisher)) attrs$publisher else character(0)
+  )
+}
+
+fetch_metadata_work <- function(doi) {
+  tryCatch(
+    crossref_work(doi),
+    error = function(e) {
+      message("Crossref lookup failed; trying DataCite: ", doi)
+      datacite_work(doi)
+    }
+  )
+}
+
+clean_text <- function(x) {
+  if (is.null(x) || length(x) == 0 || all(is.na(x))) return("")
+  x <- as.character(x[[1]])
+  x <- gsub("<[^>]+>", " ", x)
+  x <- gsub("\\s+", " ", x)
+  trimws(x)
+}
+
+get_year <- function(msg) {
+  year <- NA_integer_
+  if (!is.null(msg$issued$`date-parts`) && length(msg$issued$`date-parts`)) {
+    year <- suppressWarnings(as.integer(msg$issued$`date-parts`[[1]][1]))
+  }
+  if (is.na(year) && !is.null(msg$created$`date-parts`) && length(msg$created$`date-parts`)) {
+    year <- suppressWarnings(as.integer(msg$created$`date-parts`[[1]][1]))
+  }
+  year
+}
+
+is_preprint_record <- function(doi, msg) {
+  if (grepl("^10\\.1101/", doi, ignore.case = TRUE)) return(TRUE)
+  ct <- tolower(paste(unlist(msg$`container-title`), collapse = " "))
+  grepl("biorxiv|medrxiv|arxiv|preprint", ct)
+}
+
+normalize_author_rows <- function(author_df) {
+  if (is.null(author_df) || !NROW(author_df)) return(list())
+
+  lapply(seq_len(NROW(author_df)), function(i) {
+    list(
+      given = trimws(as.character(author_df$given[[i]])),
+      family = trimws(as.character(author_df$family[[i]])),
+      name = trimws(as.character(author_df$name[[i]]))
+    )
+  })
+}
+
+fetch_pub_record <- function(doi, timeout_sec = 20) {
+  old_timeout <- getOption("timeout")
+  options(timeout = timeout_sec)
+  on.exit(options(timeout = old_timeout), add = TRUE)
+
+  msg <- fetch_metadata_work(doi)
+
+  list(
+    doi = doi,
+    title = clean_text(msg$title),
+    abstract = {
+      abs <- clean_text(msg$abstract)
+      if (nzchar(abs)) abs else "Abstract unavailable."
+    },
+    year = {
+      year <- get_year(msg)
+      if (is.na(year)) 0L else as.integer(year)
+    },
+    is_preprint = is_preprint_record(doi, msg),
+    container_title = clean_text(msg$`container-title`),
+    authors = normalize_author_rows(msg$author)
+  )
+}
+
+read_json_object <- function(path) {
+  if (!file.exists(path)) return(list())
+  jsonlite::fromJSON(path, simplifyVector = FALSE)
+}
+
+write_json_object <- function(path, obj) {
+  dir.create(dirname(path), recursive = TRUE, showWarnings = FALSE)
+  jsonlite::write_json(obj, path, pretty = TRUE, auto_unbox = TRUE, null = "null")
+}
+
+initials_name <- function(author) {
+  given <- trimws(author$given %||% "")
+  family <- trimws(author$family %||% "")
+  fallback_name <- trimws(author$name %||% "")
+
+  if (nzchar(family)) {
+    given_parts <- unlist(strsplit(given, "[[:space:]-]+"))
+    given_parts <- given_parts[nzchar(given_parts)]
+    initials <- if (length(given_parts)) paste0(substr(given_parts, 1, 1), ".", collapse = " ") else ""
+    return(trimws(paste(initials, family)))
+  }
+
+  name_parts <- unlist(strsplit(fallback_name, "[[:space:]]+"))
+  name_parts <- name_parts[nzchar(name_parts)]
+  if (length(name_parts) >= 2L) {
+    family_part <- name_parts[[length(name_parts)]]
+    given_parts <- name_parts[-length(name_parts)]
+    initials <- paste0(substr(given_parts, 1, 1), ".", collapse = " ")
+    return(trimws(paste(initials, family_part)))
+  }
+
+  fallback_name
+}
+
+full_name <- function(author) {
+  given <- trimws(author$given %||% "")
+  family <- trimws(author$family %||% "")
+  fallback_name <- trimws(author$name %||% "")
+  name <- trimws(paste(given, family))
+  if (!nzchar(name)) fallback_name else name
+}
+
+author_matches <- function(spec, author) {
+  spec_norm <- trimws(as.character(spec))
+  variants <- c(
+    initials_name(author),
+    full_name(author),
+    trimws(author$family %||% ""),
+    trimws(author$name %||% "")
+  )
+  spec_norm %in% variants
+}
+
+annotate_author <- function(author, override) {
+  name <- initials_name(author)
+
+  if (length(override$author_overrides) && nzchar(override$author_overrides[[name]] %||% "")) {
+    name <- override$author_overrides[[name]]
+  }
+
+  if (length(override$first_authors) && any(vapply(override$first_authors, author_matches, logical(1), author = author))) {
+    name <- paste0(name, "<sup>&ast;</sup>")
+  }
+
+  if (length(override$corresponding_authors) && any(vapply(override$corresponding_authors, author_matches, logical(1), author = author))) {
+    name <- paste0(name, "<sup>&dagger;</sup>")
+  }
+
+  if (length(override$bold_authors) && any(vapply(override$bold_authors, author_matches, logical(1), author = author))) {
+    name <- sprintf("**%s**", name)
+  }
+
+  name
+}
+
+format_author_list <- function(record, override) {
+  if (length(override$author_display)) {
+    authors <- unlist(override$author_display, use.names = FALSE)
+  } else {
+    authors <- vapply(record$authors, annotate_author, character(1), override = override)
+  }
+
+  authors <- authors[nzchar(authors)]
+  if (!length(authors)) return("Author list unavailable")
+
+  if (length(authors) <= 9L) {
+    return(paste(authors, collapse = ", "))
+  }
+
+  bold_specs <- override$bold_authors %||% list()
+  included_middle <- character(0)
+  if (!length(override$author_display) && length(bold_specs)) {
+    hidden_idx <- seq.int(5L, length(record$authors) - 4L)
+    if (length(hidden_idx)) {
+      hidden_authors <- record$authors[hidden_idx]
+      hidden_labels <- authors[hidden_idx]
+      keep_hidden <- vapply(seq_along(hidden_authors), function(i) {
+        any(vapply(bold_specs, author_matches, logical(1), author = hidden_authors[[i]]))
+      }, logical(1))
+      included_middle <- hidden_labels[keep_hidden]
+      included_middle <- unique(included_middle[nzchar(included_middle)])
+    }
+  }
+
+  omitted_count <- length(authors) - 8L
+  omitted_label <- if (length(included_middle)) {
+    sprintf(
+      "...[%d authors including %s]...",
+      omitted_count,
+      paste(included_middle, collapse = ", ")
+    )
+  } else {
+    sprintf("...[%d authors]...", omitted_count)
+  }
+
+  shown <- c(
+    authors[1:4],
+    omitted_label,
+    authors[(length(authors) - 3L):length(authors)]
+  )
+  paste(shown, collapse = ", ")
+}
+
+record_section <- function(record, override) {
+  if (nzchar(override$section %||% "")) {
+    return(as.character(override$section))
+  }
+  if (isTRUE(record$is_preprint)) "Preprints" else as.character(record$year)
+}
+
+record_order <- function(section, record, entry) {
+  if (identical(section, "Preprints")) {
+    return(list(section_rank = 0L, item_rank = -as.integer(record$year)))
+  }
+
+  section_num <- suppressWarnings(as.integer(section))
+  if (is.na(section_num)) section_num <- 0L
+  list(section_rank = 10000L - section_num, item_rank = -as.integer(record$year))
+}
+
+build_pub_row <- function(entry, record, override = list()) {
+  title <- override$title %||% record$title
+  abstract <- override$abstract %||% record$abstract
+  section <- record_section(record, override)
+  authors <- format_author_list(record, override)
+  preprint_doi <- override$preprint_doi %||% entry$preprint
+  title_link_doi <- override$title_doi %||% entry$primary
+  preprint_link <- if (!is.na(preprint_doi) && nzchar(preprint_doi)) {
+    sprintf(" [[preprint](https://doi.org/%s)]", preprint_doi)
+  } else {
+    ""
+  }
+
+  details <- paste0(
+    "<details>\n",
+    "<summary> [", title, "](https://doi.org/", title_link_doi, ")", preprint_link, "  \n",
+    authors, "\n",
+    "</summary>\n",
+    "<p style=\"margin-left: 30px\">\n",
+    if (isTRUE(override$hide_abstract)) "Abstract hidden." else abstract,
+    "\n",
+    "</p></details><p></p>"
+  )
+
+  ord <- record_order(section, record, entry)
+
+  list(
+    doi = entry$primary,
+    section = section,
+    section_rank = ord$section_rank,
+    item_rank = ord$item_rank,
+    details_html = details
+  )
+}
+
+pubs_to_markdown <- function(rows) {
+  if (!length(rows)) return("")
+
+  section_names <- unique(vapply(rows, `[[`, character(1), "section"))
+  out <- character(0)
+
+  for (section in section_names) {
+    subset <- rows[vapply(rows, function(x) identical(x$section, section), logical(1))]
+    subset <- subset[order(vapply(subset, `[[`, integer(1), "item_rank"))]
+    out <- c(out, sprintf("### %s", section), "")
+    out <- c(out, vapply(subset, `[[`, character(1), "details_html"), "")
+  }
+
+  paste(out, collapse = "\n")
+}
+
+`%||%` <- function(x, y) {
+  if (is.null(x)) y else x
 }

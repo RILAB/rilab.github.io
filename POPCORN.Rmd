@@ -22,9 +22,20 @@ We're proud of the growing list of journal clubs modelled on ours, including  [C
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2026
+### April
+#### April 10 **DOUBLE FEATURE** 
+[Yue et al. 2026](https://www.nature.com/articles/s43247-026-03224-5) Maize cultivation and forest collapse over five centuries in southern China 
+
+**AND**
+
+[Somerville et al 2026](https://www.science.org/doi/full/10.1126/sciadv.adw9222) Multi-isotope analysis of mammal bones provides environmental context for the adoption of agriculture in the Tehuacan Valley of Mexico
+
+
+#### April 3 [Zhang et al. preprint](https://www.biorxiv.org/content/10.64898/2026.03.03.709416v1) Recovering signatures of archaic introgression using ancestral recombination graphs
+
 ### March
 #### Mar 27 
-[Zhang et al. preprint](https://www.biorxiv.org/content/10.64898/2026.03.03.709416v1) Recovering signatures of archaic introgression using ancestral recombination graphs
+No POP:CORN 
 
 #### Mar 20
 [Morris et al 2026](https://www.nature.com/articles/s41586-026-10229-9) A sorghum pangenome reference improves global crop trait discovery
