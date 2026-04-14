@@ -1,0 +1,783 @@
+defaults:
+  lab_authors:
+    - J. Ross-Ibarra
+
+publications:
+  # Two teosintes made modern maize
+  # Authors: Ning Yang, Yuebin Wang, Xiangguo Liu, Minliang Jin, Miguel Vallebueno-Estrada, Erin Calfee, Lu Chen, Brian P. Dilkes, Songtao Gui, Xingming Fan, Thomas K. Harper, Douglas J. Kennett, Wenqiang Li, Yanli Lu, Junqiang Ding, Ziqi Chen, Jingyun Luo, Sowmya Mambakkam, Mitra Menon, Samantha Snodgrass, Carl Veller, Shenshen Wu, Siying Wu, Lin Zhuo, Yingjie Xiao, Xiaohong Yang, Michelle C. Stitzer, Daniel Runcie, Jianbing Yan, Jeffrey Ross-Ibarra
+  - doi: 10.1126/science.adg8940
+    preprint_doi: 10.1101/2023.01.31.526540
+    lab_authors:
+      - N. Yang
+      - S. Mambakkam
+      - M. Menon
+      - S. Snodgrass
+    first_authors:
+      - N. Yang
+      - Y. Wang
+      - X. Liu
+    corresponding_authors:
+      - N. Yang
+      - J. Yan
+      - J. Ross-Ibarra
+
+  # De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes
+  # Authors: Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule, Shujun Ou, Jianing Liu, William A. Ricci, Tingting Guo, Andrew Olson, Yinjie Qiu, Rafael Della Coletta, Silas Tittes, Asher I. Hudson, Alexandre P. Marand, Sharon Wei, Zhenyuan Lu, Bo Wang, Marcela K. Tello-Ruiz, Rebecca D. Piri, Na Wang, Dong won Kim, Yibing Zeng, Christine H. O’Connor, Xianran Li, Amanda M. Gilbert, Erin Baggs, Ksenia V. Krasileva, John L. Portwood, Ethalinda K. S. Cannon, Carson M. Andorf, Nancy Manchanda, Samantha J. Snodgrass, David E. Hufnagel, Qiuhan Jiang, Sarah Pedersen, Michael L. Syring, David A. Kudrna, Victor Llaca, Kevin Fengler, Robert J. Schmitz, Jeffrey Ross-Ibarra, Jianming Yu, Jonathan I. Gent, Candice N. Hirsch, Doreen Ware, R. Kelly Dawe
+  - doi: 10.1126/science.abg5289
+    preprint_doi: 10.1101/2021.01.14.426684
+    lab_authors:
+      - S. Tittes
+      - A. I. Hudson
+  
+  # Evolutionary insights into plant breeding
+  # Authors: Sarah D Turner-Hissong, Makenzie E Mabry, Timothy M Beissinger, Jeffrey Ross-Ibarra, J Chris Pires
+  - doi: 10.1016/j.pbi.2020.03.003
+    lab_authors:
+      - Sarah D Turner-Hissong
+    corresponding_authors:
+      - Sarah D Turner-Hissong
+  
+  # Maize domestication and gene interaction
+  # Authors: Michelle C. Stitzer, Jeffrey Ross‐Ibarra
+  - doi: 10.1111/nph.15350
+    lab_authors:
+      - M. Stitzer
+    corresponding_authors:
+      - M. Stitzer
+  
+  # Adaptation in plant genomes: Bigger is different
+  # Authors: Wenbin Mei, Markus G. Stetter, Daniel J. Gates, Michelle C. Stitzer, Jeffrey Ross‐Ibarra
+  - doi: 10.1002/ajb2.1002
+    preprint_doi: 10.1101/196501
+    lab_authors:
+      - W. Mei
+      - M. Stetter
+      - D. Gates
+      - M. Stitzer
+    corresponding_authors:
+      - J. Ross-Ibarra
+  
+  # Crop genomics: advances and applications
+  # Authors: Peter L. Morrell, Edward S. Buckler, Jeffrey Ross-Ibarra
+  - doi: 10.1038/nrg3097
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Genomics of Long- and Short-Term Adaptation in Maize and Teosintes
+  # Authors: Anne Lorant, Jeffrey Ross-Ibarra, Maud Tenaillon
+  - doi: 10.1007/978-1-0716-0199-0_12
+    lab_authors:
+      - A. Lorant
+  
+  # Genetic variation at transcription factor binding sites largely explains phenotypic heritability in maize
+  # Authors: Julia Engelhorn, Samantha J. Snodgrass, Amelie Kok, Arun S. Seetharam, Michael Schneider, Tatjana Kiwit, Ayush Singh, Michael Banf, Duong Thi Hai Doan, Merritt Khaipho-Burch, Daniel E. Runcie, Victor A. Sánchez-Camargo, Rechien Bader, J. Vladimir Torres-Rodriguez, Guangchao Sun, Maike Stam, Fabio Fiorani, Sebastian Beier, James C. Schnable, Hank W. Bass, Matthew B. Hufford, Benjamin Stich, Wolf B. Frommer, Jeffrey Ross-Ibarra, Thomas Hartwig
+  - doi: 10.1038/s41588-025-02246-7
+    preprint_doi: 10.1101/2023.08.08.551183
+    lab_authors:
+      - S. Snodgrass
+  
+  # A happy accident: a novel turfgrass reference genome
+  # Authors: Alyssa R Phillips, Arun S Seetharam, Patrice S Albert, Taylor AuBuchon-Elder, James A Birchler, Edward S Buckler, Lynn J Gillespie, Matthew B Hufford, Victor Llaca, Maria Cinta Romay, Robert J Soreng, Elizabeth A Kellogg, Jeffrey Ross-Ibarra
+  - doi: 10.1093/g3journal/jkad073
+    preprint_doi: 10.1101/2022.03.08.483531
+    lab_authors:
+      - A. R. Phillips
+    corresponding_authors:
+      - A. R. Phillips
+      - J. Ross-Ibarra
+  
+  # Analysis of genotype-by-environment interactions in a maize mapping population
+  # Authors: Asher I Hudson, Sarah G Odell, Pierre Dubreuil, Marie-Helene Tixier, Sebastien Praud, Daniel E Runcie, Jeffrey Ross-Ibarra
+  - doi: 10.1093/g3journal/jkac013
+    preprint_doi: 10.1101/2021.07.21.453280
+    lab_authors:
+      - A. I. Hudson
+      - S. G. Odell
+    corresponding_authors:
+      - A. I. Hudson
+  
+  # Genetic, evolutionary and plant breeding insights from the domestication of maize
+  # Authors: Sarah Hake, Jeffrey Ross-Ibarra
+  - doi: 10.7554/eLife.05861
+  
+  # How to make a domesticate
+  # Authors: Markus G. Stetter, Daniel J. Gates, Wenbin Mei, Jeffrey Ross-Ibarra
+  - doi: 10.1016/j.cub.2017.06.048
+    lab_authors:
+      - M. Stetter
+      - D. Gates
+      - W. Mei
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - M. Stetter
+
+  # Improved maize reference genome with single-molecule technologies
+  # Authors: Yinping Jiao, Paul Peluso, Jinghua Shi, Tiffany Liang, Michelle C. Stitzer, Bo Wang, Michael S. Campbell, Joshua C. Stein, Xuehong Wei, Chen-Shan Chin, Katherine Guill, Michael Regulski, Sunita Kumari, Andrew Olson, Jonathan Gent, Kevin L. Schneider, Thomas K. Wolfgruber, Michael R. May, Nathan M. Springer, Eric Antoniou, W. Richard McCombie, Gernot G. Presting, Michael McMullen, Jeffrey Ross-Ibarra, R. Kelly Dawe, Alex Hastie, David R. Rank, Doreen Ware
+  - doi: 10.1038/nature22971
+    lab_authors:
+      - M. Stitzer
+      - M. R. May
+
+  # Construction of the third-generation Zea mays haplotype map
+  # Authors: Robert Bukowski, Xiaosen Guo, Yanli Lu, Cheng Zou, Bing He, Zhengqin Rong, Bo Wang, Dawen Xu, Bicheng Yang, Chuanxiao Xie, Longjiang Fan, Shibin Gao, Xun Xu, Gengyun Zhang, Yingrui Li, Yinping Jiao, John F Doebley, Jeffrey Ross-Ibarra, Anne Lorant, Vince Buffalo, M Cinta Romay, Edward S Buckler, Doreen Ware, Jinsheng Lai, Qi Sun, Yunbi Xu
+  - doi: 10.1093/gigascience/gix134
+    preprint_doi: 10.1101/026963
+    lab_authors:
+      - V. Buffalo
+      - A. Lorant
+      
+  # A First-Generation Haplotype Map of Maize
+  # Authors: Michael A. Gore, Jer-Ming Chia, Robert J. Elshire, Qi Sun, Elhan S. Ersoz, Bonnie L. Hurwitz, Jason A. Peiffer, Michael D. McMullen, George S. Grills, Jeffrey Ross-Ibarra, Doreen H. Ware, Edward S. Buckler
+  - doi: 10.1126/science.1177837
+
+  # Widespread Gene Conversion in Centromere Cores
+  # Authors: Jinghua Shi, Sarah E. Wolf, John M. Burke, Gernot G. Presting, Jeffrey Ross-Ibarra, R. Kelly Dawe
+  - doi: 10.1371/journal.pbio.1000327
+
+  # Quantitative trait loci and the study of plant domestication
+  # Authors: Jeffrey Ross-Ibarra
+  - doi: 10.1007/s10709-004-2744-6
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Teosinte as a model system for population and ecological genomics
+  # Authors: Matthew B. Hufford, Paul Bilinski, Tanja Pyhäjärvi, Jeffrey Ross-Ibarra
+  - doi: 10.1016/j.tig.2012.08.004
+    lab_authors:
+      - M. B. Hufford
+      - P. Bilinski
+      - T. Pyhäjärvi
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Genome sequencing reveals evidence of adaptive variation in the genus Zea
+  # Authors: Lu Chen, Jingyun Luo, Minliang Jin, Ning Yang, Xiangguo Liu, Yong Peng, Wenqiang Li, Alyssa Phillips, Brenda Cameron, Julio S. Bernal, Rubén Rellán-Álvarez, Ruairidh J. H. Sawers, Qing Liu, Yuejia Yin, Xinnan Ye, Jiali Yan, Qinghua Zhang, Xiaoting Zhang, Shenshen Wu, Songtao Gui, Wenjie Wei, Yuebin Wang, Yun Luo, Chenglin Jiang, Min Deng, Min Jin, Liumei Jian, Yanhui Yu, Maolin Zhang, Xiaohong Yang, Matthew B. Hufford, Alisdair R. Fernie, Marilyn L. Warburton, Jeffrey Ross-Ibarra, Jianbing Yan
+  - doi: 10.1038/s41588-022-01184-y
+    preprint_doi: 10.1101/2022.06.03.494450
+    first_authors:
+      - Lu Chen
+      - Jingyun Luo
+      - Minliang Jin
+      - Ning Yang
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - J. Yan
+      - N. Yang
+
+  # The genomic ecosystem of transposable elements in maize
+  # Authors: Michelle C. Stitzer, Sarah N. Anderson, Nathan M. Springer, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pgen.1009768
+    preprint_doi: 10.1101/559922
+    lab_authors:
+      - M. C. Stitzer
+    corresponding_authors:
+      - M. C. Stitzer
+
+  # Historical genomics of North American maize
+  # Authors: Joost van Heerwaarden, Matthew B. Hufford, Jeffrey Ross-Ibarra
+  - doi: 10.1073/pnas.1209275109
+    lab_authors:
+      - J. van Heerwaarden
+      - M. B. Hufford
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - J. van Heerwaarden
+
+  # Allele-specific Expression Reveals Multiple Paths to Highland Adaptation in Maize
+  # Authors: Haixiao Hu, Taylor Crow, Saghi Nojoomi, Aimee J Schulz, Juan M Estévez-Palmas, Matthew B Hufford, Sherry Flint-Garcia, Ruairidh Sawers, Rubén Rellán-Álvarez, Jeffrey Ross-Ibarra, Daniel E Runcie
+  - doi: 10.1093/molbev/msac239
+    preprint_doi: 10.1101/2022.07.15.500250
+
+  # Controlling for Variable Transposition Rate with an Age-Adjusted Site Frequency Spectrum
+  # Authors: Robert Horvath, Mitra Menon, Michelle Stitzer, Jeffrey Ross-Ibarra
+  - doi: 10.1093/gbe/evac016
+    preprint_doi: 10.1101/2021.08.16.456262
+    lab_authors:
+      - R. Horvath
+      - M. Menon
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - R. Horvath
+
+  # Genetic modification can improve crop yields — but stop overselling it
+  # Authors: Merritt Khaipho-Burch, Mark Cooper, Jose Crossa, Natalia de Leon, James Holland, Ramsey Lewis, Susan McCouch, Seth C. Murray, Ismail Rabbi, Pamela Ronald, Jeffrey Ross-Ibarra, Detlef Weigel, Edward S. Buckler
+  - doi: 10.1038/d41586-023-02895-w
+
+  # Gene Fractionation and Function in the Ancient Subgenomes of Maize
+  # Authors: Simon Renny-Byfield, Eli Rodgers-Melnick, Jeffrey Ross-Ibarra
+  - doi: 10.1093/molbev/msx121
+      preprint_doi: 10.1101/095547
+      lab_authors:
+        - S. Renny-Byfield
+      corresponding_authors:
+        - J. Ross-Ibarra
+        - S. Renny-Byfield
+
+  # Genome-wide selection and genetic improvement during modern maize breeding
+  # Authors: Baobao Wang, Zechuan Lin, Xin Li, Yongping Zhao, Binbin Zhao, Guangxia Wu, Xiaojing Ma, Hai Wang, Yurong Xie, Quanquan Li, Guangshu Song, Dexin Kong, Zhigang Zheng, Hongbin Wei, Rongxin Shen, Hong Wu, Cuixia Chen, Zhaodong Meng, Tianyu Wang, Yu Li, Xinhai Li, Yanhui Chen, Jinsheng Lai, Matthew B. Hufford, Jeffrey Ross-Ibarra, Hang He, Haiyang Wang
+  - doi: 10.1038/s41588-020-0616-3
+
+  # Advances and limits of using population genetics to understand local adaptation
+  # Authors: Peter Tiffin, Jeffrey Ross-Ibarra
+  - doi: 10.1016/j.tree.2014.10.004
+
+  # The Temporal Dynamics of Background Selection in Nonequilibrium Populations
+  # Authors: Raul Torres, Markus G Stetter, Ryan D Hernandez, Jeffrey Ross-Ibarra
+  - doi: 10.1534/genetics.119.302892
+    preprint_doi: 10.1101/618389
+    first_authors:
+      - R. Torres
+      - M. G. Stetter
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - R. D. Hernandez
+
+  # Diamonds in the not-so-rough: Wild relative diversity hidden in crop genomes
+  # Authors: Sherry Flint-Garcia, Mitchell J. Feldmann, Hannes Dempewolf, Peter L. Morrell, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pbio.3002235
+    corresponding_authors:
+      - J. Ross-Ibarra
+  - doi: 10.1111/mec.13380
+
+  # A B73×Palomero Toluqueño mapping population reveals local adaptation in Mexican highland maize
+  # Authors: Sergio Perez-Limón, Meng Li, G Carolina Cintora-Martinez, M Rocio Aguilar-Rangel, M Nancy Salazar-Vidal, Eric González-Segovia, Karla Blöcher-Juárez, Alejandro Guerrero-Zavala, Benjamin Barrales-Gamez, Jessica Carcaño-Macias, Denise E Costich, Jorge Nieto-Sotelo, Octavio Martinez de la Vega, June Simpson, Matthew B Hufford, Jeffrey Ross-Ibarra, Sherry Flint-Garcia, Luis Diaz-Garcia, Rubén Rellán-Álvarez, Ruairidh J H Sawers
+  - doi: 10.1093/g3journal/jkab447
+    preprint_doi: 10.1101/2021.09.15.460568
+
+  # Modeling allelic diversity of multiparent mapping populations affects detection of quantitative trait loci
+  # Authors: Sarah G Odell, Asher I Hudson, Sébastien Praud, Pierre Dubreuil, Marie-Hélène Tixier, Jeffrey Ross-Ibarra, Daniel E Runcie
+  - doi: 10.1093/g3journal/jkac011
+    preprint_doi: 10.1101/2021.07.14.452335
+    lab_authors:
+      - S. G. Odell
+      - A. I. Hudson
+    corresponding_authors:
+      - S. G. Odell
+
+  # Unraveling Prevalence and Effects of Deleterious Mutations in Maize Elite Lines across Decades of Modern Breeding
+  # Authors: Shichao Sun, Baobao Wang, Changyu Li, Gen Xu, Jinliang Yang, Matthew B Hufford, Jeffrey Ross-Ibarra, Haiyang Wang, Li Wang
+  - doi: 10.1093/molbev/msad170
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - Haiyang Wang
+      - Li Wang
+
+  # Detecting Adaptive Differentiation in Structured Populations with Genomic Data and Common Gardens
+  # Authors: Emily B Josephs, Jeremy J Berg, Jeffrey Ross-Ibarra, Graham Coop
+  - doi: 10.1534/genetics.118.301786
+    preprint_doi: 10.1101/368506
+    lab_authors:
+      - E. B. Josephs
+    corresponding_authors:
+      - E. B. Josephs
+
+  # Selection on Major Components of Angiosperm Genomes
+  # Authors: Brandon S. Gaut, Jeffrey Ross-Ibarra
+  - doi: 10.1126/science.1153586
+  
+  # Independent Molecular Basis of Convergent Highland Adaptation in Maize
+  # Authors: Shohei Takuno, Peter Ralph, Kelly Swarts, Rob J Elshire, Jeffrey C Glaubitz, Edward S Buckler, Matthew B Hufford, Jeffrey Ross-Ibarra
+  - doi: 10.1534/genetics.115.178327
+    lab_authors:
+      - M. B. Hufford
+      - Shohei Takuno
+    corresponding_authors:
+      - J. Ross-Ibarra
+  
+  # Evolutionary and functional genomics of DNA methylation in maize domestication and improvement
+  # Authors: Gen Xu, Jing Lyu, Qing Li, Han Liu, Dafang Wang, Mei Zhang, Nathan M. Springer, Jeffrey Ross-Ibarra, Jinliang Yang
+  - doi: 10.1038/s41467-020-19333-4
+    preprint_doi: 10.1101/2020.03.13.991117
+
+  # Feeding the future
+  # Authors: Susan McCouch, Gregory J. Baute, James Bradeen, Paula Bramel, Peter K. Bretting, Edward Buckler, John M. Burke, David Charest, Sylvie Cloutier, Glenn Cole, Hannes Dempewolf, Michael Dingkuhn, Catherine Feuillet, Paul Gepts, Dario Grattapaglia, Luigi Guarino, Scott Jackson, Sandra Knapp, Peter Langridge, Amy Lawton-Rauh, Qui Lijua, Charlotte Lusty, Todd Michael, Sean Myles, Ken Naito, Randall L. Nelson, Reno Pontarollo, Christopher M. Richards, Loren Rieseberg, Jeffrey Ross-Ibarra, Steve Rounsley, Ruaraidh Sackville Hamilton, Ulrich Schurr, Nils Stein, Norihiko Tomooka, Esther van der Knaap, David van Tassel, Jane Toll, Jose Valls, Rajeev K. Varshney, Judson Ward, Robbie Waugh, Peter Wenzl, Daniel Zamir
+  - doi: 10.1038/499023a
+
+  # An adaptive teosinte mexicana introgression modulates phosphatidylcholine levels and is associated with maize flowering time
+  # Authors: Allison C. Barnes, Fausto Rodríguez-Zapata, Karla A. Juárez-Núñez, Daniel J. Gates, Garrett M. Janzen, Andi Kur, Li Wang, Sarah E. Jensen, Juan M. Estévez-Palmas, Taylor M. Crow, Heli S. Kavi, Hannah D. Pil, Ruthie L. Stokes, Kevan T. Knizner, Maria R. Aguilar-Rangel, Edgar Demesa-Arévalo, Tara Skopelitis, Sergio Pérez-Limón, Whitney L. Stutts, Peter Thompson, Yu-Chun Chiu, David Jackson, David C. Muddiman, Oliver Fiehn, Daniel Runcie, Edward S. Buckler, Jeffrey Ross-Ibarra, Matthew B. Hufford, Ruairidh J. H. Sawers, Rubén Rellán-Álvarez
+  - doi: 10.1073/pnas.2100036119
+    preprint_doi: 10.1101/2021.01.25.426574
+
+  # The interplay of demography and selection during maize domestication and expansion
+  # Authors: Li Wang, Timothy M. Beissinger, Anne Lorant, Claudia Ross-Ibarra, Jeffrey Ross-Ibarra, Matthew B. Hufford
+  - doi: 10.1186/s13059-017-1346-4
+    preprint_doi: 10.1101/114579
+    - lab_authors:
+      - L. Wang
+      - T. M. Beissinger
+      - A. Lorant
+      - C. Ross-Ibarra
+    - corresponding_authors:
+      - J. Ross-Ibarra
+      - M. B. Hufford
+
+  # Genomic insights into historical improvement of heterotic groups during modern hybrid maize breeding
+  # Authors: Chunhui Li, Honghui Guan, Xin Jing, Yaoyao Li, Baobao Wang, Yongxiang Li, Xuyang Liu, Dengfeng Zhang, Cheng Liu, Xiaoqing Xie, Haiyan Zhao, Yanbo Wang, Jingbao Liu, Panpan Zhang, Guanghui Hu, Guoliang Li, Suiyan Li, Dequan Sun, Xiaoming Wang, Yunsu Shi, Yanchun Song, Chengzhi Jiao, Jeffrey Ross-Ibarra, Yu Li, Tianyu Wang, Haiyang Wang
+  - doi: 10.1038/s41477-022-01190-2
+      corresponding_authors:
+        - J. Ross-Ibarra
+        - H. Wang
+        - Y. Li
+        - T. Wang
+
+  # Transposable elements contribute to dynamic genome content in maize
+  # Authors: Sarah N. Anderson, Michelle C. Stitzer, Alex B. Brohammer, Peng Zhou, Jaclyn M. Noshay, Christine H. O'Connor, Cory D. Hirsch, Jeffrey Ross‐Ibarra, Candice N. Hirsch, Nathan M. Springer
+  - doi: 10.1111/tpj.14489
+    preprint_doi: 10.1101/547398
+    lab_authors:
+      - M.C. Stitzer
+    first_authors:
+      - S.N. Anderson
+      - M.C. Stitzer
+      - A.B. Brohammer
+
+  # Teosinte Pollen Drive guides maize diversification and domestication by RNAi
+  # Authors: Benjamin Berube, Evan Ernst, Jonathan Cahn, Benjamin Roche, Cristiane de Santis Alves, Jason Lynn, Armin Scheben, Daniel Grimanelli, Adam Siepel, Jeffrey Ross-Ibarra, Jerry Kermicle, Robert A. Martienssen
+  - doi: 10.1038/s41586-024-07788-0
+    preprint_doi: 10.1101/2023.07.12.548689
+    
+  # Plant domestication revisited: Genomic insights into origins, mechanisms, and convergent evolution
+  # Authors: Yu Cao, Jianbing Yan, Jeffrey Ross-Ibarra, Ning Yang
+  - doi: 10.1016/j.isci.2025.114062
+    lab_authors:
+      - Y. Cao
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - N. Yang
+
+  # A Kinesin-14 Motor Activates Neocentromeres to Promote Meiotic Drive in Maize
+  # Authors: R. Kelly Dawe, Elizabeth G. Lowry, Jonathan I. Gent, Michelle C. Stitzer, Kyle W. Swentowsky, David M. Higgins, Jeffrey Ross-Ibarra, Jason G. Wallace, Lisa B. Kanizay, Magdy Alabady, Weihong Qiu, Kuo-Fu Tseng, Na Wang, Zhi Gao, James A. Birchler, Alex E. Harkess, Amy L. Hodges, Evelyn N. Hiatt
+  - doi: 10.1016/j.cell.2018.03.009
+    lab_authors:
+      - M. C. Stitzer
+
+  # Evolutionary Genomics of Peach and Almond Domestication
+  # Authors: Dianne Velasco, Josh Hough, Mallikarjuna Aradhya, Jeffrey Ross-Ibarra
+  - doi: 10.1534/g3.116.032672
+    lab_authors:
+      - D. Velasco
+      - J. Hough
+    corresponding_authors:
+      - D. Velasco
+
+  # Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport
+  # Authors: Davide Sosso, Dangping Luo, Qin-Bao Li, Joelle Sasse, Jinliang Yang, Ghislaine Gendrot, Masaharu Suzuki, Karen E Koch, Donald R McCarty, Prem S Chourey, Peter M Rogowsky, Jeffrey Ross-Ibarra, Bing Yang, Wolf B Frommer
+  - doi: 10.1038/ng.3422
+
+  # Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America
+  # Authors: Kelly Swarts, Rafal M. Gutaker, Bruce Benz, Michael Blake, Robert Bukowski, James Holland, Melissa Kruse-Peeples, Nicholas Lepak, Lynda Prim, M. Cinta Romay, Jeffrey Ross-Ibarra, Jose de Jesus Sanchez-Gonzalez, Chris Schmidt, Verena J. Schuenemann, Johannes Krause, R. G. Matson, Detlef Weigel, Edward S. Buckler, Hernán A. Burbano
+  - doi: 10.1126/science.aam9425
+
+  # Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima
+  # Authors: Markus G. Stetter, Kevin Thornton, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pgen.1007794
+    preprint_doi: 10.1101/313247
+    lab_authors:
+      - M. G. Stetter
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - M. G. Stetter
+
+  # The Evolution of Recombination under Domestication: A Test of Two Hypotheses
+  # Authors: Jeffrey Ross‐Ibarra
+  - doi: 10.1086/380606
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Comparative evolutionary genetics of deleterious load in sorghum and maize
+  # Authors: Roberto Lozano, Elodie Gazave, Jhonathan P. R. dos Santos, Markus G. Stetter, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Elizabeth A. Cooper, M. Taylor Perkins, Edward S. Buckler, Jeffrey Ross-Ibarra, Michael A. Gore
+  - doi: 10.1038/s41477-020-00834-5
+    preprint_doi: 10.1101/777623
+    lab_authors:
+      - M. G. Stetter
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - M. A. Gore
+
+  # Reshaping of the maize transcriptome by domestication
+  # Authors: Ruth Swanson-Wagner, Roman Briskine, Robert Schaefer, Matthew B. Hufford, Jeffrey Ross-Ibarra, Chad L. Myers, Peter Tiffin, Nathan M. Springer
+  - doi: 10.1073/pnas.1201961109
+    lab_authors:
+      - M. B. Hufford
+
+  # Selective sorting of ancestral introgression in maize and teosinte along an elevational cline
+  # Authors: Erin Calfee, Daniel Gates, Anne Lorant, M. Taylor Perkins, Graham Coop, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pgen.1009810
+    preprint_doi: 10.1101/2021.03.05.434040
+    lab_authors:
+      - D. Gates
+      - A. Lorant
+      - M. T. Perkins
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - G. Coop
+      - E. Calfee
+
+  # Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces
+  # Authors: Li Wang, Emily B Josephs, Kristin M Lee, Lucas M Roberts, Rubén Rellán-Álvarez, Jeffrey Ross-Ibarra, Matthew B Hufford
+  - doi: 10.1093/molbev/msab119
+    preprint_doi: 10.1101/2020.07.31.227629
+    lab_authors:
+      - L. Wang
+      - E. B. Josephs
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - M. B. Hufford
+      - L. Wang
+
+  # Comparative population genomics of maize domestication and improvement
+  # Authors: Matthew B Hufford, Xun Xu, Joost van Heerwaarden, Tanja Pyhäjärvi, Jer-Ming Chia, Reed A Cartwright, Robert J Elshire, Jeffrey C Glaubitz, Kate E Guill, Shawn M Kaeppler, Jinsheng Lai, Peter L Morrell, Laura M Shannon, Chi Song, Nathan M Springer, Ruth A Swanson-Wagner, Peter Tiffin, Jun Wang, Gengyun Zhang, John Doebley, Michael D McMullen, Doreen Ware, Edward S Buckler, Shuang Yang, Jeffrey Ross-Ibarra
+  - doi: 10.1038/ng.2309
+    lab_authors:
+      - M. B. Hufford
+      - J. van Heerwaarden
+      - T. Pyhäjärvi
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - S. Yang
+    first_authors:
+      - M. B. Hufford
+      - X. Xu
+      - J. van Heerwaarden
+      - T. Pyhäjärvi
+
+  # The origin and evolution of maize in the Southwestern United States
+  # Authors: Rute R. da Fonseca, Bruce D. Smith, Nathan Wales, Enrico Cappellini, Pontus Skoglund, Matteo Fumagalli, José Alfredo Samaniego, Christian Carøe, María C. Ávila-Arcos, David E. Hufnagel, Thorfinn Sand Korneliussen, Filipe Garrett Vieira, Mattias Jakobsson, Bernardo Arriaza, Eske Willerslev, Rasmus Nielsen, Matthew B. Hufford, Anders Albrechtsen, Jeffrey Ross-Ibarra, M. Thomas P. Gilbert
+  - doi: 10.1038/nplants.2014.3
+
+  # Parallel altitudinal clines reveal trends in adaptive evolution of genome size in Zea mays
+  # Authors: Paul Bilinski, Patrice S. Albert, Jeremy J. Berg, James A. Birchler, Mark N. Grote, Anne Lorant, Juvenal Quezada, Kelly Swarts, Jinliang Yang, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pgen.1007162
+    preprint_doi: 10.1101/134528
+    lab_authors:
+      - P. Bilinski
+      - A. Lorant
+      - J. Yang
+      - J. Quezada
+    corresponding_authors: J. Ross-Ibarra
+
+  # Recent demography drives changes in linked selection across the maize genome
+  # Authors: Timothy M. Beissinger, Li Wang, Kate Crosby, Arun Durvasula, Matthew B. Hufford, Jeffrey Ross-Ibarra
+  - doi: 10.1038/nplants.2016.84
+    lab_authors:
+      - T. M. Beissinger
+      - L. Wang
+      - K. Crosby
+      - A. Durvasula
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # An ancient origin of the naked grains of maize
+  # Authors: Regina A. Fairbanks, Jeffrey Ross-Ibarra
+  - doi: 10.1073/pnas.2503748122
+    preprint_doi: 10.1101/2024.12.02.626434
+    lab_authors:
+      - R.A. Fairbanks
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - R.A. Fairbanks
+
+  # Conflict over fertilization underlies the transient evolution of reinforcement
+  # Authors: Catherine A. Rushworth, Alison M. Wardlaw, Jeffrey Ross-Ibarra, Yaniv Brandvain
+  - doi: 10.1371/journal.pbio.3001814
+    preprint_doi: 10.1101/2020.11.10.377481
+    lab_authors:
+      - C. A. Rushworth
+
+  # Gene body methylation is under selection in Arabidopsis thaliana
+  # Authors: Aline Muyle, Jeffrey Ross-Ibarra, Danelle K Seymour, Brandon S Gaut
+  - doi: 10.1093/genetics/iyab061
+    preprint_doi: 10.1101/2020.09.04.283333
+
+  # Genetic diversity in a crop metapopulation
+  # Authors: J van Heerwaarden, F A van Eeuwijk, J Ross-Ibarra
+  - doi: 10.1038/hdy.2009.110
+  # angsd ‐wrapper: utilities for analysing next‐generation sequencing data
+  # Authors: Arun Durvasula, Paul J. Hoffman, Tyler V. Kent, Chaochih Liu, Thomas J. Y. Kono, Peter L. Morrell, Jeffrey Ross‐Ibarra
+  - doi: 10.1111/1755-0998.12578
+  # The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication
+  # Authors: Qiuyue Chen, Luis Fernando Samayoa, Chin Jian Yang, Peter J. Bradbury, Bode A. Olukolu, Michael A. Neumeyer, Maria Cinta Romay, Qi Sun, Anne Lorant, Edward S. Buckler, Jeffrey Ross-Ibarra, James B. Holland, John F. Doebley
+  - doi: 10.1371/journal.pgen.1008791
+  # Environmental data provide marginal benefit for predicting climate adaptation
+  # Authors: Forrest Li, Daniel J. Gates, Edward S. Buckler, Matthew B. Hufford, Garrett M. Janzen, Rubén Rellán-Álvarez, Fausto Rodríguez-Zapata, J. Alberto Romero Navarro, Ruairidh J. H. Sawers, Samantha J. Snodgrass, Kai Sonder, Martha C. Willcox, Sarah J. Hearne, Jeffrey Ross-Ibarra, Daniel E. Runcie
+  - doi: 10.1371/journal.pgen.1011714
+  # The Genomic Signature of Crop-Wild Introgression in Maize
+  # Authors: Matthew B. Hufford, Pesach Lubinksy, Tanja Pyhäjärvi, Michael T. Devengenzo, Norman C. Ellstrand, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pgen.1003477
+    preprint_doi: 10.48550/arXiv.1208.3894
+  # The Pattern and Distribution of Deleterious Mutations in Maize
+  # Authors: Sofiane Mezmouk, Jeffrey Ross-Ibarra
+  - doi: 10.1534/g3.113.008870
+  # The population genetics of convergent adaptation in maize and teosinte is not locally restricted
+  # Authors: Silas Tittes, Anne Lorant, Sean P McGinty, James B Holland, Jose de Jesus Sánchez-González, Arun Seetharam, Maud Tenaillon, Jeffrey Ross-Ibarra
+  - doi: 10.7554/eLife.92405
+    preprint_doi: 10.1101/2021.09.09.459637
+  # The genomic signature of wild-to-crop introgression during the domestication of scarlet runner bean ( Phaseolus coccineus L.)
+  # Authors: Azalea Guerra-García, Idalia C. Rojas-Barrera, Jeffrey Ross-Ibarra, Roberto Papa, Daniel Piñero
+  - doi: 10.1002/evl3.285
+    preprint_doi: 10.1101/2021.02.03.429668
+  # Evolutionary Responses to Conditionality in Species Interactions across Environmental Gradients
+  # Authors: Anna M. O’Brien, Ruairidh J. H. Sawers, Jeffrey Ross-Ibarra, Sharon Y. Strauss
+  - doi: 10.1086/700118
+    preprint_doi: 10.1101/031195
+  - doi: 10.1371/journal.pgen.1009825
+  # Dynamic Patterns of Transcript Abundance of Transposable Element Families in Maize
+  # Authors: Sarah N Anderson, Michelle C Stitzer, Peng Zhou, Jeffrey Ross-Ibarra, Cory D Hirsch, Nathan M Springer
+  - doi: 10.1534/g3.119.400431
+    preprint_doi: 10.1101/668558
+  # Adaptive phenotypic divergence in an annual grass differs across biotic contexts*
+  # Authors: Anna M. O'Brien, Ruairidh J.H. Sawers, Sharon Y. Strauss, Jeffrey Ross‐Ibarra
+  - doi: 10.1111/evo.13818
+    preprint_doi: 10.1101/382770
+  # Maize HapMap2 identifies extant variation from a genome in flux
+  # Authors: Jer-Ming Chia, Chi Song, Peter J Bradbury, Denise Costich, Natalia de Leon, John Doebley, Robert J Elshire, Brandon Gaut, Laura Geller, Jeffrey C Glaubitz, Michael Gore, Kate E Guill, Jim Holland, Matthew B Hufford, Jinsheng Lai, Meng Li, Xin Liu, Yanli Lu, Richard McCombie, Rebecca Nelson, Jesse Poland, Boddupalli M Prasanna, Tanja Pyhäjärvi, Tingzhao Rong, Rajandeep S Sekhon, Qi Sun, Maud I Tenaillon, Feng Tian, Jun Wang, Xun Xu, Zhiwu Zhang, Shawn M Kaeppler, Jeffrey Ross-Ibarra, Michael D McMullen, Edward S Buckler, Gengyun Zhang, Yunbi Xu, Doreen Ware
+  - doi: 10.1038/ng.2313
+  # Teosinte populations exhibit weak local adaptation to their rhizosphere biota despite strong effects of biota source on teosinte fitness and traits
+  # Authors: Anna M O’Brien, Ruairidh J H Sawers, Jaime Gasca-Pineda, Ivan Baxter, Luis E Eguiarte, Jeffrey Ross-Ibarra, Sharon Y Strauss
+  - doi: 10.1093/evolut/qpae130
+    preprint_doi: 10.1101/2021.04.20.440703
+  # Correction: Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress
+  # Authors: Irina Makarevitch, Amanda J. Waters, Patrick T. West, Michelle Stitzer, Candice N. Hirsch, Jeffrey Ross-Ibarra, Nathan M. Springer
+  - doi: 10.1371/journal.pgen.1005566
+  # Selective Loss of Diversity in Doubled-Haploid Lines from European Maize Landraces
+  # Authors: Leo Zeitler, Jeffrey Ross-Ibarra, Markus G Stetter
+  - doi: 10.1534/g3.120.401196
+    preprint_doi: 10.1101/817791
+  # Identification of a functional transposon insertion in the maize domestication gene tb1
+  # Authors: Anthony Studer, Qiong Zhao, Jeffrey Ross-Ibarra, John Doebley
+  - doi: 10.1038/ng.942
+  # Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress
+  # Authors: Irina Makarevitch, Amanda J. Waters, Patrick T. West, Michelle Stitzer, Candice N. Hirsch, Jeffrey Ross-Ibarra, Nathan M. Springer
+  - doi: 10.1371/journal.pgen.1004915
+    preprint_doi: 10.1101/008052
+  # Genetic Architecture of Maize Kernel Composition in the Nested Association Mapping and Inbred Association Panels  
+  # Authors: Jason P. Cook, Michael D. McMullen, James B. Holland, Feng Tian, Peter Bradbury, Jeffrey Ross-Ibarra, Edward S. Buckler, Sherry A. Flint-Garcia
+  - doi: 10.1104/pp.111.185033
+  # Extensive genome evolution distinguishes maize within a stable tribe of grasses
+  # Authors: Michelle C. Stitzer, Arun S. Seetharam, Armin Scheben, Sheng-Kai Hsu, Aimee J. Schulz, Taylor M. AuBuchon-Elder, Mohamed El-Walid, Taylor H. Ferebee, Charles O. Hale, Thuy La, Zong-Yan Liu, Sarah J. McMorrow, Patrick Minx, Alyssa R. Phillips, Michael L. Syring, Travis Wrightsman, Jingjing Zhai, Rémy Pasquet, Christine A. McAllister, Simon T. Malcomber, Paweena Traiperm, Daniel J. Layton, Jinshun Zhong, Denise E. Costich, R. Kelly Dawe, Kevin Fengler, Charlotte Harris, Zach Irelan, Victor Llaca, Praveena Parakkal, Gina Zastrow-Hayes, Margaret R. Woodhouse, Ethalinda K. Cannon, John L. Portwood, Carson M. Andorf, Patrice S. Albert, James A. Birchler, Adam Siepel, Jeffrey Ross-Ibarra, M. Cinta Romay, Elizabeth A. Kellogg, Edward S. Buckler, Matthew B. Hufford
+  - doi: 10.1101/2025.01.22.633974
+  # Molecular evolution of a reproductive barrier in maize and related species
+  # Authors: Elli Cryan, Garnet Phinney, Arun S Seetharam, Matthew M S Evans, Elizabeth A Kellogg, Junpeng Zhan, Blake Meyers, Daniel J Kliebenstein, Jeffrey Ross-Ibarra
+  - doi: 10.1093/genetics/iyaf085
+  # Complex Patterns of Local Adaptation in Teosinte
+  # Authors: Tanja Pyhäjärvi, Matthew B. Hufford, Sofiane Mezmouk, Jeffrey Ross-Ibarra
+  - doi: 10.1093/gbe/evt109
+  # Natural variation in teosinte at the domestication locus teosinte branched1 ( tb1 )
+  # Authors: Laura Vann, Thomas Kono, Tanja Pyhäjärvi, Matthew B. Hufford, Jeffrey Ross-Ibarra
+  - doi: 10.7717/peerj.900
+  # From Many, One: Genetic Control of Prolificacy during Maize Domestication
+  # Authors: David M. Wills, Clinton J. Whipple, Shohei Takuno, Lisa E. Kursel, Laura M. Shannon, Jeffrey Ross-Ibarra, John F. Doebley
+  - doi: 10.1371/journal.pgen.1003604
+    preprint_doi: 10.48550/arXiv.1303.0882
+  # Incomplete dominance of deleterious alleles contributes substantially to trait variation and heterosis in maize
+  # Authors: Jinliang Yang, Sofiane Mezmouk, Andy Baumgarten, Edward S. Buckler, Katherine E. Guill, Michael D. McMullen, Rita H. Mumm, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pgen.1007019
+    preprint_doi: 10.1101/086132
+  # Selection on grain shattering genes and rates of rice domestication
+  # Authors: Lin‐Bin Zhang, Qihui Zhu, Zhi‐Qiang Wu, Jeffrey Ross‐Ibarra, Brandon S. Gaut, Song Ge, Tao Sang
+  - doi: 10.1111/j.1469-8137.2009.02984.x
+  # Conserved noncoding sequences provide insights into regulatory sequence and loss of gene expression in maize
+  # Authors: Baoxing Song, Edward S. Buckler, Hai Wang, Yaoyao Wu, Evan Rees, Elizabeth A. Kellogg, Daniel J. Gates, Merritt Khaipho-Burch, Peter J. Bradbury, Jeffrey Ross-Ibarra, Matthew B. Hufford, M. Cinta Romay
+  - doi: 10.1101/gr.266528.120
+  
+  # Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte
+  # Authors: Luis Fernando Samayoa, Bode A. Olukolu, Chin Jian Yang, Qiuyue Chen, Markus G. Stetter, Alessandra M. York, Jose de Jesus Sanchez-Gonzalez, Jeffrey C. Glaubitz, Peter J. Bradbury, Maria Cinta Romay, Qi Sun, Jinliang Yang, Jeffrey Ross-Ibarra, Edward S. Buckler, John F. Doebley, James B. Holland
+  - doi: 10.1371/journal.pgen.1009797
+    preprint_doi: 10.1101/2021.09.01.458502
+    lab authors:
+      - M. G. Stetter
+      - J. Yang
+
+  # Diversity and evolution of centromere repeats in the maize genome
+  # Authors: Paul Bilinski, Kevin Distor, Jose Gutierrez-Lopez, Gabriela Mendoza Mendoza, Jinghua Shi, R. Kelly Dawe, Jeffrey Ross-Ibarra
+  - doi: 10.1007/s00412-014-0483-8
+    lab_authors:
+      - P. Bilinski
+      - K. Distor
+      - J. Gutierrez-Lopez
+      - G. Mendoza Mendoza
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Plant domestication, a unique opportunity to identify the genetic basis of adaptation
+  # Authors: Jeffrey Ross-Ibarra, Peter L. Morrell, Brandon S. Gaut
+  - doi: 10.1073/pnas.0700643104
+
+  # Comparative analysis of tandem repeats from hundreds of species reveals unique insights into centromere evolution
+  # Authors: Daniël P Melters, Keith R Bradnam, Hugh A Young, Natalie Telis, Michael R May, J Graham Ruby, Robert Sebra, Paul Peluso, John Eid, David Rank, José Fernando Garcia, Joseph L DeRisi, Timothy Smith, Christian Tobias, Jeffrey Ross-Ibarra, Ian Korf, Simon WL Chan
+  - doi: 10.1186/gb-2013-14-1-r10
+    preprint_doi: 10.48550/arXiv.1209.4967
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - I. Korf
+      
+    
+  # Hybrid Decay: A Transgenerational Epigenetic Decline in Vigor and Viability Triggered in Backcross Populations of Teosinte with Maize
+  # Authors: Wei Xue, Sarah N Anderson, Xufeng Wang, Liyan Yang, Peter A Crisp, Qing Li, Jaclyn Noshay, Patrice S Albert, James A Birchler, Paul Bilinski, Michelle C Stitzer, Jeffrey Ross-Ibarra, Sherry Flint-Garcia, Xuemei Chen, Nathan M Springer, John F Doebley
+  - doi: 10.1534/genetics.119.302378
+    preprint_doi: 10.1101/588715
+    lab_authors:
+      - P. Bilinski
+      - M. C. Stitzer
+
+  # The potential role of genetic assimilation during maize domestication
+  # Authors: Anne Lorant, Sarah Pedersen, Irene Holst, Matthew B. Hufford, Klaus Winter, Dolores Piperno, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pone.0184202
+    preprint_doi: 10.1101/105940
+    lab_authors:
+      - A. Lorant
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (Zea mays ssp. parviglumis)
+  # Authors: MATTHEW B. HUFFORD, PAUL GEPTS, JEFFREY ROSS-IBARRA
+  - doi: 10.1111/j.1365-294X.2010.04924.x
+    lab_authors:
+      - M. B. Hufford
+    corresponding_authors:
+      - M. B. Hufford
+
+  # Genome Sequence of a 5,310-Year-Old Maize Cob Provides Insights into the Early Stages of Maize Domestication
+  # Authors: Jazmín Ramos-Madrigal, Bruce D. Smith, J. Víctor Moreno-Mayar, Shyam Gopalakrishnan, Jeffrey Ross-Ibarra, M. Thomas P. Gilbert, Nathan Wales
+  - doi: 10.1016/j.cub.2016.09.036
+
+  # Indel-Associated Mutation Rate Varies with Mating System in Flowering Plants
+  # Authors: J. D. Hollister, J. Ross-Ibarra, B. S. Gaut
+  - doi: 10.1093/molbev/msp249
+
+  # Comprehensive analysis of imprinted genes in maize reveals allelic variation for imprinting and limited conservation with other species
+  # Authors: Amanda J. Waters, Paul Bilinski, Steven R. Eichten, Matthew W. Vaughn, Jeffrey Ross-Ibarra, Mary Gehring, Nathan M. Springer
+  - doi: 10.1073/pnas.1309182110
+    lab_authors:
+      - P. Bilinski
+
+  # A unified VCF dataset from nearly 1,500 diverse maize accessions and resources to explore the genomic landscape of maize
+  # Authors: Carson M Andorf, Jeffrey Ross-Ibarra, Arun S Seetharam, Matthew B Hufford, Margaret R Woodhouse
+  - doi: 10.1093/g3journal/jkae281
+
+  # The Genomic Impacts of Drift and Selection for Hybrid Performance in Maize
+  # Authors: Justin P Gerke, Jode W Edwards, Katherine E Guill, Jeffrey Ross-Ibarra, Michael D McMullen
+  - doi: 10.1534/genetics.115.182410
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - J. P. Gerke
+
+  # Genome Size and Transposable Element Content as Determined by High-Throughput Sequencing in Maize and Zea luxurians
+  # Authors: Maud I. Tenaillon, Matthew B. Hufford, Brandon S. Gaut, Jeffrey Ross-Ibarra
+  - doi: 10.1093/gbe/evr008
+    lab_authors:
+      - M. B. Hufford
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Patterns of Population Structure and Environmental Associations to Aridity Across the Range of Loblolly Pine ( Pinus taeda L., Pinaceae)
+  # Authors: Andrew J Eckert, Joost van Heerwaarden, Jill L Wegrzyn, C Dana Nelson, Jeffrey Ross-Ibarra, Santíago C González-Martínez, David B Neale
+  - doi: 10.1534/genetics.110.115543
+    lab_authors:
+      - J. van Heerwaarden
+
+  # A ROLE FOR NONADAPTIVE PROCESSES IN PLANT GENOME SIZE EVOLUTION?
+  # Authors: Kenneth D. Whitney, Eric J. Baack, James L. Hamrick, Mary Jo W. Godt, Brian C. Barringer, Michael D. Bennett, Christopher G. Eckert, Carol Goodwillie, Susan Kalisz, Ilia J. Leitch, Jeffrey Ross-Ibarra
+  - doi: 10.1111/j.1558-5646.2010.00967.x
+
+  # Megabase-Scale Inversion Polymorphism in the Wild Ancestor of Maize
+  # Authors: Zhou Fang, Tanja Pyhäjärvi, Allison L Weber, R Kelly Dawe, Jeffrey C Glaubitz, José de Jesus Sánchez González, Claudia Ross-Ibarra, John Doebley, Peter L Morrell, Jeffrey Ross-Ibarra
+  - doi: 10.1534/genetics.112.138578
+    lab_authors:
+      - T. Pyhäjärvi
+      - C. Ross-Ibarra
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - P. L. Morrell
+
+  # Characterization of introgression from the teosinte Zea mays ssp. mexicana to Mexican highland maize
+  # Authors: Eric Gonzalez-Segovia, Sergio Pérez-Limon, G. Carolina Cíntora-Martínez, Alejandro Guerrero-Zavala, Garrett M. Janzen, Matthew B. Hufford, Jeffrey Ross-Ibarra, Ruairidh J. H. Sawers
+  - doi: 10.7717/peerj.6815
+
+  # High Quality Maize Centromere 10 Sequence Reveals Evidence of Frequent Recombination Events
+  # Authors: Thomas K. Wolfgruber, Megan M. Nakashima, Kevin L. Schneider, Anupma Sharma, Zidian Xie, Patrice S. Albert, Ronghui Xu, Paul Bilinski, R. Kelly Dawe, Jeffrey Ross-Ibarra, James A. Birchler, Gernot G. Presting
+  - doi: 10.3389/fpls.2016.00308
+    lab authors:
+      - P. Bilinski
+
+  # Maize diversity associated with social origin and environmental variation in Southern Mexico
+  # Authors: Q Orozco-Ramírez, J Ross-Ibarra, A Santacruz-Varela, S Brush
+  - doi: 10.1038/hdy.2016.10
+
+  # Multiple domestications do not appear monophyletic
+  # Authors: Jeffrey Ross-Ibarra, Brandon S. Gaut
+  - doi: 10.1073/pnas.0809042105
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Diversity and abundance of the abnormal chromosome 10 meiotic drive complex in Zea mays
+  # Authors: L B Kanizay, T Pyhäjärvi, E G Lowry, M B Hufford, D G Peterson, J Ross-Ibarra, R K Dawe
+  - doi: 10.1038/hdy.2013.2
+    lab authors:
+      - T. Pyhäjärvi
+      - M. B. Hufford
+
+  # Genetic signals of origin, spread, and introgression in a large sample of maize landraces
+  # Authors: Joost van Heerwaarden, John Doebley, William H. Briggs, Jeffrey C. Glaubitz, Major M. Goodman, Jose de Jesus Sanchez Gonzalez, Jeffrey Ross-Ibarra
+  - doi: 10.1073/pnas.1013011108
+    lab_authors:
+      - J. van Heerwaarden
+    corresponding_authors:
+      - J. Ross-Ibarra  
+      - J. van Heerwaarden
+
+  # Fine scale genetic structure in the wild ancestor of maize ( Zea mays ssp. parviglumis )
+  # Authors: JOOST VAN HEERWAARDEN, JEFFREY ROSS-IBARRA, JOHN DOEBLEY, JEFFREY C. GLAUBITZ, JOSE DE JESÚS SÁNCHEZ GONZÁLEZ, BRANDON S. GAUT, LUIS E. EGUIARTE
+  - doi: 10.1111/j.1365-294X.2010.04559.x
+    lab_authors:
+      - J. van Heerwaarden
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Demography and weak selection drive patterns of transposable element diversity in natural populations of Arabidopsis lyrata
+  # Authors: Steven Lockton, Jeffrey Ross-Ibarra, Brandon S. Gaut
+  - doi: 10.1073/pnas.0804671105
+
+  # Historical Divergence and Gene Flow in the Genus Zea
+  # Authors: Jeffrey Ross-Ibarra, Maud Tenaillon, Brandon S Gaut
+  - doi: 10.1534/genetics.108.097238
+
+  # Patterns of Polymorphism and Demographic History in Natural Populations of Arabidopsis lyrata
+  # Authors: Jeffrey Ross-Ibarra, Stephen I. Wright, John Paul Foxe, Akira Kawabe, Leah DeRose-Wilson, Gesseca Gos, Deborah Charlesworth, Brandon S. Gaut
+  - doi: 10.1371/journal.pone.0002411
+
+
+  # Genome size and recombination in angiosperms: a second look
+  # Authors: J. ROSS‐IBARRA
+  - doi: 10.1111/j.1420-9101.2006.01275.x
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # A Pleistocene Clone of Palmer's Oak Persisting in Southern California
+  # Authors: Michael R. May, Mitchell C. Provance, Andrew C. Sanders, Norman C. Ellstrand, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pone.0008346
+    corresponding_authors:
+      - J. Ross-Ibarra
+    lab_authors:
+      - M. R. May
+      - M. C. Provance
+  
+
+  # Genomic abundance is not predictive of tandem repeat localization in grass genomes
+  # Authors: Paul Bilinski, Yonghua Han, Matthew B. Hufford, Anne Lorant, Pingdong Zhang, Matt C. Estep, Jiming Jiang, Jeffrey Ross-Ibarra
+  - doi: 10.1371/journal.pone.0177896
+    lab_authors:
+      - P. Bilinski
+      - A. Lorant
+      - M. B. Hufford
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - P. Bilinski
+
+  # Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño
+  # Authors: M. Rocío Aguilar-Rangel, Ricardo A. Chávez Montes, Eric González-Segovia, Jeffrey Ross-Ibarra, June K. Simpson, Ruairidh J.H. Sawers
+  - doi: 10.7717/peerj.3737
+
+  # Reply to Brush et al.: Wake-up call for crop conservation science
+  # Authors: George A. Dyer, Alejandro López-Feldman, Antonio Yúnez-Naude, J. Edward Taylor, Jeffrey Ross-Ibarra
+  - doi: 10.1073/pnas.1422645112
