@@ -15,7 +15,7 @@ repo_root <- normalizePath(file.path(script_dir, ".."), winslash = "/", mustWork
 generator_env <- new.env(parent = globalenv())
 sys.source(file.path(repo_root, "scripts", "generate_pubs_from_doi.R"), envir = generator_env)
 
-parse_doi_file <- get("parse_doi_file", envir = generator_env)
+parse_pubs_yaml <- get("parse_pubs_yaml", envir = generator_env)
 fetch_pub_record <- get("fetch_pub_record", envir = generator_env)
 read_json_object <- get("read_json_object", envir = generator_env)
 write_json_object <- get("write_json_object", envir = generator_env)
@@ -23,20 +23,16 @@ build_pub_row <- get("build_pub_row", envir = generator_env)
 pubs_to_markdown <- get("pubs_to_markdown", envir = generator_env)
 
 paths <- list(
-  doi = file.path(repo_root, "doi.txt"),
-  pubs_rmd = file.path(repo_root, "pubs.Rmd"),
+  pubs_yaml = file.path(repo_root, "data", "pubs.yml"),
+  pubs_rmd  = file.path(repo_root, "pubs.Rmd"),
   pubs_html = file.path(repo_root, "pubs.html"),
-  cache = file.path(repo_root, "data", "pubs_cache.json"),
-  overrides = file.path(repo_root, "data", "pubs_overrides.yml")
+  cache     = file.path(repo_root, "data", "pubs_cache.json")
 )
 
 begin_marker <- "<!-- PUBS:BEGIN -->"
 end_marker <- "<!-- PUBS:END -->"
 
 ensure_support_files <- function() {
-  if (!file.exists(paths$overrides)) {
-    writeLines(character(0), paths$overrides, useBytes = TRUE)
-  }
   if (!file.exists(paths$cache)) {
     write_json_object(paths$cache, list())
   }
@@ -79,13 +75,6 @@ save_cache <- function(cache) {
   write_json_object(paths$cache, cache)
 }
 
-load_overrides <- function() {
-  if (!file.exists(paths$overrides) || !length(readLines(paths$overrides, warn = FALSE, encoding = "UTF-8"))) {
-    return(list())
-  }
-  yaml::read_yaml(paths$overrides)
-}
-
 ensure_cache_record <- function(cache, doi, refresh = FALSE, timeout_sec = 20) {
   if (!refresh && length(cache[[doi]])) {
     return(cache)
@@ -114,25 +103,18 @@ build_rows_from_state <- function(entries, cache, overrides) {
   )]
 }
 
-write_doi_entries <- function(entries) {
-  lines <- vapply(entries, function(entry) {
-    if (!is.na(entry$preprint) && nzchar(entry$preprint)) {
-      paste(entry$primary, entry$preprint)
-    } else {
-      entry$primary
-    }
-  }, character(1))
-  write_lines_utf8(paths$doi, unique(lines))
-}
-
 render_all <- function(timeout_sec = 20) {
   ensure_support_files()
-  entries <- parse_doi_file(paths$doi)
+  parsed <- parse_pubs_yaml(paths$pubs_yaml)
+  entries <- parsed$entries
+  overrides <- parsed$overrides
   cache <- load_cache()
-  overrides <- load_overrides()
 
   for (entry in entries) {
-    cache <- ensure_cache_record(cache, entry$primary, refresh = TRUE, timeout_sec = timeout_sec)
+    cache <- ensure_cache_record(
+      cache, entry$primary,
+      refresh = TRUE, timeout_sec = timeout_sec
+    )
   }
 
   save_cache(cache)
@@ -141,35 +123,43 @@ render_all <- function(timeout_sec = 20) {
   render_html()
 }
 
-add_one <- function(primary_doi, preprint_doi = NA_character_, timeout_sec = 20) {
+# Add a new publication entry to pubs.yml, then re-render.
+# The new entry is appended with only doi (and optionally preprint_doi).
+# Additional overrides (lab_authors, first_authors, etc.) can be added
+# manually to pubs.yml afterwards.
+add_one <- function(primary_doi, preprint_doi = NA_character_,
+                    timeout_sec = 20) {
   ensure_support_files()
 
   primary_doi <- trimws(primary_doi)
   preprint_doi <- trimws(preprint_doi %||% "")
-  if (!nzchar(primary_doi)) {
-    stop("DOI must not be empty")
+  if (!nzchar(primary_doi)) stop("DOI must not be empty")
+
+  parsed <- parse_pubs_yaml(paths$pubs_yaml)
+  existing <- vapply(parsed$entries, `[[`, character(1), "primary")
+  if (primary_doi %in% existing) {
+    stop("DOI already present in pubs.yml: ", primary_doi)
   }
 
-  entries <- parse_doi_file(paths$doi)
-  existing_primary <- vapply(entries, `[[`, character(1), "primary")
-  if (primary_doi %in% existing_primary) {
-    stop("DOI already present in doi.txt: ", primary_doi)
+  # Append new entry to pubs.yml
+  yml_lines <- readLines(paths$pubs_yaml, warn = FALSE, encoding = "UTF-8")
+  new_entry <- if (nzchar(preprint_doi)) {
+    c(sprintf("  - doi: %s", primary_doi),
+      sprintf("    preprint_doi: %s", preprint_doi))
+  } else {
+    sprintf("  - doi: %s", primary_doi)
   }
-
-  entries[[length(entries) + 1L]] <- list(
-    line = if (nzchar(preprint_doi)) paste(primary_doi, preprint_doi) else primary_doi,
-    primary = primary_doi,
-    preprint = if (nzchar(preprint_doi)) preprint_doi else NA_character_
-  )
+  writeLines(c(yml_lines, new_entry), paths$pubs_yaml, useBytes = TRUE)
 
   cache <- load_cache()
-  overrides <- load_overrides()
-  cache <- ensure_cache_record(cache, primary_doi, refresh = TRUE, timeout_sec = timeout_sec)
-
+  cache <- ensure_cache_record(
+    cache, primary_doi,
+    refresh = TRUE, timeout_sec = timeout_sec
+  )
   save_cache(cache)
-  write_doi_entries(entries)
 
-  rows <- build_rows_from_state(entries, cache, overrides)
+  parsed2 <- parse_pubs_yaml(paths$pubs_yaml)
+  rows <- build_rows_from_state(parsed2$entries, cache, parsed2$overrides)
   write_generated_block(pubs_to_markdown(rows))
   render_html()
 }

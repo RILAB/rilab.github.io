@@ -7,4 +7,4 @@ cd "$repo_root"
 
 Rscript scripts/manage_pubs.R render
 
-echo "Rendered $repo_root/pubs.html from doi.txt using data/pubs_cache.json and data/pubs_overrides.yml"
+echo "Rendered $repo_root/pubs.html from data/pubs.yml using data/pubs_cache.json"

@@ -16,7 +16,7 @@
     - "N. Yang"
     - "J. Yan"
     - "J. Ross-Ibarra"
-  preprint_doi: ""
+  preprint_doi: "https://doi.org/10.1101/2023.01.31.526540"
 
 # De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes
 # Authors: Matthew B. Hufford, Arun S. Seetharam, Margaret R. Woodhouse, Kapeel M. Chougule, Shujun Ou, Jianing Liu, William A. Ricci, Tingting Guo, Andrew Olson, Yinjie Qiu, Rafael Della Coletta, Silas Tittes, Asher I. Hudson, Alexandre P. Marand, Sharon Wei, Zhenyuan Lu, Bo Wang, Marcela K. Tello-Ruiz, Rebecca D. Piri, Na Wang, Dong won Kim, Yibing Zeng, Christine H. O’Connor, Xianran Li, Amanda M. Gilbert, Erin Baggs, Ksenia V. Krasileva, John L. Portwood, Ethalinda K. S. Cannon, Carson M. Andorf, Nancy Manchanda, Samantha J. Snodgrass, David E. Hufnagel, Qiuhan Jiang, Sarah Pedersen, Michael L. Syring, David A. Kudrna, Victor Llaca, Kevin Fengler, Robert J. Schmitz, Jeffrey Ross-Ibarra, Jianming Yu, Jonathan I. Gent, Candice N. Hirsch, Doreen Ware, R. Kelly Dawe
@@ -27,15 +27,16 @@
     - "A. I. Hudson"
   first_authors:
   corresponding_authors:
-  preprint_doi: ""
+  preprint_doi: "https://doi.org/10.1101/2021.01.14.426684"
 
 # Evolutionary insights into plant breeding
 # Authors: Sarah D Turner-Hissong, Makenzie E Mabry, Timothy M Beissinger, Jeffrey Ross-Ibarra, J Chris Pires
 "10.1016/j.pbi.2020.03.003":
   bold_authors:
+    - "Sarah D Turner-Hissong"
     - "J. Ross-Ibarra"
   first_authors:
-  corresponding_authors:
+  corresponding_authors: "Sarah D Turner-Hissong"
   preprint_doi: ""
 
 # Maize domestication and gene interaction
@@ -43,8 +44,9 @@
 "10.1111/nph.15350":
   bold_authors:
     - "J. Ross-Ibarra"
-  first_authors:
-  corresponding_authors:
+    - "M. Stitzer"
+  first_authors: 
+  corresponding_authors: "M. Stitzer"
   preprint_doi: ""
 
 # Adaptation in plant genomes: Bigger is different
@@ -52,8 +54,13 @@
 "10.1002/ajb2.1002":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "W. Mei"
+    - "M. Stetter"
+    - "D. Gates"
+    - "M. Stitzer"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
   preprint_doi: ""
 
 # Crop genomics: advances and applications
@@ -63,6 +70,7 @@
     - "J. Ross-Ibarra"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
   preprint_doi: ""
 
 # Genomics of Long- and Short-Term Adaptation in Maize and Teosintes
@@ -70,6 +78,7 @@
 "10.1007/978-1-0716-0199-0_12":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "A. Lorant"
   first_authors:
   corresponding_authors:
   preprint_doi: ""
@@ -79,9 +88,10 @@
 "10.1038/s41588-025-02246-7":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "S. Snodgrass"
   first_authors:
   corresponding_authors:
-  preprint_doi: ""
+  preprint_doi: "10.1101/2023.08.08.551183"
 
 # A happy accident: a novel turfgrass reference genome
 # Authors: Alyssa R Phillips, Arun S Seetharam, Patrice S Albert, Taylor AuBuchon-Elder, James A Birchler, Edward S Buckler, Lynn J Gillespie, Matthew B Hufford, Victor Llaca, Maria Cinta Romay, Robert J Soreng, Elizabeth A Kellogg, Jeffrey Ross-Ibarra
@@ -89,18 +99,22 @@
   bold_authors:
     - "J. Ross-Ibarra" 
     - "A. Phillips"
-    - "A.S. Seetharam"
   first_authors:
   corresponding_authors:
-  preprint_doi: ""
+    - "A. Phillips"
+    - "J. Ross-Ibarra"
+  preprint_doi: "10.1101/2022.03.08.483531v2"
 
 # Analysis of genotype-by-environment interactions in a maize mapping population
 # Authors: Asher I Hudson, Sarah G Odell, Pierre Dubreuil, Marie-Helene Tixier, Sebastien Praud, Daniel E Runcie, Jeffrey Ross-Ibarra
 "10.1093/g3journal/jkac013":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "A. I. Hudson"
+    - "S. G. Odell"
   first_authors:
   corresponding_authors:
+    - "A. I. Hudson"
   preprint_doi: ""
 
 # Genetic, evolutionary and plant breeding insights from the domestication of maize
@@ -117,8 +131,13 @@
 "10.1016/j.cub.2017.06.048":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "M. Stetter"
+    - "D. Gates"
+    - "W. Mei"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
+    - "M. Stetter"
   preprint_doi: ""
 
 # Improved maize reference genome with single-molecule technologies
@@ -126,6 +145,7 @@
 "10.1038/nature22971":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "M. Stitzer"
   first_authors:
   corresponding_authors:
   preprint_doi: ""
@@ -135,6 +155,8 @@
 "10.1093/gigascience/gix134":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "V. Buffalo"
+    - "A. Lorant"
   first_authors:
   corresponding_authors:
   preprint_doi: ""
@@ -164,6 +186,7 @@
     - "J. Ross-Ibarra"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
   preprint_doi: ""
 
 # Teosinte as a model system for population and ecological genomics
@@ -171,8 +194,12 @@
 "10.1016/j.tig.2012.08.004":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "M. B. Hufford"
+    - "P. Bilinski"
+    - "T. Pyhäjärvi"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
   preprint_doi: ""
 
 # Genome sequencing reveals evidence of adaptive variation in the genus Zea
@@ -181,7 +208,14 @@
   bold_authors:
     - "J. Ross-Ibarra"
   first_authors:
+    - "Lu Chen"
+    - "Jingyun Luo"
+    - "Minliang Jin"
+    - "Ning Yang"
   corresponding_authors:
+    - "J. Ross-Ibarra"
+    - "J. Yan"
+    - "N. Yang"
   preprint_doi: ""
 
 # The genomic ecosystem of transposable elements in maize
@@ -189,8 +223,10 @@
 "10.1371/journal.pgen.1009768":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "M. C. Stitzer"
   first_authors:
   corresponding_authors:
+    - "M. C. Stitzer"
   preprint_doi: ""
 
 # Historical genomics of North American maize
@@ -198,8 +234,12 @@
 "10.1073/pnas.1209275109":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "J. van Heerwaarden"
+    - "M. B. Hufford"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
+    - "J. van Heerwaarden"
   preprint_doi: ""
 
 # Allele-specific Expression Reveals Multiple Paths to Highland Adaptation in Maize
@@ -216,8 +256,12 @@
 "10.1093/gbe/evac016":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "R. Horvath"
+    - "M. Menon"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
+    - "R. Horvath"
   preprint_doi: ""
 
 # Genetic modification can improve crop yields — but stop overselling it
@@ -262,7 +306,11 @@
   bold_authors:
     - "J. Ross-Ibarra"
   first_authors:
+    - "R. Torres"
+    - "M. G. Stetter"
   corresponding_authors:
+    - "J. Ross-Ibarra"
+    - "R. D. Hernandez"
   preprint_doi: ""
 
 # Diamonds in the not-so-rough: Wild relative diversity hidden in crop genomes
@@ -272,15 +320,7 @@
     - "J. Ross-Ibarra"
   first_authors:
   corresponding_authors:
-  preprint_doi: ""
-
-# The genomics of wild yeast populations sheds light on the domestication of man's best (micro) friend
-# Authors: Chris Eberlein, Jean‐Baptiste Leducq, Christian R. Landry
-"10.1111/mec.13380":
-  bold_authors:
     - "J. Ross-Ibarra"
-  first_authors:
-  corresponding_authors:
   preprint_doi: ""
 
 # A B73×Palomero Toluqueño mapping population reveals local adaptation in Mexican highland maize
@@ -297,8 +337,11 @@
 "10.1093/g3journal/jkac011":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "S. G. Odell"
+    - "A. I. Hudson"
   first_authors:
   corresponding_authors:
+    - "S. G. Odell"
   preprint_doi: ""
 
 # Unraveling Prevalence and Effects of Deleterious Mutations in Maize Elite Lines across Decades of Modern Breeding
@@ -308,6 +351,9 @@
     - "J. Ross-Ibarra"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
+    - "Haiyang Wang"
+    - "Li Wang"
   preprint_doi: ""
 
 # Detecting Adaptive Differentiation in Structured Populations with Genomic Data and Common Gardens
@@ -315,8 +361,10 @@
 "10.1534/genetics.118.301786":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "E. B. Josephs"
   first_authors:
   corresponding_authors:
+    - "E. B. Josephs"
   preprint_doi: ""
 
 # Selection on Major Components of Angiosperm Genomes
@@ -333,9 +381,14 @@
 "10.1534/genetics.115.178327":
   bold_authors:
     - "J. Ross-Ibarra"
+    - "M. B. Hufford"
+    - "Shohei Takuno"
   first_authors:
   corresponding_authors:
+    - "J. Ross-Ibarra"
   preprint_doi: ""
+
+#JRI HERE
 
 # Evolutionary and functional genomics of DNA methylation in maize domestication and improvement
 # Authors: Gen Xu, Jing Lyu, Qing Li, Han Liu, Dafang Wang, Mei Zhang, Nathan M. Springer, Jeffrey Ross-Ibarra, Jinliang Yang
@@ -647,15 +700,6 @@
 # Evolutionary Responses to Conditionality in Species Interactions across Environmental Gradients
 # Authors: Anna M. O’Brien, Ruairidh J. H. Sawers, Jeffrey Ross-Ibarra, Sharon Y. Strauss
 "10.1086/700118":
-  bold_authors:
-    - "J. Ross-Ibarra"
-  first_authors:
-  corresponding_authors:
-  preprint_doi: ""
-
-# Correction: Incomplete dominance of deleterious alleles contributes substantially to trait variation and heterosis in maize
-# Authors: Jinliang Yang, Sofiane Mezmouk, Andy Baumgarten, Edward S. Buckler, Katherine E. Guill, Michael D. McMullen, Rita H. Mumm, Jeffrey Ross-Ibarra
-"10.1371/journal.pgen.1009825":
   bold_authors:
     - "J. Ross-Ibarra"
   first_authors:

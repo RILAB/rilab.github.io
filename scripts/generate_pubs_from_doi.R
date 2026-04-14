@@ -118,7 +118,10 @@ get_year <- function(msg) {
 }
 
 is_preprint_record <- function(doi, msg) {
-  if (grepl("^10\\.1101/", doi, ignore.case = TRUE)) return(TRUE)
+  # 10.1101 is Cold Spring Harbor's prefix — only treat as preprint when the
+  # path is purely numeric (bioRxiv/medRxiv style), not CSH journal DOIs
+  # like Genome Research (gr.*), Genes & Dev (gad.*), etc.
+  if (grepl("^10\\.1101/[0-9]", doi, ignore.case = TRUE)) return(TRUE)
   ct <- tolower(paste(unlist(msg$`container-title`), collapse = " "))
   grepl("biorxiv|medrxiv|arxiv|preprint", ct)
 }
@@ -352,4 +355,61 @@ pubs_to_markdown <- function(rows) {
 
 `%||%` <- function(x, y) {
   if (is.null(x)) y else x
+}
+
+# Parse the unified pubs.yml file.
+# Returns list(entries = [...], overrides = list(doi = override, ...))
+# where each entry has $primary and $preprint, and each override has
+# $bold_authors (defaults merged with per-pub lab_authors), $first_authors,
+# $corresponding_authors, and any other supported override fields.
+parse_pubs_yaml <- function(pubs_file) {
+  if (!file.exists(pubs_file)) {
+    stop(sprintf("Publications YAML file not found: %s", pubs_file))
+  }
+
+  raw <- yaml::read_yaml(pubs_file)
+  defaults <- raw$defaults %||% list()
+  default_lab_authors <- unlist(defaults$lab_authors %||% list(), use.names = FALSE)
+
+  seen <- new.env(parent = emptyenv())
+  entries <- list()
+  overrides <- list()
+
+  for (pub in raw$publications %||% list()) {
+    doi <- trimws(as.character(pub$doi %||% ""))
+    if (!nzchar(doi)) next
+    if (exists(doi, envir = seen, inherits = FALSE)) next
+    assign(doi, TRUE, envir = seen)
+
+    preprint_raw <- pub$preprint_doi %||% NA_character_
+    preprint <- trimws(as.character(preprint_raw))
+    if (!nzchar(preprint) || identical(preprint, "NA")) preprint <- NA_character_
+
+    entries[[length(entries) + 1L]] <- list(
+      line = doi,
+      primary = doi,
+      preprint = preprint
+    )
+
+    # Merge default lab_authors with per-pub lab_authors to get bold_authors
+    pub_lab <- unlist(pub$lab_authors %||% list(), use.names = FALSE)
+    bold_authors <- unique(c(default_lab_authors, pub_lab))
+    bold_authors <- bold_authors[nzchar(trimws(bold_authors))]
+
+    overrides[[doi]] <- list(
+      bold_authors        = if (length(bold_authors)) as.list(bold_authors) else NULL,
+      first_authors       = pub$first_authors %||% NULL,
+      corresponding_authors = pub$corresponding_authors %||% NULL,
+      preprint_doi        = pub$preprint_doi %||% NULL,
+      section             = pub$section %||% NULL,
+      title               = pub$title %||% NULL,
+      abstract            = pub$abstract %||% NULL,
+      hide_abstract       = pub$hide_abstract %||% NULL,
+      author_display      = pub$author_display %||% NULL,
+      author_overrides    = pub$author_overrides %||% NULL,
+      title_doi           = pub$title_doi %||% NULL
+    )
+  }
+
+  list(entries = entries, overrides = overrides)
 }
