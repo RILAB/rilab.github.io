@@ -3,68 +3,101 @@ defaults:
     - J. Ross-Ibarra
 
 publications:
+  #Evolution and Adaptation in the Maize Genome
+  - doi: 10.1007/978-3-319-97427-9_19
+
+  #Implications of mating patterns for conservation of the endangered plant Eriogonum ovalifolium var. vineum (Polygonaceae)†
+  - doi: 10.2307/3558332
+
+  #Mitochondrial DNA and Population Size
+  - doi: 10.1126/science.314.5804.1388
+
+  #Population genetics and ethnobotany of cultivated Diospyros riojae Gómez Pompa (Ebenaceae), an endangered fruit crop from Mexico
+  - doi: 10.1007/s10722-013-0015-z
+    lab_authors:
+      - M. C. Provance
+    corresponding_authors:
+      - M. C. Provance
+
+  #Reproductive biology of Macleania rupestris (Ericaceae), a pollen-limited Neotropical cloud-forest species in Costa Rica
+  - doi: 10.1017/S0266467410000064
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  # Origen y domesticación de la chaya (Cnidoscolus aconitifolius Mill I. M. Johnst): La espinaca Maya 
+  - doi: 10.1525/msem.2003.19.2.287
+
+  # The Ethnobotany of Chaya (Cnidoscolus Aconitifolius ssp. Aconitifolius Breckon): A Nutritious Maya Vegetable
+  - doi: 10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2
+
   #Bias in diversity estimators and neutrality tests induced by neutral polymorphic structural variants
-  -doi: 10.64898/2026.02.26.708357
-  preprint_doi: 10.1101/2026.02.26.708357
+  - preprint_doi: 10.64898/2026.02.26.708357
  
+  # Single-gene resolution of locally adaptive genetic variation in Mexican maize
+  - preprint_doi: 10.1101/706739
+    section: "2019"
+    lab_authors:
+      - D. J. Gates
+    corresponding_authors:
+      - J. Ross-Ibarra
+
   #Maize genetic diversity is largely unstructured by human ethnolinguistic diversity in its center of origin
-  -doi: 10.64898/2026.02.02.703385
-  preprint_doi: 10.1101/2026.02.02.703385
-  lab_authors:
-    - S. Snodgrass
-    - F. Li
-    - S. Mambakkam
-    - L. Sparreo
-    - M. Menon
-    - C. Perez
-  first_authors
-    - S. Snodgrass
-    - F. Li
-  corresponding_authors:
-    - S. Snodgrass
-    - F. Li
-    - J. Ross-Ibarra
+  - preprint_doi: 10.64898/2026.02.02.703385
+    lab_authors:
+      - S. Snodgrass
+      - F. Li
+      - S. Mambakkam
+      - L. Sparreo
+      - M. Menon
+      - C. Perez
+    first_authors:
+      - S. Snodgrass
+      - F. Li
+    corresponding_authors:
+      - S. Snodgrass
+      - F. Li
+      - J. Ross-Ibarra
 
   # The MexMAGIC population reveals the genetic architecture of clinal trait variation in Mexican native maize
-  -doi: 10.64898/2026.01.17.700095
-  preprint_doi: 10.1101/2026.01.17.700095
-  lab_authors:
-    - F. Li
+  - preprint_doi: 10.64898/2026.01.17.700095
+    lab_authors:
+      - F. Li
   
   # The origins and adaptive consequences of polyploidy in a dominant prairie grass
-  -doi: 10.1101/2025.11.25.690567
-  preprint_doi: 10.1101/2025.11.25.690567
-  lab authors:
-    - A. R. Phillips
-    - E. Cryan  
-    - J. Porter
-    - B. Solomon
-  corresponding_authors:
-    - A. R. Phillips
-    - J. Ross-Ibarra
+  - preprint_doi: 10.1101/2025.11.25.690567
+    lab_authors:
+      - A. R. Phillips
+      - E. Cryan  
+      - J. Porter
+      - B. Solomon
+    corresponding_authors:
+      - A. R. Phillips
+      - J. Ross-Ibarra
 
   #The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize
-  -doi: 10.1101/2025.11.03.686376
-  preprint_doi: 10.1101/2025.11.03.686376
-  lab_authors:
+  - preprint_doi: 10.1101/2025.11.03.686376
+    lab_authors:
   
   #Genome-wide selection on transposable elements in maize
-  -doi: 10.1101/2025.09.16.676665
-  preprint_doi: 10.1101/2025.09.16.676665
-  lab authors:
-    - B. Liu
-    - R. Fairbanks
-  corresponding_authors:
-    - B. Liu
-    - J. Ross-Ibarra
+  - preprint_doi: 10.1101/2025.09.16.676665
+    lab_authors:
+      - B. Liu
+      - R. Fairbanks
+    corresponding_authors:
+      - B. Liu
+      - J. Ross-Ibarra
 
   #HERITABILITY AND QTL MAPPING OF AERIAL ROOTS AND OTHER YIELD COMPONENT TRAITS WITH IMPLICATIONS FOR N2 FIXATION IN ZEA MAYS
-  -doi: 10.1101/2025.09.10.675198
-  lab_authors:
-    - J. Yang
-    - A. Lorant
-  corresponding_authors:
-    - J. Ross-Ibarra
+  - doi: 10.1101/2025.09.10.675198
+    title: "Heritability and QTL mapping of aerial roots and other yield component traits with implications for N2 fixation in Zea mays"
+    lab_authors:
+      - J. Yang
+      - A. Lorant
+    corresponding_authors:
+      - J. Ross-Ibarra
+
+  #Harnessing cross-border resources to confront climate change
+  - doi: 10.1016/j.envsci.2018.01.001
 
   # Two teosintes made modern maize
   # Authors: Ning Yang, Yuebin Wang, Xiangguo Liu, Minliang Jin, Miguel Vallebueno-Estrada, Erin Calfee, Lu Chen, Brian P. Dilkes, Songtao Gui, Xingming Fan, Thomas K. Harper, Douglas J. Kennett, Wenqiang Li, Yanli Lu, Junqiang Ding, Ziqi Chen, Jingyun Luo, Sowmya Mambakkam, Mitra Menon, Samantha Snodgrass, Carl Veller, Shenshen Wu, Siying Wu, Lin Zhuo, Yingjie Xiao, Xiaohong Yang, Michelle C. Stitzer, Daniel Runcie, Jianbing Yan, Jeffrey Ross-Ibarra
@@ -217,11 +250,6 @@ publications:
   # Authors: Lu Chen, Jingyun Luo, Minliang Jin, Ning Yang, Xiangguo Liu, Yong Peng, Wenqiang Li, Alyssa Phillips, Brenda Cameron, Julio S. Bernal, Rubén Rellán-Álvarez, Ruairidh J. H. Sawers, Qing Liu, Yuejia Yin, Xinnan Ye, Jiali Yan, Qinghua Zhang, Xiaoting Zhang, Shenshen Wu, Songtao Gui, Wenjie Wei, Yuebin Wang, Yun Luo, Chenglin Jiang, Min Deng, Min Jin, Liumei Jian, Yanhui Yu, Maolin Zhang, Xiaohong Yang, Matthew B. Hufford, Alisdair R. Fernie, Marilyn L. Warburton, Jeffrey Ross-Ibarra, Jianbing Yan
   - doi: 10.1038/s41588-022-01184-y
     preprint_doi: 10.1101/2022.06.03.494450
-    first_authors:
-      - Lu Chen
-      - Jingyun Luo
-      - Minliang Jin
-      - Ning Yang
     corresponding_authors:
       - J. Ross-Ibarra
       - J. Yan
@@ -269,12 +297,12 @@ publications:
   # Gene Fractionation and Function in the Ancient Subgenomes of Maize
   # Authors: Simon Renny-Byfield, Eli Rodgers-Melnick, Jeffrey Ross-Ibarra
   - doi: 10.1093/molbev/msx121
-      preprint_doi: 10.1101/095547
-      lab_authors:
-        - S. Renny-Byfield
-      corresponding_authors:
-        - J. Ross-Ibarra
-        - S. Renny-Byfield
+    preprint_doi: 10.1101/095547
+    lab_authors:
+      - S. Renny-Byfield
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - S. Renny-Byfield
 
   # Genome-wide selection and genetic improvement during modern maize breeding
   # Authors: Baobao Wang, Zechuan Lin, Xin Li, Yongping Zhao, Binbin Zhao, Guangxia Wu, Xiaojing Ma, Hai Wang, Yurong Xie, Quanquan Li, Guangshu Song, Dexin Kong, Zhigang Zheng, Hongbin Wei, Rongxin Shen, Hong Wu, Cuixia Chen, Zhaodong Meng, Tianyu Wang, Yu Li, Xinhai Li, Yanhui Chen, Jinsheng Lai, Matthew B. Hufford, Jeffrey Ross-Ibarra, Hang He, Haiyang Wang
@@ -365,23 +393,23 @@ publications:
   # Authors: Li Wang, Timothy M. Beissinger, Anne Lorant, Claudia Ross-Ibarra, Jeffrey Ross-Ibarra, Matthew B. Hufford
   - doi: 10.1186/s13059-017-1346-4
     preprint_doi: 10.1101/114579
-    - lab_authors:
+    lab_authors:
       - L. Wang
       - T. M. Beissinger
       - A. Lorant
       - C. Ross-Ibarra
-    - corresponding_authors:
+    corresponding_authors:
       - J. Ross-Ibarra
       - M. B. Hufford
 
   # Genomic insights into historical improvement of heterotic groups during modern hybrid maize breeding
   # Authors: Chunhui Li, Honghui Guan, Xin Jing, Yaoyao Li, Baobao Wang, Yongxiang Li, Xuyang Liu, Dengfeng Zhang, Cheng Liu, Xiaoqing Xie, Haiyan Zhao, Yanbo Wang, Jingbao Liu, Panpan Zhang, Guanghui Hu, Guoliang Li, Suiyan Li, Dequan Sun, Xiaoming Wang, Yunsu Shi, Yanchun Song, Chengzhi Jiao, Jeffrey Ross-Ibarra, Yu Li, Tianyu Wang, Haiyang Wang
   - doi: 10.1038/s41477-022-01190-2
-      corresponding_authors:
-        - J. Ross-Ibarra
-        - H. Wang
-        - Y. Li
-        - T. Wang
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - H. Wang
+      - Y. Li
+      - T. Wang
 
   # Transposable elements contribute to dynamic genome content in maize
   # Authors: Sarah N. Anderson, Michelle C. Stitzer, Alex B. Brohammer, Peng Zhou, Jaclyn M. Noshay, Christine H. O'Connor, Cory D. Hirsch, Jeffrey Ross‐Ibarra, Candice N. Hirsch, Nathan M. Springer
@@ -574,7 +602,7 @@ publications:
   # The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication
   # Authors: Qiuyue Chen, Luis Fernando Samayoa, Chin Jian Yang, Peter J. Bradbury, Bode A. Olukolu, Michael A. Neumeyer, Maria Cinta Romay, Qi Sun, Anne Lorant, Edward S. Buckler, Jeffrey Ross-Ibarra, James B. Holland, John F. Doebley
   - doi: 10.1371/journal.pgen.1008791
-    lab authors:
+    lab_authors:
       - A. Lorant
 
   # Environmental data provide marginal benefit for predicting climate adaptation
@@ -703,7 +731,7 @@ publications:
   # Molecular evolution of a reproductive barrier in maize and related species
   # Authors: Elli Cryan, Garnet Phinney, Arun S Seetharam, Matthew M S Evans, Elizabeth A Kellogg, Junpeng Zhan, Blake Meyers, Daniel J Kliebenstein, Jeffrey Ross-Ibarra
   - doi: 10.1093/genetics/iyaf085
-    lab authors:
+    lab_authors:
       - E. Cryan
       - G. Phinney
     corresponding_authors:
@@ -766,7 +794,7 @@ publications:
   # Authors: Luis Fernando Samayoa, Bode A. Olukolu, Chin Jian Yang, Qiuyue Chen, Markus G. Stetter, Alessandra M. York, Jose de Jesus Sanchez-Gonzalez, Jeffrey C. Glaubitz, Peter J. Bradbury, Maria Cinta Romay, Qi Sun, Jinliang Yang, Jeffrey Ross-Ibarra, Edward S. Buckler, John F. Doebley, James B. Holland
   - doi: 10.1371/journal.pgen.1009797
     preprint_doi: 10.1101/2021.09.01.458502
-    lab authors:
+    lab_authors:
       - M. G. Stetter
       - J. Yang
 
@@ -879,7 +907,7 @@ publications:
   # High Quality Maize Centromere 10 Sequence Reveals Evidence of Frequent Recombination Events
   # Authors: Thomas K. Wolfgruber, Megan M. Nakashima, Kevin L. Schneider, Anupma Sharma, Zidian Xie, Patrice S. Albert, Ronghui Xu, Paul Bilinski, R. Kelly Dawe, Jeffrey Ross-Ibarra, James A. Birchler, Gernot G. Presting
   - doi: 10.3389/fpls.2016.00308
-    lab authors:
+    lab_authors:
       - P. Bilinski
 
   # Maize diversity associated with social origin and environmental variation in Southern Mexico
@@ -895,7 +923,7 @@ publications:
   # Diversity and abundance of the abnormal chromosome 10 meiotic drive complex in Zea mays
   # Authors: L B Kanizay, T Pyhäjärvi, E G Lowry, M B Hufford, D G Peterson, J Ross-Ibarra, R K Dawe
   - doi: 10.1038/hdy.2013.2
-    lab authors:
+    lab_authors:
       - T. Pyhäjärvi
       - M. B. Hufford
 

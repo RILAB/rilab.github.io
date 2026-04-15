@@ -122,6 +122,8 @@ is_preprint_record <- function(doi, msg) {
   # path is purely numeric (bioRxiv/medRxiv style), not CSH journal DOIs
   # like Genome Research (gr.*), Genes & Dev (gad.*), etc.
   if (grepl("^10\\.1101/[0-9]", doi, ignore.case = TRUE)) return(TRUE)
+  # 10.64898 is a newer bioRxiv DOI prefix (same date-based path format)
+  if (grepl("^10\\.64898/[0-9]", doi, ignore.case = TRUE)) return(TRUE)
   ct <- tolower(paste(unlist(msg$`container-title`), collapse = " "))
   grepl("biorxiv|medrxiv|arxiv|preprint", ct)
 }
@@ -377,6 +379,7 @@ parse_pubs_yaml <- function(pubs_file) {
 
   for (pub in raw$publications %||% list()) {
     doi <- trimws(as.character(pub$doi %||% ""))
+    if (!nzchar(doi)) doi <- trimws(as.character(pub$preprint_doi %||% ""))
     if (!nzchar(doi)) next
     if (exists(doi, envir = seen, inherits = FALSE)) next
     assign(doi, TRUE, envir = seen)

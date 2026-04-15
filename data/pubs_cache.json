@@ -5529,7 +5529,7 @@
     "title": "Conserved noncoding sequences provide insights into regulatory sequence and loss of gene expression in maize",
     "abstract": "Thousands of species will be sequenced in the next few years; however, understanding how their genomes work, without an unlimited budget, requires both molecular and novel evolutionary approaches. We developed a sensitive sequence alignment pipeline to identify conserved noncoding sequences (CNSs) in the Andropogoneae tribe (multiple crop species descended from a common ancestor ∼18 million years ago). The Andropogoneae share similar physiology while being tremendously genomically diverse, harboring a broad range of ploidy levels, structural variation, and transposons. These contribute to the potential of Andropogoneae as a powerful system for studying CNSs and are factors we leverage to understand the function of maize CNSs. We found that 86% of CNSs were comprised of annotated features, including introns, UTRs, putative cis -regulatory elements, chromatin loop anchors, noncoding RNA (ncRNA) genes, and several transposable element superfamilies. CNSs were enriched in active regions of DNA replication in the early S phase of the mitotic cell cycle and showed different DNA methylation ratios compared to the genome-wide background. More than half of putative cis -regulatory sequences (identified via other methods) overlapped with CNSs detected in this study. Variants in CNSs were associated with gene expression levels, and CNS absence contributed to loss of gene expression. Furthermore, the evolution of CNSs was associated with the functional diversification of duplicated genes in the context of maize subgenomes. Our results provide a quantitative understanding of the molecular processes governing the evolution of CNSs in maize.",
     "year": 2021,
-    "is_preprint": true,
+    "is_preprint": false,
     "container_title": "Genome Research",
     "authors": [
       {
@@ -6990,6 +6990,1236 @@
       {
         "given": "Jeffrey",
         "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.64898/2026.02.26.708357": {
+    "doi": "10.64898/2026.02.26.708357",
+    "title": "Bias in diversity estimators and neutrality tests induced by neutral polymorphic structural variants",
+    "abstract": "Abstract Estimators of genetic diversity and neutrality tests derived from the site frequency spectrum (SFS), such as Watterson’s θ W , nucleotide diversity π , Tajima’s D , and Fay and Wu’s H , are designed to be interpreted relative to a baseline defined by the standard neutral SFS. In genomic regions strongly linked to a polymorphic structural variant (SV), deviations from these baselines occur even under strict neutrality: conditioning on an SV at known frequency partitions samples into SV and non-SV haplotypes and distorts the SFS for linked neutral mutations. These deviations are well understood for genomic inversions under long-term balancing selection. However, not all SVs are under strong selection, and the evolution of some SVs may be better approximated as neutral. Here we derive analytical expectations for the unfolded (and, when necessary, folded) SFS of single nucleotide polymorphisms conditional on neutral linked polymorphic SVs, including inversions, deletions, insertions, and introgressions. We use these expectations to quantify the resulting bias in standard diversity estimators and neutrality tests as a function of SV frequency and type. Finally, we discuss approaches to build corrected estimators of diversity and neutrality tests that are unbiased/centered after accounting for the presence and frequency of the SV.",
+    "year": 2026,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Sebastian E.",
+        "family": "Ramos-Onsins",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Mario",
+        "family": "Caceres",
+        "name": []
+      },
+      {
+        "given": "Luca",
+        "family": "Ferretti",
+        "name": []
+      }
+    ]
+  },
+  "10.64898/2026.02.02.703385": {
+    "doi": "10.64898/2026.02.02.703385",
+    "title": "Maize genetic diversity is largely unstructured by human ethnolinguistic diversity in its center of origin",
+    "abstract": "Abstract Population structure and environmental features often capture major axes of genetic variation in many species. Yet the impacts of human activity often remain unquantified. For domesticated species that rely on human activity for survival and dispersal, human movements and cultural differences may play key roles patterning genetic diversity. Maize is a staple crop of enormous cultural importance to indigenous peoples of the Americas, but cannot survive or disperse without farmers. Using publicly available genotyping and passport data from almost 2,000 traditional maize varieties, more than 500 whole genome sequences of humans from Mexico, and indigenous linguistic maps, we quantify anthropogenic effects on maize genetic diversity in the Americas. Maize shows very little overall structure, highlighting the effectiveness of indigenous farmers in moving and mixing maize populations. While principal components of maize diversity show meaningful correlations to human genetic diversity, our linear modeling suggests little additional impact of human population structure beyond shared geography. Though differences in maize diversity are often patterned by language locally, we find only weak genome-wide effects at larger spatial scales. Despite the relatively weak global signal of anthropogenic effects, linguistic GWAS, outlier F ST analyses, and selection scans identified loci associated with specific languages. Leveraging landscape-level sequencing data, we highlight how anthropogenic factors have shaped patterns of maize genetic diversity across Mesoamerica.",
+    "year": 2026,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Samantha",
+        "family": "Snodgrass",
+        "name": []
+      },
+      {
+        "given": "Forrest",
+        "family": "Li",
+        "name": []
+      },
+      {
+        "given": "Sowmya",
+        "family": "Mambakkam",
+        "name": []
+      },
+      {
+        "given": "Santiago G.",
+        "family": "Medina-Muñoz",
+        "name": []
+      },
+      {
+        "given": "Luke",
+        "family": "Sparreo",
+        "name": []
+      },
+      {
+        "given": "Mitra",
+        "family": "Menon",
+        "name": []
+      },
+      {
+        "given": "Claudia",
+        "family": "Perez",
+        "name": []
+      },
+      {
+        "given": "Namrata",
+        "family": "Kalsi",
+        "name": []
+      },
+      {
+        "given": "Amit Gourav",
+        "family": "Ghosh",
+        "name": []
+      },
+      {
+        "given": "Stephan C.",
+        "family": "Schuster",
+        "name": []
+      },
+      {
+        "given": "Hie Lim",
+        "family": "Kim",
+        "name": []
+      },
+      {
+        "given": "Andrés",
+        "family": "Moreno-Estrada",
+        "name": []
+      },
+      {
+        "given": "Daniel",
+        "family": "Runcie",
+        "name": []
+      },
+      {
+        "given": "Graham",
+        "family": "Coop",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.64898/2026.01.17.700095": {
+    "doi": "10.64898/2026.01.17.700095",
+    "title": "The MexMAGIC population reveals the genetic architecture of clinal trait variation in Mexican native maize",
+    "abstract": "ABSTRACT Defining the genetic basis of local adaptation is fundamental to evolutionary biology and crop improvement. Theory predicts that when selective pressures track differences in the environment, a cline will be established. Such clines might be exploited to uncover adaptive variation by association of alleles with environmental stressors. However, monotonic phenotypic change over a cline is not necessarily mirrored by adaptive genetic variants. Furthermore, population structure can complicate the interpretation of genotype-environment association. To test the assumptions of genotype-environment association in a crop species, we developed a multi-parent advanced generation inter-cross (MAGIC) population using eight Mexican native maize varieties sourced from distinct agroecological zones. We mapped two clinal traits (tassel branching and flowering time) differing in genetic architecture. Variation in tassel branch number was dominated by a single QTL with allele effects that aligned well with a negative elevational cline. In contrast, we mapped 11 flowering time QTL with allele effects that were not consistently correlated with any one source environmental factor and distinct loci donated by highland and lowland early maturing varieties. Our observations support the theoretical result that genotype-environment association will be strongest under simple genetic architecture, although identification of adaptive alleles may still be confounded by population structure. Plain Language: Nine thousand years of careful selection and cultivation by indigenous farmers has generated a rich diversity of native Mexican maize (corn) varieties, grown from sea level to high mountains, and from jungle to semidesert. By crossing native varieties adapted to different locations, we can uncover important genetic variants conferring tolerance to environmental stressors.",
+    "year": 2026,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Sergio",
+        "family": "Perez-Limón",
+        "name": []
+      },
+      {
+        "given": "Ana Laura",
+        "family": "Alonso-Nieves",
+        "name": []
+      },
+      {
+        "given": "M. Rosario",
+        "family": "Ramírez-Flores",
+        "name": []
+      },
+      {
+        "given": "G. Carolina",
+        "family": "Cintora-Martínez",
+        "name": []
+      },
+      {
+        "given": "M. Nancy",
+        "family": "Salazar-Vidal",
+        "name": []
+      },
+      {
+        "given": "Jessica",
+        "family": "Carcaño-Macías",
+        "name": []
+      },
+      {
+        "given": "Melanie G.",
+        "family": "Perryman",
+        "name": []
+      },
+      {
+        "given": "Oliver H. S.",
+        "family": "Paulson",
+        "name": []
+      },
+      {
+        "given": "Jagdeep S.",
+        "family": "Sidhu",
+        "name": []
+      },
+      {
+        "given": "Peng",
+        "family": "Yu",
+        "name": []
+      },
+      {
+        "given": "Victor",
+        "family": "Llaca",
+        "name": []
+      },
+      {
+        "given": "Kevin A.",
+        "family": "Fengler",
+        "name": []
+      },
+      {
+        "given": "Forrest",
+        "family": "Li",
+        "name": []
+      },
+      {
+        "given": "Daniel E.",
+        "family": "Runcie",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "C. Stewart",
+        "family": "Gillmor",
+        "name": []
+      },
+      {
+        "given": "Rubén",
+        "family": "Rellán-Álvarez",
+        "name": []
+      },
+      {
+        "given": "Ruairidh J. H.",
+        "family": "Sawers",
+        "name": []
+      }
+    ]
+  },
+  "10.1101/2025.11.25.690567": {
+    "doi": "10.1101/2025.11.25.690567",
+    "title": "The origins and adaptive consequences of polyploidy in a dominant prairie grass",
+    "abstract": "Abstract Polyploidy is ubiquitous across North American prairies, which provide essential ecosystem services and rich soil for agriculture. Yet the mechanism driving polyploid abundance is unclear. Multiple hypotheses have been proposed including polyploid abundance is proportional to the opportunity for whole genome duplication (WGD), and WGD alters phenotypes that may increase fitness. We tested these two hypotheses together in the mixed-ploidy species Andropogon gerardi , a dominant grass species in endangered North American tallgrass prairies. Leveraging a novel, phased allopolyploid reference genome, we found the A. gerardi hexaploid arose after the C 4 grassland expansion in the early Pleistocene, when glacial cycles likely increased secondary contact between the diploid progenitors. We sequenced A. gerardi from 25 popula-tions and examined cytotype performance and morphology in a controlled environment to investigate the consequences of the contemporary mixed-ploidy populations. We found the 9 x A. gerardi cytotype is a neopolyploid and a result of recurrent WGD events. Further, we demonstrate the 9 x neopolyploids have greater growth and a decreased stomatal pore index, which is adaptive in xeric climates where the 9 x cy-totype is most common. Together, our results support both hypotheses for polyploid abundance in North America: WGD is a product of opportunity and can have immediate fitness consequences. Although the changes to fitness may provide an advantage to 9 x A. gerardi , the establishment of 9 x may lower overall population fitness due to the lower reproductive viability of 9 x individuals. Significance statement Polyploid species are abundant in North American prairies and make up many of the dominant species in the ecosystem. This prominence could be a result of whole genome duplication conferring an advantage that increases the frequency of polyploids or could simply indicate that the opportunity for whole genome duplication is higher in this ecosystem, or both. Through examining three polyploidization events in A. gerardi , the dominant species in endangered tallgrass North American prairies, we found whole genome duplication is both surprisingly common and confers traits that are beneficial in some environments.",
+    "year": 2025,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Alyssa R.",
+        "family": "Phillips",
+        "name": []
+      },
+      {
+        "given": "Taylor",
+        "family": "AuBuchon-Elder",
+        "name": []
+      },
+      {
+        "given": "Kerrie",
+        "family": "Barry",
+        "name": []
+      },
+      {
+        "given": "Michelle",
+        "family": "Stitzer",
+        "name": []
+      },
+      {
+        "given": "Edward S.",
+        "family": "Buckler",
+        "name": []
+      },
+      {
+        "given": "Robert",
+        "family": "Bukowski",
+        "name": []
+      },
+      {
+        "given": "Brenda",
+        "family": "Cameron",
+        "name": []
+      },
+      {
+        "given": "Elli",
+        "family": "Cryan",
+        "name": []
+      },
+      {
+        "given": "Elisabeth",
+        "family": "Forrestel",
+        "name": []
+      },
+      {
+        "given": "Paul P.",
+        "family": "Grabowski",
+        "name": []
+      },
+      {
+        "given": "Jane",
+        "family": "Grimwood",
+        "name": []
+      },
+      {
+        "given": "Jerry",
+        "family": "Jenkins",
+        "name": []
+      },
+      {
+        "given": "Shengqiang",
+        "family": "Shu",
+        "name": []
+      },
+      {
+        "given": "Anna M.",
+        "family": "Lipzen",
+        "name": []
+      },
+      {
+        "given": "John T.",
+        "family": "Lovell",
+        "name": []
+      },
+      {
+        "given": "Patrick",
+        "family": "Minx",
+        "name": []
+      },
+      {
+        "given": "Julianna",
+        "family": "Porter",
+        "name": []
+      },
+      {
+        "given": "Daniel",
+        "family": "Runcie",
+        "name": []
+      },
+      {
+        "given": "Jeremy",
+        "family": "Schmutz",
+        "name": []
+      },
+      {
+        "given": "Britney",
+        "family": "Solomon",
+        "name": []
+      },
+      {
+        "given": "Jessica",
+        "family": "Stephens",
+        "name": []
+      },
+      {
+        "given": "Qi",
+        "family": "Sun",
+        "name": []
+      },
+      {
+        "given": "Melissa",
+        "family": "Williams",
+        "name": []
+      },
+      {
+        "given": "Yuko",
+        "family": "Yoshinaga",
+        "name": []
+      },
+      {
+        "given": "Sherry",
+        "family": "Flint-Garcia",
+        "name": []
+      },
+      {
+        "given": "M. Cinta",
+        "family": "Romay",
+        "name": []
+      },
+      {
+        "given": "Elizabeth A.",
+        "family": "Kellogg",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.1101/2025.11.03.686376": {
+    "doi": "10.1101/2025.11.03.686376",
+    "title": "The dominance of gene expression controlled by trans -eQTL hotspots contributes to phenotypic heterosis in maize",
+    "abstract": "ABSTRACT Heterosis, or hybrid vigor, is a key phenomenon in genetics research and agricultural production, and has been primarily attributed to non-additive genetic effects such as dominance — a prevailing consensus shaped by decades of empirical research and theoretical debate. Although dominance may arguably arise from distal modifiers, their selective advantage is debated due to presumably small individual effects. To address this long-standing question, particularly how genetic dominance manifests at the transcriptomic level and contributes to phenotypic heterosis, we integrated transcriptomic and phenotypic data from a large population of maize hybrids and their inbred parents. We found that ∼ 30% of the expressed seedling genes in a significant proportion of hybrids exhibited expression patterns deviating from the average of the two parents, indicative of non-additivity. Further analysis suggests that while hybrid gene expression per se is primarily regulated by cis -eQTLs, expression dominance (or non-additivity) is disproportionately controlled by trans -eQTLs. These trans -eQTLs cluster into hotspots that regulate the non-additivity of hundreds of target genes, mostly within co-expression networks, and are notably enriched for transcription factors (TFs). Focusing on one such hotspot, we functionally validated a classical maize gene ZmR1 , a basic helix-loop-helix (bHLH) TF associated with multiple seedling trait heterosis, as a candidate regulator of expression dominance across hundreds of genes. Overexpression of ZmR1 enhances expression dominance of downstream genes and increases phenotypic heterosis in both seedling and adult traits. Further experiments confirmed its direct regulatory role in modulating genes involved in anthocyanin biosynthesis and lignin metabolism, driving transcriptome-level dominance. These results provide empirical support for the modifier hypothesis under an omnigenic model, suggesting that heterosis arises not from the modification of a single gene’s inheritance but through the coordinated regulation of hundreds of phenotype-associated genes, thereby helping to reconcile the long-standing debate over the genetic basis of dominance in heterosis.",
+    "year": 2025,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Gen",
+        "family": "Xu",
+        "name": []
+      },
+      {
+        "given": "Xuerong",
+        "family": "Yang",
+        "name": []
+      },
+      {
+        "given": "Mingyue",
+        "family": "Zhang",
+        "name": []
+      },
+      {
+        "given": "Congbin",
+        "family": "Kang",
+        "name": []
+      },
+      {
+        "given": "Ziang",
+        "family": "Tian",
+        "name": []
+      },
+      {
+        "given": "Yunhui",
+        "family": "Qi",
+        "name": []
+      },
+      {
+        "given": "Meijie",
+        "family": "Luo",
+        "name": []
+      },
+      {
+        "given": "Peng",
+        "family": "Liu",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Jinliang",
+        "family": "Yang",
+        "name": []
+      },
+      {
+        "given": "Hongjun",
+        "family": "Liu",
+        "name": []
+      }
+    ]
+  },
+  "10.1101/2025.09.16.676665": {
+    "doi": "10.1101/2025.09.16.676665",
+    "title": "Genome-wide selection on transposable elements in maize",
+    "abstract": "ABSTRACT While most evolutionary research has focused on single nucleotide polymorphisms (SNPs), transposable elements (TEs) represent a major but understudied source of mutations that can influence organismal fitness. Previous studies on TEs often overlook the mechanisms and rates of transposition, rely on short-read sequencing that limits TE detection, or focus on small genomes such as Arabidopsis or Drosophila . In this study, we leveraged high-quality, long-read genome assemblies from 26 maize inbreds to investigate natural selection on TEs. We developed a novel and interpretable method, Φ SFS , which incorporates TE age and improves resolution for detecting selection. Using this approach, we identified key factors influencing selection on TEs: (1) the distance to the nearest gene, (2) the pre-insertion DNA methylation level at the insertion site, and (3) intrinsic TE characteristics, including copy number and expression level. This work represents the first application of long-read genome assemblies to study TE selection in a major crop species with a typical plant genome size. Our Φ SFS method offers a broadly applicable framework for detecting selection on TEs, and the factors uncovered provide new insights into the evolutionary dynamics and trade-offs between TEs and host genes.",
+    "year": 2025,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Beibei",
+        "family": "Liu",
+        "name": []
+      },
+      {
+        "given": "Manisha",
+        "family": "Munasinghe",
+        "name": []
+      },
+      {
+        "given": "Regina A.",
+        "family": "Fairbanks",
+        "name": []
+      },
+      {
+        "given": "Candice N.",
+        "family": "Hirsch",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.1101/2025.09.10.675198": {
+    "doi": "10.1101/2025.09.10.675198",
+    "title": "HERITABILITY AND QTL MAPPING OF AERIAL ROOTS AND OTHER YIELD COMPONENT TRAITS WITH IMPLICATIONS FOR N 2 FIXATION IN ZEA MAYS",
+    "abstract": "ABSTRACT Zea mays L. spp. mays (hereafter maize) populations from an indigenous community of Mexico have been reported to perform well using traditional cultivation practices that exclude industrial fertilizers despite low soil nitrate levels. The local maize cultivar is characterized by extended maturity, tall stature, and presence of thick aerial roots that secrete an abundance of polysaccharide-rich root exudate, or mucilage, that is implicated in the recruitment of diazotrophic microbes to facilitate biological nitrogen fixation. Here we estimate the broad sense heritability of traits related to nitrogen fixation in a panel of Zea entries spanning pre-domestication, post-domestication and post-improvement, and identify QTL via F2:F3 families for traits including aerial root node counts and various other yield related traits ( i.e. germination rate, time to reproductive maturity, total biomass and nitrogen content of shoot and grain). Across two separate field studies, aerial root node count (AR) demonstrates heritability of 64% and 73%, and genetic mapping reveals three distinct QTL distributed on chromosomes 1 and 9. Further, we report novel QTL for germination rate via stand counts after direct sowing (SC), Plant Total Nitrogen (PTN), Plant Dry Mass (PDM), and a joint QTL for Grain Total Nitrogen (GTN) and Grain Dry Mass (GDM). Finally, we identify overlap between QTL for multiple traits (including AR and SC) and regions of elevated introgression from wild Zea mays L. spp. mexicana (hereafter mexicana ) into Totontepec maize, with a greater degree of overlap than expected under a uniform genomic distribution suggesting adaptive introgression from mexicana . Given its pronounced aerial root morphology, we propose that mexicana is the ancestral source for prominent aerial roots and corresponding abundant mucilage production in Totontepec maize and other maize traditional varieties. ARTICLE SUMMARY Zea mays aerial roots (AR) and mucilage have been implicated in diazotrophic recruitment. This study estimates heritability and identifies QTL for AR and yield components via a diverse panel of Zea entries and F2:F3 mapping populations. Genetic mapping reveals three QTL for AR and several QTL for other yield traits, both novel and previously reported. This study also compares QTL and regions of elevated introgression from wild Zea mays L. spp. mexicana (hereafter mexicana ) into a native cultivar. For AR QTL, enrichment for mexicana -derived haplotypes is greater than expected under a uniform genomic distribution, suggesting adaptive introgression from mexicana .",
+    "year": 2025,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "David A.",
+        "family": "O’Donnell",
+        "name": []
+      },
+      {
+        "given": "Jinliang",
+        "family": "Yang",
+        "name": []
+      },
+      {
+        "given": "Pablo",
+        "family": "Zamora",
+        "name": []
+      },
+      {
+        "given": "Anne",
+        "family": "Lorant",
+        "name": []
+      },
+      {
+        "given": "Chenyong",
+        "family": "Miao",
+        "name": []
+      },
+      {
+        "given": "Allen",
+        "family": "Van Deynze",
+        "name": []
+      },
+      {
+        "given": "Alan",
+        "family": "Bennett",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.1101/706739": {
+    "doi": "10.1101/706739",
+    "title": "Single-gene resolution of locally adaptive genetic variation in Mexican maize",
+    "abstract": "Abstract Threats to crop production due to climate change are one of the greatest challenges facing plant breeders today. While considerable adaptive variation exists in traditional landraces, natural populations of crop wild relatives, and ex situ germplasm collections, separating adaptive alleles from linked deleterious variants that impact agronomic traits is challenging and has limited the utility of these diverse germplasm resources. Modern genome editing techniques such as CRISPR offer a potential solution by targeting specific alleles for transfer to new backgrounds, but such methods require a higher degree of precision than traditional mapping approaches can achieve. Here we present a high-resolution genome-wide association analysis to identify loci exhibiting adaptive patterns in a large panel of more than 4500 traditional maize landraces representing the breadth of genetic diversity of maize in Mexico. We evaluate associations between genotype and plant performance in 13 common gardens across a range of environments, identifying hundreds of candidate genes underlying genotype by environment interaction. We further identify genetic associations with environment across Mexico and show that such loci are associated with variation in yield and flowering time in our field trials and predict performance in independent drought trials. Our results indicate that the variation necessary to adapt crops to changing climate exists in traditional landraces that have been subject to ongoing environmental adaptation and can be identified by both phenotypic and environmental association.",
+    "year": 2019,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Daniel J",
+        "family": "Gates",
+        "name": []
+      },
+      {
+        "given": "Dan",
+        "family": "Runcie",
+        "name": []
+      },
+      {
+        "given": "Garrett M.",
+        "family": "Janzen",
+        "name": []
+      },
+      {
+        "given": "Alberto Romero",
+        "family": "Navarro",
+        "name": []
+      },
+      {
+        "given": "Martha",
+        "family": "Willcox",
+        "name": []
+      },
+      {
+        "given": "Kai",
+        "family": "Sonder",
+        "name": []
+      },
+      {
+        "given": "Samantha J.",
+        "family": "Snodgrass",
+        "name": []
+      },
+      {
+        "given": "Fausto",
+        "family": "Rodríguez-Zapata",
+        "name": []
+      },
+      {
+        "given": "Ruairidh J. H.",
+        "family": "Sawers",
+        "name": []
+      },
+      {
+        "given": "Rubén",
+        "family": "Rellán-Álvarez",
+        "name": []
+      },
+      {
+        "given": "Edward S.",
+        "family": "Buckler",
+        "name": []
+      },
+      {
+        "given": "Sarah",
+        "family": "Hearne",
+        "name": []
+      },
+      {
+        "given": "Matthew B.",
+        "family": "Hufford",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.1007/978-3-319-97427-9_19": {
+    "doi": "10.1007/978-3-319-97427-9_19",
+    "title": "Evolution and Adaptation in the Maize Genome",
+    "abstract": "Abstract unavailable.",
+    "year": 2018,
+    "is_preprint": false,
+    "container_title": "Compendium of Plant Genomes",
+    "authors": [
+      {
+        "given": "Nancy",
+        "family": "Manchanda",
+        "name": []
+      },
+      {
+        "given": "Samantha J.",
+        "family": "Snodgrass",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Matthew B.",
+        "family": "Hufford",
+        "name": []
+      }
+    ]
+  },
+  "10.2307/3558332": {
+    "doi": "10.2307/3558332",
+    "title": "Implications of mating patterns for conservation of the endangered plant Eriogonum ovalifolium var. vineum (Polygonaceae)",
+    "abstract": "Mating patterns have direct application to conservation because of their influence on structuring genetic diversity within and among populations and on maintaining that diversity over time. We measured population and family outcrossing rates, biparental inbreeding, correlation of outcrossed paternity, and inbreeding coefficients in six populations from throughout the ecological range of the endangered plant Eriogonum ovalifolium var. vineum using naturally pollinated families. The taxon was primarily outcrossed: population outcrossing rates averaged 0.80 (SE 0.03) and family outcrossing rates averaged 0.88 (SE 0.03); neither rate varied among populations. Five population rates were significantly different from 1 while family rates differed from 1 in only one population. We found high correlated outcrossed paternity and evidence for biparental inbreeding in five populations each. As expected from the predominantly outcrossed mating system, levels of diversity were high and inbreeding coefficients among maternal individuals were low (averaging −0.05, SE 0.12). Differences between inbreeding coefficients of progeny (average 0.21, SE 0.06) and mothers indicated selection against homozygous offspring. These results indicate that it is important to maintain large populations to prevent increases in inbreeding and to maintain pollinator communities to facilitate outcrossing.",
+    "year": 2001,
+    "is_preprint": false,
+    "container_title": "American Journal of Botany",
+    "authors": [
+      {
+        "given": "Maile C.",
+        "family": "Neel",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross‐Ibarra",
+        "name": []
+      },
+      {
+        "given": "Norman C.",
+        "family": "Ellstrand",
+        "name": []
+      }
+    ]
+  },
+  "10.1126/science.314.5804.1388": {
+    "doi": "10.1126/science.314.5804.1388",
+    "title": "Mitochondrial DNA and Population Size",
+    "abstract": "Abstract unavailable.",
+    "year": 2006,
+    "is_preprint": false,
+    "container_title": "Science",
+    "authors": [
+      {
+        "given": "Oliver F.",
+        "family": "Berry",
+        "name": []
+      }
+    ]
+  },
+  "10.1007/s10722-013-0015-z": {
+    "doi": "10.1007/s10722-013-0015-z",
+    "title": "Population genetics and ethnobotany of cultivated Diospyros riojae Gómez Pompa (Ebenaceae), an endangered fruit crop from Mexico",
+    "abstract": "Abstract unavailable.",
+    "year": 2013,
+    "is_preprint": false,
+    "container_title": "Genetic Resources and Crop Evolution",
+    "authors": [
+      {
+        "given": "Mitchell C.",
+        "family": "Provance",
+        "name": []
+      },
+      {
+        "given": "Ignacio",
+        "family": "García-Ruiz",
+        "name": []
+      },
+      {
+        "given": "Casper",
+        "family": "Thommes",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.1017/S0266467410000064": {
+    "doi": "10.1017/S0266467410000064",
+    "title": "Reproductive biology of Macleania rupestris (Ericaceae), a pollen-limited Neotropical cloud-forest species in Costa Rica",
+    "abstract": "The reproductive success of hummingbird-pollinated plants often depends on complex interactions between environmental conditions and pollinator biology (Navarro 1999, Stiles 1985, Wolf et al . 1976). The effect of environment on reproductive success of hummingbird-pollinated plants is particularly pronounced at high altitudes, where large daily fluctuations in temperature, relative humidity and solar radiation limit the effective time for photosynthesis (Cavieres et al . 2000) and affect foraging activity (Navarro 1999) and abundance of pollinators (Rahbek 1997). At high altitudes in the tropical cloud forests of Costa Rica these factors may have serious impacts on fruit production.",
+    "year": 2010,
+    "is_preprint": false,
+    "container_title": "Journal of Tropical Ecology",
+    "authors": [
+      {
+        "given": "Eric J.",
+        "family": "Fuchs",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Gilbert",
+        "family": "Barrantes",
+        "name": []
+      }
+    ]
+  },
+  "10.1525/msem.2003.19.2.287": {
+    "doi": "10.1525/msem.2003.19.2.287",
+    "title": "Origen y domesticación de la chaya ( Cnidoscolus aconitifolius Mill I. M. Johnst): La espinaca Maya",
+    "abstract": "Mesoamerica has been one of the most active centers of plant domestication worldwide. Along with the many well-known and economically important plants that originated in Mesoamerica exist a variety of other lesser known domesticated plants many of which remain important on a local or regional scale. One of these lesser known plants is chaya (Cnidoscolus aconitifolius, Euphorbiaceae), a shrub cultivated for its highly nutritious leaves. The article presents evidence bearing on the domestication and place of origin of the cultivated varieties of chaya and proposes a model describing the process of their domestication. Mesoamérica ha sido uno de los centros de domesticación más activos a nivel mundial. Junto con las muchas plantas económicas y conocidas de origen Mesoamericana, existen varias plantas domesticadas no tan conocidas, que sin embargo siguen siendo importantes a un nivel local o regional. Una de estas últimas es la chaya (Cnidoscolus aconitifolius,Euphorbiaceae), un arbusto cultivado por sus hojas nutritivas. Se presenta aquí evidencia de la domesticación y lugar de origen de las variedades cultivadas de la chaya, y se propone un modelo para describir su processo de domesticación.",
+    "year": 2003,
+    "is_preprint": false,
+    "container_title": "Mexican Studies/Estudios Mexicanos",
+    "authors": [
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
+  },
+  "10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2": {
+    "doi": "10.1663/0013-0001(2002)056[0350:TEOCCA]2.0.CO;2",
+    "title": "The Ethnobotany of Chaya (Cnidoscolus Aconitifolius ssp. Aconitifolius Breckon): A Nutritious Maya Vegetable1",
+    "abstract": "Abstract unavailable.",
+    "year": 2002,
+    "is_preprint": false,
+    "container_title": "Economic Botany",
+    "authors": [
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Alvaro",
+        "family": "Molina-Cruz",
+        "name": []
+      }
+    ]
+  },
+  "10.1016/j.envsci.2018.01.001": {
+    "doi": "10.1016/j.envsci.2018.01.001",
+    "title": "Harnessing cross-border resources to confront climate change",
+    "abstract": "Abstract unavailable.",
+    "year": 2018,
+    "is_preprint": false,
+    "container_title": "Environmental Science &amp; Policy",
+    "authors": [
+      {
+        "given": "Octavio",
+        "family": "Aburto-Oropeza",
+        "name": []
+      },
+      {
+        "given": "Andrew F.",
+        "family": "Johnson",
+        "name": []
+      },
+      {
+        "given": "Mickey",
+        "family": "Agha",
+        "name": []
+      },
+      {
+        "given": "Edith B.",
+        "family": "Allen",
+        "name": []
+      },
+      {
+        "given": "Michael F.",
+        "family": "Allen",
+        "name": []
+      },
+      {
+        "given": "Jesús Arellano",
+        "family": "González",
+        "name": []
+      },
+      {
+        "given": "Diego M.",
+        "family": "Arenas Moreno",
+        "name": []
+      },
+      {
+        "given": "Rodrigo",
+        "family": "Beas-Luna",
+        "name": []
+      },
+      {
+        "given": "Scott",
+        "family": "Butterfield",
+        "name": []
+      },
+      {
+        "given": "Gabriel",
+        "family": "Caetano",
+        "name": []
+      },
+      {
+        "given": "Jennifer E.",
+        "family": "Caselle",
+        "name": []
+      },
+      {
+        "given": "Gamaliel Castañeda",
+        "family": "Gaytán",
+        "name": []
+      },
+      {
+        "given": "Max C.N.",
+        "family": "Castorani",
+        "name": []
+      },
+      {
+        "given": "Linh Anh",
+        "family": "Cat",
+        "name": []
+      },
+      {
+        "given": "Kyle",
+        "family": "Cavanaugh",
+        "name": []
+      },
+      {
+        "given": "Jeffrey Q.",
+        "family": "Chambers",
+        "name": []
+      },
+      {
+        "given": "Robert D.",
+        "family": "Cooper",
+        "name": []
+      },
+      {
+        "given": "Nur",
+        "family": "Arafeh-Dalmau",
+        "name": []
+      },
+      {
+        "given": "Todd",
+        "family": "Dawson",
+        "name": []
+      },
+      {
+        "given": "Aníbal Díaz",
+        "family": "de la Vega Pérez",
+        "name": []
+      },
+      {
+        "given": "Joseph F.C.",
+        "family": "DiMento",
+        "name": []
+      },
+      {
+        "given": "Saúl Domínguez",
+        "family": "Guerrero",
+        "name": []
+      },
+      {
+        "given": "Matthew",
+        "family": "Edwards",
+        "name": []
+      },
+      {
+        "given": "Joshua R.",
+        "family": "Ennen",
+        "name": []
+      },
+      {
+        "given": "Hector",
+        "family": "Estrada-Medina",
+        "name": []
+      },
+      {
+        "given": "Natalia",
+        "family": "Fierro-Estrada",
+        "name": []
+      },
+      {
+        "given": "Héctor",
+        "family": "Gadsden",
+        "name": []
+      },
+      {
+        "given": "Patricia",
+        "family": "Galina-Tessaro",
+        "name": []
+      },
+      {
+        "given": "Paul M.",
+        "family": "Gibbons",
+        "name": []
+      },
+      {
+        "given": "Eric V.",
+        "family": "Goode",
+        "name": []
+      },
+      {
+        "given": "Morgan E.",
+        "family": "Gorris",
+        "name": []
+      },
+      {
+        "given": "Thomas",
+        "family": "Harmon",
+        "name": []
+      },
+      {
+        "given": "Susanna",
+        "family": "Hecht",
+        "name": []
+      },
+      {
+        "given": "Marco Antonio",
+        "family": "Heredia Fragoso",
+        "name": []
+      },
+      {
+        "given": "Alan",
+        "family": "Hernández-Solano",
+        "name": []
+      },
+      {
+        "given": "Danae",
+        "family": "Hernández-Cortés",
+        "name": []
+      },
+      {
+        "given": "Gustavo",
+        "family": "Hernández-Carmona",
+        "name": []
+      },
+      {
+        "given": "Scott",
+        "family": "Hillard",
+        "name": []
+      },
+      {
+        "given": "Raymond B.",
+        "family": "Huey",
+        "name": []
+      },
+      {
+        "given": "Matthew B.",
+        "family": "Hufford",
+        "name": []
+      },
+      {
+        "given": "G. Darrel",
+        "family": "Jenerette",
+        "name": []
+      },
+      {
+        "given": "Juan",
+        "family": "Jiménez-Osornio",
+        "name": []
+      },
+      {
+        "given": "Karla Joana",
+        "family": "López-Nava",
+        "name": []
+      },
+      {
+        "given": "Rafael A.",
+        "family": "Lara Reséndiz",
+        "name": []
+      },
+      {
+        "given": "Heather M.",
+        "family": "Leslie",
+        "name": []
+      },
+      {
+        "given": "Alejandro",
+        "family": "López-Feldman",
+        "name": []
+      },
+      {
+        "given": "Víctor H.",
+        "family": "Luja",
+        "name": []
+      },
+      {
+        "given": "Norberto Martínez",
+        "family": "Méndez",
+        "name": []
+      },
+      {
+        "given": "William J.",
+        "family": "Mautz",
+        "name": []
+      },
+      {
+        "given": "Josué",
+        "family": "Medellín-Azuara",
+        "name": []
+      },
+      {
+        "given": "Cristina",
+        "family": "Meléndez-Torres",
+        "name": []
+      },
+      {
+        "given": "Fausto R. Méndez",
+        "family": "de la Cruz",
+        "name": []
+      },
+      {
+        "given": "Fiorenza",
+        "family": "Micheli",
+        "name": []
+      },
+      {
+        "given": "Donald B.",
+        "family": "Miles",
+        "name": []
+      },
+      {
+        "given": "Giovanna",
+        "family": "Montagner",
+        "name": []
+      },
+      {
+        "given": "Gabriela",
+        "family": "Montaño-Moctezuma",
+        "name": []
+      },
+      {
+        "given": "Johannes",
+        "family": "Müller",
+        "name": []
+      },
+      {
+        "given": "Paulina",
+        "family": "Oliva",
+        "name": []
+      },
+      {
+        "given": "José Abraham",
+        "family": "Ortinez Álvarez",
+        "name": []
+      },
+      {
+        "given": "J. Pablo",
+        "family": "Ortiz-Partida",
+        "name": []
+      },
+      {
+        "given": "Julio",
+        "family": "Palleiro-Nayar",
+        "name": []
+      },
+      {
+        "given": "Víctor Hugo",
+        "family": "Páramo Figueroa",
+        "name": []
+      },
+      {
+        "given": "P. Ed.",
+        "family": "Parnell",
+        "name": []
+      },
+      {
+        "given": "Peter",
+        "family": "Raimondi",
+        "name": []
+      },
+      {
+        "given": "Arturo",
+        "family": "Ramírez-Valdez",
+        "name": []
+      },
+      {
+        "given": "James T.",
+        "family": "Randerson",
+        "name": []
+      },
+      {
+        "given": "Daniel C.",
+        "family": "Reed",
+        "name": []
+      },
+      {
+        "given": "Meritxell",
+        "family": "Riquelme",
+        "name": []
+      },
+      {
+        "given": "Teresita Romero",
+        "family": "Torres",
+        "name": []
+      },
+      {
+        "given": "Philip C.",
+        "family": "Rosen",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Victor",
+        "family": "Sánchez-Cordero",
+        "name": []
+      },
+      {
+        "given": "Samuel",
+        "family": "Sandoval-Solis",
+        "name": []
+      },
+      {
+        "given": "Juan Carlos",
+        "family": "Santos",
+        "name": []
+      },
+      {
+        "given": "Ruairidh",
+        "family": "Sawers",
+        "name": []
+      },
+      {
+        "given": "Barry",
+        "family": "Sinervo",
+        "name": []
+      },
+      {
+        "given": "Jack W.",
+        "family": "Sites",
+        "name": []
+      },
+      {
+        "given": "Oscar",
+        "family": "Sosa-Nishizaki",
+        "name": []
+      },
+      {
+        "given": "Travis",
+        "family": "Stanton",
+        "name": []
+      },
+      {
+        "given": "Jared R.",
+        "family": "Stapp",
+        "name": []
+      },
+      {
+        "given": "Joseph A.E.",
+        "family": "Stewart",
+        "name": []
+      },
+      {
+        "given": "Jorge",
+        "family": "Torre",
+        "name": []
+      },
+      {
+        "given": "Guillermo",
+        "family": "Torres-Moye",
+        "name": []
+      },
+      {
+        "given": "Kathleen K.",
+        "family": "Treseder",
+        "name": []
+      },
+      {
+        "given": "Jorge",
+        "family": "Valdez-Villavicencio",
+        "name": []
+      },
+      {
+        "given": "Fernando I.",
+        "family": "Valle Jiménez",
+        "name": []
+      },
+      {
+        "given": "Mercy",
+        "family": "Vaughn",
+        "name": []
+      },
+      {
+        "given": "Luke",
+        "family": "Welton",
+        "name": []
+      },
+      {
+        "given": "Michael F.",
+        "family": "Westphal",
+        "name": []
+      },
+      {
+        "given": "Guillermo",
+        "family": "Woolrich-Piña",
+        "name": []
+      },
+      {
+        "given": "Antonio",
+        "family": "Yunez-Naude",
+        "name": []
+      },
+      {
+        "given": "José A.",
+        "family": "Zertuche-González",
+        "name": []
+      },
+      {
+        "given": "J. Edward",
+        "family": "Taylor",
         "name": []
       }
     ]
