@@ -52,7 +52,7 @@ for (i in seq_len(nrow(people))) {
               row$image, row$name))
   cat("<div class=\"person-meta\">\n")
   cat(sprintf("<p>%s</p>\n", name_line))
-  cat(sprintf("<button class=\"bio-btn\" data-name=\"%s\" data-bio=\"%s\">Bio</button>\n",
+  cat(sprintf("<a href=\"#\" class=\"bio-btn\" data-name=\"%s\" data-bio=\"%s\">Bio</a>\n",
               gsub('"', '&quot;', row$name), gsub('"', '&quot;', row$bio)))
   cat("</div>\n")
   cat("</div>\n")

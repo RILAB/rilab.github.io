@@ -74,19 +74,10 @@ img {
 }
 
 .bio-btn {
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
   font-size: 1.5rem;
   font-weight: 600;
-  color: #2470b3;
+  display: inline-block;
   margin-top: 2px;
-}
-
-.bio-btn:hover {
-  color: #1a5a8a;
-  text-decoration: underline;
 }
 
 .bio-modal-overlay {
