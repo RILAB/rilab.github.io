@@ -1,3 +1,8 @@
+.container {
+  max-width: 1600px;
+  width: 95%;
+}
+
 .col2 {
   columns: 2 200px;
   -webkit-column: 2 200px;
@@ -32,21 +37,21 @@ img {
 }
 
 .people-list {
-  column-count: 2;
-  column-gap: 32px;
+  column-count: 4;
+  column-gap: 24px;
 }
 
 .person-card {
   break-inside: avoid;
   display: flex;
-  gap: 12px;
+  gap: 10px;
   margin-bottom: 18px;
   align-items: flex-start;
 }
 
 .person-photo {
   border: 10px solid white;
-  width: 125px;
+  width: 115px;
   height: auto !important;
   max-height: none;
   object-fit: contain;
@@ -68,9 +73,90 @@ img {
   vertical-align: middle;
 }
 
+.bio-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #2470b3;
+  margin-top: 2px;
+}
+
+.bio-btn:hover {
+  color: #1a5a8a;
+  text-decoration: underline;
+}
+
+.bio-modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+}
+
+.bio-modal-overlay.active {
+  display: flex;
+}
+
+.bio-modal {
+  background: #fff;
+  border-radius: 8px;
+  padding: 28px 32px;
+  max-width: 520px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+}
+
+.bio-modal h3 {
+  margin: 0 0 12px;
+  font-size: 1.6rem;
+}
+
+.bio-modal p {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.bio-modal-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: #666;
+  line-height: 1;
+}
+
+.bio-modal-close:hover {
+  color: #000;
+}
+
+@media (max-width: 1300px) {
+  .people-list {
+    column-count: 3;
+  }
+}
+
 @media (max-width: 900px) {
   .people-list {
-    columns: 1 320px;
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .people-list {
+    column-count: 1;
   }
 }
 
