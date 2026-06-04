@@ -22,7 +22,17 @@ We're proud of the growing list of journal clubs modelled on ours, including  [C
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2026
-### May 
+### June
+#### June 5
+[Wang et al preprint](https://www.biorxiv.org/content/10.64898/2026.02.23.707523v1) The dynamics of introgression across an adaptive radiation: examining hybrid speciation and parallel adaptation in North American Vitis
+
+### May
+#### May 29
+[Pineau et al 2026](https://www.pnas.org/doi/10.1073/pnas.2531142123) Genomic ancestry predicts rapid responses to drought across spatiotemporal scales
+
+#### May 22
+No POP:CORN
+
 #### May 15
 [Presgraves et al 2026](https://academic.oup.com/mbe/article/43/2/msag020/8441737?login=false) The evolutionary genomics of meiotic drive 
 
