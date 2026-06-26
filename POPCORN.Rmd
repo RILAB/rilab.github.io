@@ -10,8 +10,6 @@ To be aware of any last-minute changes, please [email Jeff](mailto:rossibarra@uc
 
 Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_jclub.html).
 
-We're proud of the growing list of journal clubs modelled on ours, including  [C.A.M.P.](http://www.public.iastate.edu/~mhufford/HuffordLab/camp/camp.html), [E.H.R.A.B.](http://hagenetics.org/?cat=6), [(Re)views](https://t.co/LYhSgcrgnZ),   [esfoyaza](https://github.com/sawers-rellan-labs/esfoyaza), [Q.U.I.T.](http://jyanglab.com/jc/), [p.r.o.s.t.](https://brandvainlab.wordpress.com/p-r-o-s-t/), [frydomics](https://github.com/arundurvasula/frydomics/blob/master/README.md), and [C.R.O.P.](https://www.cropevolution.org/reading.html)
-
 
 <!-- [Peer Rebrew](https://kevinabird.wixsite.com/kevinbird/peer-rebrew). -->
 <!-- [EvolFri](http://evolfri.blogspot.com/), -->
@@ -22,7 +20,33 @@ We're proud of the growing list of journal clubs modelled on ours, including  [C
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2026
+### August
+#### August 7
+[Rees et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.18.729863v1.abstract) Joint dog and wolf genealogies reveal the evolution of the canine genome
+
+### July
+#### July 31
+[Huang et al 2026](https://www.nature.com/articles/s41586-026-10575-8) Teosinte alleles enhance nitrogen assimilation and seed protein in maize
+
+#### July 24
+[Brielle et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.07.724338v1?ct=) Buried in two places: Lineages from elite Maya tombs also found in distant caves
+
+#### July 17
+[Piovesan et al 2026](https://www.pnas.org/doi/10.1073/pnas.2529341123) Ancient oaks reveal rewilding of Mediterranean forests after the Black Death
+
+#### July 10
+[Mattila et al preprint](https://ecoevorxiv.org/repository/view/12081/) Population genomic processes in Brassicaceae in the light of mating system variation
+
+#### July 3
+[Zhang et al 2025](https://www.nature.com/articles/s41477-025-01905-1?fromPaywallRec=false) Transposon proliferation drives genome architecture and regulatory evolution in wild and domesticated peppers
+
 ### June
+#### June 19
+No POP:CORN
+
+#### June 12
+No POP:CORN
+
 #### June 5
 [Wang et al preprint](https://www.biorxiv.org/content/10.64898/2026.02.23.707523v1) The dynamics of introgression across an adaptive radiation: examining hybrid speciation and parallel adaptation in North American Vitis
 
