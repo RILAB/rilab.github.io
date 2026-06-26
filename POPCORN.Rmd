@@ -41,6 +41,9 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_j
 [Zhang et al 2025](https://www.nature.com/articles/s41477-025-01905-1?fromPaywallRec=false) Transposon proliferation drives genome architecture and regulatory evolution in wild and domesticated peppers
 
 ### June
+#### June 26
+[Madrigal-Roca et al preprint](https://www.biorxiv.org/content/10.64898/2026.05.18.725996) The dynamics of "silent" variation in Mimulus guttatus: Codon usage bias and linked selection
+
 #### June 19
 No POP:CORN
 
