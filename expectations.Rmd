@@ -79,3 +79,57 @@ I feel strongly that open science is important. We write papers on github or [ov
 - Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors, communal sampling and field work etc). Participate in talk rehearsals of your colleagues.  
 - Present multiple research talks/posters at conferences over the course of your time in the lab. You are encouraged to do so annually, but this isn't always possible.
 - Optional, but encouraged: Mentor at least one undergraduate student.
+
+## AI Usage Policy
+
+This section outlines RILab guidelines for using AI tools in research, writing, and coding. The expectations differ by experience level: what is appropriate for an expert may not be appropriate for a beginner, because part of training is learning to do the work yourself first.
+
+### General Best Practices
+
+These principles apply to everyone in the lab, regardless of experience level:
+
+- **Always check** AI output before relying on it.
+- **Ask for sources** and verify them.
+- **Accountability** — independently validate what the AI produces.
+- **Ask questions about assumptions** the AI (or you) may be making.
+- **Ask before sharing others' writing and code** with AI tools.
+- **Feedback from a human** will almost always be more helpful than AI.
+- **When in doubt, ask someone!**
+- **Should you learn it?** If knowing this is important to your development, do it yourself. If not, you can use AI.
+- **Generally:** Could you do it without AI? If not, do not use it until you can.
+- **Ask for point-by-point** review of text, rather than have AI rewrite anything.
+- **Ask to see code** rather than blindly accepting it.
+- **Reading, interpreting facts, and synthesizing content are core scholarly skills you are expected to develop and own.**
+- **AI should never** outline a draft or rewrite your writing — the thinking embedded in drafting and writing is yours to do.
+
+### Usage Guidelines by Experience Level
+
+The tables below specify what is appropriate at each level across three task categories — writing, research, and coding & analysis — under three permission tiers:
+
+- **Never okay** — do not use AI for these tasks.
+- **Case-by-case** — acceptable in some situations; use judgment and check in if unsure.
+- **Always okay** — AI use is fine for these tasks.
+
+#### Beginner
+
+| Category | Never okay | Case-by-case | Always okay |
+|---|---|---|---|
+| **Writing** | Outline a draft; rewrite anything | — | Typos and spelling |
+| **Research** | Read; interpret facts; synthesize content | Find articles | Basic facts (with a source) |
+| **Coding & analysis** | Basic syntax; writing functions; writing a whole pipeline | Code review (checking for errors) | Explaining code |
+
+#### Intermediate
+
+| Category | Never okay | Case-by-case | Always okay |
+|---|---|---|---|
+| **Writing** | Outline a draft; rewrite anything | Editing and feedback | Typos and spelling |
+| **Research** | Read; interpret facts; synthesize content | — | Find articles; basic facts (with a source) |
+| **Coding & analysis** | Writing a whole pipeline | Writing functions; code review | Basic syntax; explaining code |
+
+#### Expert
+
+| Category | Never okay | Case-by-case | Always okay |
+|---|---|---|---|
+| **Writing** | Outline a draft; rewrite anything | Editing and feedback | Typos and spelling |
+| **Research** | — | Read; interpret facts; synthesize content | Find articles; basic facts (with a source) |
+| **Coding & analysis** | — | Writing a pipeline; directly analyze data | Basic syntax; writing functions; code review; explaining code |
