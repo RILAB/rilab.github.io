@@ -31,7 +31,7 @@ document.addEventListener("keydown", function (e) {
   if (e.key === "Escape") overlay.classList.remove("active");
 });
   var imageURLs = [
-    "images/2025lab.png",
+    "images/2026lab.png",
     "images/cornkey3.png",
     "images/heart.png"
   ];
