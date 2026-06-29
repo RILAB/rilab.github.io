@@ -73,7 +73,6 @@ for (raw in lines) {
       error = function(e) NA
     )
     if (is.na(date_obj)) next
-    if (date_obj > Sys.Date()) next   # skip future-scheduled papers
 
     pub_date <- format(date_obj, "%a, %d %b %Y 00:00:00 +0000")
 
@@ -88,9 +87,16 @@ for (raw in lines) {
   }
 }
 
-# Most recent 50 papers
+# Sort all items newest-first
 items <- items[order(sapply(items, function(x) x$date_obj), decreasing = TRUE)]
-items <- items[seq_len(min(50, length(items)))]
+
+today <- Sys.Date()
+past_items   <- Filter(function(x) x$date_obj <= today, items)
+future_items <- Filter(function(x) x$date_obj >  today, items)
+
+# Include the single nearest upcoming paper, then 50 most recent past papers
+next_up <- if (length(future_items)) tail(future_items, 1) else list()
+items   <- c(next_up, past_items[seq_len(min(50, length(past_items)))])
 
 rss_items <- vapply(items, function(it) {
   paste0(
