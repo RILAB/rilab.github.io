@@ -21,24 +21,27 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_j
 
 ## 2026
 ### August
+#### August 14
+[Huang et al 2026](https://www.nature.com/articles/s41586-026-10575-8) Teosinte alleles enhance nitrogen assimilation and seed protein in maize
+
 #### August 7
 [Rees et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.18.729863v1.abstract) Joint dog and wolf genealogies reveal the evolution of the canine genome
 
 ### July
 #### July 31
-[Huang et al 2026](https://www.nature.com/articles/s41586-026-10575-8) Teosinte alleles enhance nitrogen assimilation and seed protein in maize
-
-#### July 24
 [Brielle et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.07.724338v1?ct=) Buried in two places: Lineages from elite Maya tombs also found in distant caves
 
-#### July 17
+#### July 24
 [Piovesan et al 2026](https://www.pnas.org/doi/10.1073/pnas.2529341123) Ancient oaks reveal rewilding of Mediterranean forests after the Black Death
 
-#### July 10
+#### July 17
 [Mattila et al preprint](https://ecoevorxiv.org/repository/view/12081/) Population genomic processes in Brassicaceae in the light of mating system variation
 
-#### July 3
+#### July 10
 [Zhang et al 2025](https://www.nature.com/articles/s41477-025-01905-1?fromPaywallRec=false) Transposon proliferation drives genome architecture and regulatory evolution in wild and domesticated peppers
+
+#### July 3
+No POPCORN — holiday
 
 ### June
 #### June 26
