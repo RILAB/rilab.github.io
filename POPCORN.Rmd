@@ -1,8 +1,8 @@
 ---
-title: "POP:CORN" 
+title: "POP&#58;CORN" 
 ---
 
-Science and a beverage on a Friday afternoon  are a good combination. POP:CORN is intended to be a low-key venue for people to get discuss papers and become familiar with a broader literature. Nobody presents or defends the papers. We assume everyone has read the paper (but you are welcome to come and listen and chat even if you haven't!). We start by asking each person's thoughts and questions about the paper, then jump right in to discussion.  This allows for a very informal discussion, and with a beverage and friendly colleagues involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date. And no, I won't tell you what POP:CORN stands for, so don't ask.
+Science and a beverage on a Friday afternoon  are a good combination. POP&#58;CORN is intended to be a low-key venue for people to get discuss papers and become familiar with a broader literature. Nobody presents or defends the papers. We assume everyone has read the paper (but you are welcome to come and listen and chat even if you haven't!). We start by asking each person's thoughts and questions about the paper, then jump right in to discussion.  This allows for a very informal discussion, and with a beverage and friendly colleagues involved even the worst papers are much more manageable. Anyone is welcome to come and anyone can [suggest a paper](mailto:rossibarra@ucdavis.edu). There is no email list; articles are posted below along with the date. And no, I won't tell you what POP&#58;CORN stands for, so don't ask.
 
 We meet Fridays at [Pizza and Pints](https://www.villagepizzaandpints.com) at 3:30pm.
 
@@ -48,10 +48,10 @@ No POPCORN — holiday
 [Madrigal-Roca et al preprint](https://www.biorxiv.org/content/10.64898/2026.05.18.725996) The dynamics of "silent" variation in Mimulus guttatus: Codon usage bias and linked selection
 
 #### June 19
-No POP:CORN
+No POP&#58;CORN
 
 #### June 12
-No POP:CORN
+No POP&#58;CORN
 
 #### June 5
 [Wang et al preprint](https://www.biorxiv.org/content/10.64898/2026.02.23.707523v1) The dynamics of introgression across an adaptive radiation: examining hybrid speciation and parallel adaptation in North American Vitis
@@ -61,7 +61,7 @@ No POP:CORN
 [Pineau et al 2026](https://www.pnas.org/doi/10.1073/pnas.2531142123) Genomic ancestry predicts rapid responses to drought across spatiotemporal scales
 
 #### May 22
-No POP:CORN
+No POP&#58;CORN
 
 #### May 15
 [Presgraves et al 2026](https://academic.oup.com/mbe/article/43/2/msag020/8441737?login=false) The evolutionary genomics of meiotic drive 
@@ -74,7 +74,7 @@ No POP:CORN
 
 ### April
 #### April 24
-Undergrad Research Conf, no POP:CORN
+Undergrad Research Conf, no POP&#58;CORN
 
 #### April 17
 [Mualim et al 2026](https://www.pnas.org/doi/10.1073/pnas.2514371123) Large future genetic diversity losses are predicted from conservation indicators even with habitat protection
@@ -92,7 +92,7 @@ Undergrad Research Conf, no POP:CORN
 
 ### March
 #### Mar 27 
-No POP:CORN 
+No POP&#58;CORN 
 
 #### Mar 20
 [Morris et al 2026](https://www.nature.com/articles/s41586-026-10229-9) A sorghum pangenome reference improves global crop trait discovery
@@ -105,10 +105,10 @@ No POP:CORN
 
 ### February
 #### Feb 27
-No POP:CORN
+No POP&#58;CORN
 
 #### Feb 20
-No POP:CORN
+No POP&#58;CORN
 
 #### Feb 13
 [Tianlin et al preprint](https://www.biorxiv.org/content/10.64898/2026.02.01.703099v1) The genetic architecture of local adaptation is historically contingent
@@ -253,11 +253,11 @@ No journal club
 ### March
 
 #### Mar 28
-Spring break - No POP:CORN
+Spring break - No POP&#58;CORN
 
 
 #### Mar 21
-Jeff out in CDMX - no POP:CORN
+Jeff out in CDMX - no POP&#58;CORN
 
 
 #### Mar 14
