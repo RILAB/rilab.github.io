@@ -5,43 +5,7 @@
     <link>https://rilab.github.io/POPCORN.html</link>
     <description>Weekly paper discussion at the Ross-Ibarra Lab, UC Davis</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 21:23:40 +0000</lastBuildDate>
-    <item>
-      <title>Huang et al 2026 — Teosinte alleles enhance nitrogen assimilation and seed protein in maize</title>
-      <link>https://www.nature.com/articles/s41586-026-10575-8</link>
-      <guid>https://www.nature.com/articles/s41586-026-10575-8</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rees et al preprint — Joint dog and wolf genealogies reveal the evolution of the canine genome</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.06.18.729863v1.abstract</link>
-      <guid>https://www.biorxiv.org/content/10.64898/2026.06.18.729863v1.abstract</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brielle et al preprint — Buried in two places: Lineages from elite Maya tombs also found in distant caves</title>
-      <link>https://www.biorxiv.org/content/10.64898/2026.06.07.724338v1?ct=</link>
-      <guid>https://www.biorxiv.org/content/10.64898/2026.06.07.724338v1?ct=</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piovesan et al 2026 — Ancient oaks reveal rewilding of Mediterranean forests after the Black Death</title>
-      <link>https://www.pnas.org/doi/10.1073/pnas.2529341123</link>
-      <guid>https://www.pnas.org/doi/10.1073/pnas.2529341123</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mattila et al preprint — Population genomic processes in Brassicaceae in the light of mating system variation</title>
-      <link>https://ecoevorxiv.org/repository/view/12081/</link>
-      <guid>https://ecoevorxiv.org/repository/view/12081/</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zhang et al 2025 — Transposon proliferation drives genome architecture and regulatory evolution in wild and domesticated peppers</title>
-      <link>https://www.nature.com/articles/s41477-025-01905-1?fromPaywallRec=false</link>
-      <guid>https://www.nature.com/articles/s41477-025-01905-1?fromPaywallRec=false</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 21:49:16 +0000</lastBuildDate>
     <item>
       <title>Madrigal-Roca et al preprint — The dynamics of "silent" variation in Mimulus guttatus: Codon usage bias and linked selection</title>
       <link>https://www.biorxiv.org/content/10.64898/2026.05.18.725996</link>
@@ -305,6 +269,42 @@
       <link>https://www.cell.com/trends/genetics/fulltext/S0168-9525(24</link>
       <guid>https://www.cell.com/trends/genetics/fulltext/S0168-9525(24</guid>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nie et al 2025 — Molecular regulation and domestication of parthenocarpy in cucumber</title>
+      <link>https://www.nature.com/articles/s41477-024-01899-2</link>
+      <guid>https://www.nature.com/articles/s41477-024-01899-2</guid>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lopez-Valdivia et al. preprint — In silico analysis of the evolution of root phenotypes during maize domestication in Neolithic soils of Tehuacán</title>
+      <link>https://www.biorxiv.org/content/10.1101/2024.11.18.623787v3</link>
+      <guid>https://www.biorxiv.org/content/10.1101/2024.11.18.623787v3</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schmutzer et al. 2024 — Frustration can Limit the Adaptation of Promiscuous Enzymes Through Gene Duplication and Specialisation</title>
+      <link>https://link.springer.com/article/10.1007/s00239-024-10161-4</link>
+      <guid>https://link.springer.com/article/10.1007/s00239-024-10161-4</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tournebize Chikhi 2024</title>
+      <link>https://www.nature.com/articles/s41559-024-02591-6</link>
+      <guid>https://www.nature.com/articles/s41559-024-02591-6</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Todesco et al 2020 — Massive haplotypes underlie ecotypic differentiation in sunflowers</title>
+      <link>https://www.nature.com/articles/s41586-020-2467-6</link>
+      <guid>https://www.nature.com/articles/s41586-020-2467-6</guid>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arribas et al 2024 — 01328-X) Transposable element exonization generates a reservoir of evolving and functional protein isoforms</title>
+      <link>https://www.cell.com/cell/fulltext/S0092-8674(24</link>
+      <guid>https://www.cell.com/cell/fulltext/S0092-8674(24</guid>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

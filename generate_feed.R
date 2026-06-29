@@ -73,6 +73,7 @@ for (raw in lines) {
       error = function(e) NA
     )
     if (is.na(date_obj)) next
+    if (date_obj > Sys.Date()) next   # skip future-scheduled papers
 
     pub_date <- format(date_obj, "%a, %d %b %Y 00:00:00 +0000")
 
