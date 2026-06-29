@@ -34,7 +34,7 @@ We follow the [ICJME rules for authorship rules](http://www.icmje.org/recommenda
 Projects evolve over time and authorship inclusion and author order will be re-evaluated accordingly.
 
 #### Open Science
-I feel strongly that open science is important. We write papers on github or [overleaf](overleaf.com), often in public repos.  We publish preprints as soon as a manuscript is ready for submission.  We publish our data as soon as we can, and I am pushing to start doing so as separate data papers. We document our work -- with github, R markdown, readme files, etc. -- so it is intelligible and reusable in the future. I expect members of the lab to practice open science.
+We feel strongly that open science is important. We write papers on github or [overleaf](overleaf.com), often in public repos.  We publish preprints as soon as a manuscript is ready for submission.  We publish our data as soon as we can, and I am pushing to start doing so as separate data papers. We document our work -- with github, R markdown, readme files, etc. -- so it is intelligible and reusable in the future. I expect members of the lab to practice open science.
 
 
 ## Specific rules for the different members of the lab
@@ -82,7 +82,7 @@ I feel strongly that open science is important. We write papers on github or [ov
 
 ## AI Usage Policy
 
-This section outlines RILab guidelines for using AI tools in research, writing, and coding. The expectations differ by experience level: what is appropriate for an expert may not be appropriate for a beginner, because part of training is learning to do the work yourself first.
+This section outlines RILab guidelines for using AI tools in research, writing, and coding. The expectations differ by experience level: what is appropriate for an expert may not be appropriate for a beginner, because part of training is learning to do the work yourself first. Your relevant experience level will likely differ for different tasks, so please use your best judgment and ask for clarification if you are unsure. The goal is to ensure that you are learning the skills you need to be a successful researcher, while also using AI tools responsibly.
 
 ### General Best Practices
 
