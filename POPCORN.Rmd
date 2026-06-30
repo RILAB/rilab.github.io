@@ -25,8 +25,11 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 
 ## 2026
 ### August
-#### August 14
+#### August 21
 [Huang et al 2026](https://www.nature.com/articles/s41586-026-10575-8) Teosinte alleles enhance nitrogen assimilation and seed protein in maize
+
+#### August 14
+[Bishop et al preprint](https://www.biorxiv.org/content/10.1101/2025.06.03.657543v3) A resurrection experiment reveals reduced adaptive potential in a common agricultural weed
 
 #### August 7
 [Rees et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.18.729863v1.abstract) Joint dog and wolf genealogies reveal the evolution of the canine genome
