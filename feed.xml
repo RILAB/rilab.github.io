@@ -5,7 +5,13 @@
     <link>https://rilab.github.io/POPCORN.html</link>
     <description>Weekly paper discussion at the Ross-Ibarra Lab, UC Davis</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 09:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:41:15 +0000</lastBuildDate>
+    <item>
+      <title>Mattila et al preprint — Population genomic processes in Brassicaceae in the light of mating system variation</title>
+      <link>https://ecoevorxiv.org/repository/view/12081/</link>
+      <guid>https://ecoevorxiv.org/repository/view/12081/</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zhang et al 2025 — Transposon proliferation drives genome architecture and regulatory evolution in wild and domesticated peppers</title>
       <link>https://www.nature.com/articles/s41477-025-01905-1?fromPaywallRec=false</link>
@@ -305,12 +311,6 @@
       <link>https://www.nature.com/articles/s41586-020-2467-6</link>
       <guid>https://www.nature.com/articles/s41586-020-2467-6</guid>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arribas et al 2024 — 01328-X) Transposable element exonization generates a reservoir of evolving and functional protein isoforms</title>
-      <link>https://www.cell.com/cell/fulltext/S0092-8674(24</link>
-      <guid>https://www.cell.com/cell/fulltext/S0092-8674(24</guid>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
