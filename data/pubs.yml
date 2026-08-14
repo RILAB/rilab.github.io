@@ -74,8 +74,9 @@ publications:
       - A. R. Phillips
       - J. Ross-Ibarra
 
-  #The dominance of gene expression controlled by trans-eQTL hotspots contributes to phenotypic heterosis in maize
-  - preprint_doi: 10.1101/2025.11.03.686376
+  #The incomplete dominance of gene expression controlled by trans-eQTL hotspots contributes to heterosis in maize
+  - doi: 10.1038/s41467-026-72804-y
+    preprint_doi: 10.1101/2025.11.03.686376
     lab_authors:
   
   #Genome-wide selection on transposable elements in maize
@@ -88,7 +89,7 @@ publications:
       - J. Ross-Ibarra
 
   #HERITABILITY AND QTL MAPPING OF AERIAL ROOTS AND OTHER YIELD COMPONENT TRAITS WITH IMPLICATIONS FOR N2 FIXATION IN ZEA MAYS
-  - doi: 10.1101/2025.09.10.675198
+  - preprint_doi: 10.1101/2025.09.10.675198
     title: "Heritability and QTL mapping of aerial roots and other yield component traits with implications for N2 fixation in Zea mays"
     lab_authors:
       - J. Yang
@@ -724,7 +725,7 @@ publications:
 
   # Extensive genome evolution distinguishes maize within a stable tribe of grasses
   # Authors: Michelle C. Stitzer, Arun S. Seetharam, Armin Scheben, Sheng-Kai Hsu, Aimee J. Schulz, Taylor M. AuBuchon-Elder, Mohamed El-Walid, Taylor H. Ferebee, Charles O. Hale, Thuy La, Zong-Yan Liu, Sarah J. McMorrow, Patrick Minx, Alyssa R. Phillips, Michael L. Syring, Travis Wrightsman, Jingjing Zhai, Rémy Pasquet, Christine A. McAllister, Simon T. Malcomber, Paweena Traiperm, Daniel J. Layton, Jinshun Zhong, Denise E. Costich, R. Kelly Dawe, Kevin Fengler, Charlotte Harris, Zach Irelan, Victor Llaca, Praveena Parakkal, Gina Zastrow-Hayes, Margaret R. Woodhouse, Ethalinda K. Cannon, John L. Portwood, Carson M. Andorf, Patrice S. Albert, James A. Birchler, Adam Siepel, Jeffrey Ross-Ibarra, M. Cinta Romay, Elizabeth A. Kellogg, Edward S. Buckler, Matthew B. Hufford
-  - doi: 10.1101/2025.01.22.633974
+  - preprint_doi: 10.1101/2025.01.22.633974
     lab_authors:
       - A. R. Phillips
 
@@ -991,3 +992,10 @@ publications:
   # Reply to Brush et al.: Wake-up call for crop conservation science
   # Authors: George A. Dyer, Alejandro López-Feldman, Antonio Yúnez-Naude, J. Edward Taylor, Jeffrey Ross-Ibarra
   - doi: 10.1073/pnas.1422645112
+  # The cellular and genetic basis of inflorescence divergence between maize and teosinte
+  - preprint_doi: 10.64898/2026.08.10.743805
+    corresponding_authors:
+      - J. Ross-Ibarra
+      - J. Yan
+      - N. Yang
+      - L. Liu

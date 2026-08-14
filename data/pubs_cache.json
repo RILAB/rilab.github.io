@@ -8223,5 +8223,215 @@
         "name": []
       }
     ]
+  },
+  "10.64898/2026.08.10.743805": {
+    "doi": "10.64898/2026.08.10.743805",
+    "title": "The cellular and genetic basis of inflorescence divergence between maize and teosinte",
+    "abstract": "Abstract The domestication of maize from teosinte involved dramatic remodeling of the ear, yet the cellular and genetic bases of this transformation remain unclear. Here, we generate a single-nucleus and spatial transcriptome atlas of developing maize and teosinte ears. Comparative analysis reveals divergence in cob-associated cell types, with enhanced cytokinin signaling and reduced growth-inhibitory signals collectively driving cob thickening and enlargement in maize. We further demonstrate that domestication expanded the spatial expression domain of key transcription factors in maize meristem cells, enhancing the potential for increasing kernel number. Additionally, we verified a major domestication gene, ZmSPD1 , in which two nonsynonymous SNPs differentiate maize from teosinte and alter jasmonic acid (JA) levels in the ear, thereby suppressing spikelet abortion to effectively double kernel production. These findings provide a cell-resolved mechanistic framework for how cob architecture and kernel number were shaped during maize domestication, offering new insights into the formation of key agronomic traits.",
+    "year": 2026,
+    "is_preprint": true,
+    "container_title": "",
+    "authors": [
+      {
+        "given": "Yuebin",
+        "family": "Wang",
+        "name": []
+      },
+      {
+        "given": "Ruijie",
+        "family": "Mao",
+        "name": []
+      },
+      {
+        "given": "Yu",
+        "family": "Liu",
+        "name": []
+      },
+      {
+        "given": "Xing",
+        "family": "Guo",
+        "name": []
+      },
+      {
+        "given": "Nan",
+        "family": "Li",
+        "name": []
+      },
+      {
+        "given": "Qian",
+        "family": "Zhang",
+        "name": []
+      },
+      {
+        "given": "Manjun",
+        "family": "Cai",
+        "name": []
+      },
+      {
+        "given": "Pingli",
+        "family": "Xie",
+        "name": []
+      },
+      {
+        "given": "Yi",
+        "family": "Wang",
+        "name": []
+      },
+      {
+        "given": "Yun",
+        "family": "Luo",
+        "name": []
+      },
+      {
+        "given": "Qian",
+        "family": "Ding",
+        "name": []
+      },
+      {
+        "given": "Shenshen",
+        "family": "Wu",
+        "name": []
+      },
+      {
+        "given": "En",
+        "family": "Luo",
+        "name": []
+      },
+      {
+        "given": "Ling",
+        "family": "Ma",
+        "name": []
+      },
+      {
+        "given": "Zheng",
+        "family": "Luo",
+        "name": []
+      },
+      {
+        "given": "Tong",
+        "family": "Wei",
+        "name": []
+      },
+      {
+        "given": "Huan",
+        "family": "Liu",
+        "name": []
+      },
+      {
+        "given": "Mingqiu",
+        "family": "Dai",
+        "name": []
+      },
+      {
+        "given": "Fazhan",
+        "family": "Qiu",
+        "name": []
+      },
+      {
+        "given": "Yingjie",
+        "family": "Xiao",
+        "name": []
+      },
+      {
+        "given": "Xiaohong",
+        "family": "Yang",
+        "name": []
+      },
+      {
+        "given": "David",
+        "family": "Jackson",
+        "name": []
+      },
+      {
+        "given": "Zuxin",
+        "family": "Zhang",
+        "name": []
+      },
+      {
+        "given": "Jianbing",
+        "family": "Yan",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Lei",
+        "family": "Liu",
+        "name": []
+      },
+      {
+        "given": "Ning",
+        "family": "Yang",
+        "name": []
+      }
+    ]
+  },
+  "10.1038/s41467-026-72804-y": {
+    "doi": "10.1038/s41467-026-72804-y",
+    "title": "The incomplete dominance of gene expression controlled by Trans-eQTL hotspots contributes to heterosis in maize",
+    "abstract": "Abstract unavailable.",
+    "year": 2026,
+    "is_preprint": false,
+    "container_title": "Nature Communications",
+    "authors": [
+      {
+        "given": "Gen",
+        "family": "Xu",
+        "name": []
+      },
+      {
+        "given": "Xuerong",
+        "family": "Yang",
+        "name": []
+      },
+      {
+        "given": "Mingyue",
+        "family": "Zhang",
+        "name": []
+      },
+      {
+        "given": "Congbin",
+        "family": "Kang",
+        "name": []
+      },
+      {
+        "given": "Ziang",
+        "family": "Tian",
+        "name": []
+      },
+      {
+        "given": "Yunhui",
+        "family": "Qi",
+        "name": []
+      },
+      {
+        "given": "Meijie",
+        "family": "Luo",
+        "name": []
+      },
+      {
+        "given": "Peng",
+        "family": "Liu",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      },
+      {
+        "given": "Jinliang",
+        "family": "Yang",
+        "name": []
+      },
+      {
+        "given": "Hongjun",
+        "family": "Liu",
+        "name": []
+      }
+    ]
   }
 }
