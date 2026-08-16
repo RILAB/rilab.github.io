@@ -59,7 +59,9 @@ publications:
       - J. Ross-Ibarra
 
   # The MexMAGIC population reveals the genetic architecture of clinal trait variation in Mexican native maize
+  # Accepted 2026; no journal DOI yet, so links point at the preprint.
   - preprint_doi: 10.64898/2026.01.17.700095
+    section: "2026"
     lab_authors:
       - F. Li
   

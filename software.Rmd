@@ -1,0 +1,30 @@
+---
+title: "Software"
+---
+
+Software written or maintained by the lab. Most of it lives in the
+[RILAB GitHub organization](https://github.com/RILAB); code accompanying individual
+papers is generally linked from the [publications](pubs.html) page instead.
+
+<hr>
+
+```{r software_render, results='asis', echo=FALSE}
+software <- yaml::read_yaml("data/software.yml")
+
+for (s in software) {
+  header <- sprintf("## [%s](%s)", s$name, s$url)
+  if (!is.null(s$language)) {
+    header <- sprintf("%s <small>%s</small>", header, s$language)
+  }
+  cat(header, "\n\n")
+
+  extra <- if (is.null(s$links)) list() else s$links
+  links <- c(sprintf("[github](%s)", s$url),
+             vapply(extra, function(l) sprintf("[%s](%s)", l$text, l$url), ""))
+  cat(paste(links, collapse = " &middot; "), "\n\n")
+
+  cat(s$about, "\n\n")
+  cat("**How to cite:** ", s$cite, "\n\n", sep = "")
+  cat("<hr>\n\n")
+}
+```

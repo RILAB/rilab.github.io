@@ -10,6 +10,8 @@ navbar:
       href: research.html
     - text: "Publications"
       href: pubs.html
+    - text: "Software"
+      href: software.html
     - text: "Lab Docs"
       href: https://github.com/RILAB/lab-docs
     - text: "POP:CORN"

@@ -11,7 +11,7 @@
 
 
 
-<title>Prospective Students</title>
+<title>Software</title>
 
 <script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -278,30 +278,54 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Prospective Students</h1>
+<h1 class="title toc-ignore">Software</h1>
 
 </div>
 
 
-<div id="prospective-lab-members" class="section level2">
-<h2>Prospective lab members</h2>
-<p>If you are interested in joining the lab, please also see information on <a href="expectations.html">expectations</a> for lab members.</p>
-<div id="open-positions" class="section level3">
-<h3>Open positions</h3>
-<p>I am currently only able to accept PhD students with independent funding. I am happy to work with students to apply for fellowships.</p>
+<p>Software written or maintained by the lab. Most of it lives in the <a href="https://github.com/RILAB">RILAB GitHub organization</a>; code accompanying individual papers is generally linked from the <a href="pubs.html">publications</a> page instead.</p>
+<hr>
+<div id="mop-python" class="section level2">
+<h2><a href="https://github.com/RILAB/mop">mop</a> <small>Python</small></h2>
+<p><a href="https://github.com/RILAB/mop">github</a> · <a href="https://pypi.org/project/mop-bam/">PyPI</a></p>
+<p><code>mop</code> identifies the regions of a genome where short-read data are good enough to genotype. Given a list of BAM files, it walks per-base depth from <code>samtools depth</code> and applies user-set thresholds on mapping quality, base quality, per-individual depth, and the proportion of individuals that must pass, then writes a BED file of the regions that passed (or, with <code>--bad_sites</code>, the ones that failed). Because calling a site variant and calling it invariant require the same evidence, this kind of callable-sites mask is essential for unbiased estimates of diversity and divergence; <code>--pixy_mode</code> writes output directly usable by <a href="https://pixy.readthedocs.io">pixy</a>.</p>
+<p><strong>How to cite:</strong> Tittes S, Lorant A, McGinty SP, Holland JB, Sánchez-González JJ, Seetharam A, Tenaillon M, Ross-Ibarra J. <a href="https://elifesciences.org/reviewed-preprints/92405">Not so local: the population genetics of convergent adaptation in maize and teosinte</a>. eLife. <a href="https://doi.org/10.7554/eLife.92405">doi: 10.7554/eLife.92405</a></p>
+<hr>
 </div>
-<div id="prospective-undergraduates" class="section level3">
-<h3>Prospective Undergraduates</h3>
-<p>We are always interested in including undergraduates in our research. Undergraduate research can be for credit (via a 192 or 199) or as a paid position, depending on current research needs. There are a number of <a href="research_opps.html">current research opportunities</a> in the lab, but students with prior experience are also encouraged to develop their own independent research projects. A number of previous undergraduates have successfully <a href="undergrad_pubs.html">published their work</a>. If you are interested in work in the lab, please take a look at some of the recent <a href="pubs.html">papers from the lab</a> and contact <a href="mailto:rossibarra@ucdavis.edu">Dr. Ross-Ibarra</a> with a CV, an unofficial transcript, and a mention of what you’re interested in working on, and we can set up an interview!</p>
+<div id="argprep-python-snakemake" class="section level2">
+<h2><a href="https://github.com/RILAB/argprep">ARGprep</a> <small>Python / Snakemake</small></h2>
+<p><a href="https://github.com/RILAB/argprep">github</a> · <a href="https://doi.org/10.5281/zenodo.19655050">Zenodo</a></p>
+<p><code>ARGprep</code> is a Snakemake workflow that turns whole-genome alignments into the inputs needed for inference of ancestral recombination graphs. It converts AnchorWave MAF alignments into per-contig merged gVCFs, splits them into clean, filtered, and invariant site sets, and builds the mask BED files and accessibility arrays that downstream methods require in order to distinguish “no variant here” from “we could not see here.” The pipeline runs locally or on Slurm with a provided profile, ships with example data, and produces VCF and mask files ready for ARG estimation with SINGER or for windowed population-genetic statistics with scikit-allel.</p>
+<p><strong>How to cite:</strong> Ross-Ibarra J, Magalang P, Liu B, Solares E. ARGprep: a Snakemake pipeline for generating ARG inference input from whole genome alignments. Zenodo. <a href="https://doi.org/10.5281/zenodo.19655050">doi: 10.5281/zenodo.19655050</a></p>
+<hr>
 </div>
-<div id="prospective-grad-students" class="section level3">
-<h3>Prospective Grad Students</h3>
-<p>I am currently accepting graduate students through the <a href="http://biosci3.ucdavis.edu/gradGroups/pb/">Plant Biology</a>, <a href="http://www-eve.ucdavis.edu/eve/pbg/">Population Biology</a>, and <a href="http://igg.ucdavis.edu">Integrated Genetics and Genomics</a> graduate groups. If you’re interested in joining my lab, see my <a href="http://www.slideshare.net/jrossibarra/forgradschool">advice for grad school</a>, read a few of our papers, and then contact me and send along a CV.</p>
+<div id="argtest-python-snakemake" class="section level2">
+<h2><a href="https://github.com/RILAB/argtest">ARGtest</a> <small>Python / Snakemake</small></h2>
+<p><a href="https://github.com/RILAB/argtest">github</a> · <a href="https://doi.org/10.5281/zenodo.19698118">Zenodo</a></p>
+<p>An inferred ARG is a hypothesis, and <code>ARGtest</code> is a Snakemake pipeline for checking it. It post-processes tree sequences (<code>.ts</code>, <code>.trees</code>, <code>.tsz</code>) and runs a battery of quality-control and validation analyses: comparing statistics computed from the trees against the same statistics computed from the underlying genotypes, summarizing branch length and coalescence rate behavior, subsetting and trimming samples, and plotting the results. When a simulated ground truth is available, the pipeline compares inferred and true tree sequences directly, which makes it useful both for validating a real dataset and for benchmarking inference settings before committing to them.</p>
+<p><strong>How to cite:</strong> Ross-Ibarra J. 2026. ARGtest: tools for QC and validation of ancestral recombination graphs. <a href="https://doi.org/10.5281/zenodo.19698118">doi: 10.5281/zenodo.19698118</a></p>
+<hr>
 </div>
-<div id="prospective-postdocs" class="section level3">
-<h3>Prospective PostDocs</h3>
-<p>I’m always interested in recruiting talented postdoctoral candidates. In particular, I encourage people to contact me about writing postdoc fellowship proposals for <a href="http://www.nsf.gov/funding/education.jsp?fund_type=3">NSF</a>, <a href="http://www.csrees.usda.gov/fo/fellowshipsgrantprogramafri.cfm">USDA</a>, <a href="http://cpb.ucdavis.edu/CPB%20Postdoc%20Fellowship.html">CPB</a>, <a href="http://www.ucmexus.ucr.edu/funding/fellowship_post_doc.html">UC MEXUS</a>, or any of a number of other fellowship opportunities (see <a href="http://mathbionerd.blogspot.com/2014/04/some-postdoctoral-fellowships-in-biology.html">here</a> and <a href="http://people.ds.cam.ac.uk/dl384/Resources_Postdocs.html">here</a> for some nice lists). Please email me with your CV, and I’d be happy to discuss fellowship possibilities.</p>
+<div id="metaboxplot-python" class="section level2">
+<h2><a href="https://github.com/rossibarra/metaboxplot">metaboxplot</a> <small>Python</small></h2>
+<p><a href="https://github.com/rossibarra/metaboxplot">github</a> · <a href="https://doi.org/10.5281/zenodo.21180779">Zenodo</a></p>
+<p><code>metaboxplot</code> makes metaplots around genes without hiding the variance. For one or two genome-wide bedGraph tracks it draws a mean ± 1 standard error box at every position slot — linear 5’ and 3’ flanks, bins inside the gene body anchored at the TSS and TTS, and optional far-field boxes at chosen distances such as 10, 50, or 100 kb — with a bottom panel reporting how many genes contribute to each slot. The boxes and gene counts make it obvious when an apparent trend rests on a handful of genes, and input intervals can be of variable width, so tracks on mismatched boundaries (recombination maps, pooled diversity windows, crossover events) can be plotted together.</p>
+<p><strong>How to cite:</strong> Ross-Ibarra J. 2026. Metaboxplot: transparent plotting of data around genes. <a href="https://doi.org/10.5281/zenodo.21180779">doi: 10.5281/zenodo.21180779</a></p>
+<hr>
 </div>
+<div id="normalizete-python" class="section level2">
+<h2><a href="https://github.com/rossibarra/normalizeTEs">normalizeTE</a> <small>Python</small></h2>
+<p><a href="https://github.com/rossibarra/normalizeTEs">github</a></p>
+<p><code>normalizeTE</code> builds SNP control sets whose posterior age distributions match those of an observed set of transposable element variants, so that comparisons between TEs and SNPs are not confounded by allele age. Working from posterior ARG draws stored as tree sequences, it compiles a single reusable interval store of every SNP’s age interval, averages the posterior CDFs for a TE dataset to define a target distribution, and bootstraps the TE variants to set the maximum Wasserstein distance an acceptable control set may show. Control sets are then assembled by a constrained random swap walk run as ten independent chains, with mixing diagnostics reported and every saved set re-checked against the target threshold. The workflow is built for many TE datasets and many posterior draws on a Slurm cluster.</p>
+<p><strong>How to cite:</strong> Liu B, Munasinghe M, Fairbanks RA, Hirsch CN, Ross-Ibarra J. <a href="https://www.biorxiv.org/content/10.1101/2025.09.16.676665v1">Genome-wide selection on transposable elements in maize</a>. bioRxiv. <a href="https://doi.org/10.1101/2025.09.16.676665">doi: 10.1101/2025.09.16.676665</a></p>
+<hr>
+</div>
+<div id="finemap-python" class="section level2">
+<h2><a href="https://github.com/rossibarra/finemap">FineMap</a> <small>Python</small></h2>
+<p><a href="https://github.com/rossibarra/finemap">github</a> · <a href="https://doi.org/10.5281/zenodo.19639077">Zenodo</a></p>
+<p><code>FineMap</code> builds a fine-scale, piecewise-constant recombination map for maize on B73 v5 coordinates. It combines crossover intervals from four published sources — the Rodgers-Melnick NAM intervals, European intervals called in-house with an HMM from the Bauer et al. SNP data, and the Samayoa landrace and teosinte intervals — lifts everything to v5, and normalizes to the chromosome-scale genetic lengths of the Ogut map. Outputs include the composite map as a BED file and per-chromosome HapMap files ready for simulation with <code>msprime</code>, along with scripts for the accompanying analyses: Marey map comparisons against Ogut, recombination rate around genes, and rate versus gene density.</p>
+<p><strong>How to cite:</strong> Ross-Ibarra J. 2026. FineMap: a composite genetic map of maize. <a href="https://doi.org/10.5281/zenodo.19639077">doi: 10.5281/zenodo.19639077</a></p>
+<hr>
 </div>
 
 <div class="site-footer">
