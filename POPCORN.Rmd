@@ -25,8 +25,11 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 
 ## 2026
 ### August
+#### August 28
+[Libourel et al 2026](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erag172/8655005) An Arabidopsis receptor-like kinase mediates competitive plant–plant interactions
+
 #### August 21
-[Huang et al 2026](https://www.nature.com/articles/s41586-026-10575-8) Teosinte alleles enhance nitrogen assimilation and seed protein in maize
+[Piovesan et al 2026](https://www.pnas.org/doi/10.1073/pnas.2529341123) Ancient oaks reveal rewilding of Mediterranean forests after the Black Death
 
 #### August 14
 [Bishop et al preprint](https://www.biorxiv.org/content/10.1101/2025.06.03.657543v3) A resurrection experiment reveals reduced adaptive potential in a common agricultural weed
@@ -39,7 +42,7 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 [Brielle et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.07.724338v1?ct=) Buried in two places: Lineages from elite Maya tombs also found in distant caves
 
 #### July 24
-[Piovesan et al 2026](https://www.pnas.org/doi/10.1073/pnas.2529341123) Ancient oaks reveal rewilding of Mediterranean forests after the Black Death
+[Huang et al 2026](https://www.nature.com/articles/s41586-026-10575-8) Teosinte alleles enhance nitrogen assimilation and seed protein in maize
 
 #### July 17
 [Mattila et al preprint](https://ecoevorxiv.org/repository/view/12081/) Population genomic processes in Brassicaceae in the light of mating system variation
