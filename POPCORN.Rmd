@@ -24,6 +24,19 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2026
+### September
+#### September 25
+[Liu et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.29.730585v3) Genomic impact of the second plague pandemic on three human populations
+
+#### September 18
+[Davies et al 2026](https://www.nature.com/articles/s41467-026-75312-1) Cooperation, competition and enforcement in transposon evolution
+
+#### September 11
+Medina-Muñoz et al. A genomic history of pre-colonial contact in the Americas ([email Jeff](mailto:rossibarra@ucdavis.edu) for a copy)
+
+#### September 4
+[Sanchez-Lucas et al 2026](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erag426/8773387) Epigenomic Landscape of Oak (Quercus robur) across Season and Generation
+
 ### August
 #### August 28
 [Libourel et al 2026](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erag172/8655005) An Arabidopsis receptor-like kinase mediates competitive plant–plant interactions
