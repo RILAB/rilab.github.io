@@ -72,7 +72,7 @@ Abstract Over the last 20 million years, the Andropogoneae tribe of grasses has 
 ### 2026
 
 <details>
-<summary> [The MexMAGIC population reveals the genetic architecture of clinal trait variation in Mexican native maize](https://doi.org/10.64898/2026.01.17.700095) [[preprint](https://doi.org/10.64898/2026.01.17.700095)]  
+<summary> [The MexMAGIC population reveals the genetic architecture of clinal trait variation in Mexican native maize](https://doi.org/10.1111/nph.71501) [[preprint](https://doi.org/10.64898/2026.01.17.700095)]  
 S. Perez-Limón, A. L. Alonso-Nieves, M. R. Ramírez-Flores, G. C. Cintora-Martínez, ...[10 authors including **F. Li**]..., **J. Ross-Ibarra**, C. S. Gillmor, R. Rellán-Álvarez, R. J. H. Sawers
 </summary>
 <p style="margin-left: 30px">

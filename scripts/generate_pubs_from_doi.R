@@ -305,12 +305,12 @@ record_order <- function(section, record, entry) {
 }
 
 build_pub_row <- function(entry, record, override = list()) {
-  title <- override$title %||% record$title
-  abstract <- override$abstract %||% record$abstract
+  title <- override[["title"]] %||% record$title
+  abstract <- override[["abstract"]] %||% record$abstract
   section <- record_section(record, override)
   authors <- format_author_list(record, override)
-  preprint_doi <- override$preprint_doi %||% entry$preprint
-  title_link_doi <- override$title_doi %||% entry$primary
+  preprint_doi <- override[["preprint_doi"]] %||% entry$preprint
+  title_link_doi <- override[["title_doi"]] %||% entry$primary
   preprint_link <- if (!is.na(preprint_doi) && nzchar(preprint_doi)) {
     sprintf(" [[preprint](https://doi.org/%s)]", preprint_doi)
   } else {
@@ -378,13 +378,13 @@ parse_pubs_yaml <- function(pubs_file) {
   overrides <- list()
 
   for (pub in raw$publications %||% list()) {
-    doi <- trimws(as.character(pub$doi %||% ""))
-    if (!nzchar(doi)) doi <- trimws(as.character(pub$preprint_doi %||% ""))
+    doi <- trimws(as.character(pub[["doi"]] %||% ""))
+    if (!nzchar(doi)) doi <- trimws(as.character(pub[["preprint_doi"]] %||% ""))
     if (!nzchar(doi)) next
     if (exists(doi, envir = seen, inherits = FALSE)) next
     assign(doi, TRUE, envir = seen)
 
-    preprint_raw <- pub$preprint_doi %||% NA_character_
+    preprint_raw <- pub[["preprint_doi"]] %||% NA_character_
     preprint <- trimws(as.character(preprint_raw))
     if (!nzchar(preprint) || identical(preprint, "NA")) preprint <- NA_character_
 
@@ -395,22 +395,22 @@ parse_pubs_yaml <- function(pubs_file) {
     )
 
     # Merge default lab_authors with per-pub lab_authors to get bold_authors
-    pub_lab <- unlist(pub$lab_authors %||% list(), use.names = FALSE)
+    pub_lab <- unlist(pub[["lab_authors"]] %||% list(), use.names = FALSE)
     bold_authors <- unique(c(default_lab_authors, pub_lab))
     bold_authors <- bold_authors[nzchar(trimws(bold_authors))]
 
     overrides[[doi]] <- list(
       bold_authors        = if (length(bold_authors)) as.list(bold_authors) else NULL,
-      first_authors       = pub$first_authors %||% NULL,
-      corresponding_authors = pub$corresponding_authors %||% NULL,
-      preprint_doi        = pub$preprint_doi %||% NULL,
-      section             = pub$section %||% NULL,
-      title               = pub$title %||% NULL,
-      abstract            = pub$abstract %||% NULL,
-      hide_abstract       = pub$hide_abstract %||% NULL,
-      author_display      = pub$author_display %||% NULL,
-      author_overrides    = pub$author_overrides %||% NULL,
-      title_doi           = pub$title_doi %||% NULL
+      first_authors       = pub[["first_authors"]] %||% NULL,
+      corresponding_authors = pub[["corresponding_authors"]] %||% NULL,
+      preprint_doi        = pub[["preprint_doi"]] %||% NULL,
+      section             = pub[["section"]] %||% NULL,
+      title               = pub[["title"]] %||% NULL,
+      abstract            = pub[["abstract"]] %||% NULL,
+      hide_abstract       = pub[["hide_abstract"]] %||% NULL,
+      author_display      = pub[["author_display"]] %||% NULL,
+      author_overrides    = pub[["author_overrides"]] %||% NULL,
+      title_doi           = pub[["title_doi"]] %||% NULL
     )
   }
 
