@@ -62,6 +62,8 @@ cat("</div>\n")
 
 ## Lab Alumni
 
+Where are they now? See maps of lab alumni [around the world](images/alumni_map.png) and [in the US](images/alumni_map_usa.png).
+
 ```{r people_alumni, results='asis', echo=FALSE}
 format_list <- function(df) {
   for (i in seq_len(nrow(df))) {
