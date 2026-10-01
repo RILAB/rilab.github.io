@@ -52,9 +52,11 @@ img {
 .person-photo {
   border: 10px solid white;
   width: 115px;
-  height: auto !important;
+  height: 115px !important;
   max-height: none;
-  object-fit: contain;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 25%;
   flex: 0 0 auto;
   display: block;
   align-self: flex-start;
@@ -162,6 +164,6 @@ img {
 
   .person-photo {
     width: 140px;
-    height: auto;
+    height: 140px !important;
   }
 }
