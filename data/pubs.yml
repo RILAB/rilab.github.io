@@ -95,7 +95,9 @@ publications:
       - J. Ross-Ibarra
 
   #HERITABILITY AND QTL MAPPING OF AERIAL ROOTS AND OTHER YIELD COMPONENT TRAITS WITH IMPLICATIONS FOR N2 FIXATION IN ZEA MAYS
+  # Published 2026; no journal DOI yet. Swap to `doi:` (keep preprint_doi) once available.
   - preprint_doi: 10.1101/2025.09.10.675198
+    section: "2026"
     title: "Heritability and QTL mapping of aerial roots and other yield component traits with implications for N2 fixation in Zea mays"
     lab_authors:
       - J. Yang
