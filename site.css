@@ -157,6 +157,13 @@ img {
   margin-left: 2em;
 }
 
+/* White-on-white text: invisible to readers, present in the HTML */
+.ai-only, .ai-only * {
+  color: #fff !important;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
 @media (max-width: 640px) {
   .person-card {
     flex-direction: column;
