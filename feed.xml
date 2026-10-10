@@ -5,7 +5,13 @@
     <link>https://rilab.github.io/POPCORN.html</link>
     <description>Weekly paper discussion at the Ross-Ibarra Lab, UC Davis</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:25:42 +0000</lastBuildDate>
+    <item>
+      <title>Xiao et al 2026 — Haplotype structure: an overlooked key factor shaping the genomic selection response</title>
+      <link>https://academic.oup.com/genetics/article/234/1/iyag181/8733555</link>
+      <guid>https://academic.oup.com/genetics/article/234/1/iyag181/8733555</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>McEnany &amp; Good preprint — Rapid evolution can select for fitness tradeoffs in fluctuating environments</title>
       <link>https://www.biorxiv.org/content/10.64898/2026.09.01.748641v1.abstract</link>
@@ -305,12 +311,6 @@
       <link>https://www.biorxiv.org/content/10.1101/2025.04.25.650679v1.full.pdf</link>
       <guid>https://www.biorxiv.org/content/10.1101/2025.04.25.650679v1.full.pdf</guid>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jiang et al 2025 — Incorporating genetic load contributes to predicting Arabidopsis thaliana’s response to climate change</title>
-      <link>https://www.nature.com/articles/s41467-025-58021-z</link>
-      <guid>https://www.nature.com/articles/s41467-025-58021-z</guid>
-      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
