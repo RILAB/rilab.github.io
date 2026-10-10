@@ -25,11 +25,17 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 
 ## 2026
 ### October
+#### October 30
+[Barroso & Ragsdale preprint](https://www.biorxiv.org/content/10.64898/2026.10.08.757506v1) Strong correlations between mutation rates and selective constraint in the human genome?
+
+#### October 23
+[McEnany & Good preprint](https://www.biorxiv.org/content/10.64898/2026.09.01.748641v1.abstract) Rapid evolution can select for fitness tradeoffs in fluctuating environments
+
 #### October 16
 [Xiao et al 2026](https://academic.oup.com/genetics/article/234/1/iyag181/8733555) Haplotype structure: an overlooked key factor shaping the genomic selection response
 
 #### October 9
-[McEnany & Good preprint](https://www.biorxiv.org/content/10.64898/2026.09.01.748641v1.abstract) Rapid evolution can select for fitness tradeoffs in fluctuating environments
+No POP&#58;CORN
 
 #### October 2
 [Liu et al preprint](https://www.biorxiv.org/content/10.64898/2026.06.29.730585v3) Genomic impact of the second plague pandemic on three human populations
