@@ -276,6 +276,7 @@ publications:
   # Historical genomics of North American maize
   # Authors: Joost van Heerwaarden, Matthew B. Hufford, Jeffrey Ross-Ibarra
   - doi: 10.1073/pnas.1209275109
+    data_url: https://figshare.com/articles/dataset/van_Heerwaarden_et_al_2012/757738
     lab_authors:
       - J. van Heerwaarden
       - M. B. Hufford
@@ -528,6 +529,9 @@ publications:
   # Comparative population genomics of maize domestication and improvement
   # Authors: Matthew B Hufford, Xun Xu, Joost van Heerwaarden, Tanja Pyhäjärvi, Jer-Ming Chia, Reed A Cartwright, Robert J Elshire, Jeffrey C Glaubitz, Kate E Guill, Shawn M Kaeppler, Jinsheng Lai, Peter L Morrell, Laura M Shannon, Chi Song, Nathan M Springer, Ruth A Swanson-Wagner, Peter Tiffin, Jun Wang, Gengyun Zhang, John Doebley, Michael D McMullen, Doreen Ware, Edward S Buckler, Shuang Yang, Jeffrey Ross-Ibarra
   - doi: 10.1038/ng.2309
+    data_url:
+      - https://doi.org/10.6084/m9.figshare.757736
+      - https://figshare.com/articles/dataset/Gene_Popgen_Stats_from_Hufford_et_al_2012_Nat_Gen_/746968
     lab_authors:
       - M. B. Hufford
       - J. van Heerwaarden
@@ -631,6 +635,7 @@ publications:
   # Authors: Matthew B. Hufford, Pesach Lubinksy, Tanja Pyhäjärvi, Michael T. Devengenzo, Norman C. Ellstrand, Jeffrey Ross-Ibarra
   - doi: 10.1371/journal.pgen.1003477
     preprint_doi: 10.48550/arXiv.1208.3894
+    data_url: https://figshare.com/articles/dataset/Hufford_et_al_2013/766356
     lab_authors:
       - M. B. Hufford
       - T. Pyhäjärvi
@@ -719,6 +724,7 @@ publications:
   # Identification of a functional transposon insertion in the maize domestication gene tb1
   # Authors: Anthony Studer, Qiong Zhao, Jeffrey Ross-Ibarra, John Doebley
   - doi: 10.1038/ng.942
+    data_url: "https://figshare.com/articles/dataset/Studer_et_al_2011/775356?file=3097745"
 
   # Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress
   # Authors: Irina Makarevitch, Amanda J. Waters, Patrick T. West, Michelle Stitzer, Candice N. Hirsch, Jeffrey Ross-Ibarra, Nathan M. Springer
@@ -773,6 +779,7 @@ publications:
   # Authors: David M. Wills, Clinton J. Whipple, Shohei Takuno, Lisa E. Kursel, Laura M. Shannon, Jeffrey Ross-Ibarra, John F. Doebley
   - doi: 10.1371/journal.pgen.1003604
     preprint_doi: 10.48550/arXiv.1303.0882
+    data_url: "https://figshare.com/articles/dataset/Wills_et_al_2013/775358?file=3097736"
     lab_authors:
       - S. Takuno
  
@@ -877,6 +884,7 @@ publications:
   # The Genomic Impacts of Drift and Selection for Hybrid Performance in Maize
   # Authors: Justin P Gerke, Jode W Edwards, Katherine E Guill, Jeffrey Ross-Ibarra, Michael D McMullen
   - doi: 10.1534/genetics.115.182410
+    data_url: https://figshare.com/articles/dataset/Gerke_et_al_Iowa_RRS/1515061
     corresponding_authors:
       - J. Ross-Ibarra
       - J. P. Gerke
@@ -902,6 +910,7 @@ publications:
   # Megabase-Scale Inversion Polymorphism in the Wild Ancestor of Maize
   # Authors: Zhou Fang, Tanja Pyhäjärvi, Allison L Weber, R Kelly Dawe, Jeffrey C Glaubitz, José de Jesus Sánchez González, Claudia Ross-Ibarra, John Doebley, Peter L Morrell, Jeffrey Ross-Ibarra
   - doi: 10.1534/genetics.112.138578
+    data_url: https://doi.org/10.6084/m9.figshare.840519
     lab_authors:
       - T. Pyhäjärvi
       - C. Ross-Ibarra
@@ -939,6 +948,7 @@ publications:
   # Genetic signals of origin, spread, and introgression in a large sample of maize landraces
   # Authors: Joost van Heerwaarden, John Doebley, William H. Briggs, Jeffrey C. Glaubitz, Major M. Goodman, Jose de Jesus Sanchez Gonzalez, Jeffrey Ross-Ibarra
   - doi: 10.1073/pnas.1013011108
+    data_url: https://doi.org/10.6084/m9.figshare.757735
     lab_authors:
       - J. van Heerwaarden
     corresponding_authors:
@@ -975,6 +985,7 @@ publications:
   # A Pleistocene Clone of Palmer's Oak Persisting in Southern California
   # Authors: Michael R. May, Mitchell C. Provance, Andrew C. Sanders, Norman C. Ellstrand, Jeffrey Ross-Ibarra
   - doi: 10.1371/journal.pone.0008346
+    data_url: "https://figshare.com/articles/dataset/Quercus_tree_rings/757739?file=3096152"
     corresponding_authors:
       - J. Ross-Ibarra
     lab_authors:

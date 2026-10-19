@@ -62,7 +62,7 @@ Abstract Over the last 20 million years, the Andropogoneae tribe of grasses has 
 **S. Snodgrass<sup>&ast;</sup><sup>&dagger;</sup>**, **F. Li<sup>&ast;</sup><sup>&dagger;</sup>**, **S. Mambakkam**, S. G. Medina-Muñoz, ...[7 authors including **L. Sparreo**, **M. Menon**, **C. Perez**]..., A. Moreno-Estrada, D. Runcie, G. Coop, **J. Ross-Ibarra<sup>&dagger;</sup>**
 </summary>
 <p style="margin-left: 30px">
-Abstract Population structure and environmental features often capture major axes of genetic variation in many species. Yet the impacts of human activity often remain unquantified. For domesticated species that rely on human activity for survival and dispersal, human movements and cultural differences may play key roles patterning genetic diversity. Maize is a staple crop of enormous cultural importance to indigenous peoples of the Americas, but cannot survive or disperse without farmers. Using publicly available genotyping and passport data from almost 2,000 traditional maize varieties, more than 500 whole genome sequences of humans from Mexico, and indigenous linguistic maps, we quantify anthropogenic effects on maize genetic diversity in the Americas. Maize shows very little overall structure, highlighting the effectiveness of indigenous farmers in moving and mixing maize populations. While principal components of maize diversity show meaningful correlations to human genetic diversity, our linear modeling suggests little additional impact of human population structure beyond shared geography. Though differences in maize diversity are often patterned by language locally, we find only weak genome-wide effects at larger spatial scales. Despite the relatively weak global signal of anthropogenic effects, linguistic GWAS, outlier F ST analyses, and selection scans identified loci associated with specific languages. Leveraging landscape-level sequencing data, we highlight how anthropogenic factors have shaped patterns of maize genetic diversity across Mesoamerica.
+Abstract Population structure and environmental features often capture major axes of genetic variation in many species. Yet the impacts of human activity often remain unquantified. For domesticated species that rely on human activity for survival and dispersal, human movements and cultural differences may play key roles patterning genetic diversity. Maize is a staple crop of enormous cultural importance to indigenous peoples of the Americas, but cannot survive or disperse without farmers. Using publicly available genotyping and passport data from approximately 2,000 traditional maize varieties, more than 500 whole genome sequences of humans from Mexico, and indigenous linguistic maps, we quantify anthropogenic effects on maize genetic diversity in the Americas. Maize shows very little overall structure, highlighting the effectiveness of indigenous farmers in moving and mixing maize populations. While principal components of maize diversity show meaningful correlations to human genetic diversity, our linear modeling suggests little additional impact of human population structure beyond shared geography. Though differences in maize diversity are often patterned by language locally, we find only weak genome-wide effects at larger spatial scales. Despite the relatively weak global signal of anthropogenic effects, linguistic GWAS, outlier F ST analyses, and selection scans identified loci associated with specific languages. Leveraging landscape-level sequencing data, we highlight how anthropogenic factors have shaped patterns of maize genetic diversity across Mesoamerica.
 </p></details><p></p>
 <details>
 <summary> [The MexMAGIC population reveals the genetic architecture of clinal trait variation in Mexican native maize](https://doi.org/10.1111/nph.71501) [[preprint](https://doi.org/10.64898/2026.01.17.700095)]  
@@ -658,7 +658,7 @@ Abstract unavailable.
 Abstract unavailable.
 </p></details><p></p>
 <details>
-<summary> [The Genomic Impacts of Drift and Selection for Hybrid Performance in Maize](https://doi.org/10.1534/genetics.115.182410)  
+<summary> [The Genomic Impacts of Drift and Selection for Hybrid Performance in Maize](https://doi.org/10.1534/genetics.115.182410) [[data](https://figshare.com/articles/dataset/Gerke_et_al_Iowa_RRS/1515061)]  
 J. P. Gerke<sup>&dagger;</sup>, J. W. Edwards, K. E. Guill, **J. Ross-Ibarra<sup>&dagger;</sup>**, M. D. McMullen
 </summary>
 <p style="margin-left: 30px">
@@ -713,7 +713,7 @@ S. McCouch, G. J. Baute, J. Bradeen, P. Bramel, ...[36 authors including **J. Ro
 Abstract unavailable.
 </p></details><p></p>
 <details>
-<summary> [The Genomic Signature of Crop-Wild Introgression in Maize](https://doi.org/10.1371/journal.pgen.1003477) [[preprint](https://doi.org/10.48550/arXiv.1208.3894)]  
+<summary> [The Genomic Signature of Crop-Wild Introgression in Maize](https://doi.org/10.1371/journal.pgen.1003477) [[preprint](https://doi.org/10.48550/arXiv.1208.3894)] [[data](https://figshare.com/articles/dataset/Hufford_et_al_2013/766356)]  
 **M. B. Hufford**, P. Lubinksy, **T. Pyhäjärvi**, **M. T. Devengenzo**, N. C. Ellstrand, **J. Ross-Ibarra<sup>&dagger;</sup>**
 </summary>
 <p style="margin-left: 30px">
@@ -727,7 +727,7 @@ Abstract unavailable.
 Abstract unavailable.
 </p></details><p></p>
 <details>
-<summary> [From Many, One: Genetic Control of Prolificacy during Maize Domestication](https://doi.org/10.1371/journal.pgen.1003604) [[preprint](https://doi.org/10.48550/arXiv.1303.0882)]  
+<summary> [From Many, One: Genetic Control of Prolificacy during Maize Domestication](https://doi.org/10.1371/journal.pgen.1003604) [[preprint](https://doi.org/10.48550/arXiv.1303.0882)] [[data](https://figshare.com/articles/dataset/Wills_et_al_2013/775358?file=3097736)]  
 D. M. Wills, C. J. Whipple, **S. Takuno**, L. E. Kursel, L. M. Shannon, **J. Ross-Ibarra**, J. F. Doebley
 </summary>
 <p style="margin-left: 30px">
@@ -765,7 +765,7 @@ Abstract unavailable.
 Abstract unavailable.
 </p></details><p></p>
 <details>
-<summary> [Historical genomics of North American maize](https://doi.org/10.1073/pnas.1209275109)  
+<summary> [Historical genomics of North American maize](https://doi.org/10.1073/pnas.1209275109) [[data](https://figshare.com/articles/dataset/van_Heerwaarden_et_al_2012/757738)]  
 **J. van Heerwaarden<sup>&dagger;</sup>**, **M. B. Hufford**, **J. Ross-Ibarra<sup>&dagger;</sup>**
 </summary>
 <p style="margin-left: 30px">
@@ -779,7 +779,7 @@ R. Swanson-Wagner, R. Briskine, R. Schaefer, **M. B. Hufford**, **J. Ross-Ibarra
 Through domestication, humans have substantially altered the morphology of Zea mays ssp. parviglumis (teosinte) into the currently recognizable maize. This system serves as a model for studying adaptation, genome evolution, and the genetics and evolution of complex traits. To examine how domestication has reshaped the transcriptome of maize seedlings, we used expression profiling of 18,242 genes for 38 diverse maize genotypes and 24 teosinte genotypes. We detected evidence for more than 600 genes having significantly different expression levels in maize compared with teosinte. Moreover, more than 1,100 genes showed significantly altered coexpression profiles, reflective of substantial rewiring of the transcriptome since domestication. The genes with altered expression show a significant enrichment for genes previously identified through population genetic analyses as likely targets of selection during maize domestication and improvement; 46 genes previously identified as putative targets of selection also exhibit altered expression levels and coexpression relationships. We also identified 45 genes with altered, primarily higher, expression in inbred relative to outcrossed teosinte. These genes are enriched for functions related to biotic stress and may reflect responses to the effects of inbreeding. This study not only documents alterations in the maize transcriptome following domestication, identifying several genes that may have contributed to the evolution of maize, but highlights the complementary information that can be gained by combining gene expression with population genetic analyses.
 </p></details><p></p>
 <details>
-<summary> [Comparative population genomics of maize domestication and improvement](https://doi.org/10.1038/ng.2309)  
+<summary> [Comparative population genomics of maize domestication and improvement](https://doi.org/10.1038/ng.2309) [[data 1](https://doi.org/10.6084/m9.figshare.757736)] [[data 2](https://figshare.com/articles/dataset/Gene_Popgen_Stats_from_Hufford_et_al_2012_Nat_Gen_/746968)]  
 **M. B. Hufford<sup>&ast;</sup>**, X. Xu<sup>&ast;</sup>, **J. van Heerwaarden<sup>&ast;</sup>**, **T. Pyhäjärvi<sup>&ast;</sup>**, ...[17 authors]..., D. Ware, E. S. Buckler, S. Yang<sup>&dagger;</sup>, **J. Ross-Ibarra<sup>&dagger;</sup>**
 </summary>
 <p style="margin-left: 30px">
@@ -793,7 +793,7 @@ J. M. Chia, C. Song, P. J. Bradbury, D. Costich, ...[30 authors including **M. B
 Abstract unavailable.
 </p></details><p></p>
 <details>
-<summary> [Megabase-Scale Inversion Polymorphism in the Wild Ancestor of Maize](https://doi.org/10.1534/genetics.112.138578)  
+<summary> [Megabase-Scale Inversion Polymorphism in the Wild Ancestor of Maize](https://doi.org/10.1534/genetics.112.138578) [[data](https://doi.org/10.6084/m9.figshare.840519)]  
 Z. Fang, **T. Pyhäjärvi**, A. L. Weber, R. K. Dawe, ...[2 authors]..., **C. Ross-Ibarra**, J. Doebley, P. L. Morrell<sup>&dagger;</sup>, **J. Ross-Ibarra<sup>&dagger;</sup>**
 </summary>
 <p style="margin-left: 30px">
@@ -810,7 +810,7 @@ P. L. Morrell, E. S. Buckler, **J. Ross-Ibarra<sup>&dagger;</sup>**
 Abstract unavailable.
 </p></details><p></p>
 <details>
-<summary> [Identification of a functional transposon insertion in the maize domestication gene tb1](https://doi.org/10.1038/ng.942)  
+<summary> [Identification of a functional transposon insertion in the maize domestication gene tb1](https://doi.org/10.1038/ng.942) [[data](https://figshare.com/articles/dataset/Studer_et_al_2011/775356?file=3097745)]  
 A. Studer, Q. Zhao, **J. Ross-Ibarra**, J. Doebley
 </summary>
 <p style="margin-left: 30px">
@@ -869,7 +869,7 @@ K. D. Whitney, E. J. Baack, J. L. Hamrick, M. J. W. Godt, ...[3 authors]..., C. 
 Abstract unavailable.
 </p></details><p></p>
 <details>
-<summary> [Genetic signals of origin, spread, and introgression in a large sample of maize landraces](https://doi.org/10.1073/pnas.1013011108)  
+<summary> [Genetic signals of origin, spread, and introgression in a large sample of maize landraces](https://doi.org/10.1073/pnas.1013011108) [[data](https://doi.org/10.6084/m9.figshare.757735)]  
 **J. van Heerwaarden<sup>&dagger;</sup>**, J. Doebley, W. H. Briggs, J. C. Glaubitz, M. M. Goodman, J. de Jesus Sanchez Gonzalez, **J. Ross-Ibarra<sup>&dagger;</sup>**
 </summary>
 <p style="margin-left: 30px">
@@ -921,7 +921,7 @@ Abstract unavailable.
 Abstract Gene flow plays a fundamental role in plant evolutionary history, yet its role in population divergence—and ultimately speciation—remains poorly understood. We investigated gene flow and the modalities of divergence in the domesticate Zea mays ssp. mays and three wild Zea taxa using sequence polymorphism data from 26 nuclear loci. We described diversity across loci and assessed evidence for adaptive and purifying selection at nonsynonymous sites. For each of three divergence events in the history of these taxa, we used approximate Bayesian simulation to estimate population sizes and divergence times and explicitly compare among alternative models of divergence. Our estimates of divergence times are surprisingly consistent with previous data from other markers and suggest rapid diversification of lineages within Zea in the last ∼150,000 years. We found widespread evidence of historical gene flow, including evidence for divergence in the face of gene flow. We speculate that cultivated maize may serve as a bridge for gene flow among otherwise allopatric wild taxa.
 </p></details><p></p>
 <details>
-<summary> [A Pleistocene Clone of Palmer's Oak Persisting in Southern California](https://doi.org/10.1371/journal.pone.0008346)  
+<summary> [A Pleistocene Clone of Palmer's Oak Persisting in Southern California](https://doi.org/10.1371/journal.pone.0008346) [[data](https://figshare.com/articles/dataset/Quercus_tree_rings/757739?file=3096152)]  
 **M. R. May**, **M. C. Provance**, A. C. Sanders, N. C. Ellstrand, **J. Ross-Ibarra<sup>&dagger;</sup>**
 </summary>
 <p style="margin-left: 30px">

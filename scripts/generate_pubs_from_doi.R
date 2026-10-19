@@ -316,10 +316,14 @@ build_pub_row <- function(entry, record, override = list()) {
   } else {
     ""
   }
+  data_urls <- unlist(override[["data_url"]] %||% list(), use.names = FALSE)
+  data_urls <- data_urls[nzchar(trimws(data_urls))]
+  data_labels <- if (length(data_urls) > 1L) paste("data", seq_along(data_urls)) else "data"
+  data_link <- paste0(sprintf(" [[%s](%s)]", data_labels, data_urls), collapse = "")
 
   details <- paste0(
     "<details>\n",
-    "<summary> [", title, "](https://doi.org/", title_link_doi, ")", preprint_link, "  \n",
+    "<summary> [", title, "](https://doi.org/", title_link_doi, ")", preprint_link, data_link, "  \n",
     authors, "\n",
     "</summary>\n",
     "<p style=\"margin-left: 30px\">\n",
@@ -410,7 +414,8 @@ parse_pubs_yaml <- function(pubs_file) {
       hide_abstract       = pub[["hide_abstract"]] %||% NULL,
       author_display      = pub[["author_display"]] %||% NULL,
       author_overrides    = pub[["author_overrides"]] %||% NULL,
-      title_doi           = pub[["title_doi"]] %||% NULL
+      title_doi           = pub[["title_doi"]] %||% NULL,
+      data_url            = pub[["data_url"]] %||% NULL
     )
   }
 

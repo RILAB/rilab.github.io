@@ -79,7 +79,15 @@ ensure_cache_record <- function(cache, doi, refresh = FALSE, timeout_sec = 20) {
   if (!refresh && length(cache[[doi]])) {
     return(cache)
   }
-  cache[[doi]] <- fetch_pub_record(doi, timeout_sec = timeout_sec)
+  record <- tryCatch(
+    fetch_pub_record(doi, timeout_sec = timeout_sec),
+    error = function(e) {
+      if (!length(cache[[doi]])) stop(e)
+      warning(sprintf("Fetch failed for %s; using cached record (%s)", doi, conditionMessage(e)), call. = FALSE)
+      NULL
+    }
+  )
+  if (!is.null(record)) cache[[doi]] <- record
   cache
 }
 
