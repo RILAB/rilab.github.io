@@ -25,6 +25,9 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 
 ## 2026
 ### November
+#### November 20
+[Bitter et al preprint](https://ecoevorxiv.org/repository/view/15208/) Common, consequential, and actively maintained: a neo-balance view of genetic variation
+
 #### November 13
 [Sánchez González et al 2026](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.70277) Evolutionary history and taxonomy of the genus *Zea*
 
