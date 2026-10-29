@@ -92,11 +92,11 @@
     Ross-Ibarra J. 2026. Metaboxplot: transparent plotting of data around genes.
     [doi: 10.5281/zenodo.21180779](https://doi.org/10.5281/zenodo.21180779)
 
-- name: normalizeTE
+- name: PhiTe
   url: https://github.com/rossibarra/normalizeTEs
   language: Python
   about: >
-    `normalizeTE` builds SNP control sets whose posterior age distributions match those
+    `PhiTe` builds SNP control sets whose posterior age distributions match those
     of an observed set of transposable element variants, so that comparisons between TEs
     and SNPs are not confounded by allele age. Working from posterior ARG draws stored as
     tree sequences, it compiles a single reusable interval store of every SNP's age

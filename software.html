@@ -306,10 +306,10 @@ $(document).ready(function () {
 <p><strong>How to cite:</strong> Ross-Ibarra J. 2026. Metaboxplot: transparent plotting of data around genes. <a href="https://doi.org/10.5281/zenodo.21180779">doi: 10.5281/zenodo.21180779</a></p>
 <hr>
 </div>
-<div id="normalizete-python" class="section level2">
-<h2><a href="https://github.com/rossibarra/normalizeTEs">normalizeTE</a> <small>Python</small></h2>
+<div id="phite-python" class="section level2">
+<h2><a href="https://github.com/rossibarra/normalizeTEs">PhiTe</a> <small>Python</small></h2>
 <p><a href="https://github.com/rossibarra/normalizeTEs">github</a></p>
-<p><code>normalizeTE</code> builds SNP control sets whose posterior age distributions match those of an observed set of transposable element variants, so that comparisons between TEs and SNPs are not confounded by allele age. Working from posterior ARG draws stored as tree sequences, it compiles a single reusable interval store of every SNP’s age interval, averages the posterior CDFs for a TE dataset to define a target distribution, and bootstraps the TE variants to set the maximum Wasserstein distance an acceptable control set may show. Control sets are then assembled by a constrained random swap walk run as ten independent chains, with mixing diagnostics reported and every saved set re-checked against the target threshold. The workflow is built for many TE datasets and many posterior draws on a Slurm cluster.</p>
+<p><code>PhiTe</code> builds SNP control sets whose posterior age distributions match those of an observed set of transposable element variants, so that comparisons between TEs and SNPs are not confounded by allele age. Working from posterior ARG draws stored as tree sequences, it compiles a single reusable interval store of every SNP’s age interval, averages the posterior CDFs for a TE dataset to define a target distribution, and bootstraps the TE variants to set the maximum Wasserstein distance an acceptable control set may show. Control sets are then assembled by a constrained random swap walk run as ten independent chains, with mixing diagnostics reported and every saved set re-checked against the target threshold. The workflow is built for many TE datasets and many posterior draws on a Slurm cluster.</p>
 <p><strong>How to cite:</strong> Liu B, Munasinghe M, Fairbanks RA, Hirsch CN, Ross-Ibarra J. <a href="https://www.biorxiv.org/content/10.1101/2025.09.16.676665v1">Genome-wide selection on transposable elements in maize</a>. bioRxiv. <a href="https://doi.org/10.1101/2025.09.16.676665">doi: 10.1101/2025.09.16.676665</a></p>
 <hr>
 </div>

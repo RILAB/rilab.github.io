@@ -24,6 +24,13 @@ Below are papers for Oct. 2013 and onward. For 2008-2013 papers see [here](old_r
 <!-- [Strütt et al preprint](https://www.biorxiv.org/content/10.1101/2024.06.11.598434v1.full.pdf) A generalized structured coalescent for purifying selection without recombination -->
 
 ## 2026
+### November
+#### November 13
+[Sánchez González et al 2026](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.70277) Evolutionary history and taxonomy of the genus *Zea*
+
+#### November 6
+[Xu 2026](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyag232/8776252) Heritability—a paradox of quantitative genetics
+
 ### October
 #### October 30
 [Barroso & Ragsdale preprint](https://www.biorxiv.org/content/10.64898/2026.10.08.757506v1) Strong correlations between mutation rates and selective constraint in the human genome?
