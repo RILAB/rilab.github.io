@@ -55,7 +55,8 @@ for (raw in lines) {
   if (grepl("^\\[", line) &&
       !is.na(cur_year) && !is.na(cur_month) && !is.na(cur_day)) {
 
-    m <- regexec("^\\[(.+?)\\]\\(([^)]*)\\)\\s*(.*)", line)
+    # URL may contain one level of balanced parens, e.g. cell.com PIIs
+    m <- regexec("^\\[(.+?)\\]\\(((?:[^()]|\\([^()]*\\))*)\\)\\s*(.*)", line, perl = TRUE)
     caps <- regmatches(line, m)[[1]]
     if (length(caps) != 4) next
 
