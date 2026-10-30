@@ -5,7 +5,13 @@
     <link>https://rilab.github.io/POPCORN.html</link>
     <description>Weekly paper discussion at the Ross-Ibarra Lab, UC Davis</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 23:42:22 +0000</lastBuildDate>
+    <item>
+      <title>Huang et al 2026 — Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits</title>
+      <link>https://doi.org/10.1016/j.cell.2026.09.063</link>
+      <guid>https://doi.org/10.1016/j.cell.2026.09.063</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Barroso &amp; Ragsdale preprint — Strong correlations between mutation rates and selective constraint in the human genome?</title>
       <link>https://www.biorxiv.org/content/10.64898/2026.10.08.757506v1</link>
@@ -305,12 +311,6 @@
       <link>https://www.nature.com/articles/s42003-025-08127-3</link>
       <guid>https://www.nature.com/articles/s42003-025-08127-3</guid>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Murray et al 2025 — Ancient genomes reveal demographic trajectories during the Classic Maya period</title>
-      <link>https://www.cell.com/current-biology/fulltext/S0960-9822(25)00577-9</link>
-      <guid>https://www.cell.com/current-biology/fulltext/S0960-9822(25)00577-9</guid>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

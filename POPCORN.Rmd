@@ -36,10 +36,10 @@ No POP&#58;CORN (Turkey Day)
 [Bitter et al preprint](https://ecoevorxiv.org/repository/view/15208/) Common, consequential, and actively maintained: a neo-balance view of genetic variation
 
 #### November 13
-[Huang et al 2026](https://doi.org/10.1016/j.cell.2026.09.063) Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits
+[Zhang et al preprint](https://www.biorxiv.org/content/10.64898/2026.10.15.759374v1) Hybrid Drosophila genomes rapidly purge minority ancestry but repeatedly retain selected regions
 
 #### November 6
-[Xu 2026](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyag232/8776252) Heritability—a paradox of quantitative genetics
+[Huang et al 2026](https://doi.org/10.1016/j.cell.2026.09.063) Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits
 
 ### October
 #### October 30
