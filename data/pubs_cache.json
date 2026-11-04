@@ -8433,5 +8433,90 @@
         "name": []
       }
     ]
+  },
+  "10.1073/pnas.2603915123": {
+    "doi": "10.1073/pnas.2603915123",
+    "title": "Maize genetic diversity is largely unstructured by human ethnolinguistic diversity in its center of origin",
+    "abstract": "Population structure and environmental features often capture major axes of genetic variation in many species. Yet the impacts of human activity often remain unquantified. For domesticated species that rely on human activity for survival and dispersal, human movements and cultural differences may play key roles patterning genetic diversity. Maize is a staple crop of enormous cultural importance to indigenous peoples of the Americas, but cannot survive or disperse without farmers. Using publicly available genotyping and passport data from approximately 2,000 traditional maize varieties, more than 500 whole genome sequences of humans from Mexico, and indigenous linguistic maps, we quantify anthropogenic effects on maize genetic diversity in the Americas. Maize shows very little overall structure, highlighting the effectiveness of indigenous farmers in moving and mixing maize populations. While principal components of maize diversity show meaningful correlations to human genetic diversity, our linear modeling suggests little additional impact of human population structure beyond shared geography. Though differences in maize diversity are often patterned by language locally, we find only weak genome-wide effects at larger spatial scales. Despite the relatively weak global signal of anthropogenic effects, linguistic Genome-wide association, outlier F ST analyses, and selection scans identified loci associated with specific languages. Leveraging landscape-level sequencing data, we highlight how anthropogenic factors have shaped patterns of maize genetic diversity across Mesoamerica.",
+    "year": 2026,
+    "is_preprint": false,
+    "container_title": "Proceedings of the National Academy of Sciences",
+    "authors": [
+      {
+        "given": "Samantha J.",
+        "family": "Snodgrass",
+        "name": []
+      },
+      {
+        "given": "Forrest",
+        "family": "Li",
+        "name": []
+      },
+      {
+        "given": "Sowmya",
+        "family": "Mambakkam",
+        "name": []
+      },
+      {
+        "given": "Santiago G.",
+        "family": "Medina-Muñoz",
+        "name": []
+      },
+      {
+        "given": "Luke",
+        "family": "Sparreo",
+        "name": []
+      },
+      {
+        "given": "Mitra",
+        "family": "Menon",
+        "name": []
+      },
+      {
+        "given": "Claudia",
+        "family": "Perez",
+        "name": []
+      },
+      {
+        "given": "Namrata",
+        "family": "Kalsi",
+        "name": []
+      },
+      {
+        "given": "Amit G.",
+        "family": "Ghosh",
+        "name": []
+      },
+      {
+        "given": "Stephan C.",
+        "family": "Schuster",
+        "name": []
+      },
+      {
+        "given": "Hie Lim",
+        "family": "Kim",
+        "name": []
+      },
+      {
+        "given": "Andrés",
+        "family": "Moreno-Estrada",
+        "name": []
+      },
+      {
+        "given": "Daniel E.",
+        "family": "Runcie",
+        "name": []
+      },
+      {
+        "given": "Graham",
+        "family": "Coop",
+        "name": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Ross-Ibarra",
+        "name": []
+      }
+    ]
   }
 }

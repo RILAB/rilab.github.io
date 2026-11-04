@@ -42,20 +42,21 @@ publications:
       - J. Ross-Ibarra
 
   #Maize genetic diversity is largely unstructured by human ethnolinguistic diversity in its center of origin
-  - preprint_doi: 10.64898/2026.02.02.703385
+  - doi: 10.1073/pnas.2603915123
+    preprint_doi: 10.64898/2026.02.02.703385
     section: "2026"
     lab_authors:
-      - S. Snodgrass
+      - S. J. Snodgrass
       - F. Li
       - S. Mambakkam
       - L. Sparreo
       - M. Menon
       - C. Perez
     first_authors:
-      - S. Snodgrass
+      - S. J. Snodgrass
       - F. Li
     corresponding_authors:
-      - S. Snodgrass
+      - S. J. Snodgrass
       - F. Li
       - J. Ross-Ibarra
 
