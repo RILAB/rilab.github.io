@@ -5,7 +5,13 @@
     <link>https://rilab.github.io/POPCORN.html</link>
     <description>Weekly paper discussion at the Ross-Ibarra Lab, UC Davis</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:14:42 +0000</lastBuildDate>
+    <item>
+      <title>Zhang et al preprint — Hybrid Drosophila genomes rapidly purge minority ancestry but repeatedly retain selected regions</title>
+      <link>https://www.biorxiv.org/content/10.64898/2026.10.15.759374v1</link>
+      <guid>https://www.biorxiv.org/content/10.64898/2026.10.15.759374v1</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Huang et al 2026 — Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits</title>
       <link>https://doi.org/10.1016/j.cell.2026.09.063</link>
@@ -305,12 +311,6 @@
       <link>https://www.nature.com/articles/s41467-025-60663-y</link>
       <guid>https://www.nature.com/articles/s41467-025-60663-y</guid>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wang et al 2025 — DNA gains and losses in gigantic genomes do not track differences in transposable element-host silencing interactions</title>
-      <link>https://www.nature.com/articles/s42003-025-08127-3</link>
-      <guid>https://www.nature.com/articles/s42003-025-08127-3</guid>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
