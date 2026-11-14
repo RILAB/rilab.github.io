@@ -5,7 +5,13 @@
     <link>https://rilab.github.io/POPCORN.html</link>
     <description>Weekly paper discussion at the Ross-Ibarra Lab, UC Davis</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:14:14 +0000</lastBuildDate>
+    <item>
+      <title>Bitter et al preprint — Common, consequential, and actively maintained: a neo-balance view of genetic variation</title>
+      <link>https://ecoevorxiv.org/repository/view/15208/</link>
+      <guid>https://ecoevorxiv.org/repository/view/15208/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zhang et al preprint — Hybrid Drosophila genomes rapidly purge minority ancestry but repeatedly retain selected regions</title>
       <link>https://www.biorxiv.org/content/10.64898/2026.10.15.759374v1</link>
@@ -305,12 +311,6 @@
       <link>https://www.nature.com/articles/s42003-025-08227-0</link>
       <guid>https://www.nature.com/articles/s42003-025-08227-0</guid>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jing et al 2025 — Maximizing meiotic crossover rates reveals the map of Crossover Potential</title>
-      <link>https://www.nature.com/articles/s41467-025-60663-y</link>
-      <guid>https://www.nature.com/articles/s41467-025-60663-y</guid>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
